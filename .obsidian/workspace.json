@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "9dddbd6ec9e5016a",
+        "id": "08361d75e764fe7d",
         "type": "tabs",
         "children": [
           {
-            "id": "dd68934d4d5408db",
+            "id": "b2d2cf0a673ab17d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6ffcae13b379f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "test tile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "test tile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "test tile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +135,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrische Felder.md"
+                "file": "test tile.md"
               }
             }
+          },
+          {
+            "id": "05586ceeec61fb87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,8 +166,13 @@
       "random-note:Zufällige Notiz öffnen": false
     }
   },
-  "active": "dd68934d4d5408db",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
+    "test tile.md",
+    "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
+    "Physik/Elektrische Felder.md",
+    "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
+    "Tasks for Today/Untitled Database.md",
     "Physik/Elektrische Felder/Untitled.png",
     "2023-05-04.md",
     "Deutsch/S2 Lyrik/Heinrich Heine.md",
@@ -175,9 +198,6 @@
     "Kunst.md",
     "Mathe.md",
     "Musik.md",
-    "PGW.md",
-    "Philosophie.md",
-    "Physik.md",
     "Deutsch 3806715162184028a0a89fe82e564193",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",

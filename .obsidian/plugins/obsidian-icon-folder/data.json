@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiCalendarTodoLine",
+      "RiProjectorLine",
+      "SiPolywork",
+      "RiTodoLine",
+      "SiGotomeeting"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Mathe": "LiRuler",
+  "Kunst": "LiBrush",
+  "Musik": "LiMusic",
+  "PGW": "IbGraphLineUp",
+  "Programming": "LiCode",
+  "Informatik": "LiCode",
+  "Google Docs": "SiGoogle",
+  "Geographie": "IbEarth",
+  "Englisch": "LiLanguages",
+  "Deutsch": "LiBook",
+  "Philosophie": "SiGooglehangouts",
+  "Physik": "SiAzurefunctions",
+  "Seminar": "SiGotomeeting",
+  "Task List": "RiTodoLine",
+  "Work": "RiProjectorLine",
+  "Calendar": "RiCalendarTodoLine"
+}
