@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "folder:database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md"
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md"
               }
             }
           },
@@ -157,10 +158,11 @@
       "random-note:Zufällige Notiz öffnen": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "2629862432a2babb",
   "lastOpenFiles": [
-    "Work/Tim Pertl/Untitled Database/Nested Condition Pages.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Put Question Data into Database.md",
     "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md",
+    "Work/Tim Pertl/Untitled Database/Nested Condition Pages.md",
     "Deutsch/S2 Lyrik/Heinrich Heine.md",
     "Deutsch/S2 Lyrik.md",
     "Google Docs/Geographie_ Klausurthemen.md",
@@ -185,7 +187,6 @@
     "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
     "Physik/Elektrische Felder.md",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
-    "Tasks for Today/Untitled Database.md",
     "Physik/Elektrische Felder/Untitled.png",
     "Work/Dream Studios/Kickstarter/Untitled.png",
     "Work/Dream Studios/Kickstarter/figur.png",
