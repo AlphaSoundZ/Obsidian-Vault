@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/S2 Lyrik.md",
+                "file": "Deutsch/S2 Lyrik/Heinrich Heine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/S2 Lyrik.md",
+                "file": "Deutsch/S2 Lyrik/Heinrich Heine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/S2 Lyrik.md",
+                "file": "Deutsch/S2 Lyrik/Heinrich Heine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/S2 Lyrik.md"
+                "file": "Deutsch/S2 Lyrik/Heinrich Heine.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "0d93e605d15b4c1b",
   "lastOpenFiles": [
+    "Deutsch/S2 Lyrik.md",
     "Google Docs/Geographie_ Klausurthemen.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Criterias.md",
     "Task List/Zirkel mitbringen und AB fertig machen (siehe Iser.md",
@@ -185,7 +186,6 @@
     "Physik/Elektrische Felder/Untitled.png",
     "2023-05-04.md",
     "Deutsch/S2 Lyrik/Heinrich Heine.md",
-    "Deutsch/S2 Lyrik.md",
     "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang/Aufklärung & Sturm und Drang/Nützlichkeit 24155f1420c04f1a89f788519d110706.md",
     "Work/Dream Studios/Kickstarter/Untitled.png",
     "Work/Dream Studios/Kickstarter/figur.png",
