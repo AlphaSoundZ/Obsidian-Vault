@@ -1,2 +1,2 @@
 https://github.com/jobindjohn/obsidian-publish-mkdocs
-mein name ist alphasoundz. Willkommen zu meinem Obsidian Vault.
+mein name ist AlphaSoundZ. Willkommen zu meinem Obsidian Vault.
