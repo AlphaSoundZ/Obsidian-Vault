@@ -1,0 +1,15 @@
+{
+  "vimMode": true,
+  "promptDelete": true,
+  "spellcheckLanguages": [
+    "de",
+    "en"
+  ],
+  "spellcheck": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "./",
+  "showInlineTitle": false
+}

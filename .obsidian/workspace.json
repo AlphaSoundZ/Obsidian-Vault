@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "a78bad30068f6a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dddbd6ec9e5016a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd68934d4d5408db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Elektrische Felder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e531bca231a5d6f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3769af139bcb48bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580c5d50fb40437d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2629862432a2babb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "643e7418920a2380",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "125d49f58993a3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "26c56f43a1884e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa105bf04317fd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physik/Elektrische Felder.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ece139846e83a079",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physik/Elektrische Felder.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfca73cbc087e4e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd25a26c9d6467cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physik/Elektrische Felder.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "random-note:Zufällige Notiz öffnen": false
+    }
+  },
+  "active": "dd68934d4d5408db",
+  "lastOpenFiles": [
+    "Physik/Elektrische Felder/Untitled.png",
+    "2023-05-04.md",
+    "Deutsch/S2 Lyrik/Heinrich Heine.md",
+    "Deutsch/S2 Lyrik.md",
+    "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang/Aufklärung & Sturm und Drang/Nützlichkeit 24155f1420c04f1a89f788519d110706.md",
+    "Task List/Aufgaben siehe Email/Die eine Klage - Karoline Günderrode (1806).md",
+    "Geographie/S2/Harvestehude.md",
+    "Deutsch/S2 Lyrik/Epochenübersicht/Immanuel Kant Beantwortung der Frage Was ist Aufkl fd7e624ad255475d96a43ef29387b6cd.md",
+    "Task List/Iserv Aufgabe (Haus zeichnen).md",
+    "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang/Aufklärung & Sturm und Drang/Hinwendung zum Diesseits 8af972cc05d54f78a437c9a564fe29e2.md",
+    "Work/Dream Studios/Kickstarter/Untitled.png",
+    "Work/Dream Studios/Kickstarter/figur.png",
+    "PGW/Die Entwicklung der Schulden.md",
+    "PGW/Bericht zur sozialen Ungerechtigkeit.md",
+    "PGW/Aktionen gegen den Klimawandel.md",
+    "Seminar/Bewertungsbogen zur Präsentationsleistung.md",
+    "Seminar/Berufsfeldanalyse.md",
+    "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang.md",
+    "Work/Tim Pertl.md",
+    "Deutsch.md",
+    "Google Docs.md",
+    "Informatik.md",
+    "Kunst.md",
+    "Mathe.md",
+    "Musik.md",
+    "PGW.md",
+    "Philosophie.md",
+    "Physik.md",
+    "Deutsch 3806715162184028a0a89fe82e564193",
+    "Unbenannt 2.canvas",
+    "Unbenannt 1.canvas",
+    "Unbenannt.canvas",
+    "Time tracker 24c28e43e21d4c19a5e14a2cfe7f75be",
+    "Programming/Time tracker/Untitled.png"
+  ]
+}
