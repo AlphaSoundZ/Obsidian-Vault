@@ -1,4 +1,4 @@
-## Fach: #
+## Fach: #{subject}
 
 ### Aufgaben
 
