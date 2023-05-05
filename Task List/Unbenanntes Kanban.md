@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## 
 
-**Fertiggestellt**
 - [ ] test
 - [ ] test
 
