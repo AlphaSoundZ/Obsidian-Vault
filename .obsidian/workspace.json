@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cca48bf092fecef0",
+        "id": "aa3e3ce07ed19425",
         "type": "tabs",
         "children": [
           {
-            "id": "d756c15ded38e54e",
+            "id": "fcbcc0375db30221",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -164,7 +164,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "fcbcc0375db30221",
   "lastOpenFiles": [
     "Task List.md",
     "Task List/Unbenanntes Kanban.md",

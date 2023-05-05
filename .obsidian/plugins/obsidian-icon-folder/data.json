@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiTodoLine",
       "LiFileText",
       "RiSingleQuotesL",
       "RiCalendarTodoLine",
-      "RiProjectorLine",
-      "SiPolywork"
+      "RiProjectorLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "Task List": "RiTodoLine",
   "Work": "RiProjectorLine",
   "Calendar": "RiCalendarTodoLine",
-  "Daily Notes": "LiFileText"
+  "Daily Notes": "LiFileText",
+  "Task List.md": "RiTodoLine"
 }
