@@ -35,4 +35,4 @@
 - Host: Nestlify?
 - Login: via Google
 - Frontend Framework: VueJs
-- Language: Javascript / Typescript
+- Language: JavaScript / Typescript
