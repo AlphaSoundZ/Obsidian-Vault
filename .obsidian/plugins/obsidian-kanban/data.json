@@ -16,5 +16,6 @@
       "backgroundColor": "rgba(109, 108, 240, 0.1)"
     }
   ],
-  "archive-date-format": "DD.MM.YY"
+  "archive-date-format": "DD.MM.YY",
+  "hide-tags-in-title": true
 }

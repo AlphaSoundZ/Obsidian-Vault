@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgaben siehe Emai #Deutsch @[[10.05.23]]
+- [ ] Aufgaben siehe Email #Deutsch @[[10.05.23]]
 
 
 ## Done
