@@ -10,8 +10,6 @@ On the other hand, Starr is partly trying to understand why Gomez is asking cert
 
 Later in the interview Starr gets slowly more annoyed and angry towards Detective Gomez because of her questions which is also shown by the usage of interior monologue but she continues to answer kindly (p. 90, l. 30).
 
-Immid
-
 Taking the aforementioned aspects into consideration ..
 
 Conclusion:
