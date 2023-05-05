@@ -4,16 +4,6 @@ kanban-plugin: basic
 
 ---
 
-## 
-
-- [ ] test
-- [ ] test
-
-
-## test
-
-
-
 
 
 %% kanban:settings
