@@ -14,4 +14,4 @@ $$\frac{n!}{(n-k)!}$$
 ## Kombination
 Reihenfolge der N Elemente egal: {2,4} = {4,2}
 ## Binomial-Koeffizient
-$$\frac{n!}{(n-k)!*k!}$$
+$$\binom{n}{k} = \frac{n!}{(n-k)!*k!}$$
