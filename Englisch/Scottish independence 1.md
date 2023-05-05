@@ -28,7 +28,7 @@
 
 Since then, pro-independence numbers have risen, then fallen.
 
-### Current.
+### Current
 
 - 45% for leaving and 46% against, the rest are undecided
 
