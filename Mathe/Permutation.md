@@ -1,5 +1,4 @@
-# Begriffe 
-Menge (besteht aus Elementen): 
+## Menge (besteht aus Elementen): 
 {|||} (1. Element: Ordinalzahl)
 ## Mächtigkeit der Menge: 
 Anzahl der Elemente (Kardinalzahl)
