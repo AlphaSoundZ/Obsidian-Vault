@@ -1,6 +1,6 @@
 - [ ] ----------- Laptop mehr Speicher  %%eDFJRmhPaF9nN0lqU3JmTg%%
 - [ ] ----------- Foppapedretti Octopus Myhome Wäscheständer  %%a1RBeFkwQTJjRllMWDNsMA%%
-- [ ] ----------- Flow Plugin After Effects  %%WmlFeTZ4ZTJ1LTdQcXVsLQ%%
+- [x] ----------- Flow Plugin After Effects  %%WmlFeTZ4ZTJ1LTdQcXVsLQ%%
 - [ ] ----------- Custom Keyboard  %%Zl9UZ1BhT1BacFhoNktiWA%%
 - [ ] ----------- Mikrofonarm Elgato  %%ZTNBel8tZW9JUV96c1RFeA%%
 - [ ] ----------- Rucksack für Schule  %%TkpENkFrazhoOTRjTTlBZw%%
