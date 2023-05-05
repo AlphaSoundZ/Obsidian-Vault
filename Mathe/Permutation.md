@@ -12,3 +12,5 @@ Reihenfolge ist wichtig: {2,4} != {4,2}
 k-Elemente auswählen
 ## Kombination
 Reihenfolge der N Elemente egal: {2,4} = {4,2}
+## Binomial-Koeffizient
+$\frac{a}{a}$
