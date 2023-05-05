@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Mathe/Stochastik.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Mathe/Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Mathe/Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md"
+                "file": "Mathe/Stochastik.md"
               }
             }
           },
@@ -159,10 +159,13 @@
   },
   "active": "b2d2cf0a673ab17d",
   "lastOpenFiles": [
+    "Mathe/Permutation.md",
+    "Mathe/Stochastik.md",
+    "Mathe/Vektoren (old).md",
+    "Mathe/Vektoren und Vektorgleichungen.md",
     "Mathe/Wichtig für S1-4.md",
     "Mathe/Differentialrechnung.md",
     "Mathe/Differentialgleichung.md",
-    "Mathe/Permutation.md",
     "Unbenannt.md",
     "test tile.md",
     "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
@@ -186,9 +189,6 @@
     "PGW/Aktionen gegen den Klimawandel.md",
     "Seminar/Bewertungsbogen zur Präsentationsleistung.md",
     "Seminar/Berufsfeldanalyse.md",
-    "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang.md",
-    "Work/Tim Pertl.md",
-    "Deutsch.md",
     "Deutsch 3806715162184028a0a89fe82e564193",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",
