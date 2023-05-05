@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md"
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md"
               }
             }
           },
@@ -161,34 +161,40 @@
   },
   "active": "05874d47ec00f6e6",
   "lastOpenFiles": [
+    "Work/Tim Pertl/E-Lad-O-Mat/Keep Font after PDF Export.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Tables.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Calculations.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Question Amount Above 9.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Implement Recommendation Structure.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Font preloading.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu.md",
-    "Englisch/Scottish independence could Britain break up (list/image-1682334914780.jpg3621706992491372286.jpg",
-    "Englisch/NOTES/Jigsaw.md",
-    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
-    "Englisch/Analysing a newspaper article Pre-reading/What is Britishness.md",
-    "Englisch/Scottish independence.md",
-    "Englisch/Social class in the 21st century.md",
-    "Englisch/Slavery.md",
-    "Englisch/Scottish independence could Britain break up (list.md",
-    "Englisch/Scottish independence 1.md",
-    "Englisch/The Documentary 13th.md",
-    "Englisch/The Hate U Give - novel.md",
-    "Englisch/NOTES.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Textfield Design.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Save Scripts and Fonts on the Server.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Reset Values of Page, when condition is not met.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Required Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Remember Current Page on Reload.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Criterias.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Checkboxes.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Calculations.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Question Amount Above 9.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Put Question Data into Database.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Multipage Design.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/PDF Download-Funktion with pictures if SVG does no.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Logo as SVG.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Implement Recommendation Structure.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Font preloading.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Graphic at the end of recommendations.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create Recommendation Structure.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
+    "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
+    "Work/Tim Pertl/E-Lad-O-Mat",
+    "Englisch/Scottish independence could Britain break up (list/image-1682334914780.jpg3621706992491372286.jpg",
+    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Physik/Elektrische Felder/Untitled.png",
     "Work/Dream Studios/Kickstarter/Untitled.png",
