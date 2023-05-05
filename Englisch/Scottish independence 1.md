@@ -12,7 +12,7 @@
 ## General
 
 - If Scotland becomes independent, the Queen will remain head of state
-- Borin Johnson would oppose a referendum
+- Boris Johnson would oppose a referendum
 
 ## History
 
