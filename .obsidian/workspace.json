@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "folder:database",
+                "query": "path:database",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
