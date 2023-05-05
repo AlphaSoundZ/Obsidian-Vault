@@ -17,6 +17,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","date-display-format":"DD.MM."}
+{"kanban-plugin":"basic","date-display-format":"DD.MM.2023"}
 ```
 %%
