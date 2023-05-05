@@ -4,7 +4,7 @@
 
 1. Bug wenn man gerade trackt und dann den Titel ändert, dann verschwindet einmal kurz der Titel und taucht wieder auf (liegt daran, dass beim rausklicken erst der eingegebene Titel aktualisiert wird und danach dann den, den man im Dropdown menü ausgewählt hat
 2. beide trackings a sollten hier zusammengefasst sein
-4. Sync updates: Wenn man auf starten geht, dann ist es synched, aber beim stoppen nicht. Genauso geht es mit den Tags nicht, aber die Titel funktionieren
+4. Sync updates: Wenn man auf starten geht, dann ist es synced, aber beim stoppen nicht. Genauso geht es mit den Tags nicht, aber die Titel funktionieren
 5. Tags Auswahl aktualisieren (sind noch vom Sessionstorage abhängig)
 6. clear sessionStorage after signing out
 
