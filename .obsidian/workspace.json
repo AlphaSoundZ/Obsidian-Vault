@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily Notes.md",
+                "file": "Daily Notes/06.05.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Notes.md",
+                "file": "Daily Notes/06.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Notes.md",
+                "file": "Daily Notes/06.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Notes.md"
+                "file": "Daily Notes/06.05.23.md"
               }
             }
           },
@@ -179,15 +179,17 @@
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
       "obsidian-google-tasks:Google Tasks": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7f8d27487347d2c9",
   "lastOpenFiles": [
-    "Daily Notes/10.05.23.md",
-    "Templates/Daily Notes.md",
-    "Templates",
     "Task List.md",
+    "Daily Notes/06.05.23.md",
+    "Templates/Daily Notes.md",
+    "Daily Notes/10.05.23.md",
+    "Templates",
     "Task List/Unbenanntes Kanban.md",
     "Task List/Unbenannt.md",
     "Task List/Unbenannt 1.md",
@@ -216,7 +218,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Save Scripts and Fonts on the Server.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Reset Values of Page, when condition is not met.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
