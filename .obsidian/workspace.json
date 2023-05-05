@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "67154f2e9da71b69",
+        "id": "1e9fdf8a359efb70",
         "type": "tabs",
         "children": [
           {
-            "id": "9c1d0451f5a0f422",
+            "id": "9d1bbaf5e6199720",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Templates/Daily Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Templates/Daily Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Templates/Daily Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Templates/Daily Notes.md"
               }
             }
           },
@@ -165,13 +168,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "9d1bbaf5e6199720",
   "lastOpenFiles": [
-    "Informatik/Simulationen.md",
-    "Daily Notes/10.05.23.md",
+    "Templates/Daily Notes.md",
     "Daily Notes/06.05.23.md",
     "Task List.md",
-    "Templates/Daily Notes.md",
+    "Informatik/Simulationen.md",
+    "Daily Notes/10.05.23.md",
     "Templates",
     "Task List/Unbenanntes Kanban.md",
     "Task List/Unbenannt.md",
