@@ -180,7 +180,7 @@ calc
 
 - [x]  Daten der Parkbauten
 - [x]  Empfehlung 1
-- [x]  Empfehlung 2
+- [ ]  Empfehlung 2
 - [x]  Empfehlung 3
 - [x]  Empfehlung 4 (es fehlt noch “Benötigter Netzanschluss”, “Finanzierung”)
 - [x]  Empfehlung 5 (es fehlt noch “Benötigte Fläche” (einfache Rechnung))
