@@ -1,4 +1,4 @@
-# Scottish independence
+ Scottish independence
 
 ## Nicola Sturgeon
 

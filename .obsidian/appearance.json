@@ -3,5 +3,6 @@
   "theme": "obsidian",
   "cssTheme": "Typewriter",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 17
 }
