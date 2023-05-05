@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Deutsch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +165,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fcbcc0375db30221",
+  "active": "2629862432a2babb",
   "lastOpenFiles": [
     "Task List.md",
     "Task List/Unbenanntes Kanban.md",
