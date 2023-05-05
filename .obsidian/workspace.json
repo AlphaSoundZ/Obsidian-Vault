@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d835cc7c554f380b",
+        "id": "96d6556b953b425b",
         "type": "tabs",
         "children": [
           {
-            "id": "05874d47ec00f6e6",
+            "id": "d196125d767e0da6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
+                "file": "Programming/Time tracker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
+                "file": "Programming/Time tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
+                "file": "Programming/Time tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md"
+                "file": "Programming/Time tracker.md"
               }
             }
           },
@@ -137,9 +137,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "19578e6c4b3319d9",
+            "type": "leaf",
+            "state": {
+              "type": "googleTaskView",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -155,14 +163,16 @@
       "command-palette:Befehlspalette öffnen": false,
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
-      "obsidian-google-tasks:Google Tasks": false,
-      "markdown-importer:Markdown Importprogramm öffnen": false
+      "obsidian-google-tasks:Google Tasks": false
     }
   },
-  "active": "05874d47ec00f6e6",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
-    "Deutsch/S2 Lyrik.md",
+    "Task List/Unbenannt.canvas",
+    "Unbenannt.canvas",
+    "Unbenannt.md",
     "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
+    "Deutsch/S2 Lyrik.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu.md",
@@ -188,8 +198,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Multipage Design.md",
     "Work/Tim Pertl/E-Lad-O-Mat/PDF Download-Funktion with pictures if SVG does no.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Logo as SVG.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Implement Recommendation Structure.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Font preloading.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
@@ -203,7 +211,6 @@
     "Deutsch 3806715162184028a0a89fe82e564193",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",
-    "Unbenannt.canvas",
     "Time tracker 24c28e43e21d4c19a5e14a2cfe7f75be",
     "Programming/Time tracker/Untitled.png"
   ]
