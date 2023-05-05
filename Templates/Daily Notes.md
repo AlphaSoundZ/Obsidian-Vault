@@ -6,4 +6,3 @@
 ### Ergebnisse
 
 ### Anhänge
-/
