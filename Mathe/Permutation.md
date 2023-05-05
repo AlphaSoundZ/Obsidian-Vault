@@ -1,2 +1,2 @@
-Menge:  
+Menge (besteht aus Elementen):  
 Element:
