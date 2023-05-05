@@ -18,8 +18,6 @@ kanban-plugin: basic
 
 ## Archiv
 
-- [x] 05.05.23 : test @[[06.05.23]] #Deutsch 
-
 %% kanban:settings
 ```
 {"kanban-plugin":"basic"}

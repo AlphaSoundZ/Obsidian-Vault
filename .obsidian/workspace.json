@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3e3ce07ed19425",
+        "id": "b177171997279673",
         "type": "tabs",
         "children": [
           {
-            "id": "fcbcc0375db30221",
+            "id": "88b553efe1f5edac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/10.05.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/10.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/10.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/10.05.23.md"
               }
             }
           },
@@ -168,9 +167,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "fcbcc0375db30221",
+  "active": "88b553efe1f5edac",
   "lastOpenFiles": [
     "Task List.md",
+    "Daily Notes/10.05.23.md",
     "Task List/Unbenanntes Kanban.md",
     "Task List/Unbenannt.md",
     "Task List/Unbenannt 1.md",
@@ -201,7 +201,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Save Scripts and Fonts on the Server.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Reset Values of Page, when condition is not met.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Required Questions.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Remember Current Page on Reload.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
