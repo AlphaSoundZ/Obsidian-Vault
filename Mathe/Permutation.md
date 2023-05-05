@@ -10,7 +10,7 @@ $N! =1*2*3*...(N-1)*N$a
 ## Variation
 Reihenfolge ist wichtig: {2,4} != {4,2}
 k-Elemente auswählen
-$$\frac{n!}{}$$
+$$\frac{n!}{(n-k)!}$$
 ## Kombination
 Reihenfolge der N Elemente egal: {2,4} = {4,2}
 ## Binomial-Koeffizient
