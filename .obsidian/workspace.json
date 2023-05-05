@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "83b2b88f5f35a296",
+        "id": "8e076b5559cc1932",
         "type": "tabs",
         "children": [
           {
-            "id": "6f20ee4627eae62e",
+            "id": "b5a31afa0933f48c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "kanban",
+              "state": {
+                "file": "Task List/Unbenanntes Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "fcbfd08a78545bab",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List/Unbenanntes Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List/Unbenanntes Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List/Unbenanntes Kanban.md"
+              }
             }
           },
           {
@@ -128,55 +143,75 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "19578e6c4b3319d9",
+            "type": "leaf",
+            "state": {
+              "type": "googleTaskView",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
       "command-palette:Befehlspalette öffnen": false,
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
-      "obsidian-google-tasks:Google Tasks": false
+      "obsidian-google-tasks:Google Tasks": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "9aa105bf04317fd1",
+  "active": "fcbfd08a78545bab",
   "lastOpenFiles": [
-    "Englisch/Scottish independence 1.md",
-    "Task List/Unbenanntes Kanban.md",
-    "Task List",
-    "Englisch/NOTES/Jigsaw.md",
-    "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
-    "test tile.md",
-    "Englisch/Strategies and means of persuasion used to convinc.md",
-    "Geographie/S2/Veränderungen des Wohnens und Arbeiten ab Industr.md",
-    "Seminar/Bewertungsbogen zur Präsentationsleistung.md",
-    "Google Docs/Kunst_ Antike.md",
-    "Work/Dream Studios/DreamStudios Trello/Bild Animation für Neospace Website.md",
-    "Seminar/Bewertungskriterien Präsentation.md",
-    "Kunst/S1 Portraits/Glossar.md",
-    "Work/Dream Studios/DreamStudios Trello/Hauptmenü Start Animation.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Logo as SVG.md",
-    "Work/Dream Studios/DreamStudios Trello/UI Elements (Hauptmenü).md",
-    "Englisch/Social class in the 21st century.md",
-    "Geographie/S2/Harvestehude/Aufgabe.md",
-    "Englisch/Scottish independence.md",
-    "Google Docs/Stellungsnahme Prozess 1933_1934 Macht- übergabe .md",
-    "Seminar/Mini-Pl Bewertung.md",
-    "Work/Dream Studios/Neospace Hub.md",
     "Work/Dream Studios/Kickstarter.md",
-    "Deutsch/Kommunikation/Kommunikationsanalyse.md",
-    "Work/Dream Studios/Finanzplan.md",
-    "Mathe/Stochastik.md",
-    "PGW/Die Entwicklung der Schulden.md",
+    "Task List/Unbenanntes Kanban.md",
+    "Task List/hdtnshtnsh.md",
+    "Task List/Unbenannt.canvas",
+    "Unbenannt.canvas",
+    "Programming/Time tracker.md",
+    "Unbenannt.md",
+    "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
+    "Deutsch/S2 Lyrik.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu/Untitled.png",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Keep Font after PDF Export.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Tables.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Textfield Design.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
+    "Work/Tim Pertl/E-Lad-O-Mat/Save Scripts and Fonts on the Server.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Reset Values of Page, when condition is not met.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Required Questions.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Remember Current Page on Reload.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Criterias.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Checkboxes.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Calculations.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Question Amount Above 9.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Put Question Data into Database.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
+    "Work/Tim Pertl/E-Lad-O-Mat",
+    "Englisch/Scottish independence could Britain break up (list/image-1682334914780.jpg3621706992491372286.jpg",
+    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Physik/Elektrische Felder/Untitled.png",
     "Work/Dream Studios/Kickstarter/Untitled.png",
@@ -184,7 +219,6 @@
     "Deutsch 3806715162184028a0a89fe82e564193",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",
-    "Unbenannt.canvas",
     "Time tracker 24c28e43e21d4c19a5e14a2cfe7f75be",
     "Programming/Time tracker/Untitled.png"
   ]

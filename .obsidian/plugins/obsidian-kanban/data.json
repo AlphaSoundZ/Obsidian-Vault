@@ -1,3 +1,7 @@
 {
-  "new-card-insertion-method": "prepend"
+  "new-card-insertion-method": "prepend",
+  "show-relative-date": true,
+  "link-date-to-daily-note": false,
+  "archive-with-date": true,
+  "date-display-format": "DD.MM.YY"
 }
