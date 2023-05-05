@@ -13,8 +13,6 @@
           "includeUndated": true,
           "title": "Test",
           "collapsedColumns": [
-            1,
-            2,
             3
           ]
         }

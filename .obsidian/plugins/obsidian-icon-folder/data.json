@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileText",
+      "RiSingleQuotesL",
       "RiCalendarTodoLine",
       "RiProjectorLine",
-      "SiPolywork",
-      "RiTodoLine",
-      "SiGotomeeting"
+      "SiPolywork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,6 +35,8 @@
   "Philosophie": "SiGooglehangouts",
   "Physik": "SiAzurefunctions",
   "Seminar": "SiGotomeeting",
+  "Task List": "RiTodoLine",
   "Work": "RiProjectorLine",
-  "Calendar": "RiCalendarTodoLine"
+  "Calendar": "RiCalendarTodoLine",
+  "Daily Notes": "LiFileText"
 }
