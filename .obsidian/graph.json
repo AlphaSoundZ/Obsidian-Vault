@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Deutsch",
@@ -102,6 +102,6 @@
   "repelStrength": 11.3541666666667,
   "linkStrength": 1,
   "linkDistance": 199,
-  "scale": 2.090331229674852,
-  "close": true
+  "scale": 1.7805335748511237,
+  "close": false
 }
