@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "58feca10cf44f24a",
+        "id": "05ac8213ec6d61c2",
         "type": "tabs",
         "children": [
           {
-            "id": "ca191170d05fe1f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e79ec40623bbe0c9",
+            "id": "ec79580801b3c3aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unbenannt.md",
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbenannt.md"
+                "file": "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md"
               }
             }
           },
@@ -168,8 +159,19 @@
       "markdown-importer:Markdown Importprogramm öffnen": false
     }
   },
-  "active": "e79ec40623bbe0c9",
+  "active": "ec79580801b3c3aa",
   "lastOpenFiles": [
+    "Work/Tim Pertl/E-Lad-O-Mat/Textfield Design.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Save Scripts and Fonts on the Server.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Reset Values of Page, when condition is not met.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Required Questions.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Remember Current Page on Reload.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Tables.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Checkboxes.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Calculations.md",
+    "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md",
+    "Work/Tim Pertl/Untitled Database/Nested Condition Pages.md",
     "Unbenannt.md",
     "Deutsch/Gedichtinterpretation.md",
     "conflict-files-obsidian-git.md",
@@ -177,8 +179,6 @@
     "Mathe/Permutation.md",
     "Englisch/Scottish independence 1.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Put Question Data into Database.md",
-    "Work/Tim Pertl/Untitled Database/Weiter button does not disappear in specific case.md",
-    "Work/Tim Pertl/Untitled Database/Nested Condition Pages.md",
     "Deutsch/S2 Lyrik/Heinrich Heine.md",
     "Deutsch/S2 Lyrik.md",
     "Google Docs/Geographie_ Klausurthemen.md",
@@ -187,15 +187,6 @@
     "Work/Dream Studios/DreamStudios Trello/Item Icons (Tablett) 4 Stück.md",
     "Englisch/Speech.md",
     "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang/Aufklärung & Sturm und Drang/Gotthold Emphraim Lessing c3f26f80ecad44dd967de2f680ef69dc.md",
-    "Google Docs/Oberstufe Wahländerung.md",
-    "Kunst/S2 Architektur.md",
-    "Task List/Iserv Aufgabe (Haus zeichnen).md",
-    "Geographie/S2/Harvestehude.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Create Recommendation Structure.md",
-    "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang/Aufklärung & Sturm und Drang/Vernunft 78dab46de2b446ad995caf909bbe58cc.md",
-    "Task List/Aufgabe 1 u 2/Aufklärung und Sturm und Drang/Aufklärung & Sturm und Drang/rationales Weltbild 46c047a842844982bb438c688a92eb8a.md",
-    "Deutsch/S2 Lyrik/Klausur - Lyrik.md",
-    "Task List/Bilder zurechtschneiden.md",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Physik/Elektrische Felder/Untitled.png",
     "Work/Dream Studios/Kickstarter/Untitled.png",
