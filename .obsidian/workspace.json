@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "96d6556b953b425b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d196125d767e0da6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Task List/Unbenanntes Kanban.md"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "b3a5abe4beb6f2d9",
         "type": "tabs",
         "children": [
@@ -27,8 +11,10 @@
             "id": "c45a1917e24e1bec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Task List/Unbenanntes Kanban.md"
+              }
             }
           }
         ]
@@ -178,10 +164,10 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "d196125d767e0da6",
+  "active": "c45a1917e24e1bec",
   "lastOpenFiles": [
-    "Task List/hdtnshtnsh.md",
     "Task List/Unbenanntes Kanban.md",
+    "Task List/hdtnshtnsh.md",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
     "Programming/Time tracker.md",
