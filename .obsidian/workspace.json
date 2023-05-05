@@ -11,9 +11,12 @@
             "id": "c45a1917e24e1bec",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List/Unbenanntes Kanban.md"
+                "file": "Task List/Unbenanntes Kanban.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }

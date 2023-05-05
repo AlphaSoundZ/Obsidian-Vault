@@ -13,7 +13,7 @@ kanban-plugin: basic
 
 ## Archiv
 
-- [ ] tehusaont
+
 
 %% kanban:settings
 ```
