@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3a5abe4beb6f2d9",
+        "id": "8e076b5559cc1932",
         "type": "tabs",
         "children": [
           {
-            "id": "c45a1917e24e1bec",
+            "id": "b5a31afa0933f48c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Task List/Unbenanntes Kanban.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "Task List/Unbenanntes Kanban.md"
               }
             }
           }
@@ -167,7 +164,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c45a1917e24e1bec",
+  "active": "b5a31afa0933f48c",
   "lastOpenFiles": [
     "Task List/Unbenanntes Kanban.md",
     "Task List/hdtnshtnsh.md",
