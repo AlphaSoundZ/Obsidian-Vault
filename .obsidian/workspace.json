@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Permutation.md",
+                "file": "Mathe/Differentialrechnung.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Permutation.md",
+                "file": "Mathe/Differentialrechnung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Permutation.md",
+                "file": "Mathe/Differentialrechnung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Permutation.md"
+                "file": "Mathe/Differentialrechnung.md"
               }
             }
           },
@@ -159,8 +159,10 @@
   },
   "active": "b2d2cf0a673ab17d",
   "lastOpenFiles": [
-    "Unbenannt.md",
+    "Mathe/Differentialgleichung.md",
+    "Mathe/Differentialrechnung.md",
     "Mathe/Permutation.md",
+    "Unbenannt.md",
     "test tile.md",
     "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
     "Physik/Elektrische Felder.md",
@@ -187,8 +189,6 @@
     "Work/Tim Pertl.md",
     "Deutsch.md",
     "Google Docs.md",
-    "Informatik.md",
-    "Kunst.md",
     "Deutsch 3806715162184028a0a89fe82e564193",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",
