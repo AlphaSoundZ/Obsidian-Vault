@@ -17,5 +17,9 @@
     }
   ],
   "archive-date-format": "DD.MM.YY",
-  "hide-tags-in-title": true
+  "hide-tags-in-title": true,
+  "hide-date-display": false,
+  "hide-date-in-title": true,
+  "date-colors": [],
+  "archive-date-separator": ":"
 }

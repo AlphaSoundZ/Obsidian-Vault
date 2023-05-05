@@ -11,9 +11,12 @@
             "id": "fcbcc0375db30221",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Task List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Deutsch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +168,7 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "2629862432a2babb",
+  "active": "fcbcc0375db30221",
   "lastOpenFiles": [
     "Task List.md",
     "Task List/Unbenanntes Kanban.md",
