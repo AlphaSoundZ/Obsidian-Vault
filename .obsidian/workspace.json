@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c1d0451f5a0f422",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
     "Informatik/Simulationen.md",
     "Daily Notes/10.05.23.md",
