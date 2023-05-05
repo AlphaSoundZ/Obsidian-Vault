@@ -1,6 +1,6 @@
 # Differentialgleichung
 
-y’’Eine Differentialgleichung ist ein Funktion-Rätsel
+Eine Differentialgleichung ist ein Funktion-Rätsel
 
 hat etwas mit Ableitungen zutun
 

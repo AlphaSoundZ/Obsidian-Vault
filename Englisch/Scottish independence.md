@@ -12,7 +12,7 @@
 ## Allgemein
 
 - Wenn Schottland unabhängig wird, bleibt die Queen Staatsoberhaupt
-- Borin Johnson würde ein Referendum ablehnen
+- Boris Johnson würde ein Referendum ablehnen
 
 ## Geschichte
 
