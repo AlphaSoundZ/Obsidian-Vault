@@ -1,3 +1,3 @@
 Menge (besteht aus Elementen): {|||} 
 Mächtigkeit der Menge: Anzahl der Elemente
-Element: 
+Element: $X_1$
