@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e076b5559cc1932",
+        "id": "cca48bf092fecef0",
         "type": "tabs",
         "children": [
           {
-            "id": "b5a31afa0933f48c",
+            "id": "d756c15ded38e54e",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Task List/Unbenanntes Kanban.md"
+                "file": "Unbenanntes Kanban.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List/Unbenanntes Kanban.md",
+                "file": "Unbenanntes Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List/Unbenanntes Kanban.md",
+                "file": "Unbenanntes Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List/Unbenanntes Kanban.md"
+                "file": "Unbenanntes Kanban.md"
               }
             }
           },
@@ -164,10 +164,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "d756c15ded38e54e",
   "lastOpenFiles": [
-    "Unbenannt.md",
+    "Unbenanntes Kanban.md",
     "Task List/Unbenanntes Kanban.md",
+    "Task List/Unbenannt.md",
+    "Task List/Unbenannt 1.md",
+    "Unbenannt.md",
     "Daily Notes/05.05.23.md",
     "Daily Notes",
     "Work/Tim Pertl.md",
@@ -195,9 +198,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Reset Values of Page, when condition is not met.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Required Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Remember Current Page on Reload.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Criterias.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Checkboxes.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Calculations.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
