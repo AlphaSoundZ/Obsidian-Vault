@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b177171997279673",
+        "id": "67154f2e9da71b69",
         "type": "tabs",
         "children": [
           {
-            "id": "88b553efe1f5edac",
+            "id": "9c1d0451f5a0f422",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Task List.md"
+              }
             }
           }
         ]
@@ -82,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           },
           {
@@ -160,8 +166,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88b553efe1f5edac",
+  "active": "9c1d0451f5a0f422",
   "lastOpenFiles": [
+    "Informatik/Simulationen.md",
     "Daily Notes/10.05.23.md",
     "Daily Notes/06.05.23.md",
     "Task List.md",
@@ -194,7 +201,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
-    "Work/Tim Pertl/E-Lad-O-Mat/Save Scripts and Fonts on the Server.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
