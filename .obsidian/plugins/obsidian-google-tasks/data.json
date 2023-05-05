@@ -1,7 +1,7 @@
 {
   "googleRefreshToken": "",
-  "googleClientId": "",
-  "googleClientSecret": "",
+  "googleClientId": "390011801012-08cnfev548lb0ovog2llgvkp6t2uh8lk.apps.googleusercontent.com",
+  "googleClientSecret": "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",
   "askConfirmation": true,
   "refreshInterval": 60,
   "showNotice": true
