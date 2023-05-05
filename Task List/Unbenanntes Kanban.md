@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## 
 
-- [ ] hdtnshtnsh
+- [ ] [[hdtnshtnsh]]
 
 
 
