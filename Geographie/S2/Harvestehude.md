@@ -141,10 +141,6 @@ Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 Wahlbeteiligung: Harvestehude: 87,7 %
 
-![diagramm.svg](Harvestehude/diagramm.svg)
-
-![diagramm (1).svg](Harvestehude/diagramm_(1).svg)
-
 ## Einkommen
 
 ### Grundstückspreise
