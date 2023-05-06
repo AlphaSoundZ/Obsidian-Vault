@@ -50,7 +50,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 ## Bildung
 
 ### Kess-Index
-Bei dem Kess-Index handelt es sich um den Sozialindex für Hamburger Schulen 
+Bei dem Kess-Index handelt es sich um den Sozialindex für staatliche Schulen in Hamburg. Darunter zählen Grundschulen, Stadtteilschulen und Gymnasien.
 
 #### Was ist der Kess-Index?
 
