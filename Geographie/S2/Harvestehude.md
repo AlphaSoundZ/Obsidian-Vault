@@ -53,7 +53,8 @@ Freizeitangebote (Rot) und Parks (Blau)
 
 #### Was ist der Kess-Index?
 
-Bei dem Kess-Index handelt es sich um den Sozialindex für staatliche Schulen in Hamburg - Grundschulen, Stadtteilschulen und Gymnasien. Das Ziel Datenerhebung ist die Feststellung der Startbedingungen der Schülerinnen und Schüler anhand von verschiedenen für den schulischen Erfolg relevanten Faktoren.
+Bei dem Kess-Index handelt es sich um den Sozialindex für staatliche Schulen in Hamburg - Grundschulen, Stadtteilschulen und Gymnasien. Das Ziel Datenerhebung ist die Feststellung der Startbedingungen für die Schülerinnen und Schüler anhand von verschiedenen für den schulischen Erfolg relevanten Faktoren. Darunter zählen:
+- 
 
 Der Sozialindex hat eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf). 
 
