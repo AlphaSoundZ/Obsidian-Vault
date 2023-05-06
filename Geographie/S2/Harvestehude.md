@@ -77,7 +77,7 @@ Die Berechnung erfolgt durch stichprobenhafte Befragung der Schüler/innen und E
 ### Abschlussquote
 
 ### Abischnitt
-Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14
+Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14 in staatlichen Gymnasien in Harvestehude liegen bei 1,92 beim Helene-Lange-Gymnasium und bei 2,14 beim Wilhelm-Gymnasium
 
 ### Bewertungen
 
