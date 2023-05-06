@@ -50,6 +50,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 ## Bildung
 
 ### Kess-Index
+Bei dem Kess-Index handelt es sich um den Sozialindex für Hamburger Schulen 
 
 #### Was ist der Kess-Index?
 
