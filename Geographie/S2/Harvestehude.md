@@ -62,7 +62,7 @@ Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Sch
 - 
 - Anteil der Schülerinnen und Schüler an einer Schule, die Leistungen nach dem Bildungs- und Teilhabepaket empfangen haben, mit nicht-deutscher Familiensprache oder sonderpädagogischem Förderbedarf.
 - Anteil der Schulentlassenen mit allgemeiner Hochschulreife
-- 
+- und weitere
 
 Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
 Der Sozialindex liegt beim GHT bei 5. **!nochmal recherchieren!**
