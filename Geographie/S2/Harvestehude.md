@@ -135,7 +135,7 @@ Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 ![](Harvestehude/Untitled%205.png)
 
-### Bundestagswahl 2021[^7]
+### Wahlbeteiligung der Bundestagswahl 2021 in Hamburg[^7]
 
 ![Wahlbeteiligung: Harvestehude: 87,7 %](Harvestehude/Untitled%206.png)
 
