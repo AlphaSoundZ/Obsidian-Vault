@@ -45,7 +45,6 @@ Freizeitangebote (Rot) und Parks (Blau)
 - Grindelhochhäuser
 - NDR Hauptsitz
 
-
 # Untersuchungsaspekte
 
 ## Bildung
