@@ -77,7 +77,7 @@ Die Berechnung erfolgt durch stichprobenhafte Befragung der Schüler/innen und E
 ### Abschlussquote
 
 ### Abischnitt
-Der Abi
+Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14
 
 ### Bewertungen
 
