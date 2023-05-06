@@ -48,8 +48,10 @@ Freizeitangebote (Rot) und Parks (Blau)
 # Untersuchungsaspekte
 
 ## Bildung
-
-Kess Faktor
+### Kess-Faktor
+### Schulen und Universitäten in Harvestehude
+### Abschlussquote
+### Abischnitt
 
 ## Lebensqualität / Lebensorientierung
 
