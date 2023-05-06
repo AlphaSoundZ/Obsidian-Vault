@@ -79,7 +79,7 @@ Die Disparitäten des Sozialindex nehmen zu. Im Jahr 2013 lag der Durchschnitt b
 ### Schulen und Universitäten in Harvestehude
 
 ### Abschlussquote
-Auch der Anteil der Schülerinnen und Schüler ohne Schulabschluss variiert mit dem sozialen Status. Von den Schülerinnen und Schülern mit sehr niedrigem und niedrigem sozialem Status verlassen jeweils 10 Prozent bzw. 13,1 Prozent die Schule ohne Schulabschluss. Bei den Schülerinnen und Schülern mit mittlerem sozialen Status liegt der Anteil bei 5,9 Prozent, bei denen mit hohem sozialen Status bei 2,4 Prozent.
+Der Anteil der Schülerinnen und Schüler ohne Schulabschluss variiert mit dem sozialen Status. Von den Schülerinnen und Schülern mit sehr niedrigem und niedrigem sozialem Status verlassen jeweils 10 Prozent bzw. 13,1 Prozent die Schule ohne Schulabschluss. Bei den Schülerinnen und Schülern mit mittlerem sozialen Status liegt der Anteil bei 5,9 Prozent, bei denen mit hohem sozialen Status bei 2,4 Prozent.
 
 ### Abischnitt[^1]
 
