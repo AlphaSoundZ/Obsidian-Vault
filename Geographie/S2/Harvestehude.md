@@ -59,7 +59,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 - Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 staatlichen Schulen eine Veränderung.
 - Bei den Grundschulen verbesserten sich 44 der Schulen und bei 39 nahm der Index ab.
 - Bei den Stadtteilschulen nahmen 12 zu und 12 ab.
-- Bei den Gymnasien 
+- Bei den Gymnasien stieg der Sozialindex bei 6 von 62 Schulen und 22 nahmen ab.
 
 ### Schulen und Universitäten in Harvestehude
 
