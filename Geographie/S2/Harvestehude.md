@@ -163,4 +163,4 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 
 [https://www.bundestagswahl-hh.de/ergebnisse_der_bundestagswahl_2021_stadtteil_203003.html](https://www.bundestagswahl-hh.de/ergebnisse_der_bundestagswahl_2021_stadtteil_203003.html)
 
-[^1]: 
+[^1]: https://de.wikipedia.org/wiki/Liste_der_Gymnasien_in_Hamburg
