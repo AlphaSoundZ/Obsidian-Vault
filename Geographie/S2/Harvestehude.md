@@ -156,14 +156,7 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 ## Historie / Entwicklung / Gründe Der Strukturen
 
 # Quellen
-| Sozialer Status,Partei,Begründung                                                                                                                                                                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hoch,CDU/CSU,"Die CDU/CSU wird oft als Partei der Besserverdienenden angesehen, da sie wirtschaftsfreundliche Politik und Steuererleichterungen für höhere Einkommensgruppen vertritt. de.statista.com"                                                      |
-| Hoch,FDP,"Die FDP vertritt liberale Werte und setzt sich für wirtschaftliche Freiheit, weniger Regulierung und Steuererleichterungen ein, was bei Personen mit höherem sozialen Status Anklang finden kann. de.statista.com"                                 |
-| Mittel,SPD,"Die SPD hat historisch gesehen eine starke Basis in der Arbeiterklasse und bei Personen mit mittlerem sozialen Status. Sie setzt sich für soziale Gerechtigkeit, Arbeitnehmerrechte und den Ausbau des Sozialstaats ein. de.statista.com"        |
-| Mittel,Grüne,"Die Grünen ziehen insbesondere gut gebildete, städtische Wähler an, die sich für Umwelt-, Klima- und soziale Themen interessieren. Sie haben auch eine Basis in der Mittelschicht. de.statista.com"                                            |
-| Niedrig,Die Linke,"Die Linke zieht Wähler aus einkommensschwachen Schichten an, die sich eine stärkere Umverteilung und soziale Gerechtigkeit wünschen. Sie setzt sich für höhere Sozialleistungen, Mindestlohn und Arbeitnehmerrechte ein. de.statista.com" |
-| Niedrig,AfD,"Die AfD zieht Wähler aus verschiedenen sozialen Schichten an, insbesondere aber aus einkommensschwachen Gebieten. Sie vertritt eine kritische Haltung gegenüber Einwanderung, der EU und der etablierten Politik. de.statista.com"              |
+/table
 
 ## Tabelle
 
