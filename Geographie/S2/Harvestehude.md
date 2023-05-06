@@ -52,6 +52,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 ### Schulen und Universitäten in Harvestehude
 ### Abschlussquote
 ### Abischnitt
+### Bewertungen
 
 ## Lebensqualität / Lebensorientierung
 
