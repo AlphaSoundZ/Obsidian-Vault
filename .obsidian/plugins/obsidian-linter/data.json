@@ -76,8 +76,8 @@
       "enabled": false
     },
     "remove-trailing-punctuation-in-heading": {
-      "enabled": false,
-      "punctuation-to-remove": ".,;:!。，；：！"
+      "enabled": true,
+      "punctuation-to-remove": ".:："
     },
     "footnote-after-punctuation": {
       "enabled": false
@@ -154,10 +154,10 @@
       "enabled": false
     },
     "empty-line-around-tables": {
-      "enabled": false
+      "enabled": true
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
