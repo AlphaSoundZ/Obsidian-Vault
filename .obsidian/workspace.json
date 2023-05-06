@@ -11,12 +11,9 @@
             "id": "b57edb90a12849be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -152,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,14 +180,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761022,
+                  "scale": 1.0000000000000044,
                   "close": false
                 }
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,11 +210,11 @@
   },
   "active": "b57edb90a12849be",
   "lastOpenFiles": [
+    "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Pasted image 20230506155906.png",
     "Geographie/S2/Pasted image 20230506155504.png",
     "Geographie/S2/Pasted image 20230506154315.png",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
-    "Geographie/S2/Harvestehude.md",
     "Untitled.table",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Geographie/S2/Harvestehude/Aufgabe.md",
@@ -260,7 +257,6 @@
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Physik/Elektrische Felder/Untitled.png",
     "Work/Dream Studios/Kickstarter/Untitled.png",
-    "Work/Dream Studios/Kickstarter/figur.png",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas"
   ]

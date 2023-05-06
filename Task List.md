@@ -6,13 +6,19 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgaben siehe Email #Deutsch @[[10.05.23]]
+
 
 ## Done
 
 **Fertiggestellt**
+- [x] Aufgaben siehe Email #Deutsch @[[10.05.23]]
+
 
 ## Archiv
+
+
+
+
 
 %% kanban:settings
 ```
