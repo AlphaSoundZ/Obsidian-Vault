@@ -78,7 +78,7 @@ Die Disparitäten des Sozialindex nehmen zu. Im Jahr 2013 lag der Durchschnitt b
 
 ### Schulen und Universitäten in Harvestehude
 
-### Abschlussquote
+### Abschlussquote[^6]
 Der Anteil der Schülerinnen und Schüler ohne Schulabschluss variiert mit dem sozialen Status. Von den Schülerinnen und Schülern mit sehr niedrigem und niedrigem sozialem Status verlassen jeweils 10 Prozent bzw. 13,1 Prozent die Schule ohne Schulabschluss. Bei den Schülerinnen und Schülern mit mittlerem sozialen Status liegt der Anteil bei 5,9 Prozent, bei denen mit hohem sozialen Status bei 2,4 Prozent.
 
 ### Abischnitt[^1]
@@ -176,3 +176,4 @@ https://www.hamburg.de/contentblob/16758542/b9eedefc582183f3ba6089882bb0cb04/dat
 [^3]: https://www.hamburg.de/bsb/hamburger-sozialindex/4025318/artikel-faq-sozialindex/
 [^4]: https://www.hamburg.de/contentblob/4458462/5f7d1b2af92c58e7328be298374bbb05/data/pdf-schulte-und-hartig.pdf
 [^5]: https://www.hamburg.de/contentblob/15023768/4b3f967e03a337f8b1dbc6b592fd570d/data/2021-04-15-sozialindex-veraenderungen.pdf
+[^6]: https://www.hamburg.de/contentblob/16884502/674dee2e6bfd80aedf47f9bab5108167/data/pdf-gesamtdokument-2022-23.pdf
