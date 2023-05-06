@@ -129,7 +129,7 @@ Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im B
 
 ## Politisch-moralisches Denken
 
-!(Harvestehude/Untitled%205.png)
+![](Harvestehude/Untitled%205.png)
 
 Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021[^7]
 
