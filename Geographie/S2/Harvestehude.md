@@ -139,6 +139,7 @@ Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 ![[Pasted image 20230506155504.png]]
 
+Bundestagswahl
 ![Wahlbeteiligung: Harvestehude: 87,7 %](Harvestehude/Untitled%206.png)
 
 Wahlbeteiligung: Harvestehude: 87,7 %
