@@ -50,9 +50,12 @@ Freizeitangebote (Rot) und Parks (Blau)
 ## Bildung
 
 ### Kess-Index
-#### Was ist der Kess-Index?
-#### Wie wird der Index berechnet?
-#### Veränderung von 2013 nach 2021
+
+#### Was Ist Der Kess-Index?
+
+#### Wie Wird Der Index Berechnet?
+
+#### Veränderung Zwischen 2013 Und 2021
 
 ### Schulen Und Universitäten in Harvestehude
 
