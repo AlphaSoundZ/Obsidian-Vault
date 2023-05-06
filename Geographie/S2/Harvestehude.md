@@ -60,7 +60,7 @@ Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Sch
 - kulturelles Kapital
 - soziales Kapital
 - 
-- Anteil der Schülerinnen und Schüler an einer Schule, die Leistungen nach dem Bildungs- und Teilhabepaket empfangen haben, mit nicht-deutscher Familiensprache, sonderpädagogischem Förderbedarf, oder 
+- Anteil der Schülerinnen und Schüler an einer Schule, die Leistungen nach dem Bildungs- und Teilhabepaket empfangen haben, mit nicht-deutscher Familiensprache oder sonderpädagogischem Förderbedarf.
 - 
 
 Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
