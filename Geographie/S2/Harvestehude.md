@@ -137,7 +137,6 @@ Quelle: [https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-kart
 Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021
 
 Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
-Quelle: [https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg](https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg)
 
 ![Wahlbeteiligung: Harvestehude: 87,7 %](Harvestehude/Untitled%206.png)
 
