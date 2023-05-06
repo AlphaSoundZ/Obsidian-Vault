@@ -173,4 +173,4 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 
 [^1]: https://de.wikipedia.org/wiki/Liste_der_Gymnasien_in_Hamburg
 [^2]: https://de.wikipedia.org/wiki/Sozialindex_f%C3%BCr_Hamburger_Schulen
-[^3]: 
+[^3]: https://www.hamburg.de/bsb/hamburger-sozialindex/4025318/artikel-faq-sozialindex/
