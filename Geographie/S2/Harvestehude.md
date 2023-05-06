@@ -60,7 +60,7 @@ Bei dem Kess-Index handelt es sich um den Sozialindex für staatliche Schulen in
 - kulturelles Kapital
 - soziales Kapital
 
-Der Sozialindex hat eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
+Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
 Der Sozialindex liegt beim GHT bei 5. **!nochmal recherchieren!**
 
 Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die Mittel werden also nicht gleichmäßig „mit der Gießkanne“ verteilt, denn das würde bestehende Ungleichheiten noch vergrößern. Stattdessen fließt ein Teil des Geldes dahin, wo es am dringendsten gebraucht wird – an die Schulen, die einen höheren Anteil von Schülerinnen und Schülern mit ungünstigeren Startbedingungen haben.
