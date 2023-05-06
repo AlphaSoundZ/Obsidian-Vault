@@ -77,6 +77,7 @@ Die Berechnung erfolgt durch stichprobenhafte Befragung der Schüler/innen und E
 ### Abschlussquote
 
 ### Abischnitt
+Der Abi
 
 ### Bewertungen
 
