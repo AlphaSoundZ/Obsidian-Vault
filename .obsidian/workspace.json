@@ -207,11 +207,13 @@
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
       "obsidian-google-tasks:Google Tasks": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
   "active": "b57edb90a12849be",
   "lastOpenFiles": [
+    "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Geographie/S2/Harvestehude/Aufgabe.md",
     "Geographie/S2/Harvestehude.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
@@ -243,7 +245,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Keep Font after PDF Export.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Tables.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
