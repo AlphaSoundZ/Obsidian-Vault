@@ -135,9 +135,7 @@ Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 ![](Harvestehude/Untitled%205.png)
 
-### Wahlbeteiligung[^7]
-
-#### Bundestagswahl 2021
+### Bundestagswahl 2021[^7]
 
 ![Wahlbeteiligung: Harvestehude: 87,7 %](Harvestehude/Untitled%206.png)
 
