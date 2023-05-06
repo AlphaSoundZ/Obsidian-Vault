@@ -64,12 +64,14 @@ Der Sozialindex liegt beim GHT bei 5. **!nochmal recherchieren!**
 
 Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die Mittel werden also nicht gleichmäßig „mit der Gießkanne“ verteilt, denn das würde bestehende Ungleichheiten noch vergrößern. Stattdessen fließt ein Teil des Geldes dahin, wo es am dringendsten gebraucht wird – an die Schulen, die einen höheren Anteil von Schülerinnen und Schülern mit ungünstigeren Startbedingungen haben.
 
-#### Veränderung zwischen 2013 und 2021
+#### Veränderung zwischen 2013 und 2021[^5]
 
 - Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 staatlichen Schulen eine Veränderung.
 - Bei den Grundschulen verbesserten sich 44 der Schulen und bei 39 nahm der Index ab.
 - Bei den Stadtteilschulen nahmen 12 zu und 12 ab.
 - Bei den Gymnasien stieg der Sozialindex bei 6 von 62 Schulen und 22 nahmen ab.
+
+
 
 ### Anzahl Schulen und Universitäten in Harvestehude
 
@@ -169,3 +171,4 @@ https://www.hamburg.de/contentblob/16758542/b9eedefc582183f3ba6089882bb0cb04/dat
 [^2]: https://de.wikipedia.org/wiki/Sozialindex_f%C3%BCr_Hamburger_Schulen
 [^3]: https://www.hamburg.de/bsb/hamburger-sozialindex/4025318/artikel-faq-sozialindex/
 [^4]: https://www.hamburg.de/contentblob/4458462/5f7d1b2af92c58e7328be298374bbb05/data/pdf-schulte-und-hartig.pdf
+[^5]: https://www.hamburg.de/contentblob/15023768/4b3f967e03a337f8b1dbc6b592fd570d/data/2021-04-15-sozialindex-veraenderungen.pdf
