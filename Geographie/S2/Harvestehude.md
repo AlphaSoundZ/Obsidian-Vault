@@ -161,3 +161,5 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 [https://docs.google.com/spreadsheets/d/1xUDLfjz4zMoE-9t746hVxotkrj2IY5YRItVjVFxl_rg/edit?usp=drivesdk](https://docs.google.com/spreadsheets/d/1xUDLfjz4zMoE-9t746hVxotkrj2IY5YRItVjVFxl_rg/edit?usp=drivesdk)
 
 [https://www.bundestagswahl-hh.de/ergebnisse_der_bundestagswahl_2021_stadtteil_203003.html](https://www.bundestagswahl-hh.de/ergebnisse_der_bundestagswahl_2021_stadtteil_203003.html)
+
+[^1]: 
