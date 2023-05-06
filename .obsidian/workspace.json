@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f278a457a6a7118b",
+        "id": "3a3636ad04f51983",
         "type": "tabs",
         "children": [
           {
-            "id": "bf6ddabc7b62d47a",
+            "id": "b57edb90a12849be",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/S2/Harvestehude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geographie/S2/Harvestehude.md"
+              }
             }
           },
           {
@@ -143,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -200,8 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bf6ddabc7b62d47a",
+  "active": "b57edb90a12849be",
   "lastOpenFiles": [
+    "Geographie/S2/Harvestehude/Aufgabe.md",
+    "Geographie/S2/Harvestehude.md",
+    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
+    "Deutsch/Das Weiße Band/Untitled.md",
     "Task List.md",
     "Daily Notes/10.05.23.md",
     "Templates/Daily Notes.md",
@@ -230,9 +244,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Keep Font after PDF Export.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Recommendation Tables.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Weiter Button deactivated before pressing Enter fi.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Textfield Design.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Some empty lines at the bottom of the site.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
@@ -240,7 +251,6 @@
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
     "Work/Tim Pertl/E-Lad-O-Mat",
     "Englisch/Scottish independence could Britain break up (list/image-1682334914780.jpg3621706992491372286.jpg",
-    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Physik/Elektrische Felder/Untitled.png",
     "Work/Dream Studios/Kickstarter/Untitled.png",
