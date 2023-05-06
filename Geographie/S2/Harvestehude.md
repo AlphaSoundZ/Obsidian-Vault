@@ -81,6 +81,8 @@ Die Disparitäten des Sozialindex nehmen zu. Im Jahr 2013 lag der Durchschnitt b
 ### Abschlussquote[^6]
 Der Anteil der Schülerinnen und Schüler ohne Schulabschluss variiert mit dem sozialen Status. Von den Schülerinnen und Schülern mit sehr niedrigem und niedrigem sozialem Status verlassen jeweils 10 Prozent bzw. 13,1 Prozent die Schule ohne Schulabschluss. Bei den Schülerinnen und Schülern mit mittlerem sozialen Status liegt der Anteil bei 5,9 Prozent, bei denen mit hohem sozialen Status bei 2,4 Prozent.
 
+![[Pasted image 20230506154315.png]]
+
 ### Abischnitt[^1]
 
 Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14 in staatlichen Gymnasien in Harvestehude liegen bei 1,92 beim Helene-Lange-Gymnasium, was der beste Schnitt in Hamburg ist, und bei 2,14 beim Wilhelm-Gymnasium. Der Durchschnitt in Hamburg liegt bei 2,35. Die Anzahl an Schüler/innen liegen im durchschnittlichen Bereich.
