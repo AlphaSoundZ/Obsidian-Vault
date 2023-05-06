@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3a3636ad04f51983",
+        "id": "5b95971be36fe07c",
         "type": "tabs",
         "children": [
           {
-            "id": "b57edb90a12849be",
+            "id": "68c8b3d9a96f6fa7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Geographie/S2/Harvestehude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Geographie/S2/Harvestehude.md"
               }
             }
           },
@@ -150,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -188,8 +190,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4769860980686509,
-                  "close": false
+                  "scale": 0.7514342322277595,
+                  "close": true
                 }
               }
             }
@@ -213,18 +215,28 @@
       "random-note:Zufällige Notiz öffnen": false,
       "obsidian-google-tasks:Google Tasks": false,
       "templater-obsidian:Templater": false,
-      "notion-like-tables:Create Notion-Like table": false
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "af29c05cdefb2948",
+  "active": "68c8b3d9a96f6fa7",
   "lastOpenFiles": [
-    "11.05.23.md",
-    "Task List.md",
+    "Geographie/S2.md",
+    "Geographie/S2/Städtebau.md",
     "Geographie/S2/Harvestehude.md",
-    "Geographie/S2/Pasted image 20230506155906.png",
-    "Geographie/S2/Pasted image 20230506155504.png",
-    "Geographie/S2/Pasted image 20230506154315.png",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
+    "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
+    "Geographie/S2/Harvestehude/Untitled 6.png",
+    "Geographie/S2/Harvestehude/Untitled 5.png",
+    "Geographie/S2/Harvestehude/Untitled 4.png",
+    "Geographie/S2/Harvestehude/Untitled 3.png",
+    "Geographie/S2/Harvestehude/Untitled 2.png",
+    "Geographie/S2/Harvestehude/Untitled 1.png",
+    "Geographie/S2/Harvestehude/Untitled.png",
+    "Daily Notes/06.05.23.md",
+    "Task List.md",
+    "11.05.23.md",
+    "Geographie/S2/Pasted image 20230506155906.png",
     "Untitled.table",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Geographie/S2/Harvestehude/Aufgabe.md",
@@ -232,7 +244,6 @@
     "Deutsch/Das Weiße Band/Untitled.md",
     "Daily Notes/10.05.23.md",
     "Templates/Daily Notes.md",
-    "Daily Notes/06.05.23.md",
     "Informatik/Simulationen.md",
     "Templates",
     "Task List/Unbenanntes Kanban.md",
@@ -252,20 +263,12 @@
     "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Keep Font after PDF Export.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Put Recommendation Data into Database.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph/Untitled.png",
-    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination/Untitled.png",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
     "Work/Tim Pertl/E-Lad-O-Mat",
-    "Englisch/Scottish independence could Britain break up (list/image-1682334914780.jpg3621706992491372286.jpg",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
-    "Physik/Elektrische Felder/Untitled.png",
-    "Work/Dream Studios/Kickstarter/Untitled.png",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas"
   ]
