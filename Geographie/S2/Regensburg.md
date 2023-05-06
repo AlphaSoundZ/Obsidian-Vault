@@ -7,11 +7,11 @@
 - Regensburg befindet sich am Ufer der Donau, etwa 130 Kilometer nordöstlich von München.
 - Die Stadt hat eine Fläche von etwa 80 Quadratkilometern und eine Bevölkerung von rund 200.000 Einwohnern.
 
-## Historisch genetische Entwicklung
+## Historisch Genetische Entwicklung
 
 ![Untitled](Regensburg/Untitled.png)
 
-### Entstehung (200 n. Chr.)
+### Entstehung (200 N. Chr.)
 
 - Die Stadt wurde im Jahr 179 n. Chr. von den Römern gegründet und hieß damals Castra Regina
 - Idealgrundriss einer römischen Stadt
@@ -26,7 +26,7 @@
 - Die Stadt blieb im Mittelalter eine bedeutende Handelsstadt und war Mitglied der Hanse.
 - Die Erweiterung umfasste den Bau von neuen Stadtmauern und die Erweiterung der Siedlung auf das linke Donauufer.
 
-### 2. Stadterweiterung Mittelalter (Mitte des 14. Jh.)
+### 2. Stadterweiterung Mittelalter (Mitte Des 14. Jh.)
 
 - Die Römer bauten zwei Auxiliarkastelle in Regensburg, um die strategisch günstige Fernverkehrssituation zu sichern.
 - Die Lage des Kastells zeigt, dass die römischen Lokatoren bei der Anlage von Castra Regina die günstigen topographischen Faktoren zu nutzen wussten.

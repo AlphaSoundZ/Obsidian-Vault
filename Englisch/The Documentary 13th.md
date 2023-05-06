@@ -1,6 +1,6 @@
 # The Documentary 13th
 
-### Analyse how the documentary portrays the influence of the media and technology.
+### Analyse how the Documentary Portrays the Influence of the Media and Technology
 
 The documentary 13th, directed by Ava DuVernay, explores the history of racial inequality in the United States, with a specific focus on the 13th Amendment to the U.S. Constitution, which abolished slavery and involuntary servitude. The film examines how the amendment has been interpreted and applied over time, and how it has been used to justify the mass incarceration of Black Americans.
 
@@ -10,22 +10,22 @@ For example, the documentary shows how images of Black people as criminals and v
 
 Overall, the documentary 13th portrays the influence of media and technology as a powerful tool for shaping public perception and understanding of racial issues, and how it can be used to justify discrimination and violence against marginalized communities, specifically black Americans.
 
-### Explain in which sense the 13th amendment had a loophole.
+### Explain in Which Sense the 13th Amendment Had a Loophole
 
 Slavery could be use as a punishment for crime.
 
 Because it has been used as a way to exploit and control Black Americans since the end of slavery, by using the criminal justice system to disproportionately target them and then using them as cheap labor for private corporations through mass incarceration.
 
-### Explain how forced labor is an integral part of the economic systme in the US according to the documentary.
+### Explain how Forced Labor is an Integral part of the Economic Systme in the US according to the Documentary
 
 The documentary argues that the prison-industrial complex has played a key role in the development of the U.S. economy by providing a source of cheap labor and creating a market for the products and services that are produced by prisoners.
 
-### Explain the statement that we live in an era of mass in incarceration.
+### Explain the Statement that We Live in an Era of Mass in Incarceration
 
 Many mostly black people got arrested for minor crimes (low level offensive (drug abuse)) so they could be used for forced labor as cheep workers.
 
-### Explain what is meant by the “mythology of black criminology”.
+### Explain what is Meant by the “mythology of Black criminology”
 
-### Explain the significance of the movie Birth of a Nation.
+### Explain the Significance of the Movie Birth of a Nation
 
-### Explain the political significance of the terms “war on drugs”, “law and order” and “super predator”
+### Explain the Political Significance of the terms “war on drugs”, “law and order” and “super predator”

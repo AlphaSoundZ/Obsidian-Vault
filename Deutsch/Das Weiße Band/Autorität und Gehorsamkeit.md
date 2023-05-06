@@ -1,4 +1,4 @@
-# Autorität und Gehorsamkeit
+# Autorität Und Gehorsamkeit
 
 ## Autorität
 
@@ -15,7 +15,7 @@
 
 Die Kinder sind durch Erziehungsmethoden wie “Schwarze Pädagogik” und protestantische Erziehung (Sünden durch Strafen) ihren Eltern gehorsam.
 
-### Geheime Rebellion der Kinder
+### Geheime Rebellion Der Kinder
 
 - Max zerstört mit der Sense ein Kohlfeld des Baron
 - Klara tötet den Vogel ihres Vaters (Pfarrer)

@@ -1,6 +1,6 @@
 # Elektrische Felder
 
-# Was sind elektrische Felder
+# Was Sind Elektrische Felder
 
 Ein elektrisches Feld ist das physikalische Feld, das elektrisch geladene Teilchen umgibt und auf alle anderen geladenen Teilchen im Feld eine Kraft ausübt, die sie entweder anzieht oder abstößt. Es bezieht sich auch auf das physikalische Feld für ein System geladener Teilchen.
 

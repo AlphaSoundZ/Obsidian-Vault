@@ -2,9 +2,9 @@
 
 Slogan?: “lend it simple”
 
-## Präsentationsaufbau:
+## Präsentationsaufbau
 
-### Einleitung (Jan Jacob):
+### Einleitung (Jan Jacob)
 
 - Titel: “**Strukturiertes und einfaches Ausleihen von Endgeräten an unserer Schule**”
 
@@ -14,7 +14,7 @@ Wenn es ein bisschen humorvoller sein soll:
 
 Herzlich Willkommen zur Vorstellung unseres Ausleihsystems für Geräte mit Sticker.
 
-### Das Team (Jan Jacob):
+### Das Team (Jan Jacob)
 
 - Ruben Eversmeyer, Lukas Tönnis und Emil Young sind die Entwickler der Handy-App und Management-Website
 - Anschließend haben wir Nils Cleven und Nick Struckmeyer, der nicht auf dem Foto zu sehen ist. Sie sind die Hardware Developer unseres Teams.
@@ -22,7 +22,7 @@ Herzlich Willkommen zur Vorstellung unseres Ausleihsystems für Geräte mit Stic
 - Max ist Frontend Developer. Er programmiert alles, was für den Benutzer ”sichtbar” ist. Dies beinhaltet die Weboberfläche, die Sie sehen, wenn Sie Geräte ausleihen wollen.
 - Ich bin Jan Jacob Holst und Backend Developer. Backend bedeutet so viel wie alles, was im Hintergrund läuft, also was man nicht sieht, aber entscheidend ist, damit das System funktioniert. Darunter fallen beispielsweise die Datenbank und das Verarbeiten von Anfragen vom Frontend.
 
-### Das Problem/Ausgangssituation (Max):
+### Das Problem/Ausgangssituation (Max)
 
 - Die Schule hat (200) Tablets erhalten, damit man nicht den Computerraum mieten muss, um das Internet zum Arbeiten im Unterricht zu nutzen.
 - Das Problem ist die Organisation für das Ausleihen der Geräte. Außerdem hatte man eine mangelhafte Übersicht.
@@ -39,7 +39,7 @@ Herzlich Willkommen zur Vorstellung unseres Ausleihsystems für Geräte mit Stic
     - nicht nachvollziehbar, wer Geräte ausleiht
     - man weiß nicht, ob überhaupt Geräte noch gerade frei sind
 
-### Die Lösung (Jan Jacob):
+### Die Lösung (Jan Jacob)
 
 > Wir brauchen ein System, mit dem man Geräte einfach ausleihen kann.
 > 
@@ -49,7 +49,7 @@ Herzlich Willkommen zur Vorstellung unseres Ausleihsystems für Geräte mit Stic
 - Wenn man ein Gerät zurückgeben möchte, legt man es lediglich erneut auf das Lesegerät und schließt es anschließend wieder an die Ladestation.
 - Somit ist Schnelligkeit und Struktur garantiert.
 
-### Produkt (Max):
+### Produkt (Max)
 
 - Jedes auszuleihende Gerät und jeder Benutzer benötigt eine Identifizierung.
 - Die beste Möglichkeit dafür sind RFID Chips, die auch beispielsweise beim kontaktlosen Zahlen verwendet werden.
@@ -61,15 +61,15 @@ Herzlich Willkommen zur Vorstellung unseres Ausleihsystems für Geräte mit Stic
 - Sobald die gewünschten Geräte eingescannt wurden, meldet man sich mit einem erneuten Scan des Benutzerchips auf dem Lesegerät ab.
 - Nach dem Verwendung gibt man die Geräte lediglich durch ein erneutes Einscannen ab. Für diese Aktion meldet man sich nicht an. Dies hat den Grund, dass auch verlorene Geräte, die von anderen gefunden wurden, zurückgegeben werden können.
 
-### Video:
+### Video
 
-### Markt → Zielgruppe (Jan Jacob):
+### Markt → Zielgruppe (Jan Jacob)
 
 - Unsere Zielgruppe sind Schulen
 - Unser Fokus liegt auf das kontinuierliche Ausleihen von Geräten.
 - Iserv, Schulen, weitere Bildungseinrichtungen, Dataport?
 
-### Alleinstellungsmerkmal (Max):
+### Alleinstellungsmerkmal (Max)
 
 - bieten eine Komplettlösung an mit Scanner.
 - Exklusive Features:
@@ -77,14 +77,14 @@ Herzlich Willkommen zur Vorstellung unseres Ausleihsystems für Geräte mit Stic
     - Kontrolle zwischen Multiausleihe und Einzelgerät Ausleihe (was man darf, was nicht)
 - Wir können auf die Wünsche der Schule eingehen
 
-### Zukunftspläne (Jan Jacob):
+### Zukunftspläne (Jan Jacob)
 
 - Isev Integration
 - Vorbuchungen
 - Livestatus
 - Handy App, mit der man Geräte scannen kann (Android)
 
-### Wettbewerb / Konkurrenz (Max):
+### Wettbewerb / Konkurrenz (Max)
 
 - 
 

@@ -12,7 +12,7 @@ Mensch und Gott liegen auf ähnlichen Ebenen (trotz Verehrung), da die Unsterbli
 
 Fokus auf den Menschen
 
-## Aufgaben des Menschen
+## Aufgaben Des Menschen
 
 - Richten
 - Heilen, retten

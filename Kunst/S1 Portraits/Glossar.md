@@ -37,7 +37,7 @@ Lebendig, harmonisch, angenehm, weich, freundlich, traurig, hart, statisch, rati
 
 Linienführung beim Malen, vorsichtig, konzentriert, kontrolliert, dynamisch, chaotisch, schnell
 
-### Eigenwert und Darstellungswerts
+### Eigenwert Und Darstellungswerts
 
 Eine Farbe hat einen Eigenwert, wenn sie ohne Rücksicht auf das dargestellte Objekt verwendet wird und das Objekt dominiert. In solchen Darstellungen wirkt die Farbe an sich und soll nicht eine Eigenschaft des Objekts abbilden. Das Gegenteil ist der Darstellungswert.
 
@@ -49,7 +49,7 @@ lasierend, deckend, pastos (dickflüssig aufgetragene Farbe, wodurch man sie sp�
 
 unbunte Farben (Schwarz und Weiß), Farbpalette, Farbfamilie (Farben gehören so lange zu einer Farbfamilie, wie der Grundton im Verhältnis der Mischung überwiegt), Farbintensität / Farbsättigung (wahrgenommene Buntheit, Je reiner eine Farbe ist, desto gesättigter und damit intensiver erscheint sie)
 
-### Format, Bildraum und Malgrund
+### Format, Bildraum Und Malgrund
 
 Hochformat / Querformat / Quadrat / nicht geometrisch, Format, Größe / Maße, Proportionen, Bildelemente spezifisch / zufällig im Bildraum platziert (ausnutzen, sprengen, definieren), Malgrund: Leinwand, Holz, Papier, Metall
 
@@ -80,7 +80,7 @@ Rund, eckig, organisch, fließend, geschwungen, verspielt
 
 bezeichnet den kennzeichnenden bzw. thematisch prägenden inhaltlichen Bestandteil, Einzel- / Gruppenporträt, Mythologie, Feste, Handwerk, berufliche Situationen, Landschaftsmotive (Gewässer, Berge, Strand), Liebesszenen
 
-### Komposition / Ordnungsprinzipien und Bildaufbau
+### Komposition / Ordnungsprinzipien Und Bildaufbau
 
 geometrische Grundformen (Kreis, Oval, Dreieck, Rechteck), Reihung, Ballung, Staffelung, Streuung, Fülle, Leere, Chaos, Überschneidungen, Perspektive, bestimmte Proportionen, Goldener Schnitt, harmonisch, ausgewogen, spannungsvoll, dynamisch, gleichmäßig, ausgeglichen, Muster / Struktur / Ornament, Bildebenen (Vordergrund, Mittelgrund, Hintergrund), Bildausschnitt, Ballung, Reihung, Streuung, Fläche, Punkt, Linie
 
@@ -98,20 +98,20 @@ Die symbolischen Funktionen beziehen sich vor allem auf die sozialen oder psycho
 
 # Konzeptpapier
 
-### Gib den Inhalt deiner Arbeit wieder.
+### Gib Den Inhalt Deiner Arbeit Wieder
 
 - Welchen inhaltlichen Schwerpunkt hast du gesetzt?
 - Was hat dich während der Arbeit daran inhaltlich beschäftigt?
 - Welche Aussage willst du mit der Arbeit treffen?
 - Nenne Handlung, Motiv, Personen, Umgebung, verwendete Objekte, Gegenständlichkeit
 
-### Begründe deine formalen Entscheidungen.
+### Begründe Deine Formalen Entscheidungen
 
 - Wie genau wurden Materialien, Techniken und Verfahren eingesetzt?
 - Welche Rolle spielte der Zufall bei der Entstehung der Arbeit?
 - Nenne Künstlerische Mittel, Malmittel und Malgrund, Maltechnik und Farbauftrag, Duktus, Format und Bildraum, Komposition / Ordnungsprinzipien …
 
-### Stelle begründete Vermutungen über die wahrscheinliche Betrachterwirkung an.
+### Stelle Begründete Vermutungen Über Die Wahrscheinliche Betrachterwirkung an
 
 - Welcher Kontext ist wichtig zu bedenken?
 - Was kann der Betrachter erkennen / tun?
@@ -119,7 +119,7 @@ Die symbolischen Funktionen beziehen sich vor allem auf die sozialen oder psycho
 - Werden Aktionen ermöglicht?
 - Wo wird eigene Erfahrung / Interpretation des Betrachters wichtig?
 
-### Erläutere und begründe, inwiefern die Arbeit die Aufgabenstellung erfüllt.
+### Erläutere Und Begründe, Inwiefern Die Arbeit Die Aufgabenstellung Erfüllt
 
 - Welchen Aspekt der Thematik hast du fokussiert?
 - Welche Sicht hast du auf das Thema?
@@ -128,7 +128,7 @@ Die symbolischen Funktionen beziehen sich vor allem auf die sozialen oder psycho
 
 [Bildanalyse](Bildanalyse.md) 
 
-# Dokumente zur Vertiefung
+# Dokumente Zur Vertiefung
 
 ![image-1673652661325.jpg8121125443729985203.jpg](Glossar/image-1673652661325.jpg8121125443729985203.jpg)
 

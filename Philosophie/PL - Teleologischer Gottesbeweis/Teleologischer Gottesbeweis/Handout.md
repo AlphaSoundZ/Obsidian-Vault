@@ -30,9 +30,9 @@ Prämisse 2: Eine Uhr hat einen intelligenten Designer.
 
 Konklusion: Das Universum muss einen intelligenten Designer haben. Dieser wird Gott genannt.
 
-# Der teleologische Gottesbeweis
+# Der Teleologische Gottesbeweis
 
-## Struktur des Beweises
+## Struktur Des Beweises
 
 Das Universum hat die und die Eigenschaften, daher existiert ein Planer [10].
 

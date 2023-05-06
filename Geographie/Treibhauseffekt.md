@@ -12,14 +12,14 @@ Die durch den Menschen verursachten Emissionen von Treibhausgasen verstärken de
 
 Aufgrund des vermehrten Ausstoßes verschiedener Treibhausgase seit der Industrialisierung lässt die Atmosphäre nun noch weniger Infrarotstrahlung ins All entweichen, die Erde erwärmt sich über die durchschnittliche Temperatur von 15°C.
 
-### Emissionen von Treibhausgasen
+### Emissionen Von Treibhausgasen
 
 - Die Nutzung fossiler Rohstoffe nimmt durch die Bevölkerungszunahme zu. Durch deren Verbrennung entsteht Kohlenstoffdioxid. Neben Wasserdampf wirkt die als wichtigstes Treibhausgas.
 - Methan ist ein weiteres wichtiges Treibhausgas, welches vermehrt bei der intensiv betriebenen Landwirtschaft entsteht. Auch Lachgas wird vor allem in der Landwirtschaft freigesetzt (beispielsweise durch den Einsatz großer Mengen Kunstdünger).
 - Zugleich wurden und werden große Waldflächen abgeholzt oder abgebrannt, Moore trockengelegt, die Nutzungen von Böden verändert. Dadurch werden einerseits weitere Treibhausgase freigesetzt
 - weniger Wälder, die Kohlendioxid aus der Atmosphäre aufnehmen können
 
-## Rolle des tropischen Regenwaldes
+## Rolle Des Tropischen Regenwaldes
 
 Der tropischer Regenwald ist ein riesiger CO2-Speicher mit rund 250 Milliarden Tonnen Kohlenstoff. Dies entspricht rund der Hälfte des weltweit in Biomasse gespeicherten Kohlenstoffs.
 
@@ -27,7 +27,7 @@ Die Ergebnisse von Langzeituntersuchungen seit 1968 zeigen, dass sich die CO2-Au
 
 Durch die verringerten CO2-Aufnahmen und die Freisetzung von CO2 durch Waldrodungen gelangt mehr CO2 in die Atmosphäre, was den Treibhauseffekt verstärkt.
 
-### Ursachen für die verringerte CO2-Aufnahmekapazität
+### Ursachen Für Die Verringerte CO2-Aufnahmekapazität
 
 - Verlust von Bäumen durch Dürren und Hitze
 - Rodungen

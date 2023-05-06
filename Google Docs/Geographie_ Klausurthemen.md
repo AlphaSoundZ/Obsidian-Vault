@@ -126,7 +126,7 @@ Die Böden der Sahelzone sind bis auf die dünne obere Bodenschicht sehr nährst
 - maritimes Klima geringe Temperaturunterschiede über das Jahr (Delta T)
 - Kontinentales Klima hohe Temperaturunterschiede über das Jahr (Delta T)
 
-## Klimadiagramm auswerten
+## Klimadiagramm Auswerten
 
 - Lokalisieren
 - 1. Kurve beschreiben (Verlauf, Extremwerte)
@@ -135,7 +135,7 @@ Die Böden der Sahelzone sind bis auf die dünne obere Bodenschicht sehr nährst
 - Jahresdurchschnitt beider Kurven nennen
 - Einordnen in Vegetationszonen
 
-## Thematische Karte auswerten
+## Thematische Karte Auswerten
 
 - Überblick verschaffen
     - Wann

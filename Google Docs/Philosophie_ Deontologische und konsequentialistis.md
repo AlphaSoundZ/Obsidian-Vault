@@ -1,9 +1,9 @@
-# Philosophie_ Deontologische und konsequentialistis
+# Philosophie_ Deontologische Und Konsequentialistis
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM
 
-# Deontologische und konsequentialistische Ethik
+# Deontologische Und Konsequentialistische Ethik
 
 Immanuel Kant
 
@@ -17,17 +17,17 @@ Etwas ist unethisch, wenn negative Konsequenzen entstehen können.
 
 Beispiel: Schwarzfahren
 
-## Gute Handlungen im Konsequentialismus
+## Gute Handlungen Im Konsequentialismus
 
 ### Definition
 
 Eine Handlung h ist genau dann gut, wenn sie f zur Folge hat und f die Eigenschaft e besitzt..
 
-### Bsp. Utilitarismus:
+### Bsp. Utilitarismus
 
 Handlung h ist gut, weil die f zur Folge hat und f das größtmögliche Glück für die größtmögliche Zahl befördert (= Eigenschaft e).
 
-## Gute Handlungen im Deontologie
+## Gute Handlungen Im Deontologie
 
 ### Definition
 
@@ -35,7 +35,7 @@ Eine Handlung h ist in Situation s immer richtig (d.h. unabhängig von ihren Fol
 
 Gibt es Handlungen, die immer richtig sind? Warum sind sie immer richtig? Wie könnte ihre Eigenschaft e aussehen?
 
-## Intentionen und Handlungen
+## Intentionen Und Handlungen
 
 Es scheint einen Unterschied zwischen Intentionen und Handlungen zu geben:
 
@@ -65,7 +65,7 @@ Handlung h muss die Eigenschaft e haben, ausschließlich durch Pflicht motiviert
 
 ## Kant: Imperative
 
-### hypothetisch (bedingt) (wenn x machen/sein möchtest, dann…)
+### Hypothetisch (bedingt) (wenn X machen/sein Möchtest, dann…)
 
 - Imperativ der Klugheit (gutes Leben)
 - Imperativ der Geschicklichkeit (Herstellung)
@@ -74,12 +74,12 @@ Moralische Handlungen:
 
 Alle Pflichten h, die universalisierbar sind.
 
-### kategorisch (unbedingt) (Es gilt immer)
+### Kategorisch (unbedingt) (Es Gilt immer)
 
 - Imperativ der Moral
 - “Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.” (Kant. Grundlegung zur Metaphysik der Sitten, S. 68)
 
-## Kant - vollkommene vs. unvollkommene Pflichten
+## Kant - Vollkommene vs. Unvollkommene Pflichten
 
 ### Vollkommene Pflicht
 

@@ -1,4 +1,4 @@
-# Schlegel und Novalis
+# Schlegel Und Novalis
 
 ### Schlegel
 

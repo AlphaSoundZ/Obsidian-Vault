@@ -1,6 +1,6 @@
-# Bericht zur sozialen Ungerechtigkeit
+# Bericht Zur Sozialen Ungerechtigkeit
 
-### Oxfam fordert
+### Oxfam Fordert
 
 - höhere Steuern für Reiche
 - Übergewinnsteuer auf Gewinne in Krisen
@@ -13,6 +13,6 @@
 - Seit Beginn der Pandemie reichstes 1% hat 24 Billionen Euro Gewinn gemacht (67% aller Gewinne weltweit; in Deutschland 81%)
 - jeder 10. weltweit leidet Hunger
 
-### Entwicklungen und Probleme des “sozialen Netzes”
+### Entwicklungen Und Probleme Des “sozialen Netzes”
 
 Wenn sich alle in dem Netz ausruhen, reißt es ein.

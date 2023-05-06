@@ -23,12 +23,13 @@ Schließt das Lob oder Tadel ein?
 
 1. Strophe
     - 
+
 2. Strophe
     
     Die zweite Strophe von "Der Tanzbär (1783)" befasst sich mit der Frage, ob diejenigen, die sich der Schmeichelei und List bedienen, um bei Fürsten einzudringen, um Anerkennung zu erhalten, als große Hofleute angesehen werden und ob sie Lob oder Tadel verdienen. Es ist offensichtlich, dass der Tanzbär der Meinung ist, dass diese Art von Menschen nicht als große Hofleute angesehen werden sollten und dass sie weder Lob noch Tadel verdienen. Er betont stattdessen, dass sie sich vor allem an ihren eigenen Werten orientieren und sich niemals unterwerfen sollten.
     
 
-### Wie verändert sich damit die Aussage?
+### Wie Verändert Sich Damit Die Aussage?
 
 Die erste Strophe von "Der Tanzbär (1783)" bezieht sich auf den Wunsch, sich von den vorgegebenen Normen eines Systems zu befreien und stattdessen sein eigenes Ding zu machen. Der Tanzbär hat sich von der Kette befreit und macht auf seine Weise Kunst, obwohl man ihm vorwirft, dass er damit nur seine Unterwerfung unter das System unterstreicht. Diese Unterwerfung ist aber nur eine vorübergehende, da er auf seine Weise Kunst macht und damit seine Unabhängigkeit und Freiheit unterstreicht.
 

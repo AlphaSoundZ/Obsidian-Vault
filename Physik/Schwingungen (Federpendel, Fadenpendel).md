@@ -11,7 +11,7 @@
 
 ## Fadenpendel
 
-### Faktoren berechnen
+### Faktoren Berechnen
 
 Schwingungsdauer: *T* = 2*π**
 
@@ -23,7 +23,7 @@ Pendellänge: $l = (\frac{T}{2\pi})²*g$
 
 *g* = *Erdbeschleunigung* *bzw*. *Ortsfaktor* (9, 81 *m*/*s*2)
 
-### Kräfte berechnen
+### Kräfte Berechnen
 
 *F*Gewichtskraft = *m* * *g*
 
@@ -45,13 +45,13 @@ $F_{\text{Fadenkraft}} = \frac{m*g*sin(\varphi)}{tan(\varphi)}$
 - Ortsfaktor
 - **Das Gewicht und die Auslenkung spielen bei der Schwingung keine Rolle!**
 
-## 
+##
 
 ![Schwingungen%20(Federpendel,%20Fadenpendel)/image1.png](Schwingungen%20(Federpendel,%20Fadenpendel)/image1.png)
 
 ## Federpendel
 
-### Faktoren berechnen
+### Faktoren Berechnen
 
 Schwingungsdauer: 2*π**
 
@@ -63,7 +63,7 @@ Federhärte: $k = \frac{F_{G}}{s}$ bzw. $k = \frac{m*g}{s}$
 
 *s* = *Längenänderung* *der*  △ *l* *der* *Feder*, *durch* *Zugabe* *der* *Masse* *m*
 
-### Kräfte berechnen
+### Kräfte Berechnen
 
 *F*Gewichtskraft = *m* * *g*
 
@@ -74,7 +74,7 @@ Federhärte: $k = \frac{F_{G}}{s}$ bzw. $k = \frac{m*g}{s}$
 - Ortsfaktor
 - **Auslenkung spielt bei der Schwingungsdauer keine Rolle!**
 
-## Harmonische Schwingung berechnen
+## Harmonische Schwingung Berechnen
 
 Die Funktion zur harmonischen Schwingung beschreibt die Auslenkung eines Pendels im Verlauf der Zeit, wobei die Auslenkung im Ruhezustand 0 ist und zu einer Seite negativ wird. Wenn man beim Federpendel anstatt der Auslenkung die Höhe über dem Boden erhalten möchte, dann muss man die Amplitude durch zwei teilen und am Ende der Funktion, für die Verschiebung auf der Y-Achse, die Gesamthöhe des Pendels addieren.
 
@@ -82,7 +82,7 @@ Mithilfe der Ableitung lässt sich die Geschwindigkeit berechnen.
 
 Mithilfe der zweiten Ableitung lässt sich die Beschleunigung berechnen.
 
-### Struktur und Berechnung der Funktion
+### Struktur Und Berechnung Der Funktion
 
 *y*(*t*) = *a* * *cos*(*ω* * *t*)
 
@@ -104,7 +104,7 @@ Durch die Reibungskräfte nimmt die Amplitude der Schwingung mit der Zeit ab. Di
 
 Die Resonanz ist das Ergebnis, wenn man ein Objekt mit seiner natürlichen Schwingungsfrequenz, also seiner Resonanzfrequenz anregt.
 
-## Winkel in rechtwinkligen Dreieck berechnen
+## Winkel in Rechtwinkligen Dreieck Berechnen
 
 RAD: Berechnung von Sin / Cos-Funktionen
 

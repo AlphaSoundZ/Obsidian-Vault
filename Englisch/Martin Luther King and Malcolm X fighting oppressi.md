@@ -1,6 +1,6 @@
-# Martin Luther King and Malcolm X: fighting oppression; The March on Washington
+# Martin Luther King and Malcolm X: Fighting Oppression; The March on Washington
 
-### Martin Luther King Jr.
+### Martin Luther King Jr
 
 [Dr. King: Nonviolence is the Most Powerful Weapon](https://www.youtube.com/watch?v=74XJJ3Tq5ew)
 
@@ -16,39 +16,39 @@
 
 [E.S3.AAE_MalcolmX.pdf](Martin%20Luther%20King%20and%20Malcolm%20X%20fighting%20oppressi/E.S3.AAE_MalcolmX.pdf)
 
-### Malcolm X’s approach to fighting oppression
+### Malcolm X’s Approach to Fighting Oppression
 
 Malcolm X's approach to fighting oppression was based on a more militant, self-reliant, and separate-minded strategy, and he advocated for the use of whatever means necessary including violence and international pressure, to achieve civil rights for African Americans. He also believed that black people should separate themselves from white society and create their own independent institutions and communities. He also believed that it was necessary to unite all people of African descent and to create a sense of racial pride and solidarity.
 
 ## The March on Washington
 
-### What was the goal of the March on Washington?
+### What Was the Goal of the March on Washington?
 
 - showing solidarity
 - fighting for jobs and freedom
 - civil rights and economic equality for African Americans
 
-### Who participated?
+### Who Participated?
 
 1/4 million Americans of all races, ages and background
 
-### What was the mood among the protesters?
+### What Was the Mood among the Protesters?
 
 - everyone was very cheerful, singing and listening to music, very united
 - all of the groups were together in peace
 - it was hopeful
 - felt like history was being made
 
-### What was the mood throughout the nation?
+### What Was the Mood throughout the Nation?
 
 - black and white people came together
 - came united to fight for black rights
 - everyone was hopeful, united and cheerful to fight in peace
 
-### What was the significance of the location, the Lincoln Memorial?
+### What Was the Significance of the Location, the Lincoln Memorial?
 
 President Lincoln was the one who abolished slavery, the first step for Black liberation. Therefore, the Civil Rights Act as the next step was being demanded in front of his memorial.
 
-### Which impact did Martin Luther King have with his speech “I Have a Dream”?
+### Which Impact Did Martin Luther King Have with His Speech “I Have a Dream”?
 
 Less than a year after the protest and the speech, John F. Kennedy signed the Civil Rights Act into law, the whole country felt more united and hopeful in their fight for equality.

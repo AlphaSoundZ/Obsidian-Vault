@@ -1,4 +1,4 @@
-# Kommunikationsebenen (Schulz von Thun)
+# Kommunikationsebenen (Schulz Von Thun)
 
 1. Appellebene
     

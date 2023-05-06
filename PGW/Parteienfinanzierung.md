@@ -1,14 +1,14 @@
 # Parteienfinanzierung
 
-### “Geld vom Staat abhängig von Verwurzelung in der Gesellschaft”
+### “Geld Vom Staat Abhängig Von Verwurzelung in Der Gesellschaft”
 
-# Wer wird gefördert?
+# Wer Wird Gefördert?
 
 bei der letzten Bundestags-  oder Europawahl: > 0.5%
 
 oder bei einer der letzten Landtagswahlen: > 1%
 
-# Wie viel?
+# Wie Viel?
 
 pro Stimme: ~1€
 

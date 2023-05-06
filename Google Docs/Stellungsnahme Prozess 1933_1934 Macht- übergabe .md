@@ -1,4 +1,4 @@
-# Stellungsnahme Prozess 1933_1934 Macht- übergabe _
+# Stellungsnahme Prozess 1933_1934 Macht- Übergabe _
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

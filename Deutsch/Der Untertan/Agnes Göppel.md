@@ -1,6 +1,6 @@
 # Agnes Göppel
 
-## Familie und Beziehung
+## Familie Und Beziehung
 
 - Tochter von Herr Göppel - Zellulose Fabrikant (S. 17, Z. 19)
 - Beziehung mit Diederich (gestartet durch die Begegnung im Tiergarten)
@@ -14,7 +14,7 @@
 - gelbbraunen Augen
 - schmales Gesicht
 
-## Verhalten und Kommunikation
+## Verhalten Und Kommunikation
 
 - weich (Seite 18, Z. 31)
 - Kokettes Weib (S. 19, Z. 1) → Frauen, die versuchen, durch ihr Verhalten dem anderen Geschlecht zu gefallen.

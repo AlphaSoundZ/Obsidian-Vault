@@ -26,7 +26,7 @@ a = pow(g,x,p)
 
 b = pow(g,y,p)
 
-### Gemeinsamer geheimer Schlüssel
+### Gemeinsamer Geheimer Schlüssel
 
 pow(a,y,p)
 

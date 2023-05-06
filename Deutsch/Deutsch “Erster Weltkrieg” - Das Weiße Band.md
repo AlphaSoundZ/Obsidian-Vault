@@ -27,7 +27,7 @@ Autoritätsgehorsamkeit Gewalt überall (Schule und zu Hause). Keine Ermutigung 
 
 Große Bedeutung im Film
 
-## Landwirtschaft und Arbeitsbedingungen
+## Landwirtschaft Und Arbeitsbedingungen
 
 - Arbeiter-Entlassung in Handels- und Hafenbetriebe
 - Viele Bauern fürchten um Ernte und Existenz
@@ -55,7 +55,7 @@ Kriegsbeginn verhindert Auflösung und Aufarbeitung der Angriffe und Konflikte i
 
 Mittlere Bedeutung für den Film
 
-## Religion und Protestantismus
+## Religion Und Protestantismus
 
 - Konkurrenz zwischen Katholiken und Protestanten
 - Protestantische Kirche: enge Verbindung zu den Landesherren in den Einzelstaaten des Reiches

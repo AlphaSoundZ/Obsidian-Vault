@@ -13,11 +13,11 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - Modelle für die Sozialstruktur unserer Gesellschaft
 - gesellschaftliche Entwicklungen und Herausforderungen (Text und Mindmap)
 
-## Was ist soziale Ungleichheit?
+## Was Ist Soziale Ungleichheit?
 
 Soziale Ungleichheit beschreibt den Zustand, wenn Menschen aus gesellschaftlichen Gründen über bestimmte Ressourcen oder Lebensbedingungen mehr oder weniger verfügen. Aufgrund dieses Zustands haben sie regelmäßig bessere oder schlechtere Lebens- und Verwirklichungschancen.
 
-### Dimensionen sozialer Ungleichheiten
+### Dimensionen Sozialer Ungleichheiten
 
 - Migrationshintergrund
 - Geschlecht
@@ -30,19 +30,19 @@ Soziale Ungleichheit beschreibt den Zustand, wenn Menschen aus gesellschaftliche
 - Wohnort
 - Alter
 
-### Blick auf Ost und West-Deutschland
+### Blick Auf Ost Und West-Deutschland
 
-### 
+###
 
 ![PGW_%20Klausurthemen/image1.png](PGW_%20Klausurthemen/image1.png)
 
-### Mögliche staatliche Maßnahmen zur Verringerung von sozialer Ungleichheit
+### Mögliche Staatliche Maßnahmen Zur Verringerung Von Sozialer Ungleichheit
 
 - Fairere Organisation der Gesundheitsversorgung
 - Umverteilung durch Steuern und Sozialleistungen / Transferleistungen (z.B. Grundrente, Grundeinkommen, "Grundsicherung”)
 - Arbeitsschutzmaßnahmen + deren strenge Kontrolle
 
-## Modelle für die Sozialstruktur unserer Gesellschaft
+## Modelle Für Die Sozialstruktur Unserer Gesellschaft
 
 1. Pyramidenmodell (Das erste Mal in Ägypten aufgetaucht) - Herrscher - Beamte - Sklaven
 2. Ständegesellschaft
@@ -82,7 +82,7 @@ Soziale Ungleichheit beschreibt den Zustand, wenn Menschen aus gesellschaftliche
 - Ordinate (y, Bildung oder bei Erwachsenen: Soziale Lage)
 - Soziale Geborgenheit (Familie, Freunde, Treue) und soziale Werte (Altruismus = Selbstlosigkeit, durch Rücksicht auf Andere, Toleranz)
 
-## Gesellschaftliche Entwicklungen und Herausforderungen
+## Gesellschaftliche Entwicklungen Und Herausforderungen
 
 - demographischer Wandel
     - Veränderung der Altersstrukturen

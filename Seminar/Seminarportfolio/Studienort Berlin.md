@@ -81,7 +81,7 @@ Berlin bietet eine Vielzahl an Nebenjobs
 - Berlin ist die Hauptstadt Deutschlands und liegt im Nordosten des Landes.
 - Der Fluss Spree durchfließt die Stadt und bildet mehrere Seen und Kanäle.
 
-## Image der Universitäten
+## Image Der Universitäten
 
 Unabhängig von der Größe und dem Ruf einer Universität in Berlin, gibt es eine Vielzahl von hochwertigen Bildungsmöglichkeiten. Die Universitäten in Berlin haben ein sehr gutes Image, da sie eine Vielzahl an Kursen in verschiedenen Fachgebieten anbieten und ein sehr anspruchsvolles akademisches Niveau haben. Zudem sind sie immer bestrebt, die jeweiligen Ausbildungsstandards zu erhöhen, wodurch sie sich auch im internationalen Vergleich gut schlagen.
 

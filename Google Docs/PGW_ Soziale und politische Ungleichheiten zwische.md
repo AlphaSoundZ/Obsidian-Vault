@@ -1,4 +1,4 @@
-# PGW_ Soziale und politische Ungleichheiten zwische
+# PGW_ Soziale Und Politische Ungleichheiten Zwische
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

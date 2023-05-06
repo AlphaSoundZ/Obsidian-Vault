@@ -44,7 +44,7 @@ Präsentationsleistung Dokumentation
 - Präsentation erstellen: Wie sollen die Informationen dargestellt werden?
 - Präsentation üben
 
-### Zu beachten
+### Zu Beachten
 
 - die einzelnen Informationen
 - die Sprache und Rechtschreibung
@@ -69,7 +69,7 @@ Präsentationsleistung Dokumentation
 - Sicherstellen, dass Quellen vertrauenswürdig sind
 - Roter Faden
 
-### Gestaltung und Medieneinsatz
+### Gestaltung Und Medieneinsatz
 
 - ansprechendes Layout (übersichtlich, nicht überfrachtet, Visualisierungen, einheitlich)
 - Klare Quellenangaben
@@ -108,17 +108,17 @@ Von meinen Mitschülern gibt es keine brauchbaren Mitschriften zu meiner Mini-Pl
 
 Für die kommenden Präsentationen möchte ich den Fokus auf die Zeiteinteilung zwischen Visualisierung und Inhalt setzen. Bei den vergangenen Präsentationen, die meistens in Kleingruppen stattgefunden haben, habe ich das Design der Präsentation gestaltet. Da die nächsten Präsentationen und Präsentationsleistungen größtenteils von einer Person erarbeitet, möchte ich mehr Zeit in den Inhalt stecken, da das Design nur 15% der Präsentation ausmacht. Das ermöglicht es mir erarbeiteten Informationen auf Richtigkeit und Vertrauenswürdigkeit der Quellen zu prüfen.
 
-### Beurteilung des Präsentationsportfolio
+### Beurteilung Des Präsentationsportfolio
 
 Mein Portfolio ist ein dynamisches und übersichtliches Dokument, welches über ein einheitliches Layout verfügt. Mein Portfolio verfügt über alle im Unterricht besprochenen Themen und Inhalte. Darüber hinaus wurden Links zu Broschüren und PDFs vermerkt, die praktisch sind, wenn man mehr Informationen zu den Themen erhalten möchte. Das Portfolio enthält keine Seitennummerierungen, da es sich um ein seitenloses Format handelt. Stattdessen wurde Wert darauf gelegt, schnell zu einem gesuchten Thema zu gelangen, die man über einen Klick auf das jeweilige Kapitel im Inhaltsverzeichnis erreicht. Aufgrund des seitenlosen Designs habe ich mich dafür entschieden, statt eines Titelblatts, einen Banner mit darauf folgendem Titel des Dokuments zu verwenden. Das Portfolio umfasst alle nötigen Informationen, wie eine Präsentationsleistung oder Präsentation erstellt. Ich habe auf für später unrelevante ABs verzichtet.
 
-### Bewertung der Mini-Pl
+### Bewertung Der Mini-Pl
 
 [Mini-Pl Bewertung](Mini-Pl%20Bewertung.md) 
 
-## Mit Quellen arbeiten
+## Mit Quellen Arbeiten
 
-### In den eigenen Notizen
+### In Den Eigenen Notizen
 
 | Internet-Adresse | Datum des Besuchs | Bemerkung zur Quelle | Weiteres |
 | --- | --- | --- | --- |
@@ -173,7 +173,7 @@ www.teachsam.de (unter dem Stichwort: “Präsentation” ( Zugriff: ...)
 - Auch Fehler im Zitat nicht korrigieren
 - indirekte Zitate paraphrasieren, trotzdem kenntlich machen
 
-# 🧭 Berufs- und Studienorientierung
+# 🧭 Berufs- Und Studienorientierung
 
 ## Individuelle Orientierung
 
@@ -190,7 +190,7 @@ www.teachsam.de (unter dem Stichwort: “Präsentation” ( Zugriff: ...)
 - Gefühl der Zugehörigkeit spielt eine wichtige Rolle
 - Arbeit der Eltern oder Familienunternehmen beeinflussen die Berufswahl (soziale Veerbungstheorie), aber auch Schule und Freunde
 
-## Wege nach der Schule
+## Wege Nach Der Schule
 
 ### Freiwilligendienst
 
@@ -222,7 +222,7 @@ www.teachsam.de (unter dem Stichwort: “Präsentation” ( Zugriff: ...)
 - mögliche Gegenleistung erwartet: Verpflichtung nach dem Studium bei einem bestimmten Unternehmen zu arbeiten (Bei Stipendien von Unternehmen)
 - man muss gute Noten schreiben und sich viel ehrenamtlich engagieren
 
-### Nichts tun
+### Nichts Tun
 
 ****************Vorteile****************
 
@@ -257,7 +257,7 @@ www.teachsam.de (unter dem Stichwort: “Präsentation” ( Zugriff: ...)
 
 ### Praktikum
 
-### Schulabschluss nachholen
+### Schulabschluss Nachholen
 
 ### Sprachreise
 
@@ -269,7 +269,7 @@ www.teachsam.de (unter dem Stichwort: “Präsentation” ( Zugriff: ...)
 
 ### Reisen
 
-## Was macht einen guten Studienort aus?
+## Was Macht Einen Guten Studienort Aus?
 
 - angemessene Größe, viele Studierende
 - ereichbarkeit des Studienortes und Transport innerhalb des Ortes mit Öffis
@@ -284,11 +284,11 @@ www.teachsam.de (unter dem Stichwort: “Präsentation” ( Zugriff: ...)
 - Passung
 - Zugangsmöglichkeiten (NC, Studiengebühren, Eignungstests)
 
-## Studienorte erkunden
+## Studienorte Erkunden
 
 [Studienort: Berlin](Seminarportfolio/Studienort%20Berlin.md)
 
-## Reflexion: Warum wir nicht alle Umweltingenieure werden müssen
+## Reflexion: Warum Wir Nicht Alle Umweltingenieure Werden Müssen
 
 ### Artikel
 
@@ -302,9 +302,9 @@ Letztlich tragen viele Berufe dazu bei, die Welt mit ihrem Job ein bisschen bess
 
 Auf mich bezogen, denke ich, dass ich mir über das Thema Sinnhaftigkeit keine Sorgen machen muss, da der Bereich Informatik vielseitig eingesetzt werden kann und es viele Berufe in diesem Bereich gibt, die verschiedene Bereiche des Lebens verbessern. Beispielsweise kann Informatik zur Simulation der Entwicklung des Klimawandels dienen, um zu sehen, wie sich die Erde wahrscheinlich entwickeln wird und welche Maßnahmen man ergreifen kann. Aber auch wie in dem Artikel erwähnt dazu dienen, dass Banken auf unmoralische Spekulationen verzichten und dafür Werbung machen, damit diese Banken unterstützt werden und neue Kunden bekommen.
 
-# Vorbereitung des Perspektivgespräches (S1/S2)
+# Vorbereitung Des Perspektivgespräches (S1/S2)
 
-## Teil 1: Rückblick auf S1
+## Teil 1: Rückblick Auf S1
 
 1. Inwiefern hast du deine eigenen Ziele erreicht und Erwartungen an dich selbst erfüllt und wie ist dir das gelungen bzw. warum ist es dir deiner Einschätzung nach nicht (vollständig) gelungen?
     - Noteschnitt erreicht, den ich erreichen wollte
@@ -320,7 +320,7 @@ Auf mich bezogen, denke ich, dass ich mir über das Thema Sinnhaftigkeit keine S
     - Die Klausurenphase hat mich belastet, was man an der Note in Philosophie sehen kann (mündlich)
     - Die Ferien haben mich entlastet
 
-## Teil 2: Ziele für S2
+## Teil 2: Ziele Für S2
 
 1. Formuliere auf Grundlage deiner Erfahrungen aus S1 drei konkrete Ziele für das kommende Semester. Mache dir auch Notizen zu folgenden Fragen: Wie genau kannst du dieses Ziel erreichen? Welche Hilfe benötigst du von deiner Tutorin, deinen Lehrkräften und/oder deiner Familie? Woran siehst, dass du auf dem Weg bist, dein Ziel zu erreichen?
     - Philosophie
@@ -328,7 +328,7 @@ Auf mich bezogen, denke ich, dass ich mir über das Thema Sinnhaftigkeit keine S
     - Indikator: Noten
 2. Gibt es konkrete Sorgen oder Wünsche, über die du sprechen möchtest?
 
-## Teil 3: In Bezug auf das Leben nach dem Abi
+## Teil 3: In Bezug Auf Das Leben Nach Dem Abi
 
 1. Welche Vorstellungen und Ziele hast du in Bezug auf dein Leben nach dem Abitur?
     - Informatik Studieren

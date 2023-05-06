@@ -15,7 +15,7 @@
 1. Untersuchungs- und Deutungsergebnisse gliedern und erweitern (z.B. als Tabelle oder Mindmap) Deutungshypothese überprüfen und ggf. überarbeiten evtl. zusätzliche Informationen (z.B. historische und biografische) einbeziehen
 2. Gedanken zu Einleitung und Schlussteil stichpunktartig festhalten
 
-## Aufbau einer Gedichtinterpretation
+## Aufbau Einer Gedichtinterpretation
 
 ### Einleitung
 

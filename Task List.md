@@ -8,17 +8,11 @@ kanban-plugin: basic
 
 - [ ] Aufgaben siehe Email #Deutsch @[[10.05.23]]
 
-
 ## Done
 
 **Fertiggestellt**
 
-
 ## Archiv
-
-
-
-
 
 %% kanban:settings
 ```

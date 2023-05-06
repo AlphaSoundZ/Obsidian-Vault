@@ -1,4 +1,4 @@
-# Physik_ Schwingungen mit einer Feder
+# Physik_ Schwingungen Mit Einer Feder
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

@@ -1,4 +1,4 @@
-# Time tracker
+# Time Tracker
 
 # BUGS
 

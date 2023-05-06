@@ -61,7 +61,7 @@
     - Komposition einer Gegenstimme (Verflechtung von Motiven)
     - freie Imitation (freie Veränderung des Themas mit den oben genannten Variationsmöglichkeiten)
 
-### Grundbegriffe der Bearbeitung
+### Grundbegriffe Der Bearbeitung
 
 ### Sampling
 
@@ -123,10 +123,10 @@ Klangliche Bearbeitung von Audiomaterial. Filtering macht den Klang einer Aufnah
 
 ### Variation 6
 
-### a und b
+### A Und B
 
 ![Variationen/image1.png](Variationen/image1.png)
 
-### c
+### C
 
 nr. 8 und 11

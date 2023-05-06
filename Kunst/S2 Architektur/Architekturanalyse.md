@@ -2,7 +2,7 @@
 
 # Werkbetrachtungsmodell
 
-## Die drei Dimensionen der Architektur
+## Die Drei Dimensionen Der Architektur
 
 ### Form (Was?)
 
@@ -16,7 +16,7 @@ Die Bauaufgabe
 
 Das Bauen
 
-## Aufbau der Analyse
+## Aufbau Der Analyse
 
 ### Einleitung
 

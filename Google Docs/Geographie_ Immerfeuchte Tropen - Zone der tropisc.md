@@ -1,4 +1,4 @@
-# Geographie_ Immerfeuchte Tropen - Zone der tropisc
+# Geographie_ Immerfeuchte Tropen - Zone Der Tropisc
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

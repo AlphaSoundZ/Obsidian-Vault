@@ -1,6 +1,6 @@
-# Dimensionen sozialer Gerechtigkeit, Theorie von Rawls, Egalitarismus und Non-Egalitarismus
+# Dimensionen Sozialer Gerechtigkeit, Theorie Von Rawls, Egalitarismus Und Non-Egalitarismus
 
-## Dimensionen soialer Gerechtigkeit
+## Dimensionen Soialer Gerechtigkeit
 
 - Chancengerechtigkeit
 - Verfahrengerechtigkeit (Regelgerechtigkeit)
@@ -11,7 +11,7 @@
 - Teilhabegerechtigkeit
 - Generationengerechtigkeit
 
-## Theorie von Rawls
+## Theorie Von Rawls
 
 1. Einleitung der Dimesionen
 2. Die Idee
@@ -24,7 +24,7 @@
 
 Die Theorie der Gerechtigkeit von John Rawls ist eine der bekanntesten und einflussreichsten Theorien der Gerechtigkeit in der Philosophie. Rawls entwickelte seine Theorie in seinem Buch "Eine Theorie der Gerechtigkeit", in dem er ein Konzept der Gerechtigkeit als Fairness vorstellte. Nach Rawls ist eine Gesellschaft fair, wenn ihre Regeln von Menschen ausgewählt werden würden, die hinter einem "Schleier des Nichtwissens" stehen und nicht wissen, welche soziale oder wirtschaftliche Position sie in der Gesellschaft einnehmen werden. Rawls argumentierte, dass diese Menschen eine Gesellschaft wählen würden, die die Interessen der am wenigsten begünstigten Mitglieder der Gesellschaft berücksichtigt.
 
-## Unterschiede zwischen Egalitarismus und Non-Egalitarismus
+## Unterschiede Zwischen Egalitarismus Und Non-Egalitarismus
 
 Egalitarismus ist die Idee, dass alle Menschen gleich sind und deshalb das Recht haben, die gleichen Chancen und Möglichkeiten zu erhalten. Non-Egalitarismus hingegen ist die Vorstellung, dass Menschen unterschiedlich sind und deshalb unterschiedliche Chancen und Möglichkeiten verdienen.
 

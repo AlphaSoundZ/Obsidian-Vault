@@ -44,6 +44,7 @@ Gitarre und Orgel Akkorde auf 2 und 4 | Gitarre: Powerchords
 (dominant, eingängig), Bass (Grundtöne) | Bass | Gitarre: 2 und 4 (Septakkord)
 Bass: z.B. Achtel | Bass |  |
 | Schlagzeug | Hi-Hat: Viertel oder Achtel durchgehen
+
 Snare: 2 und 4
 Base: 3
 Congas und Bongos: eigenes Pattern | Standardrhythmus; Kann verändert werden; Hi-Hat offen | Schlagzeug

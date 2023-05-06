@@ -4,16 +4,16 @@
 
 “Dämmerung”, George Grosz (1893-1959)
 
-## Andreas Thalmayr: Das Wasserzeichen der Poesie
+## Andreas Thalmayr: Das Wasserzeichen Der Poesie
 
 Was die Kunst betrifft, so brauchen wir uns ihretwegen keine Sorge zu machen. Das Wassereichen verschwindet nicht so leicht. Wer Lust hat - ohne Lust geht es nicht -, der braucht die Wörter nur gegen das Licht zu halten. Unter jedem Text findet sich ein anderer, finden sich viele andere, mehr als die Weisheit des Lesers und des Schreibers sich träumen lassen.
 (Auszug aus der Vorrede 1997)
 
-## “Das Wasserzeichen der Poesie”: Erläutern Sie diese Metapher vor dem Hintergrund eigener schulischer und privater Leseerfahrungen
+## “Das Wasserzeichen Der Poesie”: Erläutern Sie Diese Metapher Vor Dem Hintergrund Eigener Schulischer Und Privater Leseerfahrungen
 
 "Das Wasserzeichen der Poesie" ist eine Metapher, die verwendet wird, um die subtile und dennoch präsente Präsenz von Poesie in einem Text zu beschreiben, ähnlich wie das Wasserzeichen auf einem Papier, das nur sichtbar wird, wenn man es gegen das Licht hält. Die Metapher suggeriert, dass Poesie tief im Text verwurzelt ist und erst durch genaues Lesen und Interpretation offenbart wird.
 
-## Notieren Sie alle Ihre Assoziationen zu dem Gemälde von George Grosz
+## Notieren Sie Alle Ihre Assoziationen Zu Dem Gemälde Von George Grosz
 
 - Verwüstung
 - Unruhe
@@ -22,7 +22,7 @@ Was die Kunst betrifft, so brauchen wir uns ihretwegen keine Sorge zu machen. Da
 - Krieg
 - Feuer
 
-## Nutzen Sie Ihre Ergebnisse für die Gestaltung eines Gedichtes mit dem Titel “Dämmerung”.
+## Nutzen Sie Ihre Ergebnisse Für Die Gestaltung Eines Gedichtes Mit Dem Titel “Dämmerung”
 
 ### Dämmerung
 

@@ -1,4 +1,4 @@
-# Vektoren und Vektorgleichungen
+# Vektoren Und Vektorgleichungen
 
 # Vektoren
 
@@ -15,13 +15,13 @@ $$
 
 Vektoren werden immer klein geschrieben und Punkte groß geschrieben.
 
-## Betrag eines Vektors (Länge)
+## Betrag Eines Vektors (Länge)
 
 $$
 |\vec{v}|= \sqrt{{v_x}^2 + {v_y}^2 + {v_z}^2}
 $$
 
-## Skalare Multiplikation und Division
+## Skalare Multiplikation Und Division
 
 Bei der Multiplikation eines Vektors mit einem Skalar verändert sich die Länge des Vektors. Die Division funktioniert gleich.
 
@@ -42,7 +42,7 @@ $$
 - \vec{v}
 $$
 
-## Vektoren addieren und subtrahieren
+## Vektoren Addieren Und Subtrahieren
 
 ### Addition
 
@@ -135,7 +135,7 @@ $$
 
 wobei $\theta$ der Winkel zwischen den beiden Vektoren ist.
 
-### Winkel berechnen
+### Winkel Berechnen
 
 Um den inneren Winkel zu berechnen muss man die Formel auf $\theta$ umstellen.
 
@@ -143,7 +143,7 @@ $$
 \theta = \arccos(\frac{\vec{v} \cdot \vec{w}}{|\vec{v}| \cdot |\vec{w}|})
 $$
 
-## Kreuzprodukt zweier Vektoren (S. 74 im Tafelwerk)
+## Kreuzprodukt Zweier Vektoren (S. 74 Im Tafelwerk)
 
 Es fehlt eine Operation, die zwei Vektoren so veknüpft, dass:
 
@@ -171,7 +171,7 @@ $$
 
 Die Gleichung besteht aus dem Aufpunkt und einem mit Lambda multiplizierten Richtungvektor.
 
-## Punkte auf Geraden
+## Punkte Auf Geraden
 
 Ein Punkt auf einer Geraden ist ein Aufpunkt. Ein Punkt liegt dann auf einer Geraden, wenn das Lambda für alle Komonenten gleich ist.
 
@@ -189,16 +189,16 @@ Ein Aufpunkt ist der Punkt auf einer Geraden, der als Ausgangspunkt für die Ber
 
 Der Richtungsvektor einer Geraden gibt an, in welche Richtung sie verläuft und ist immer orthogonal zur Geraden. Ein Richtungsvektor kann berechnet werden, indem man zwei Punkte, Anfangspunkt und den Endpunkt, der Geraden betrachtet und die Ortsvektoren subtrahiert.
 
-## Beziehungen zwischen Geraden
+## Beziehungen Zwischen Geraden
 
-### parallel
+### Parallel
 
 Zwei Vektorgleichungen sind parallel, wenn der Richtungsvektor der einen gleich dem Richtungsvektor der anderen ist. Wenn die Richtungsvektoren verschieden sind, können die Geraden schneiden oder windschief sein.
 
 - Richtungsvektoren normieren
 - Wenn sie gleich oder invers sind, dann sind sie parallel
 
-### schnitt
+### Schnitt
 
 Um herauszufinden, ob sich zwei Geraden schneiden, muss man die Parametergleichungen beider Geraden gleich setzen und nach Lambda aufgelöst werden. Wenn das Ergebnis eine eindeutige Lösung hat, schneiden sich die beiden Geraden. Wenn das Ergebnis keine eindeutige Lösung hat, sind die Geraden parallel.
 
@@ -224,11 +224,11 @@ $$
 \overrightarrow{OA} + \lambda \cdot \vec{r_1}_z = \overrightarrow{OB} + \mu \cdot \vec{r_2}_z
 $$
 
-### windschief
+### Windschief
 
 Geraden werden als windschief bezeichnet, wenn sie sich weder schneiden noch parallel zueinander sind. Windschiefe Geraden gibt es nur ab dem R³.
 
-## Abstand zwischen Punkt und Gerade ausrechnen
+## Abstand Zwischen Punkt Und Gerade Ausrechnen
 
 - Vektor bliden der Orthogonal ist (Skalarprodukt 0)
 - Vektorgleichung bilden (mit Punkt und orthogonalen Vektor)
@@ -237,7 +237,7 @@ Geraden werden als windschief bezeichnet, wenn sie sich weder schneiden noch par
 
 ## Ebenen
 
-## Punkt auf Ebene
+## Punkt Auf Ebene
 
 3 Punkte (die nicht auf einer Gerade liegen) liegen immer in einer Ebene.
 
@@ -255,7 +255,7 @@ Lösungsverfahren:
 
 Prüfe, ob der Punkt zur Menge der Ebenenpunkte gehört. Setze den Ortsvektor gleich mit der Ebenengleichung → komponentenweise auflösen (LGS) → auflösen nach lambda 1 und lambda 2 → mit der nicht benutzten Gleichung überprüfen.
 
-## Lage zwischen Ebenen und Geraden
+## Lage Zwischen Ebenen Und Geraden
 
 ### Möglichkeiten
 
@@ -283,7 +283,7 @@ c
 
 In der Koordinatenform sind a, b und c die Komponenten des Normalenvektors.
 
-# Typische Aufgaben der Linearen Algebra und Lösungsverfahren
+# Typische Aufgaben Der Linearen Algebra Und Lösungsverfahren
 
 1. Geradengleichung aus 2 Punkten aufstellen
     - Wandle Punkte in Ortsvektoren um

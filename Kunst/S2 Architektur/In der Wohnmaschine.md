@@ -1,6 +1,6 @@
-# In der Wohnmaschine
+# In Der Wohnmaschine
 
-### Wie bringt man möglichst viele Menschen auf engem Raum unter? Visualisiere Jan Ludwigs Zeitreise mithilfe eines beschrifteten Zeitstrahls.
+### Wie Bringt Man Möglichst Viele Menschen Auf Engem Raum Unter? Visualisiere Jan Ludwigs Zeitreise Mithilfe Eines Beschrifteten Zeitstrahls
 
 ## 1835 - “Ruhrpott”
 
@@ -20,7 +20,7 @@
     → immer das gleiche Produkt zu bauen ist günstiger
     
 
-## 1925 - “Le Corbusier: moderne Siedlung”
+## 1925 - “Le Corbusier: Moderne Siedlung”
 
 - Trennung des städtischen Lebens
     - Einkaufen → Innenstadt
@@ -35,7 +35,7 @@
 - stabil
 - günsti
 
-## Heute - “dicht bebaute Städte”
+## Heute - “dicht Bebaute Städte”
 
 - Beispiel: Tokio
     - gut vernetzt

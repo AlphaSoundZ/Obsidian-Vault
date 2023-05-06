@@ -1,4 +1,4 @@
-# Geographie_ Thematische Karte analysieren
+# Geographie_ Thematische Karte Analysieren
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

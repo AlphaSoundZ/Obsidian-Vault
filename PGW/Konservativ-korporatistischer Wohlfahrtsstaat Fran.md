@@ -1,6 +1,6 @@
 # Konservativ-korporatistischer Wohlfahrtsstaat: Frankreich 🥖
 
-## Was ist ein konservativ-korporatistischer Wohlfahrtsstaat?
+## Was Ist Ein Konservativ-korporatistischer Wohlfahrtsstaat?
 
 Die konservativen (oder kontinentaleuropäischen) Wohlfahrtsstaaten sind danach durch das Bismarck- sche Sozialversicherungsmodell geprägt. Versicherungsleistungen stehen hier im Vordergrund. Die is starke Verbindung von Lohnarbeit mit sozialen An- sprüchen führt dazu, dass Frauen, die nicht im Er- werbsleben stehen, häufig ausgeschlossen werden. Die umverteilende Wirkung von Sozialleistungen ist bei diesem Typ gering. Beispiele für diesen Typ sind Länder wie Deutschland, Frankreich und Österreich.
 
@@ -8,7 +8,7 @@ Die konservativen (oder kontinentaleuropäischen) Wohlfahrtsstaaten sind danach 
 - Erhaltung traditioneller Fimilienstrukturen
 - Untergeordnete Rolle von Betriebs- und Privatleistungen
 
-## Typen und Dimensionen moderner Wohlfahrtsstaaten nach Esping-Andersen (1990)
+## Typen Und Dimensionen Moderner Wohlfahrtsstaaten Nach Esping-Andersen (1990)
 
 | Dimensionen | Allgemein | Beispiel |
 | --- | --- | --- |

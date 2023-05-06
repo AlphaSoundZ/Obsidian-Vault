@@ -1,4 +1,4 @@
-# “Prometheus” und “Das Göttliche”
+# “Prometheus” Und “Das Göttliche”
 
 |  | Prometheus | Das Göttliche |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 # Drohne - Akkuwechselstation
 
-# Ablauf des Wechsels
+# Ablauf Des Wechsels
 
 1. FLIGHT_STATUS = manual
 2. Input der Fernbedienung, um den Wechsel zu starten

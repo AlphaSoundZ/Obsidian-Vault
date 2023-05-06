@@ -1,15 +1,15 @@
 # Videokommentar
 
-## “Der Untertan” und “Das weiße Band” - ein Fall für’s Museum oder aktueller denn je?
+## “Der Untertan” Und “Das Weiße Band” - Ein Fall für’s Museum Oder Aktueller Denn Je?
 
-### aktuelle Themen
+### Aktuelle Themen
 
 - Diskriminierung
 - Burschenschaften (Der Untertan)
 - Macht
 - autoritäre Strukturen
 
-### veraltete Themen
+### Veraltete Themen
 
 - Kaiserreich
 - Schulsystem Erziehung

@@ -1,8 +1,8 @@
 # Städtebau
 
-# Ist Hamburg eine Stadt?
+# Ist Hamburg Eine Stadt?
 
-### Wohndichte und Arbeitsplatzdichte
+### Wohndichte Und Arbeitsplatzdichte
 
 2.455 Einwohner je km²
 

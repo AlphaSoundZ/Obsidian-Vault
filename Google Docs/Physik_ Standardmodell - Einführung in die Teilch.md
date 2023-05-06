@@ -1,17 +1,17 @@
-# Physik_ Standardmodell - Einführung in die Teilche
+# Physik_ Standardmodell - Einführung in Die Teilche
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM
 
-# Einführung in die Teilchenphysik
+# Einführung in Die Teilchenphysik
 
-## Was lernst Du in dieser Lektion?
+## Was Lernst Du in Dieser Lektion?
 
 In dieser Lektion lernst du 2 Klassen von Elementarteilchen kennen. Ausserdem lernst du, wie der wissenschaftliche Fortschritt in der Physik abläuft, was ein Modell und was Abstraktion ist.
 
 Am Ende bist du in der Lage, unbekannte Kernteilchen aus Elementarteilchen zusammenzusetzen.
 
-## Ist das, was wir nicht sehen wirklich da?
+## Ist Das, Was Wir Nicht Sehen Wirklich Da?
 
 Eigentlich ist diese Frage ja dumm, warum soll die Sehfähigkeit unserer Augen bestimmen, was es gibt. Aber lange Zeit wurde Physik nur mit den Phänomenen und Gegenständen gemacht, die man sehen konnte. Erst langsam (so ab 1850) gewöhnte man sich langsam an den Gedanken, das man auch Erkenntnisse über Dinge finden kann, die man nicht sieht. Eine typische Frage ist z.B.: Wie können wir denn wissen, das der Strom von Elektronen getragen wird – ja dass es Elektronen überhaupt gibt?
 
@@ -23,13 +23,13 @@ Was soll es denn sonst sein – wir haben die Ladung und die Masse bestimmt. Und
 
 Philosophisch ist das vielleicht nicht vollständig befriedigend – aber man kann damit iPods bauen.
 
-## Ist alles, was vor dem Standardmodell kam "falsch"?
+## Ist Alles, Was Vor Dem Standardmodell Kam "falsch"?
 
 Wenn sich die Erkenntnis so schnell und stark ändert, sind dann all die Sachen die eure Eltern gelernt haben falsch? Und lohnt es sich überhaupt das Standardmodell zu untersuchen, wenn es vielleicht doch bald wieder überholt ist?
 
 Um diese Frage beantworten zu können, müssen wir uns mit dem Begriff des „Modells“ vertraut machen.
 
-### Was ist ein Modell?
+### Was Ist Ein Modell?
 
 Ein Modell ist eine Beschreibung der Realität, die (mindestens) zwei Eigenschaften hat:
 
@@ -44,7 +44,7 @@ Wenn ich die Geschwindigkeit eines Fussballs bestimmen will, dann ist es nicht w
 
 Wenn ich jetzt aber seine Flugkurve (etwa nach einem Freistoß) bestimmen will, ist die Größe doch wichtig und wir müssen zusätzlich seine Größe und seine Drehung berücksichtigen.
 
-### Paradigmenwechsel – neue Modelle
+### Paradigmenwechsel – Neue Modelle
 
 Seit sich die Physik mit „unsichtbaren“ Teilchen oder abstrakten Modellen beschäftigt, kann man sagen, dass sich der wissenschaftliche Fortschritt an der Veränderung oder Neuentwicklung von Modellen festmachen lässt. Dabei ist es so, dass neue Modelle insofern „besser“ sein müssen, als sie alles das erklären können, was das ältere Modell erklärt – und noch mehr.
 
@@ -52,9 +52,9 @@ Den Übergang von einem Modell zum anderen nennt man auch Paradigmenwechsel ([ht
 
 Oftmals sind neuere Modelle aber komplizierter als die alten, und warum soll man es sich komplizierter machen als nötig. So kommt es, das man verschieden genaue Modelle gleichzeitig benutzen kann – es muss halt nur zur Fragestellung passen. (Die Geschwindigkeit des Fussballs bestimmt man immer noch mit v=s/t ohne sich Gedanken um die Unschärferelation zu machen). Der dabei auftretende Fehler ist zu klein, als dass er für die konkrete Frage relevant wäre. Wenn man sich aber für die Geschwindigkeit eines Elektrons interessiert (etwa in einer Röntgenröhre) dann kann man das alte Modell nicht mehr benutzen – die Fehler würden zu groß.
 
-# 
+#
 
-# Die Welt als LEGO Baukasten
+# Die Welt Als LEGO Baukasten
 
 ## Einführung
 
@@ -72,7 +72,7 @@ Die Antworten haben sich im Laufe der Zeit geändert, eins blieb aber gleich - d
 
 In diesem Abschnitt wirst du einige dieser (Elementa[1](about:blank#fn1)rteilchen) kennenlernen.
 
-## Der Teilchenzoo des Standardmodells
+## Der Teilchenzoo Des Standardmodells
 
 **Woraus ist die Materie?**
 
@@ -82,11 +82,11 @@ Im Chemieunterricht hast du möglicherweise schon gelernt, dass das Atom aus ein
 
 Ein Atom ist etwa 10-11 m groß, der Atomkern etwa 10-15 m groß. Dafür ist fast die gesamte Masse des Atoms im Atomkern konzentriert – ein Elektron wiegt fast nichts.
 
-### Nukleonen – unteilbar?
+### Nukleonen – Unteilbar?
 
 Im Atomkern selber befinden sich die sogenannten Nukleonen[2](about:blank#fn2) – von denen gibt es wiederum mehrere Sorten. Die bekanntesten sind Protonen (mit einer positiven elektrischen Ladung) und Neutronen (ohne Ladung). Der Atomkern ist also kein Elementarteilchen!
 
-### Quarks – unteilbar?
+### Quarks – Unteilbar?
 
 Auch die Protonen und Neutronen sind keine Elementarteilchen sondern bestehen ihrerseits wieder aus Quarks. ([http://de.wikipedia.org/wiki/Quark_(Physik](http://de.wikipedia.org/wiki/Quark_(Physik))).
 

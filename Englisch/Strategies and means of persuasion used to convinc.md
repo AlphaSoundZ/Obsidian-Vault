@@ -1,4 +1,4 @@
-# Strategies and means of persuasion used to convince the viewers
+# Strategies and means of Persuasion Used to Convince the Viewers
 
 Jonas, Jan Jacob, Maxim, Paul
 

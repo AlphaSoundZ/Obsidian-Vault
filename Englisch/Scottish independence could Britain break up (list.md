@@ -1,4 +1,4 @@
-# Scottish independence: could Britain break up? (listening comprehension)
+# Scottish Independence: Could Britain Break Up? (listening comprehension)
 
 1 Why might Scottish independence have larger consequences?
 
@@ -10,7 +10,7 @@
 
 3
 
-## 4 James VI = James I? How ist that possible?
+## 4 James VI = James I? How Ist that Possible?
 
 10 When and how did Scotland get its own parliament?
 
@@ -29,7 +29,7 @@
 
 - there then would be a border between Britain and Scottland
 
-## 17 What is the problem with a new referendum?
+## 17 What is the Problem with a New Referendum?
 
 16 Which economic consequences would independence have?
 

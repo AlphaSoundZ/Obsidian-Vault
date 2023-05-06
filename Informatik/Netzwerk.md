@@ -1,6 +1,6 @@
 # Netzwerk
 
-## Webserver einrichten
+## Webserver Einrichten
 
 - Server installieren und starten
 - Bei Vermittlungsrechner:

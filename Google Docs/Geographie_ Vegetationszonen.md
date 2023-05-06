@@ -15,6 +15,7 @@ tropischer Regenwald, Sandwüsten, Kieswüsten, Steinwüsten, Salzwüsten, Nadel
 | Steppen und Wüsten | Trockene Mittelbreiten |  | 4 Monate Vegetationszeit |
 | Feuchtwald | Feuchten Mittelbreiten | Bäume, Sträucher | ganzjährig humid, 7-8 Monate Vegetationszeit |
 | tropischer Trockenwald | tropische Zone | Bäume Sträucher |  |
+
 1. Zeigen Sie an Beispielen auf, wie Klima und Vegetation die Ausprägung einer Landschaft bestimmen.
 
 | Landschaft / Ergebnis | Klima | Vegetation |
@@ -24,6 +25,7 @@ tropischer Regenwald, Sandwüsten, Kieswüsten, Steinwüsten, Salzwüsten, Nadel
 | Eiswüste | Kalt, vereist | keine Vegetation |
 | Trockensavanne | Tageszeitenklima, trocken, warm / heiß | Gras und Kraut, Grasland |
 |  |  |  |
+
 1. Überlegen Sie, welche Regionen der Erde besonders siedlungsfeindlich sein könnten bzw. sich als Lebensraum für Menschen eignen könnten.
 
 | siedlungsfeindlich | siedlungsfreundlich |

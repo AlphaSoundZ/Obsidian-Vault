@@ -1,4 +1,4 @@
-# Sinussatz, Cosinussatz, NPR, Lineare und Quadratische Funktionen
+# Sinussatz, Cosinussatz, NPR, Lineare Und Quadratische Funktionen
 
 Sinussatz:
 

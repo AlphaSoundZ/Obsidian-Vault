@@ -1,10 +1,10 @@
 # Simulationen
 
-### 
+###
 
 Unter einem “Dynamischen System” versteht man ein Modell, um zeitabhängige Prozesse darzustellen. 
 
-### Faktoren und Beziehungen
+### Faktoren Und Beziehungen
 
 - Änderungen im Zeitverlauf
 - Abhängigkeiten
@@ -12,7 +12,7 @@ Unter einem “Dynamischen System” versteht man ein Modell, um zeitabhängige 
 
 [Corona - Exponentielles Wachstum](Simulationen/Corona%20-%20Exponentielles%20Wachstum.md)
 
-## Benennung der Wirkungen
+## Benennung Der Wirkungen
 
 - verstärkend
 - gleichsinnig

@@ -1,6 +1,6 @@
 # Die Vereinten Nationen (UNO)
 
-# Aufbau der UN (5 Organe)
+# Aufbau Der UN (5 Organe)
 
 1. Die Generalversammlung
     - Jedes Mitglied hat eine Stimme
@@ -22,7 +22,7 @@
 
 Es gibt noch weitere Sonderorganisationen und spezielle Programme, die an spezifischen Themen im Zusamenhang mit der UN arbeiten. Zum Beispiel UNICEF.
 
-# Beteiligung von Konflikten
+# Beteiligung Von Konflikten
 
 - Sanktionen
 - Einrichtung einer politischen Mission (UN-Friedensmissionen)
@@ -44,20 +44,20 @@ Es gibt noch weitere Sonderorganisationen und spezielle Programme, die an spezif
         - Multidimensionales Peacekeeping
         - zusätzlich die Erlaubnis zur Anwendung von Gewalt zur Verteidigung des Mandats
 
-# Konzept der Schutzverantwortung
+# Konzept Der Schutzverantwortung
 
 Das Prinzip der Schutzverantwortung ermächtigt demnach zum internationalen Eingreifen - notfalls unter Einsatz von Gewalt - wo schwerste Menschenrechtsverletzungen die Bevölkerung gefährden.
 
 - der Staat selber ist für den Schutz seines Landes und seiner Gebiete verantwortlich
 - wenn der Staat dem nicht nach kommt, ist die UNO verantwortlich
 
-## Kritik an dem Konzept
+## Kritik an Dem Konzept
 
 - Sie sei nicht neutral, da sie der Parteipolitik der Großmächte verhaftet bleibe
 - ihre universelle Gültigkeit sei nicht glaubhaft, zumal kein Konsens über die Bedingungen für die Geltendmachung von R2P bestehe
 - als Konsequenz mangelnder Neutralität und Universalität stehe ihre Legitimität infrage
 
-# Repräsentationskriterien für den Sicherheitsrat
+# Repräsentationskriterien Für Den Sicherheitsrat
 
 ## Traditionell
 

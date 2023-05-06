@@ -1,11 +1,11 @@
-# Kunst_ antike präsi Text_
+# Kunst_ Antike Präsi Text_
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM
 
 Die Antike war eine alte Epoche im Mittelmeerraum von 800 vor Christus bis 500 nach Christus.
 
-### Historische und Geografische Einordnung
+### Historische Und Geografische Einordnung
 
 - Beginn:
     - Begonnen hat die Antike mit vielen Eroberungen der Griechen im Mittelmeerraum und der Verbreitung deren Kultur
@@ -25,9 +25,9 @@ Die Antike war eine alte Epoche im Mittelmeerraum von 800 vor Christus bis 500 n
     - Rom
     - Das Alte Ägypten, Griechenland und die römische Kunst haben die Kunst der Antike am meisten geprägt, weshalb wir uns auf diese beschränken werden.
 
-## Stilmittel:
+## Stilmittel
 
-### Zu den Charakteristika und Stilmitteln der (Alt-) Ägyptische Kunst
+### Zu Den Charakteristika Und Stilmitteln Der (Alt-) Ägyptische Kunst
 
 - Zu den Charakteristika und Stilmitteln der (Alt-) Ägyptische Kunst Gehört die schematisierte Darstellung von Malerei
 - Malerei wurde in Form von:
@@ -45,7 +45,7 @@ Die Antike war eine alte Epoche im Mittelmeerraum von 800 vor Christus bis 500 n
 - Bei der Wandmalerei: wurden Umrisse mit dunklen Linienformen durch gleichmäßig aufgetragene Farben ausgefüllt (keine Farbübergänge)
 - Wandmalereien gab es nicht nur in Pyramiden sondern auch z.B. in Häusern der Lebenden
 
-### Griechische Künstler befassten sich mit
+### Griechische Künstler Befassten Sich Mit
 
 - Tempelanlagen
 - Plastiken aus Bronze

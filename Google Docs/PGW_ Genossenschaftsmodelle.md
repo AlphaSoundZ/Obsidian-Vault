@@ -12,7 +12,7 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - [Was ist eine Genossenschaft](about:blank#was-ist-eine-genossenschaft)
 - [Vor- unt Nachteile einer Wohnungsbaugenossenschaft](about:blank#vor--und-nachteile-einer-wohnungsbaugenossenschaft)
 
-## Was ist eine Genossenschaft
+## Was Ist Eine Genossenschaft
 
 ### Quellen
 
@@ -52,7 +52,7 @@ Kapital kommt von den Mitgliedern
 
 - nach Novellierung 2006 zählen auch soziale und kulturelle zwecke
 
-### Werte einer Genossenschaft
+### Werte Einer Genossenschaft
 
 - Vertrauen
 - Transparenz
@@ -87,7 +87,7 @@ Allgemeines:
 
 Jede Genossenschaft gehört einem gesetzlichen Prüfungsverband an, welcher in regelmäßigen Zeitabständen die Genossenschaft auf wirtschaftliche Verhältnisse überprüft, als auch die Ordnungsmäßigkeit der Geschäftsführung. Die Regelmäßige Prüfung soll Geschäftspartner und Mitglieder von finanziellen Schäden schützen. Außerdem betreut der Prüfungsverband Mitglieds Genossenschaften in rechtlichen, betriebswirtschaftlichen
 
-## Vor- und Nachteile einer Wohnungsbaugenossenschaft
+## Vor- Und Nachteile Einer Wohnungsbaugenossenschaft
 
 ### Quellen
 
@@ -138,15 +138,15 @@ Jede Genossenschaft gehört einem gesetzlichen Prüfungsverband an, welcher in r
 - durch freiwillige Kooperation die Mitglieder vor dem Abrutschen in soziales Elend bewahren
 - Primär wirtschaftliche Zwecke
 
-### Idee unabhängig voneinander
+### Idee Unabhängig Voneinander
 
 den Gedanke der solidarischen Selbsthilfe erkannte die Arbeiterbewegung früh als wirksames Mittel zur Verbesserung der prekären Verhältnisse der Arbeiter
 
-### Schulze-Delitzsch (in der Stadt)
+### Schulze-Delitzsch (in Der Stadt)
 
 politisch/wirtschaftlich (Genossenschaftsgesetz Bundestag)
 
-### Raiffeisen (auf dem Land)
+### Raiffeisen (auf Dem Land)
 
 erst caritativ
 
@@ -185,7 +185,7 @@ Aus Schleswig-Holstein.
 
 Heute noch aktiv, mit 52 000 Mitgliedern und 9 000 Beschäftigten.
 
-### Genossenschaften im Ausland
+### Genossenschaften Im Ausland
 
 Im Ausland dominieren Genossenschaften den Konsumgütermarkt z.B. in Italien. Es wurden keine Aktiengesellschaften gegründet, trotzdem bleiben die Konsumgüter der Genossenschaften frei zugänglich für Nicht- Genossen.
 

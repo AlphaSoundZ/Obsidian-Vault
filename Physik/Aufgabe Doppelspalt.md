@@ -10,7 +10,7 @@ Lambda ist die Wellenlänge.
 
 n ist die Ordnung.
 
-### Zuerst muss der maximale Winkel $\alpha$ berechnet werden, bei dem die Gerade noch auf den Schirm trifft.
+### Zuerst Muss Der Maximale Winkel $\alpha$ Berechnet Werden, Bei Dem Die Gerade Noch Auf Den Schirm Trifft
 
 $$
 \tan(\alpha) = \frac{b_n}{e}
@@ -28,7 +28,7 @@ $$
 45° = \arctan(\frac{1}{1})
 $$
 
-### Anschließend formt man die oben stehende Formel auf n um, und rundet auf die nächst niedrigere Ordnung ab.
+### Anschließend Formt Man Die Oben Stehende Formel Auf N Um, Und Rundet Auf Die Nächst Niedrigere Ordnung Ab
 
 $$
 \sin(\alpha) = \frac{n \cdot \lambda}{d} 

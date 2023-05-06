@@ -32,7 +32,7 @@ Im Folgenden wird der Beruf des Backend Developers anhand verschiedener Aspekte 
 
 - Reines Informatikstudium
 
-## Aufstiegs- und Karrieremöglichkeiten
+## Aufstiegs- Und Karrieremöglichkeiten
 
 - Starke Aufstiegsmöglichkeiten (hohes Gehalt möglich)
 - Eigene Projekte
@@ -43,13 +43,13 @@ Im Folgenden wird der Beruf des Backend Developers anhand verschiedener Aspekte 
 
 Die Verdienstmöglichkeiten hängen stark von dem Ort ab, sind aber nach oben hin offen. In den USA verdient man beispielsweise durchschnittlich mehr als in Deutschland.
 
-## Verhältnis von Vorgabe und Selbstständigkeit
+## Verhältnis Von Vorgabe Und Selbstständigkeit
 
-## Arbeitszeiten und Arbeitspensum
+## Arbeitszeiten Und Arbeitspensum
 
 Die Arbeitszeiten hängen stark davon ab, ob man selbstständig ist oder nicht, und bei welchem Unternehmen man arbeitet. Meistens ist es allerdings so, dass die Arbeitszeiten, außer bei Meetings, flexibel sind. Meistens kann man auch von zu hause arbeiten. Bei beispielsweise Google arbeiten Angestellte grundsätzlich von 10 bis 18 Uhr. 
 
-## Vereinbarkeit von Familie und Beruf
+## Vereinbarkeit Von Familie Und Beruf
 
 Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FANG-Unternehmen, dann verbringt die meiste Zeit im Unternehmen. Das liegt daran, dass diese Unternehmen neben dem Gehalt, viele kostenlose Angebote haben. Beispielsweise kann man bei Google das Fitnessstudio nutzen und kostenlos beim all-you-can-eat Buffets essen. Bei Meta kann man sogar in deren Campus wohnen, sodass man letzlich die ganze Zeit in der Firma ist. Es wird deutlich, dass die Jobs eher an jüngere Menschen gerichtet sind, die noch keine richtige Familie haben.
 

@@ -1,4 +1,4 @@
-# Maßnahmen von Hamburg für mehr Chancengerechtigkeit
+# Maßnahmen Von Hamburg Für Mehr Chancengerechtigkeit
 
 - BuT: Bildungs- und Teilhabepaket
 - Förderunterricht

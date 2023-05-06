@@ -12,13 +12,13 @@ Stundenlohn: 12 €
 
 ## Ergebnis
 
-### Stunden im Monat übrig
+### Stunden Im Monat Übrig
 
 $$
 \frac{Budget * (1-Prozentsatz)}{Stundenlohn}
 $$
 
-### Monate zum Abbezahlen
+### Monate Zum Abbezahlen
 
 $$
 \frac{Schulden}{Budget * Prozentsatz}
@@ -30,15 +30,15 @@ Wenn der Prozentsatz hingegen höher ist, sind weniger Stunden im Monat übrig, 
 
 Und wenn das Budget steigt, sind mehr Stunden im Monat übrig, und die Schulden sind schneller abbezahlt.
 
-## Beispiel Prozentsatz 50%:
+## Beispiel Prozentsatz 50%
 
-### Stunden pro Monat übrig
+### Stunden pro Monat Übrig
 
 $$
 \frac{200 * 0.5}{12} = 8.3
 $$
 
-### Monate zum Abbezahlen
+### Monate Zum Abbezahlen
 
 $$
 \frac{2120}{200 * 0.5} = 21.2

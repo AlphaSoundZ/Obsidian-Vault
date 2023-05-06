@@ -1,6 +1,6 @@
-# Aktionen gegen den Klimawandel
+# Aktionen Gegen Den Klimawandel
 
-## Welche Fragen stellen sich?
+## Welche Fragen Stellen Sich?
 
 - Wie weit sollten wir gehen, um die Emissionen von Treibhausgasen zu reduzieren?
 - Sind die Aktionen gegen denk Klimawandel moralisch vertretbar?

@@ -14,10 +14,10 @@ Die Welle wird beim Auftreffen auf ein Hindernis zurückgeworfen.
 
 Bedeutung: Wellen überlagern sich störungsfrei
 
-### konstruktive Inteferenz
+### Konstruktive Inteferenz
 
 Berg + Berg = Verstärkung
 
-## destruktive Inteferenz
+## Destruktive Inteferenz
 
 Berg + Tal = Auslöschung

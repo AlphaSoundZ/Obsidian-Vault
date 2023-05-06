@@ -9,7 +9,7 @@
 - introduce the subject
 - bond with your audience → compliment / positive remark
 
-## Main body
+## Main Body
 
 - structure
     - antithetical → problem-solution arrangement

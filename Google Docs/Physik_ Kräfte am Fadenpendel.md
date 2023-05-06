@@ -1,4 +1,4 @@
-# Physik_ Kräfte am Fadenpendel
+# Physik_ Kräfte Am Fadenpendel
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

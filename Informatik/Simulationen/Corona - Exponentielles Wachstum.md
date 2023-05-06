@@ -1,6 +1,6 @@
 # Corona - Exponentielles Wachstum
 
-## alte Aufgabe 2
+## Alte Aufgabe 2
 
 ### 1. Aufgabe
 
@@ -32,7 +32,7 @@ Beim 32. Feld:
 
 2^31 = 2.147.483.648
 
-### 4. Woher ist dies bekannt?
+### 4. Woher Ist Dies Bekannt?
 
 Aus der Exponentialfunktion 2^x
 

@@ -10,7 +10,7 @@ Stelle den teleologischen Gottesbeweis anhand einem oder mehrerer Autoren/Philos
 
 [](https://docs.google.com/document/d/1yVFrZt8chm6MoIkRmc7Yk3V5EVYiDSt_pG2-h0-929Y/edit?usp=sharing)
 
-# Aufbau der Präsentation
+# Aufbau Der Präsentation
 
 - Die Uhrmacher-Analogie (William Paley) (2 Minute)
 - Was ist der teleologische Gottesbeweis? (1 Minute)
@@ -28,9 +28,9 @@ Stelle den teleologischen Gottesbeweis anhand einem oder mehrerer Autoren/Philos
 
 [Präsentation Stichpunkte](Teleologischer%20Gottesbeweis/Pra%CC%88sentation%20Stichpunkte.md)
 
-### QR-Code zum Handout
+### QR-Code Zum Handout
 
-## Die klassischen Gottesbeweise (nach Kant)
+## Die Klassischen Gottesbeweise (nach Kant)
 
 - ontologischer Gottesbeweis
     - Gott ist das vollkommenste Wesen, das vorgestellt werden kann.
@@ -101,7 +101,7 @@ Das Universum hat die und die Eigenschaften, daher existiert ein Planer [10].
 - Diese intelligente Ursache wird als Gott (Schöpfer) interpretiert
 - Die Zweckmäßigkeit und Ordnung in der Natur deuten darauf hin, dass der Schöpfer die Welt bewusst und absichtlich geschaffen hat
 
-### Vertreter und deren Theorien
+### Vertreter Und Deren Theorien
 
 - Thomas von Aquin [2]
     - Scholastiker und theologischer Philosoph
@@ -122,7 +122,7 @@ Das Universum hat die und die Eigenschaften, daher existiert ein Planer [10].
         - jede geringfügige Abweichung von diesen Naturgesetzen würde zu einer Welt führen, in der Leben nicht möglich wäre
         - Wahrscheinlichkeit, dass eine solche Feinabstimmung zufällig entsteht, ist sehr gering, was darauf hinweist, dass sie das Ergebnis von Design ist.
 
-### Kritiker und deren Kritik
+### Kritiker Und Deren Kritik
 
 - Immanuel Kant [6] [12]
     - deutscher Philosoph
@@ -140,8 +140,10 @@ Das Universum hat die und die Eigenschaften, daher existiert ein Planer [10].
     - Man kann aus der Ordnung der Natur nicht auf bestimmte Eigenschaften oder Merkmale des Schöpfers schließen. Zum Beispiel seine Unendlichkeit oder Allmacht.
     - Das Universum ist nicht vollkommen, also kann es nicht die Vollkommenheit Gottes beweisen, da die Ursache im Verhältnis zur Wirkung stehen müsste (wenn Gott vollkommen ist, muss auch das Universum vollkommen, also perfekt sein).
     - Das Universum hat ebenso viel Ähnlichkeit mit einem Tier wie mit einer von Menschenhand geschaffenen Maschine, so dass Gott vielleicht die Seele des Universums ist.
+
 - Bertrand Russell [8]
     - 
+
 - Richard Dawkins [9], [11]
     - Im Buch “The Blind Watchmaker” und ”The God Delusion” (Der Gotteswahn)
         - Es ist kein intelligenter Schöpfer notwendig, um die Komplexität zu erklären. Stattdessen ist dafür die natürliche Selektion verantwortlich.
@@ -156,7 +158,7 @@ Das Universum hat die und die Eigenschaften, daher existiert ein Planer [10].
         - Diese Beobachtung ist eben nicht geschehen
     - Somit gibt es keinen Beweis für die Existenz eines solchen Gottes. Außerdem kann die Welt auch ohne einen Schöpfer eine bestimmte Ordnung und Struktur aufweisen.
 
-### Analogieschluss des teleologischen Gottesbeweis
+### Analogieschluss Des Teleologischen Gottesbeweis
 
 Prämisse 1: Die Welt weist auf eine bewusste Planung und Ordnung hin, die nicht zufällig oder durch Naturgesetze allein erklärt werden kann.
 
@@ -164,7 +166,7 @@ Prämisse 2: Diese Planung und Ordnung kann nur von einem intelligenten Schöpfe
 
 Konklusion: Es gibt einen intelligenten Schöpfer, der für die Planung und Ordnung der Welt verantwortlich ist, und dieser Schöpfer wird als Gott bezeichnet.
 
-# Darstellung des teleologischen Gottesbeweis
+# Darstellung Des Teleologischen Gottesbeweis
 
 # Quellen
 
@@ -182,6 +184,7 @@ Konklusion: Es gibt einen intelligenten Schöpfer, der für die Planung und Ordn
 | 11 | Dawkins, Richard (2006): Der Gotteswahn. DenkArt Einführungsphase 136. |
 | 12 | https://plato.stanford.edu/entries/kant-religion/, Artikel 3.1.2.3 |
 | 13 | http://people.tamu.edu/~sdaniel/HumeCritiqueDesign.pdf
+
 David Hume
 http://anselm.edu/sites/default/files/Documents/Institute%20of%20SA%20Studies/Hume%20and%20Aquinas%20on%20Natural%20TheologyREVISED2.pdf |
 |  | Nicht explizit verwendet |

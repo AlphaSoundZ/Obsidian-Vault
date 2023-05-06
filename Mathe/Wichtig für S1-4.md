@@ -1,4 +1,4 @@
-# Wichtig für S1-4
+# Wichtig Für S1-4
 
 - Gleichungen lösen
     - Faktorisierte Form erkennen

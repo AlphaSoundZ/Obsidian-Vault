@@ -12,7 +12,7 @@ INFLATION UND HYPERINFLATION
 
 Leonard, Jan Jacob, Maxim, Emil
 
-# 
+#
 
 # Inflation
 
@@ -22,17 +22,17 @@ Eine Inflation besteht dann, wenn die Preise eines Produktes ansteigen, aber das
 
 Eine Hyperinflation liegt dann vor, wenn die Inflationsrate bei 50 Prozent oder mehr pro Monat liegt, was 13.000 Prozent pro Jahr entsprechen.
 
-# Erläutert die Bedeutung von Inflation für die Wirtschaft
+# Erläutert Die Bedeutung Von Inflation Für Die Wirtschaft
 
-# Wenn das Preisniveau über einen längeren Zeitraum deutlich steigt, spricht man von Inflation, sinkt es, spricht man von Deflation. Doch warum ist Preisstabilität so wichtig? Preisstabilität ist wichtig, damit die Kaufkraft des Geldes erhalten bleibt. Bei Inflation sinkt der Geldwert, die Kaufkraft des Geldes nimmt ab.
+# Wenn Das Preisniveau Über Einen Längeren Zeitraum Deutlich Steigt, Spricht Man Von Inflation, Sinkt Es, Spricht Man Von Deflation. Doch Warum Ist Preisstabilität so Wichtig? Preisstabilität Ist Wichtig, Damit Die Kaufkraft Des Geldes Erhalten Bleibt. Bei Inflation Sinkt Der Geldwert, Die Kaufkraft Des Geldes Nimmt Ab
 
-# Warum will man 2% Inflation?
+# Warum Will Man 2% Inflation?
 
 Eine leichte Inflation wird als ideal angesehen, da in diesem Fall sowohl Unternehmen in Erwartung künftig steigender Preise – investieren und die Verbraucher konsumieren, vor allem wenn auch die Löhne steigen. Die EZB verfolgt ein Inflationsziel von 2 Prozent.
 
-# 
+#
 
-# Wir wird die Inflationsrate berechnet?
+# Wir Wird Die Inflationsrate Berechnet?
 
 Zuallererst gibt es eine Formel womit man die Inflationsrate berechnet, sowie eine allgemeine Art wie man diese berechnen kann.
 
@@ -44,6 +44,6 @@ Allgemeiner Weg zum berechnen:
 
 Sie wird durch ein Verbraucherpreisindizes ( Warenkorb) berechnet. Dabei werden die Vier großen Ausgaben Punkte: Wohnung und Energie, Verkehr, Freizeit, Kultur und Unterhaltung und Nahrungsmittel, die ein Deutscher Haushalt pro Jahr erwirbt. Prinzipiell vergleicht man einfach den Preis aus Warenkorb im Jahr 1 mit den Kosten für dieselben Produkte im Jahr 2. Die Differenz aus beiden Jahren bestimmen dann die Inflation. Jedoch ist diese Art nicht so genau, da man die Preissteigerung eine Gutes nicht so gut voraussehen kann.
 
-# Wer/Was beeinflusst die Inflationsrate?
+# Wer/Was Beeinflusst Die Inflationsrate?
 
 Es gibt verschiedene Ursachen für Inflation, z. B. die Entwicklung von Angebot und Nachfrage. Aber auch die Preispolitik der Europäischen Zentralbank (EZB) hat Einfluss darauf, wie sich die Inflation in Zukunft weiterentwickeln wird.

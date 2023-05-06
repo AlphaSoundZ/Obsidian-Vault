@@ -1,12 +1,12 @@
 # Bildanalyse Beispiel
 
-## Schreibe eine Bildanalyse mit dem Schwerpunkt Farbe zum Gemälde
+## Schreibe Eine Bildanalyse Mit Dem Schwerpunkt Farbe Zum Gemälde
 
 ![Untitled](Bildanalyse%20Beispiel/Untitled.png)
 
 "Porträt der Frau des Künstlers mit Hut" von August Macke (1909), Öl auf Leinwand, 49,7 x 34 cm
 
-### a) Nenne fünf Adjektive, die dir beim ersten Betrachten zu diesem Porträt einfallen.
+### a) Nenne Fünf Adjektive, Die Dir Beim Ersten Betrachten Zu Diesem Porträt Einfallen
 
 - farbintensiv
 - bunt
@@ -14,7 +14,7 @@
 - leuchtend
 - kontrastreich
 
-### b) Fertige zur Vorbereitung mindestens zwei Kompositionsskizzen mit verschiedenen Untersuchungsschwerpunkten nach dem aus dem Unterricht bekannten Vorgehen an, die dir für die Vorbereitung der Analyse geeignet erscheinen. (Tipp: Wenn die Helligkeit deines Bildschirms hoch eingestellt ist, kann man das Motiv sehr gut durch ein weißes Papier pausen.)
+### b) Fertige Zur Vorbereitung Mindestens Zwei Kompositionsskizzen Mit Verschiedenen Untersuchungsschwerpunkten Nach Dem Aus Dem Unterricht Bekannten Vorgehen An, Die Dir Für Die Vorbereitung Der Analyse Geeignet Erscheinen. (Tipp: Wenn Die Helligkeit Deines Bildschirms Hoch Eingestellt Ist, Kann Man Das Motiv Sehr Gut Durch Ein Weißes Papier pausen.)
 
 ![Hell-Dunkel](Bildanalyse%20Beispiel/Untitled%201.png)
 
@@ -24,7 +24,7 @@ Hell-Dunkel
 
 Farbe
 
-### c) Beschreibe und analysiere das Bild mithilfe des AB "Werkbetrachtungsmodell" (siehe Anhang) mit Schwerpunkt auf der Leitfrage: Wie wurde das bildnerische Mittel Farbe eingesetzt? (Begriffliche Hilfestellungen bietet das AB "Vorbereitung auf die Klausur" im Anhang.)
+### c) Beschreibe Und Analysiere Das Bild Mithilfe Des AB "Werkbetrachtungsmodell" (siehe Anhang) Mit Schwerpunkt Auf Der Leitfrage: Wie Wurde Das Bildnerische Mittel Farbe Eingesetzt? (Begriffliche Hilfestellungen Bietet Das AB "Vorbereitung Auf Die Klausur" Im Anhang.)
 
 Das Porträtgemälde “Porträt Frau des Künstlers mit Hut” von August Macke ist aus dem Jahr 1909 und lässt sich in die Epoche des Expressionismus einordnen. Das 49,7 x 34 Zentimeter große Ölgemälde befindet sich auf Leinwand. Heute wird es im LWL-Museum für Kunst und Kultur ausgestellt. Das Gemälde zeigt eine Frau mit einem kunstvollem Filzhut. Die Frau trägt eine violett, offen getragene, leichte Jacke, wodurch die dunkel türkise Bluse zum Vorschein kommt. Der Hintergrund besteht aus hell blauen, grünen und braun-gelben schwungvoll aufgetragenen Farbtönen. Im folgenden wird das Gemälde mit Schwerpunkt auf die Leitfrage: Wie wurde das bildnerische Mittel Farbe eingesetzt?, analysiert.
 
@@ -48,6 +48,6 @@ Licht
 
 Der gelbe Schimmer im Hintergrund könnte die Sonne darstellen. Das weiche Licht bildet den Schatten auf der Figur, welche vorallem im Gesicht bemerkbar wird. Aber auch die Farben werden durch das Licht stark beeinflusst, wodurch sie im Schatten kaum erkennbar sind. Auf den Schultern und am Kinn sieht man ein Glanzlicht. Bei der Kette handelt es sich um Reflexionen des Lichts. Das Licht beleuchtet die Figur von Links und bildet auch den Farbverlauf im Hintergrund, sodass der Himmel von der Lichtquelle weg immer dunkler wird. 
 
-### d) Interpretiere das Werk unter Einbeziehung der vorausgegangenen Skizzen, Beschreibung und Analyse.
+### d) Interpretiere Das Werk Unter Einbeziehung Der Vorausgegangenen Skizzen, Beschreibung Und Analyse
 
 - Der gelbe Fleck dient als Lichtquelle und lässt Farben bis ins Schwarze verlaufen.

@@ -23,7 +23,7 @@ Heine war ein scharfer Kritiker seiner Zeit und seiner politischen Umgebung. Er 
 
 Heine verbrachte den Großteil seines Lebens in Paris, wo er weiterhin als Schriftsteller und Journalist arbeitete. Sein Werk hatte einen großen Einfluss auf die Literatur und die politische Kultur seiner Zeit und darüber hinaus. Auch heute noch wird er als einer der wichtigsten Vertreter der deutschen Literaturgeschichte verehrt.
 
-# Kritik an den politischen Verhältnissen
+# Kritik an Den Politischen Verhältnissen
 
 Heine war ein scharfer Kritiker der politischen Verhältnisse seiner Zeit und setzte sich in seinen Werken auf satirische und ironische Weise mit den herrschenden Zuständen auseinander.
 
@@ -37,7 +37,7 @@ Heine war ein scharfer Kritiker der politischen Verhältnisse seiner Zeit und se
     - "Ein Jüngling liebt ein Mädchen": Beschreibt die Liebesgeschichte zweier junger Menschen, die aufgrund ihrer unterschiedlichen sozialen Herkunft nicht zusammen sein können. Kritisiert die Ungerechtigkeit und die soziale Kluft in der Gesellschaft.
     - "Die Wahrheit": Ein Gedicht, das die Unterdrückung der Wahrheit und die Lügen der Mächtigen thematisiert.
 
-# Heinrich Heines Eindrücke von Hamburg
+# Heinrich Heines Eindrücke Von Hamburg
 
 - Heine besuchte Hamburg im Oktober 1843 und beschrieb die Stadt als "größte, lustigste, freieste Stadt Deutschlands".
 - Er war beeindruckt von der Hansestadt und ihren vielfältigen kulturellen und wirtschaftlichen Aktivitäten.
@@ -51,7 +51,7 @@ Einerseits lobt er die “unendlichen Reichtümer” und “malerischen Ansichte
 
 Andererseits beobachtet er die sozialen Unterschiede in der Stadt und kritisiert die Ungerechtigkeit und Armut in Hamburg. Er beobachtet zudem die aufkommende Demokratiebewegung in der Stadt, die er unterstützt.
 
-# Interpretation des Textes “Ein Wintermärchen”
+# Interpretation Des Textes “Ein Wintermärchen”
 
 Heinrich Heines "Ein Wintermärchen" ist eine politische Dichtung, die 1844 entstand und eine scharfe Kritik an den politischen und gesellschaftlichen Verhältnissen im Deutschland der Vormärzzeit ausdrückt. Der Text ist in Form eines Märchens geschrieben, was es Heine ermöglicht, politische Inhalte in einer fiktionalen Erzählung zu verpacken und so auch kritische Gedanken zu äußern, die in der offiziellen Öffentlichkeit nicht erlaubt waren.
 

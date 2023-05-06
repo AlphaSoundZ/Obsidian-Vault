@@ -34,7 +34,7 @@ $$
 f=\frac{1}{T}
 $$
 
-### Erläutere dabei die Fachbegriffe Wellenlänge, Geschwindigkeit, Frequenz, Interferenz und stehende Welle. Gehe auch auf die Beziehung zwischen diesen Begriffen ein.
+### Erläutere Dabei Die Fachbegriffe Wellenlänge, Geschwindigkeit, Frequenz, Interferenz Und Stehende Welle. Gehe Auch Auf Die Beziehung Zwischen Diesen Begriffen Ein
 
 Es gibt verschiedene Arten von Wellen. Bei der Transversalwelle sind die Ausbreitungsrichtung und Schwingungsrichtung senkrecht zueinander. Bei der Longitudinalwelle sind die Ausbreitungsrichtung und die Schwingungsrichtung parallel zueinander.
 
@@ -52,7 +52,7 @@ Die Überlagerung von Wellen nennt man Interferenz. Aus zwei Wellenbergen wird e
 
 Wenn ein Medium in der Grundschwingung schwingt, dann ist die Anzahl der Schwingungsbäuche gleich 1 (k = 1).
 
-## Interferenz hinter dem Doppelspalt
+## Interferenz Hinter Dem Doppelspalt
 
 Je größer der Spaltabstand, desto kleiner die Abstände zwischen den Maxima und höher die Anzahl an Maxima.
 

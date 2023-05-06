@@ -1,4 +1,4 @@
-# Zum ewigen Frieden
+# Zum Ewigen Frieden
 
 - Immanuel Kant
 

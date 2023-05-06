@@ -1,4 +1,4 @@
-# Sadismus und Masochismus
+# Sadismus Und Masochismus
 
 ## Sadismus
 
@@ -22,7 +22,7 @@
 
 ## Im Roman “Der Untertan”
 
-### Bedingungen in der Untertan
+### Bedingungen in Der Untertan
 
 - Macht des Vaters
 - Unterdrückung und Ohnmacht der Mutter

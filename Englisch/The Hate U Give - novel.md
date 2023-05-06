@@ -1,4 +1,4 @@
-# The Hate U Give - novel
+# The Hate U Give - Novel
 
 The novel “The Hate U Give” was written by Angie Thomas and published in 2017 deals with the way of life of an African American girl who has to live two separate versions of her. The text excerpt is from the sixth chapter, in which Starr's feelings about Detective Gomez and the means used to convey them will be analyzed.
 

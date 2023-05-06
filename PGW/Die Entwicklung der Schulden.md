@@ -1,6 +1,6 @@
-# Die Entwicklung der Schulden
+# Die Entwicklung Der Schulden
 
-## Probleme der Finanzierung des Sozialstaates
+## Probleme Der Finanzierung Des Sozialstaates
 
 Etwa 60% Schulden vom Staat
 

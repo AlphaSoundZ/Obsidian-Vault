@@ -1,6 +1,6 @@
-# Unterwegs nach Utopia
+# Unterwegs Nach Utopia
 
-### Notiere, das Projekt, das dich am meisten interessiert. Beschreibe es knapp und stichpunktartig.
+### Notiere, Das Projekt, Das Dich Am Meisten Interessiert. Beschreibe Es Knapp Und Stichpunktartig
 
 Koopenhagen
 
@@ -17,7 +17,7 @@ Barcelona
 - Weniger Straßen
 - Produktion der Waren vorort
 
-### Gibt es Projekte oder Aussagen, die du kritikwürdig findest? Notiere Deine Kritik.
+### Gibt Es Projekte Oder Aussagen, Die Du Kritikwürdig Findest? Notiere Deine Kritik
 
 Toyota Projekt
 
@@ -29,4 +29,4 @@ Panasonic
 - Bauruine: Gefühl des Wohnens auf einer Baustelle bei reinen Betonwänden und “Bunkerbauten”
 - Wieso sind Schafe auf Dächern?
 
-### Wie würdest du deinen Stadtteil verändern? Wie würdest du ihn nachhaltiger und zukunftsfähiger gestalten? Notiere oder skizziere deine Ideen.
+### Wie Würdest Du Deinen Stadtteil Verändern? Wie Würdest Du Ihn Nachhaltiger Und Zukunftsfähiger Gestalten? Notiere Oder Skizziere Deine Ideen

@@ -1,4 +1,4 @@
-# Sturm und Drang & Aufklärung
+# Sturm Und Drang & Aufklärung
 
 ## Fachwissenschaftliche Informationen
 

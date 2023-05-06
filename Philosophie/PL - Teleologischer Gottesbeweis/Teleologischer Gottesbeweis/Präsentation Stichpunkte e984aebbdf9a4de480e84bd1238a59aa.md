@@ -19,7 +19,7 @@
     - Eine Uhr hat einen intelligenten Designer.
     - Das Universum muss einen intelligenten Designer haben. Dieser wird Gott genannt.
 
-# Thomas von Aquin
+# Thomas Von Aquin
 
 - Er hat 5 Beweise entwickelt (4 kosmologische, 1 teleologischen)
 - Aufbau gilt für alle 5 Beweise

@@ -1,4 +1,4 @@
-# Discussion Malcolm vs Martin Luther King
+# Discussion Malcolm Vs Martin Luther King
 
 Arguments
 

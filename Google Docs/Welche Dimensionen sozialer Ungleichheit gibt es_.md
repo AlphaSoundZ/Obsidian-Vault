@@ -1,4 +1,4 @@
-# Welche Dimensionen sozialer Ungleichheit gibt es_
+# Welche Dimensionen Sozialer Ungleichheit Gibt es_
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM

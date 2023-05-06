@@ -29,7 +29,7 @@ Bild 3 (leonard)
 
 Fazit (Leonard)
 
-### Leitfrage:
+### Leitfrage
 
 Wie werden Menschen in Malereien dargestellt?
 
@@ -37,7 +37,7 @@ Historische und geographische Einordnung (Jan Jacob)
 
 Die Antike war eine Epoche im Mittelmeerraum von 800 vor Christus bis 500 nach Christus.
 
-### Historische und Geografische Einordnung
+### Historische Und Geografische Einordnung
 
 ### Wann?
 
@@ -61,11 +61,11 @@ Die Antike war eine Epoche im Mittelmeerraum von 800 vor Christus bis 500 nach C
     - Rom
     - Das Alte Ägypten, Griechenland und die römische Kunst haben die Kunst der Antike am meisten geprägt, weshalb wir uns auf diese beschränken werden.
 
-## Charakteristika und Stilmittel? (Jan Jacob)
+## Charakteristika Und Stilmittel? (Jan Jacob)
 
 Altägyptische, griechische und römische Kunst der Antike
 
-### Zu den Charakteristika und Stilmitteln der (Alt-) Ägyptische Kunst
+### Zu Den Charakteristika Und Stilmitteln Der (Alt-) Ägyptische Kunst
 
 - Gehört die schematisierte Darstellung von Malerei
 - Malerei wurde in Form von:
@@ -83,7 +83,7 @@ Altägyptische, griechische und römische Kunst der Antike
 - Bei der Wandmalerei: wurden Umrisse mit dunklen Linienformen durch gleichmäßig aufgetragene Farben ausgefüllt (keine Farbübergänge)
 - Wandmalereien gab es nicht nur in Pyramiden sondern auch z.B. in Häusern der Lebenden
 
-### Griechische Künstler befassten sich mit
+### Griechische Künstler Befassten Sich Mit
 
 - Tempelanlagen
 - Plastiken aus Bronze
@@ -164,7 +164,7 @@ Die Epoche der antiken Kunst ist geprägt von vielen Eroberungen der Griechen im
 
 Mit Hinblick auf die Leitfrage wurden Menschen in der antiken Kunst im Wesentlichen in Form von Wandmalereien unterschiedlich dargestellt, wobei Plastiken und Skulpturen in der Epoche auch eine wichtige Rolle spielten. Unter anderem wurde die Antike Kunst von den vier Pompejanischen Stile geprägt, beispielsweise wurde in Ägypten die Perspektive stark vernachlässigt, stattdessen wurde der Fokus eher auf das Wesentliche, wie der Kopf, die Augen und die Brust, gelegt, anders war das allerdings bei den Römern und Griechen welche sich vor allem mit der Perspektive und speziellen Techniken auseinandersetzten, was wiederum zu detaillierteren und naturgetreuen Wandmalereien führte.
 
-## Quellen:
+## Quellen
 
 [Altägyptische Kunst](https://www.lernhelfer.de/schuelerlexikon/kunst/artikel/aegypten-plastiken-und-malerei)
 

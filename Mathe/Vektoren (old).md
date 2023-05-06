@@ -6,13 +6,13 @@ Beispiel T: Temperatur ist ein Skalar.
 
 Größen, die man mit mehr als einer Zahl beschreiben muss (Geschwindiggkeiten, Kräfte …), nennt man Vektoren!
 
-## Betrag eines Vektors
+## Betrag Eines Vektors
 
 $$
 |\vec{v}|= \sqrt{{x_1}^2, {y_1}^2, {z_1}^2}
 $$
 
-## Vektoren addieren
+## Vektoren Addieren
 
 $$
 \vec{v_1} + \vec{v_2} = 
@@ -30,13 +30,13 @@ $$
 = x_1 * x_2 + y_1 * y_2 + z_1 * z_2
 $$
 
-## Normieren eines Vektors (Vektor auf Länge 1 kürzen)
+## Normieren Eines Vektors (Vektor Auf Länge 1 kürzen)
 
 $$
 \vec{v_1}=|\vec{v_1}|* \vec{e}_{\vec{v_1}} = \frac{\vec{v_1}}{|\vec{v_1}|} = \vec{e}_{\vec{v_1}}
 $$
 
-# Geometrische Objekte und Vektoren
+# Geometrische Objekte Und Vektoren
 
 ## Punkt
 
@@ -59,7 +59,7 @@ Der Punkt O ist der Ursprung des Koordinatensystems.
 
 Vektoren sind durch ihre Komponenten eindeutig festgelegt, allerdings gibt es unendliche viele Repräsentanten. In der geometrischen Anschauung sind alle diese Repräsentanten parallel zueinander, gleich lang und zeigen in dieselbe Richtung! Ein Repräsentant dieser Klasse ist der Ortsvektor. Anfangspunkt für den Ortsvektor ist der Koordinatenursprung.
 
-## Aus 2 Punkten → ein Vektor
+## Aus 2 Punkten → Ein Vektor
 
 Welche Translation führt vom Punkt A zum Punkt E?
 
@@ -74,7 +74,7 @@ $$
 
 Ein geschlossener Polygonzug hat den Wert 0.
 
-## Winkel zwischen zwei Vektoren
+## Winkel Zwischen Zwei Vektoren
 
 $$
 \varphi = \arccos(
@@ -90,7 +90,7 @@ Ein Vektor ist einem anderen Vektor gegenüber orthogonal, wenn das Skalarproduk
 
 Die Konstruktion eines orthogonalen Einheitsvektors ist im R² eindeutig, im R³ nicht!
 
-# Von Vektorgleichungen zu LGS
+# Von Vektorgleichungen Zu LGS
 
 $$
 \vec{v_1}=\lambda \vec{v_2}
@@ -112,9 +112,9 @@ $$
 
 Wenn Lambda bei allen Gleichungen gleich ist, sind die Vektoren kolliniear.
 
-## Die nächsten geometrischen Objekte
+## Die Nächsten Geometrischen Objekte
 
-### Beschreibung von Geraden
+### Beschreibung Von Geraden
 
 Mittels zweier Punkte oder mittels eines Punktes und des Vektors in Richtung der Gerade. Dieser Vektor ist ein Richtungsvektor.
 
@@ -126,11 +126,11 @@ $$
 \vec{g} = \overrightarrow{OP} + \lambda \vec{r}
 $$
 
-### Lagebeziehungen zwischen geometrischen Objekten
+### Lagebeziehungen Zwischen Geometrischen Objekten
 
 Objekte können sich schneiden (oder identisch sein → bei einem Punkt) oder nicht.
 
-### Liegt ein Punkt auf Gerade g?
+### Liegt Ein Punkt Auf Gerade G?
 
 - Wandle Punkte in Ortsvektoren um
 - Setze Ortsvektor und Geradengleichung gleich
@@ -144,7 +144,7 @@ $$
 \overrightarrow{OP} = g
 $$
 
-# Schneiden von Geraden
+# Schneiden Von Geraden
 
 Zwei Geraden können sich schneiden, parallel oder windschief sein. Windschiefe Geraden gibt es nur im R³.
 

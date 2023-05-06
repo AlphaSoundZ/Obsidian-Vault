@@ -80,7 +80,7 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - Gotthold Ephraim Lessing (1729-1781)
 - Georg Christoph Lichtenberg (1742-1799)
 
-# Sturm und Drang
+# Sturm Und Drang
 
 ## Weltbild / Ideologie
 
@@ -100,7 +100,7 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - Schöpfungs- und Durchsetzungskraft
 - Freie Selbstentfaltung
 
-## Inhalte der Literatur
+## Inhalte Der Literatur
 
 - Inniges Verhältnis zur Natur
 - Naturmensch: Gefühle, Leidenschaften, Sehnsucht und Triebe
@@ -118,7 +118,7 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - Gedichte
 - Lyrik
 
-## Schrift und Sprache
+## Schrift Und Sprache
 
 - keine literarische Schreibregeln
 - vielfältige rhetorische Mittel
@@ -140,7 +140,7 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 
 # Weimarer Klassik
 
-## Erkläre die gedankliche Kehrtwende
+## Erkläre Die Gedankliche Kehrtwende
 
 - Abkehrung von alten Idealen
     - antiken Kunstideal

@@ -8,7 +8,7 @@
 - Vor- und Nachteile einer Wohnungsbaugenossenschaft
 - Geschichte
 
-## Was ist eine Genossenschaft
+## Was Ist Eine Genossenschaft
 
 ### Allgemein
 
@@ -37,7 +37,7 @@ Eine eG muss aus mindestens drei Mitgliedern bestehen. Sie muss über eine Satzu
 
 - nach Novellierung 2006 zählen auch soziale und kulturelle Zwecke
 
-### Werte einer Genossenschaft
+### Werte Einer Genossenschaft
 
 - Vertrauen
 - Transparenz
@@ -74,7 +74,7 @@ Eine eG muss aus mindestens drei Mitgliedern bestehen. Sie muss über eine Satzu
 
 Jede Genossenschaft gehört einem gesetzlichen Prüfungsverband an, welcher in regelmäßigen Zeitabständen die Genossenschaft auf wirtschaftliche Verhältnisse überprüft, als auch die Ordnungsmäßigkeit der Geschäftsführung. Die Regelmäßige Prüfung soll Geschäftspartner und Mitglieder von finanziellen Schäden schützen. Außerdem betreut der Prüfungsverband Mitglieds Genossenschaften in rechtlichen, betriebswirtschaftlichen
 
-## Vor- und Nachteile einer Wohnungsbaugenossenschaft
+## Vor- Und Nachteile Einer Wohnungsbaugenossenschaft
 
 Eine **Wohnungsbaugenossenschaft** (kurz **WBG**) hat im Allgemeinen das Ziel, den genossenschaftlichen Mitgliedern preisgünstigen Wohnraum anzubieten. Es ist eine kooperative Form eines Wohnungsunternehmens. Das Miteigentum der einzelnen Mitglieder bezieht sich damit nicht auf die genutzte Wohnung, sondern auf das Wohnungsunternehmen. In Deutschland gibt es mehr als 2.000 Baugenossenschaften, die mehr als zwei Millionen Wohnungen verwalten und etwa drei Millionen Mitglieder haben. Allein in Berlin verwalten mehr als 80 Wohnungsbaugenossenschaften etwa 180.000 Wohnungen, d.h. über zehn Prozent des gesamten Wohnungsbestandes dieser Stadt.
 
@@ -111,15 +111,15 @@ Eine **Wohnungsbaugenossenschaft** (kurz **WBG**) hat im Allgemeinen das Ziel, d
 - durch freiwillige Kooperation die Mitglieder vor dem Abrutschen in soziales Elend bewahren
 - Primär wirtschaftliche Zwecke
 
-### Idee unabhängig voneinander
+### Idee Unabhängig Voneinander
 
 den Gedanke der solidarischen Selbsthilfe erkannte die Arbeiterbewegung früh als wirksames Mittel zur Verbesserung der prekären Verhältnisse der Arbeiter
 
-### Schulze-Delitzsch (in der Stadt)
+### Schulze-Delitzsch (in Der Stadt)
 
 politisch/wirtschaftlich (Genossenschaftsgesetz Bundestag)
 
-### Raiffeisen (auf dem Land)
+### Raiffeisen (auf Dem Land)
 
 erst caritativ
 
@@ -158,6 +158,6 @@ Aus Schleswig-Holstein.
 
 Heute noch aktiv, mit 52 000 Mitgliedern und 9 000 Beschäftigten.
 
-### Genossenschaften im Ausland
+### Genossenschaften Im Ausland
 
 Im Ausland dominieren Genossenschaften den Konsumgütermarkt z.B. in Italien. Es wurden keine Aktiengesellschaften gegründet, trotzdem bleiben die Konsumgüter der Genossenschaften frei zugänglich für Nicht-Genossen.

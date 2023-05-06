@@ -26,7 +26,7 @@
     - Weimarer Republik
     - Bau des Bauhauses Dessau
 
-# Hinweise auf die Art des Bauwerks (Ästhetik, Material, Fachbegriffe etc.)
+# Hinweise Auf Die Art Des Bauwerks (Ästhetik, Material, Fachbegriffe etc.)
 
 - günstig
 - in Massen
@@ -35,7 +35,7 @@
 - minimalistisch
 - reines, klares und kantiges Design
 
-# Ideen des Bauhauses
+# Ideen Des Bauhauses
 
 - Erneuerung der Lebensformen
 - Reduzierung der Dinge auf ihre elementare Funktion
@@ -53,11 +53,11 @@ Johannes Itten, Gerhard Marcks, Paul Klee, Oskar Schlemmer, Wassily Kandinsky
 
 später: László Moholy-Nagy, Josef Albers
 
-# Konzept des Lernens der Kunstschule
+# Konzept Des Lernens Der Kunstschule
 
 Lernen in einer Gesellschaft und von Grund auf neu denken.
 
-# Problematik der Wohnsituation im frühen 20. Jh.
+# Problematik Der Wohnsituation Im Frühen 20. Jh
 
 - überfüllt, dreckig, feucht, Krankheiten verbreiten sich, chaos
 - wenig Platz
@@ -65,7 +65,7 @@ Lernen in einer Gesellschaft und von Grund auf neu denken.
 - Kleidung lag auf dem Boden
 - fremde Menschen teilen sich Wohnungen
 
-# Einfluss des Bauhauses auf die Architektur
+# Einfluss Des Bauhauses Auf Die Architektur
 
 - Architekturrevolution
 - Art des Bauens hat sich verändert

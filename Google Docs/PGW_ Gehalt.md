@@ -35,7 +35,7 @@ volatil:
 
 Stark schwankend (unregelhafte Änderungen) bei zum Beispiel Börsenkurse
 
-## Mögliche staatliche Maßnahmen zur Verringerung von sozialer Ungleichheit:
+## Mögliche Staatliche Maßnahmen Zur Verringerung Von Sozialer Ungleichheit
 
 - Fairere Organisation der Gesundheitsversorgung
 - Umverteilung durch Steuern und Sozialleistungen / Transferleistungen (z.B. Grundrente, Grundeinkommen, "Grundsicherung”)

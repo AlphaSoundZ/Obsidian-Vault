@@ -1,4 +1,4 @@
-# Analysing a newspaper article: Pre-reading
+# Analysing a Newspaper Article: Pre-reading
 
 ### Words
 
@@ -6,9 +6,9 @@
 
 Verankern, Mythos, verzerrt, feindselig
 
-## A hostile myth
+## A Hostile Myth
 
-### The myth of the British identity has strongly entrenched a warped view to the public.
+### The Myth of the British Identity Has Strongly Entrenched a Warped view to the Public
 
 First paragraph
 

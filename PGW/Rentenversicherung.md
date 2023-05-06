@@ -4,7 +4,7 @@
 
 alle rentenversicherungspflichtig Beschäftigten und ihre Arbeitsgeber
 
-## Wer zahlt nicht ein?
+## Wer Zahlt Nicht Ein?
 
 nicht rentenversicherungspflichtig Beschäftigte: Selbstständige, Beamte, Einkommen über Beitragsgrenze 7300€ pro Monat)
 

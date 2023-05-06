@@ -1,4 +1,4 @@
-# Facetten der modernen Sozialstruktur
+# Facetten Der Modernen Sozialstruktur
 
 ## Inhalt
 
@@ -14,7 +14,7 @@
     - Sinus-Lebenswelten u18
 - Exklusion und Inklusion
 
-## Soziale Schichten und Klassen
+## Soziale Schichten Und Klassen
 
 Die Sozialen Schichten und Klassen fassen Menschen in eine Gruppe (Schicht oder Klasse) zusammen, die sich in einer ähnlichen sozioökonomischen Lage befinden. Mit den Lagen sind aufgrund ähnlicher Lebenserfahrungen ähnliche Persönlichkeitsmerkmale verbunden:
 
@@ -94,7 +94,7 @@ Soziale Milieus fassen Menschen mit ähnlicher Lebensauffassung und Lebensweise 
 
 ![Untitled](Facetten%20der%20modernen%20Sozialstruktur/Untitled%204.png)
 
-### Sinus-Milieus für Deutschland
+### Sinus-Milieus Für Deutschland
 
 | Sinus-Milieus | Kurzbeschreibung |
 | --- | --- |
@@ -112,6 +112,7 @@ Soziale Milieus fassen Menschen mit ähnlicher Lebensauffassung und Lebensweise 
 | Traditioneller Mainstream |  |
 | Nostalgisch-Bürgerliches Milieu | Die harmonieorientierte (untere) Mitte: Wunsch nach gesicherten Verhältnissen und einem angemessenen Status; Selbstbild als Mitte der Gesellschaft, aber wachsende Überforderung und Abstiegsängste; gefühlter Verlust gelernter Regeln und Gewissheiten; Sehnsucht nach alten Zeiten |
 | Traditionelles Milieu | Die Sicherheit und Ordnung liebende ältere Generation: verhaftet in der kleinbürgerlichen Welt bzw. traditionellen Arbeiterkultur; anspruchslose Anpassung an die Notwendigkeiten; steigende Akzeptanz der neuen Nachhaltigkeitsnorm; Selbstbild als rechtschaffene kleine Leute |
+
 - Abszisse (x, Grundorientierung)
     - Tradition (Pflichterfüllung, Ordnung)
     - Modernisierung (Individualisierung, Selbstverwirklichung, Genuss)
@@ -121,7 +122,7 @@ Soziale Milieus fassen Menschen mit ähnlicher Lebensauffassung und Lebensweise 
     - Mittlere Mittelschicht
     - Oberschicht / Obere Mittelschicht
 
-### Sinus-Lebenswelten u18
+### Sinus-Lebenswelten U18
 
 | Sinus-Milieus | Kurzbeschreibung |
 | --- | --- |
@@ -132,13 +133,14 @@ Soziale Milieus fassen Menschen mit ähnlicher Lebensauffassung und Lebensweise 
 | Experimentalistische Hedonisten | Die spaß- und szeneorientierten Nonkonformisten mit Fokus auf Leben im Hier und Jetzt |
 | Materialistische Hedonisten | Freizeit- und familienorientierten Nonkonformisten mit Fokus auf Leben im Hier und Jetzt. |
 | Prekäre | Die um Orientierung und Teilhabe bemühten Jugendlichen mit schwierigen Startvoraussetzungen. |
+
 - Abszisse (x, Normative Grundorientierung, zentrale Wertorientierungen)
     - Absicherung, Autorität, Anschluss (traditionell)
     - Bestätigung, Bildung, Balance (modern)
     - Grenzen überwinden, Herausforderungen, Erleben (postmodern)
 - Ordinate (y, Bildung)
 
-## Exklusion und Inklusion
+## Exklusion Und Inklusion
 
 Im Zentrum des Exklusion-Inklusion-Modells steht nicht die vertikale Aufteilung der Gesellschaft in oben, Mitte und unten, sondern die beiden Pole drinnen (Inklusion) und draußen (Exklusion). Es geht nicht darum, wer wo in der Gesellschaft steht, sondern darum, wer "drinnen" oder "draußen" ist. Im Fokus stehen die extrem Benachteiligten, denen ein Platz im anerkannten gesellschaftlichen Gefüge verweigert wird.
 

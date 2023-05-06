@@ -16,7 +16,7 @@
 
 Kielerstraße
 
-## Alternativ leerstehende Gebäude
+## Alternativ Leerstehende Gebäude
 
 [](https://www.google.com/maps/@53.5575901,9.9374158,3a,60y,145.33h,93.11t/data=!3m6!1e1!3m4!1stp1Cswt1a79WmuuwTplSWw!2e0!7i13312!8i6656)
 
@@ -45,7 +45,7 @@ Hannover Hbf
 - Fahrstühle aus benachbarten Häusern für Barrierefreiheit
 - Innenhöfe: schafft Licht
 
-# Form / Grundriss / Möglicher Umriss des Moduls
+# Form / Grundriss / Möglicher Umriss Des Moduls
 
 ![e.png](Semesterarbeit/e.png)
 

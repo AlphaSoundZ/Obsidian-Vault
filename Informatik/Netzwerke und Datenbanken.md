@@ -1,4 +1,4 @@
-# Netzwerke und Datenbanken
+# Netzwerke Und Datenbanken
 
 # Inhalt
 
@@ -16,7 +16,7 @@ Gibt den Inhalt der angegebenen Spalten wieder
 
 ### Where
 
-### WHERE column1 = “string”
+### WHERE Column1 = “string”
 
 Setze eine Bedingung
 
@@ -28,29 +28,29 @@ Operatoren:
 
 > größer als
 
-### WHERE column1 = “string” AND column2 > 10
+### WHERE Column1 = “string” AND Column2 > 10
 
 ### Sortierung
 
-### ORDER BY column ASC
+### ORDER BY Column ASC
 
 Sortiert die Datensätze aufsteigend (ASC = ascending)
 
-### ORDER BY column DESC
+### ORDER BY Column DESC
 
 Sortiert die Datensätze absteigend (DESC = descending)
 
 ### Aggregatfunktionen
 
-### count
+### Count
 
 Zählt die Datensätze (Rows / Zeilen)
 
-### min
+### Min
 
 gibt den kleinsten Wert zurück
 
-### max
+### Max
 
 gibt den größten Wert zurück
 
@@ -104,7 +104,7 @@ Datenpakete mit der Broadcast-Adresse als Zieladresse werden in dem jeweiligen S
 
 Die Broadcast besteht immer aus dem Netzanteil und als Hostanteil müssen alle Bits gesetzt sein. Bei einer Subnetzmaske von 255.255.255.0 ist die Broadcast 192.168.0.255
 
-## Webserver einrichten
+## Webserver Einrichten
 
 - Server installieren und starten
 - Bei Vermittlungsrechner:
@@ -124,7 +124,7 @@ Server-Konfiguration beim Vermittlungsrechner:
 
 ![Netzwerke%20und%20Datenbanken/image2.png](Netzwerke%20und%20Datenbanken/image2.png)
 
-## DNS-Server einrichten
+## DNS-Server Einrichten
 
 - DNS-Server installieren
 - DNS-Server einrichten:
@@ -134,7 +134,7 @@ Server-Konfiguration beim Vermittlungsrechner:
 - User-PC
     - Domain Name Server auf die IP vom DNS-Server stellen
 
-## Mailserver einrichten
+## Mailserver Einrichten
 
 - Mailserver installieren
 - Mailserver einrichten:
@@ -152,7 +152,7 @@ Server-Konfiguration beim Vermittlungsrechner:
         - Benutzername: Benutzername vom Konto
         - Passwort; Passwort vom Konto
 
-## DHCP einrichten
+## DHCP Einrichten
 
 - Auf einem Rechner oder extra Server DHCP-Server einrichten
     - Adress-Untergrenze (meistens: 192.168.x.2)
@@ -163,7 +163,7 @@ Server-Konfiguration beim Vermittlungsrechner:
 - User-PC
     - DHCP zur Konfiguration verwenden aktivieren
 
-## Subnetzmaske und Boolesches UND
+## Subnetzmaske Und Boolesches UND
 
 Mit dem booleschem “&” kann man den Netzanteil (Netzadresse / Subnetzadresse) und Hostanteil berechnen Der Netzanteil dient der Wegfindung zum Zielnetz, der Hostanteil der Zustellung zu einem bestimmten Computer im Zielnetz. Die Trennung von Netz- und Hostanteil erfolgt mithilfe der Subnetzmaske.
 
@@ -205,7 +205,7 @@ Binär: 192.168.0.0
 
 Der Netzanteil sagt automatisch auch, was die Netzwerkadresse ist.
 
-### Subnetzmaske berechnen
+### Subnetzmaske Berechnen
 
 Wenn man 4 PCs hat, 1 Router, + Broadcast und Netzadresse, dann ergibt das 7 IPs. Die nächste 2er Potenz ist 2³. Das heißt, dass man 256-2³ rechnet, was 248 ergibt. Somit ist die Netzmaske 255.255.255.248
 

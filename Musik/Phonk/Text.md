@@ -4,7 +4,7 @@
 
 Bassdrum, Snare, Low/Mid/Hi Toms, bzw. Congas, Rimshot, Claves, Handclap oder Maracas, Cowbell, Cymbal (Crash-Becken), Open und Closed Hi-Hat
 
-## Effekte und Filter
+## Effekte Und Filter
 
 ### Amp
 
@@ -16,7 +16,7 @@ Unterdrückung leiser Abschnitte. Es wird ein Minimum-Pegel festgelegt.
 
 Gut bei Vocals
 
-### Kompressor und OTT
+### Kompressor Und OTT
 
 Verringerung der Dynamik
 

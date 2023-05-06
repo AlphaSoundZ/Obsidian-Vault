@@ -1,4 +1,4 @@
-# Seminar Klassenarbeit am 24.10.22
+# Seminar Klassenarbeit Am 24.10.22
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM
@@ -14,7 +14,7 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - Kriterien zur Visualisierung (beurteilen können)
 - Kriterien der Dokumentation (beurteilen können)
 
-## Vorgaben zur PL
+## Vorgaben Zur PL
 
 ### Zeiten
 
@@ -60,7 +60,7 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - der Vortrag
 - die schriftliche Ausarbeitung / Dokumentation
 
-## Kriterien und Formulierung einer Leitfrage
+## Kriterien Und Formulierung Einer Leitfrage
 
 ### Kriterien
 
@@ -70,7 +70,7 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - Präzise Formulierung
 - nicht zu allgemein aber auch nicht zu komplex
 
-## Strukturierung von Informationen
+## Strukturierung Von Informationen
 
 - Mindmap
 - Diagramm (z.B. Flussdiagramm)
@@ -79,9 +79,9 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - Auflistung
 - Überschriften / verschiedene Schriftgrößen
 
-## Effizient und richtig Recherchieren
+## Effizient Und Richtig Recherchieren
 
-### Informationsquellen zur Recherche
+### Informationsquellen Zur Recherche
 
 - Fachbücher (z.B. aus einer Bibliothek)
 - Fachpersonen
@@ -91,7 +91,7 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - Reportagen
 - Interviews
 
-### Sicherstellen, dass Quellen vertrauenswürdig sind
+### Sicherstellen, Dass Quellen Vertrauenswürdig Sind
 
 - Erscheinungsdatum prüfen
 - Herausgeber?
@@ -110,13 +110,13 @@ Letzte Änderung um: January 10, 2023 11:28 PM
 - Websites: immer klären, wer dahintersteht (Impressum, Pressebereich)
 - Quellen notieren
 
-## Quellen und Zitate
+## Quellen Und Zitate
 
-### Mit Quellen arbeiten
+### Mit Quellen Arbeiten
 
 Die Liste aller verwendeten Quellen, Materialien und Hilfsmittel muss vollständig sein. Es kann in Primär- und Sekundärliteratur unterteilt werden. Online-Publikationen sollten gesondert aufgeführt werden.
 
-### In den eigenen Notizen
+### In Den Eigenen Notizen
 
 | Internet-Adresse | Datum des Besuchs | Bemerkung zur Quelle | Weiteres |
 | --- | --- | --- | --- |
@@ -158,7 +158,7 @@ Wenn der Autor bekannt ist, gleiche Notierung Komma URL mit Datum des Zugriffs
 - Auch Fehler im Zitat nicht korrigieren
 - indirekte Zitate paraphrasieren, trotzdem kenntlich machen
 
-## Präsentation gliedern
+## Präsentation Gliedern
 
 - Einleitung
 - Agenda vorstellen
@@ -166,7 +166,7 @@ Wenn der Autor bekannt ist, gleiche Notierung Komma URL mit Datum des Zugriffs
 - Fazit mit Beantwortung der Leitfrage
 - Quellen
 
-## Kriterien zur Visualisierung
+## Kriterien Zur Visualisierung
 
 - ansprechendes Layout (übersichtlich, nicht überfrachtet, Visualisierungen, einheitlich)
 - Klare Quellenangaben
@@ -174,7 +174,7 @@ Wenn der Autor bekannt ist, gleiche Notierung Komma URL mit Datum des Zugriffs
 - Aufbau: motivierter Einstieg (z.B. Zitat, Frage, Fakten, Beispiel, Bildimpuls, Video), Hauptteil, Fazit
 - Plan B haben falls das Smartboard z.B. nicht funktioniert
 
-## Kriterien der Dokumentation
+## Kriterien Der Dokumentation
 
 - Sollte nicht mehr als zwei DIN-A4 Seiten sein
 - Abgabe spätestens eine Woche vor dem Prüfungstermin

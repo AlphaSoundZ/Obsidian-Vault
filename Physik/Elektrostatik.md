@@ -2,12 +2,12 @@
 
 # Ladung
 
-## positiv
+## Positiv
 
 - Elektronenmangel
 - Ladungsträger = Proton
 
-## negativ
+## Negativ
 
 - Elektronenüberschuss
 - Ladungsträger = Elektron

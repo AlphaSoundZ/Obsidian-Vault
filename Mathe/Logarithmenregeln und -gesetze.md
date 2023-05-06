@@ -1,4 +1,4 @@
-# Logarithmenregeln und -gesetze
+# Logarithmenregeln Und -gesetze
 
 Logarithmenregeln / -gesetze
 

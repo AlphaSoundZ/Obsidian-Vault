@@ -1,4 +1,4 @@
-# Übungen zum Sinussatz
+# Übungen Zum Sinussatz
 
 Besitzer/-in: Anonymous
 Letzte Änderung um: January 10, 2023 11:28 PM
