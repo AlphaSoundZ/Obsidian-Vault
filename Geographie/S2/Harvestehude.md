@@ -81,7 +81,9 @@ Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14 in staatlichen Gymnasien i
 
 Der Durchschnitt in Hamburg liegt bei 2,35. Die Anzahl an Schüler/innen liegen im Durchschnitt
 
-### Bewertungen
+### Lösungsansätze
+
+Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im Bildungsbereich entgegenzuwirken.
 
 ## Lebensqualität / Lebensorientierung
 
