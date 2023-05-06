@@ -49,7 +49,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 
 ## Bildung
 
-### Kess-Index [^2]
+### Kess-Index [^2][^3]
 
 #### Was ist der Kess-Index?
 
@@ -173,3 +173,4 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 
 [^1]: https://de.wikipedia.org/wiki/Liste_der_Gymnasien_in_Hamburg
 [^2]: https://de.wikipedia.org/wiki/Sozialindex_f%C3%BCr_Hamburger_Schulen
+[^3]: 
