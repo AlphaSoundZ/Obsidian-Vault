@@ -64,6 +64,8 @@ Der Sozialindex hat eine Skala von 1 (nachteilige Voraussetzungen, hoher Förder
 
 Der Kess-Index beim GHT liegt bei 5. **!nochmal recherchieren!**
 
+Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die Mittel werden also nicht gleichmäßig „mit der Gießkanne“ verteilt, denn das würde bestehende Ungleichheiten noch vergrößern. Stattdessen fließt ein Teil des Geldes dahin, wo es am dringendsten gebraucht wird – an die Schulen, die einen höheren Anteil von Schülerinnen und Schülern mit ungünstigeren Startbedingungen haben.
+
 #### Wie wird der Index berechnet?
 
 Der Sozialindex setzt sich aus folgenden Faktoren zusammen:
