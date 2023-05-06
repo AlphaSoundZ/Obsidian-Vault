@@ -174,4 +174,4 @@ https://www.hamburg.de/contentblob/16758542/b9eedefc582183f3ba6089882bb0cb04/dat
 [^4]: https://www.hamburg.de/contentblob/4458462/5f7d1b2af92c58e7328be298374bbb05/data/pdf-schulte-und-hartig.pdf
 [^5]: https://www.hamburg.de/contentblob/15023768/4b3f967e03a337f8b1dbc6b592fd570d/data/2021-04-15-sozialindex-veraenderungen.pdf
 [^6]: https://www.hamburg.de/contentblob/16884502/674dee2e6bfd80aedf47f9bab5108167/data/pdf-gesamtdokument-2022-23.pdf
-[^7]: [https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg](https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg)
+[^7]: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg
