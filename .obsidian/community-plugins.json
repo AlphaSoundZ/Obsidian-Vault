@@ -9,5 +9,8 @@
   "templater-obsidian",
   "obsidian-reading-time",
   "obsidian-smart-typography",
-  "obsidian-linter"
+  "obsidian-linter",
+  "nldates-obsidian",
+  "notion-like-tables",
+  "obsidian-excel-to-markdown-table"
 ]
