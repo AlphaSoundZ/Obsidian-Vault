@@ -54,15 +54,12 @@ Freizeitangebote (Rot) und Parks (Blau)
 #### Was ist der Sozialindex?
 
 Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Schülerschaft auf sozialer und ökonomischer Ebene. Das Ziel Datenerhebung ist die Feststellung der Startbedingungen für die Schülerinnen und Schüler anhand von verschiedenen für den schulischen Erfolg relevanten Faktoren. Darunter zählen:
-- Vermögen
-- Einkommen
-- Bildungsabschluss der Eltern
-- kulturelles Kapital
 - soziales Kapital
-
-- soziales Kapital
+	- Bildungsabschluss der Eltern
 - kulturelles Kapital
 - ökonomisches Kapital
+	- Vermögen
+	- Einkommen
 - Migrationshintergrund
 
 Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
