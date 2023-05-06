@@ -59,6 +59,8 @@ Der Kess-Index beim GHT liegt bei 5. **!nochmal recherchieren!**
 
 #### Wie wird der Index berechnet?
 
+
+
 #### Veränderung zwischen 2013 und 2021
 
 - Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 staatlichen Schulen eine Veränderung.
