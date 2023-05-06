@@ -129,7 +129,7 @@ Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im B
 
 ## Politisch-moralisches Denken
 
-### Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021[^7]
+### Wahlgewinner Bundestagswahl 2021 in Hamburg[^7]
 
 Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
