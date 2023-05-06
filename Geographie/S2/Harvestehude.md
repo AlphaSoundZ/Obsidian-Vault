@@ -64,10 +64,6 @@ Der Sozialindex liegt beim GHT bei 5. **!nochmal recherchieren!**
 
 Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die Mittel werden also nicht gleichmäßig „mit der Gießkanne“ verteilt, denn das würde bestehende Ungleichheiten noch vergrößern. Stattdessen fließt ein Teil des Geldes dahin, wo es am dringendsten gebraucht wird – an die Schulen, die einen höheren Anteil von Schülerinnen und Schülern mit ungünstigeren Startbedingungen haben.
 
-#### Wie wird der Index berechnet?
-
-Die Berechnung erfolgt durch stichprobenhafte Befragung der Schüler/innen und Eltern. Zudem gehen regionale Strukturdaten aus den Schulen in die Berechnung ein.
-
 #### Veränderung zwischen 2013 und 2021
 
 - Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 staatlichen Schulen eine Veränderung.
