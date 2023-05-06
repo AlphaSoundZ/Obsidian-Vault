@@ -71,7 +71,7 @@ Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die 
 - Bei den Stadtteilschulen nahmen 12 zu und 12 ab.
 - Bei den Gymnasien stieg der Sozialindex bei 6 von 62 Schulen und 22 nahmen ab.
 
-### Schulen und Universitäten in Harvestehude
+### Anzahl Schulen und Universitäten in Harvestehude
 
 ### Abschlussquote
 
