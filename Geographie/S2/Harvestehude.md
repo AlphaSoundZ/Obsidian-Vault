@@ -83,7 +83,7 @@ Der Durchschnitt in Hamburg liegt bei 2,35. Die Anzahl an Schüler/innen liegen 
 
 ### Lösungsansätze
 
-Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im Bildungsbereich entgegenzuwirken.
+Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im Bildungsbereich entgegenzuwirken. 
 
 ## Lebensqualität / Lebensorientierung
 
