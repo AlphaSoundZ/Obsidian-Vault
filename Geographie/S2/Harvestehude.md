@@ -129,7 +129,7 @@ Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im B
 
 ## Politisch-moralisches Denken
 
-Quelle: [https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg](https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg)](Harvestehude/Untitled%205.png)
+(Harvestehude/Untitled%205.png)
 
 Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021[^7]
 
