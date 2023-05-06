@@ -77,6 +77,7 @@ Die Berechnung erfolgt durch stichprobenhafte Befragung der Schüler/innen und E
 ### Abschlussquote
 
 ### Abischnitt [^1]
+
 Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14 in staatlichen Gymnasien in Harvestehude liegen bei 1,92 beim Helene-Lange-Gymnasium, was der beste Schnitt in Hamburg ist, und bei 2,14 beim Wilhelm-Gymnasium.
 
 Der Durchschnitt in Hamburg liegt bei 2,35. Die Anzahl an Schüler/innen liegen  im durchschnittlichen Bereich.
@@ -161,5 +162,3 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 [https://docs.google.com/spreadsheets/d/1xUDLfjz4zMoE-9t746hVxotkrj2IY5YRItVjVFxl_rg/edit?usp=drivesdk](https://docs.google.com/spreadsheets/d/1xUDLfjz4zMoE-9t746hVxotkrj2IY5YRItVjVFxl_rg/edit?usp=drivesdk)
 
 [https://www.bundestagswahl-hh.de/ergebnisse_der_bundestagswahl_2021_stadtteil_203003.html](https://www.bundestagswahl-hh.de/ergebnisse_der_bundestagswahl_2021_stadtteil_203003.html)
-
-[^1]: 
