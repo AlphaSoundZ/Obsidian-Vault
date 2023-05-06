@@ -73,6 +73,7 @@ Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die 
 
 Anhand der Mittelwerte lässt sich folgendes Schlussfolgern:
 Die Disparitäten des Sozialindex nehmen zu. Im Jahr 2013 lag der Durchschnitt bei einem Index von 3.76. Im Vergleich zu 2021 hat sich der Mittelwert mit 3,77 nur minimal verbessert. Aufgrund von vielen Veränderungen trotz gleichbleibenden Durchschnitt kann man sagen, dass die sozialen Ungleichheiten zunehmen, wobei Schulen in Harvestehude im Jahr 2021 alle bei 6 liegen und damit sozial bevorteilt sind.
+
 ![[Sozialindex Vergleich 2013 & 2021.png]]
 
 ### Schulen und Universitäten in Harvestehude
