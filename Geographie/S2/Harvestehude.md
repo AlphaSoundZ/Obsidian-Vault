@@ -56,6 +56,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 #### Wie wird der Index berechnet?
 
 #### Veränderung zwischen 2013 und 2021
+- Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 Schulen eine Veränderung
 
 ### Schulen und Universitäten in Harvestehude
 
