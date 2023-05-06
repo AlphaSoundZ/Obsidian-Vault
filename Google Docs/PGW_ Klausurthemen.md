@@ -34,6 +34,7 @@ Soziale Ungleichheit beschreibt den Zustand, wenn Menschen aus gesellschaftliche
 
 ###
 
+
 ![PGW_%20Klausurthemen/image1.png](PGW_%20Klausurthemen/image1.png)
 
 ### Mögliche Staatliche Maßnahmen Zur Verringerung Von Sozialer Ungleichheit

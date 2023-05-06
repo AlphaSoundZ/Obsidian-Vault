@@ -14,6 +14,7 @@ Leonard, Jan Jacob, Maxim, Emil
 
 #
 
+
 # Inflation
 
 Eine Inflation besteht dann, wenn die Preise eines Produktes ansteigen, aber das durchschnittliche Einkommen gleich bleibt.
@@ -31,6 +32,7 @@ Eine Hyperinflation liegt dann vor, wenn die Inflationsrate bei 50 Prozent oder 
 Eine leichte Inflation wird als ideal angesehen, da in diesem Fall sowohl Unternehmen in Erwartung künftig steigender Preise – investieren und die Verbraucher konsumieren, vor allem wenn auch die Löhne steigen. Die EZB verfolgt ein Inflationsziel von 2 Prozent.
 
 #
+
 
 # Wir Wird Die Inflationsrate Berechnet?
 

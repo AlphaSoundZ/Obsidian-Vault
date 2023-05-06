@@ -2,6 +2,7 @@
 
 ###
 
+
 Unter einem “Dynamischen System” versteht man ein Modell, um zeitabhängige Prozesse darzustellen. 
 
 ### Faktoren Und Beziehungen
