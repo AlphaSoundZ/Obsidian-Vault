@@ -57,7 +57,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 
 #### Veränderung zwischen 2013 und 2021
 
-### Schulen Und Universitäten in Harvestehude
+### Schulen und Universitäten in Harvestehude
 
 ### Abschlussquote
 
