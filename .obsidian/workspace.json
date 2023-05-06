@@ -11,9 +11,12 @@
             "id": "b57edb90a12849be",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "11.05.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "11.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "11.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "11.05.23.md"
               }
             }
           },
@@ -150,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "11.05.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,6 +172,13 @@
                         "a": 1,
                         "rgb": 14701138
                       }
+                    },
+                    {
+                      "query": "tag:#Physik",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5984992
+                      }
                     }
                   ],
                   "collapse-display": true,
@@ -181,7 +191,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000044,
+                  "scale": 1.000000000000008,
                   "close": false
                 }
               }
@@ -211,6 +221,8 @@
   },
   "active": "b57edb90a12849be",
   "lastOpenFiles": [
+    "Task List.md",
+    "11.05.23.md",
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Pasted image 20230506155906.png",
     "Geographie/S2/Pasted image 20230506155504.png",
@@ -221,7 +233,6 @@
     "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Deutsch/Das Weiße Band/Untitled.md",
-    "Task List.md",
     "Daily Notes/10.05.23.md",
     "Templates/Daily Notes.md",
     "Daily Notes/06.05.23.md",
