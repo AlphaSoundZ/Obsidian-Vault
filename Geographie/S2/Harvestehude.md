@@ -61,6 +61,7 @@ Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Sch
 	- Vermögen
 	- Einkommen
 - Migrationshintergrund
+	- Anteil nicht-deutscher Familien
 
 Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
 Der Sozialindex liegt beim GHT bei 5. **!nochmal recherchieren!**
