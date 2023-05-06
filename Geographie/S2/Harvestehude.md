@@ -60,7 +60,7 @@ Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Sch
 - kulturelles Kapital
 - soziales Kapital
 - 
-- Anteil der Schülerinnen und Schüler mit nicht-deutscher Familiensprache, 
+- Anteil der Schülerinnen und Schüler mit nicht-deutscher Familiensprache, sonderpädagogischem Förderbedarf
 - 
 
 Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
