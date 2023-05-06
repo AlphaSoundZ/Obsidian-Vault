@@ -67,7 +67,7 @@ Kess Faktor
     Quelle: [https://geoportal-hamburg.de/bildungsatlas/#](https://geoportal-hamburg.de/bildungsatlas/#)
     
 
-## Nähe zur Innenstadt
+## Nähe Zur Innenstadt
 
 - Bus Haltestelle
     - Sophienterrasse
@@ -89,7 +89,7 @@ Kess Faktor
 
 ![Untitled](Harvestehude/Untitled%204.png)
 
-## politisch-moralisches Denken
+## Politisch-moralisches Denken
 
 ![Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021
 
@@ -119,7 +119,7 @@ Allgemein sind die Preise für Wohnungsflächen, seien es Grundstücke, Eigentum
 
 Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. Nur in der Hafencity sind Eigentumswohnungen nochmals 20% teurer.
 
-## Historie / Entwicklung / Gründe der Strukturen
+## Historie / Entwicklung / Gründe Der Strukturen
 
 # Quellen
 
