@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "98f1065e1f4845dc",
+        "id": "f278a457a6a7118b",
         "type": "tabs",
         "children": [
           {
-            "id": "398454645454b0f4",
+            "id": "bf6ddabc7b62d47a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/10.05.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Deutsch",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/10.05.23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,13 +136,55 @@
               "type": "googleTaskView",
               "state": {}
             }
+          },
+          {
+            "id": "af29c05cdefb2948",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Deutsch",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4019828977761022,
+                  "close": false
+                }
+              }
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +200,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2629862432a2babb",
+  "active": "bf6ddabc7b62d47a",
   "lastOpenFiles": [
+    "Task List.md",
+    "Daily Notes/10.05.23.md",
     "Templates/Daily Notes.md",
     "Daily Notes/06.05.23.md",
-    "Task List.md",
     "Informatik/Simulationen.md",
-    "Daily Notes/10.05.23.md",
     "Templates",
     "Task List/Unbenanntes Kanban.md",
     "Task List/Unbenannt.md",
@@ -217,4 +249,6 @@
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas",
     "Time tracker 24c28e43e21d4c19a5e14a2cfe7f75be",
-    "Programming/Time tr
+    "Programming/Time tracker/Untitled.png"
+  ]
+}

@@ -7,5 +7,7 @@
   "obsidian-outliner",
   "settings-search",
   "templater-obsidian",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "obsidian-smart-typography",
+  "obsidian-linter"
 ]
