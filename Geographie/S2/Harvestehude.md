@@ -56,7 +56,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 #### Wie wird der Index berechnet?
 
 #### Veränderung zwischen 2013 und 2021
-- Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 Schulen eine Veränderung.
+- Gegenüber dem letzten Erhebungsstand von 2013 ergab sich für 137 der insgesamt 311 staatlichen Schulen eine Veränderung.
 - Bei den Grundschulen verbesserten sich 44
 
 ### Schulen und Universitäten in Harvestehude
