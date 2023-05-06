@@ -1,0 +1,18 @@
+.google-photos-grid-thumbnail {
+    margin: 0 2px;
+    padding: 0;
+}
+
+.google-photos-codeblock {
+    max-height: 500px;
+    height: fit-content;
+    overflow: scroll;
+}
+
+.google-photos-modal-grid {
+    width: 80%;
+}
+
+.google-photos-fit-content {
+    width: fit-content;
+}
