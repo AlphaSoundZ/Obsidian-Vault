@@ -129,13 +129,13 @@ Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im B
 
 ## Politisch-moralisches Denken
 
-### Wahlbeteiligung[^7]
+### Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021[^7]
 
 Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 ![](Harvestehude/Untitled%205.png)
 
-### Wahlgewinner der einzelnen Stadtteile der Bundestagswahl 2021[^7]
+### Wahlbeteiligung[^7]
 
 Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
