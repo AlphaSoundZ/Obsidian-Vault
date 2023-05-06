@@ -137,8 +137,6 @@ Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 ### Wahlbeteiligung[^7]
 
-Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
-
 ![Wahlbeteiligung: Harvestehude: 87,7 %](Harvestehude/Untitled%206.png)
 
 Wahlbeteiligung: Harvestehude: 87,7 %
