@@ -59,6 +59,9 @@ Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Sch
 - Bildungsabschluss der Eltern
 - kulturelles Kapital
 - soziales Kapital
+- 
+- Anteil der Schülerinnen und Schüler mit nicht-deutscher Familiensprache
+- 
 
 Der Sozialindex ist eine Skala von 1 (nachteilige Voraussetzungen, hoher Förderbedarf) bis 6 (günstige Voraussetzungen, kein besonderer Förderbedarf).
 Der Sozialindex liegt beim GHT bei 5. **!nochmal recherchieren!**
