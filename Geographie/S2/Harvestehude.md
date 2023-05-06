@@ -72,7 +72,7 @@ Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die 
 - Bei den Gymnasien stieg der Sozialindex bei 6 von 62 Schulen und 22 nahmen ab.
 
 Anhand der Mittelwerte lässt sich folgendes Schlussfolgern:
-Die Disparitäten des Sozialindex nehmen zu. Im Jahr 2013 lag der Durchschnitt bei einem Index von 3.76. Im Vergleich zu 2021 hat sich der Mittelwert nur minimal verbessert
+Die Disparitäten des Sozialindex nehmen zu. Im Jahr 2013 lag der Durchschnitt bei einem Index von 3.76. Im Vergleich zu 2021 hat sich der Mittelwert mit 3,77 nur minimal verbessert
 
 ### Anzahl Schulen und Universitäten in Harvestehude
 
