@@ -59,7 +59,9 @@ Der Kess-Index beim GHT liegt bei 5. **!nochmal recherchieren!**
 
 #### Wie wird der Index berechnet?
 
+Der Sozialindex setzt sich aus folgenden Faktoren zusammen:
 
+Die Berechnung erfolgt durch stichprobenhafte Befragungen der Schüler/innen und Eltern.
 
 #### Veränderung zwischen 2013 und 2021
 
