@@ -52,6 +52,8 @@ Freizeitangebote (Rot) und Parks (Blau)
 ### Kess-Index
 Bei dem Kess-Index handelt es sich um den Sozialindex für staatliche Schulen in Hamburg. Darunter zählen Grundschulen, Stadtteilschulen und Gymnasien.
 
+Der Kess-Index beim GHT liegt bei 5.
+
 #### Was ist der Kess-Index?
 
 #### Wie wird der Index berechnet?
