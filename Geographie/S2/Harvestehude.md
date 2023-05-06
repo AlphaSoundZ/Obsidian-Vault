@@ -67,8 +67,6 @@ Je nach Sozialindex erhalten die Schulen in Hamburg mehr oder weniger Geld. Die 
 
 #### Wie wird der Index berechnet?
 
-Der Sozialindex setzt sich aus folgenden Faktoren zusammen:
-
 Die Berechnung erfolgt durch stichprobenhafte Befragung der Schüler/innen und Eltern. Zudem gehen regionale Strukturdaten in die Berechnung ein
 
 #### Veränderung zwischen 2013 und 2021
