@@ -53,7 +53,7 @@ Freizeitangebote (Rot) und Parks (Blau)
 
 #### Was ist der Sozialindex?
 
-Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Schülerschaft auf sozialer und ökonomischer Ebene. Das Ziel Datenerhebung ist die Feststellung der Startbedingungen für die Schülerinnen und Schüler anhand von verschiedenen für den schulischen Erfolg relevanten Faktoren. Darunter zählen grobgefasst:
+Der Sozialindex, auch Kess-Index genannt, beschreibt die Zusammensetzung der Schülerschaft auf sozialer und ökonomischer Ebene. Das Ziel Datenerhebung ist die Feststellung der Startbedingungen für die Schülerinnen und Schüler anhand von verschiedenen für den schulischen Erfolg relevanten Faktoren. Darunter zählen grobgefasst: [^4]
 - soziales Kapital
 - kulturelles Kapital
 - ökonomisches Kapital
@@ -171,3 +171,4 @@ Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. N
 [^1]: https://de.wikipedia.org/wiki/Liste_der_Gymnasien_in_Hamburg
 [^2]: https://de.wikipedia.org/wiki/Sozialindex_f%C3%BCr_Hamburger_Schulen
 [^3]: https://www.hamburg.de/bsb/hamburger-sozialindex/4025318/artikel-faq-sozialindex/
+[^4]: https://www.hamburg.de/contentblob/4458462/5f7d1b2af92c58e7328be298374bbb05/data/pdf-schulte-und-hartig.pdf
