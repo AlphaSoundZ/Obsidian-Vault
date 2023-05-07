@@ -11,8 +11,13 @@
             "id": "6f20ee4627eae62e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Task List.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           },
           {
@@ -149,16 +158,16 @@
       "obsidian-google-tasks:Google Tasks": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "6f20ee4627eae62e",
   "lastOpenFiles": [
+    "11.05.23.md",
+    "Task List.md",
     "Untitled.table",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Pasted image 20230506154315.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
-    "11.05.23.md",
     "Templates/Daily Notes.md",
     "Templates",
-    "Task List.md",
     "Daily Notes/10.05.23.md",
     "Daily Notes",
     "Englisch/Scottish independence 1.md",
