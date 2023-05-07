@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5b95971be36fe07c",
+        "id": "83b2b88f5f35a296",
         "type": "tabs",
         "children": [
           {
-            "id": "68c8b3d9a96f6fa7",
+            "id": "6f20ee4627eae62e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/S2/Harvestehude.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geographie/S2/Harvestehude.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,71 +128,13 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "19578e6c4b3319d9",
-            "type": "leaf",
-            "state": {
-              "type": "googleTaskView",
-              "state": {}
-            }
-          },
-          {
-            "id": "af29c05cdefb2948",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Geographie/S2/Harvestehude.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "tag:#Deutsch",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "tag:#Physik",
-                      "color": {
-                        "a": 1,
-                        "rgb": 5984992
-                      }
-                    }
-                  ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7514342322277595,
-                  "close": true
-                }
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,63 +146,52 @@
       "command-palette:Befehlspalette öffnen": false,
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
-      "obsidian-google-tasks:Google Tasks": false,
-      "templater-obsidian:Templater": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-google-tasks:Google Tasks": false
     }
   },
-  "active": "68c8b3d9a96f6fa7",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Geographie/S2.md",
-    "Geographie/S2/Städtebau.md",
-    "Geographie/S2/Harvestehude.md",
-    "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
-    "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
-    "Geographie/S2/Harvestehude/Untitled 6.png",
-    "Geographie/S2/Harvestehude/Untitled 5.png",
-    "Geographie/S2/Harvestehude/Untitled 4.png",
-    "Geographie/S2/Harvestehude/Untitled 3.png",
-    "Geographie/S2/Harvestehude/Untitled 2.png",
-    "Geographie/S2/Harvestehude/Untitled 1.png",
-    "Geographie/S2/Harvestehude/Untitled.png",
-    "Daily Notes/06.05.23.md",
-    "Task List.md",
-    "11.05.23.md",
-    "Geographie/S2/Pasted image 20230506155906.png",
     "Untitled.table",
+    "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
+    "Geographie/S2/Pasted image 20230506154315.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
-    "Geographie/S2/Harvestehude/Aufgabe.md",
-    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
-    "Deutsch/Das Weiße Band/Untitled.md",
-    "Daily Notes/10.05.23.md",
+    "11.05.23.md",
     "Templates/Daily Notes.md",
-    "Informatik/Simulationen.md",
     "Templates",
-    "Task List/Unbenanntes Kanban.md",
-    "Task List/Unbenannt.md",
-    "Task List/Unbenannt 1.md",
-    "Unbenannt.md",
-    "Daily Notes/05.05.23.md",
+    "Task List.md",
+    "Daily Notes/10.05.23.md",
     "Daily Notes",
-    "Work/Tim Pertl.md",
-    "Work/Dream Studios/Kickstarter.md",
-    "Task List/hdtnshtnsh.md",
-    "Task List/Unbenannt.canvas",
-    "Unbenannt.canvas",
-    "Programming/Time tracker.md",
-    "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
-    "Deutsch/S2 Lyrik.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
-    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
-    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
-    "Work/Tim Pertl/E-Lad-O-Mat",
+    "Englisch/Scottish independence 1.md",
+    "Task List/Unbenanntes Kanban.md",
+    "Task List",
+    "Englisch/NOTES/Jigsaw.md",
+    "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
+    "test tile.md",
+    "Englisch/Strategies and means of persuasion used to convinc.md",
+    "Geographie/S2/Veränderungen des Wohnens und Arbeiten ab Industr.md",
+    "Seminar/Bewertungsbogen zur Präsentationsleistung.md",
+    "Google Docs/Kunst_ Antike.md",
+    "Work/Dream Studios/DreamStudios Trello/Bild Animation für Neospace Website.md",
+    "Seminar/Bewertungskriterien Präsentation.md",
+    "Kunst/S1 Portraits/Glossar.md",
+    "Work/Dream Studios/DreamStudios Trello/Hauptmenü Start Animation.md",
+    "Work/Tim Pertl/E-Lad-O-Mat/Logo as SVG.md",
+    "Work/Dream Studios/DreamStudios Trello/UI Elements (Hauptmenü).md",
+    "Englisch/Social class in the 21st century.md",
+    "Geographie/S2/Harvestehude/Aufgabe.md",
+    "Englisch/Scottish independence.md",
+    "Google Docs/Stellungsnahme Prozess 1933_1934 Macht- übergabe .md",
+    "Seminar/Mini-Pl Bewertung.md",
+    "Work/Dream Studios/Neospace Hub.md",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
+    "Physik/Elektrische Felder/Untitled.png",
+    "Work/Dream Studios/Kickstarter/Untitled.png",
+    "Work/Dream Studios/Kickstarter/figur.png",
+    "Deutsch 3806715162184028a0a89fe82e564193",
     "Unbenannt 2.canvas",
-    "Unbenannt 1.canvas"
+    "Unbenannt 1.canvas",
+    "Unbenannt.canvas",
+    "Time tracker 24c28e43e21d4c19a5e14a2cfe7f75be",
+    "Programming/Time tracker/Untitled.png"
   ]
 }
