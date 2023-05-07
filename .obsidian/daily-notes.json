@@ -1,5 +1,6 @@
 {
   "format": "DD.MM.YY",
   "autorun": false,
-  "folder": "Daily Notes"
+  "folder": "Daily Notes",
+  "template": ""
 }

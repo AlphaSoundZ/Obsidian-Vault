@@ -11,13 +11,8 @@
             "id": "68c8b3d9a96f6fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.05.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "11.05.23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "179a1f74e066dc47",
@@ -161,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11.05.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,9 +217,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "68c8b3d9a96f6fa7",
+  "active": "af29c05cdefb2948",
   "lastOpenFiles": [
+    "Untitled.table",
+    "Daily Notes/11.05.23.md",
     "Task List.md",
+    "11.05.23.md",
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2.md",
     "Geographie/S2/Städtebau.md",
@@ -243,9 +236,7 @@
     "Geographie/S2/Harvestehude/Untitled 1.png",
     "Geographie/S2/Harvestehude/Untitled.png",
     "Daily Notes/06.05.23.md",
-    "11.05.23.md",
     "Geographie/S2/Pasted image 20230506155906.png",
-    "Untitled.table",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
@@ -270,8 +261,6 @@
     "Deutsch/S2 Lyrik.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
