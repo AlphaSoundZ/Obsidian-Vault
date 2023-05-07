@@ -11,12 +11,9 @@
             "id": "6f20ee4627eae62e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Task List.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -147,6 +144,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-file-cleaner:Clean files": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
