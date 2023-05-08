@@ -24,8 +24,7 @@ Für eine Ausbildung oder einem Studium sollte man auf jeden Fall inhaltliches I
 
 ## Einführung
 
-Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierung von Systemen und die Sicherung eines IT-Systems im Backend konzentriert. Das Backend ist der Teil einer Anwendung, der sich mit der Datenverarbeitung und Datenhaltung beschäftigt. Es umfasst oft komplexe Prozesse und das Zusammenführen und Auswerten unterschiedlicher Daten[^1]. Ein Backend Developer kümmert sich in einer solchen Architektur um die Anwendung im Hintergrund, die Funktionen wie Datenbankzugriffe und die Anbindung externer Systeme übernimmt[^2]. Der Kern der Arbeit eines Backend Developers umfasst die Bedarfsanalyse, Konzeption, Entwicklung, Implementierung und Pflege des Backend.
-[^3]
+Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierung von Systemen und die Sicherung eines IT-Systems im Backend konzentriert. Das Backend ist der Teil einer Anwendung, der sich mit der Datenverarbeitung und Datenhaltung beschäftigt. Es umfasst oft komplexe Prozesse und das Zusammenführen und Auswerten unterschiedlicher Daten[^1]. Ein Backend Developer kümmert sich in einer solchen Architektur um die Anwendung im Hintergrund, die Funktionen wie Datenbankzugriffe und die Anbindung externer Systeme übernimmt[^2]. Der Kern der Arbeit eines Backend Developers umfasst die Bedarfsanalyse, Konzeption, Entwicklung, Implementierung und Pflege des Backend[^3]
 ## Typische Arbeitsaufgaben / Inhalte
 
 ## Einstiegsvoraussetzungen, Wege
