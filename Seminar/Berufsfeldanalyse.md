@@ -72,4 +72,3 @@ Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FANG-Unt
 
 [^1]: https://newsroom.spectrum-ag.de/was-macht-ein-backend-developer/
 [^2]: https://newsroom.spectrum-ag.de/was-macht-ein-backend-developer/
-[^3]: https://www.gulp.de/bewerber/berufsbilder/backend-developer
