@@ -32,7 +32,7 @@ Zu den Aufgaben und Tätigkeiten eines Backend Developers gehören je nach Spezi
 - Design, Programmierung, Test und Implementierung neuer Backend-Anwendungen wie APIs (Application Programming Interfaces) und Webshops
 - Testen und Verbessern bestehender Backend-Anwendungen
 - Umsetzung der funktionalen Anforderungen der Kunden in konkrete technische Lösungen
-- Beratung mit Frontend-Entwicklern, Funktionsdesignern und anderen Spezialisten beim Design eines Systems oder einer Anwendung.
+- Beratung mit Frontend-Entwicklern, Funktionsdesignern und anderen Spezialisten beim Design eines Systems oder einer Anwendung
 
 ## Einstiegsvoraussetzungen, Wege
 
