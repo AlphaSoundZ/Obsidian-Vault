@@ -57,7 +57,7 @@ Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FANG-Unt
 
 ## Beispiele Arbeitgeber in Hamburg
 
-# Stellungungsnahme / Eignungsbeurteilung
+# Stellungsnahme / Eignungsbeurteilung
 
 - Eigene Erfahrung in der Schule (Ausleihsystem)
 - Bereits schon intensive Ausführung in der Freizeit
