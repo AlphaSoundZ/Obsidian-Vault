@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7ab4405c1a137c8b",
+  "active": "2629862432a2babb",
   "lastOpenFiles": [
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
