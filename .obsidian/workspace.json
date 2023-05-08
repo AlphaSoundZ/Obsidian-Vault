@@ -19,9 +19,12 @@
             "id": "ab65466ba19809a7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/22.05.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/22.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/22.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/22.05.23.md"
               }
             }
           },
@@ -167,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/22.05.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +238,9 @@
   },
   "active": "ab65466ba19809a7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Task List.md",
+    "Daily Notes/22.05.23.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.table",
     "Daily Notes/11.05.23.md",
     "11.05.23.md",
@@ -277,7 +281,6 @@
     "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
     "Deutsch/S2 Lyrik.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
