@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/22.05.23.md",
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/22.05.23.md",
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/22.05.23.md",
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/22.05.23.md"
+                "file": "Seminar/Berufsfeldanalyse.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/22.05.23.md",
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,8 +238,8 @@
   },
   "active": "ab65466ba19809a7",
   "lastOpenFiles": [
-    "Task List.md",
     "Daily Notes/22.05.23.md",
+    "Task List.md",
     "conflict-files-obsidian-git.md",
     "Untitled.table",
     "Daily Notes/11.05.23.md",
