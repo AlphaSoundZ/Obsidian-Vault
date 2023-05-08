@@ -19,10 +19,9 @@
             "id": "ab65466ba19809a7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "kanban",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
+                "file": "Task List.md"
               }
             }
           }
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           },
           {
@@ -164,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
