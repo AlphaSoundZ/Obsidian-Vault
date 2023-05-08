@@ -28,7 +28,7 @@ Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierun
 
 ## Typische Arbeitsaufgaben / Inhalte
 
-Ein Backend Developer hat je nach Spezialisierung verschiedene Aufgaben. Im Grunde sind es das Design von Systemen, die Programmierung, 
+Ein Backend Developer hat je nach Spezialisierung verschiedene Aufgaben. Im Grunde sind es das Design von Systemen, die Programmierung, das Testen von Sy
 
 - Design, Programmierung, Test und Implementierung neuer Backend-Anwendungen wie APIs (Application Programming Interfaces) und Webshops
 - Testen und Verbessern bestehender Backend-Anwendungen
