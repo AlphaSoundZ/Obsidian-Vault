@@ -28,6 +28,8 @@ Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierun
 
 ## Typische Arbeitsaufgaben / Inhalte
 
+
+
 ## Einstiegsvoraussetzungen, Wege
 
 - Reines Informatikstudium
