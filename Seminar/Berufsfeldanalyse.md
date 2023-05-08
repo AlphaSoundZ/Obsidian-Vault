@@ -24,7 +24,7 @@ Für eine Ausbildung oder einem Studium sollte man auf jeden Fall inhaltliches I
 
 ## Einführung
 
-Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierung von Systemen und die Sicherung eines IT-Systems im Backend konzentriert. Das Backend ist der Teil einer Anwendung, der sich mit der Datenverarbeitung und Datenhaltung beschäftigt. Es umfasst oft komplexe Prozesse und das Zusammenführen und Auswerten unterschiedlicher Daten [[1]](https://newsroom.spectrum-ag.de/was-macht-ein-backend-developer/). Ein Backend Developer kümmert sich in einer solchen Architektur um die Anwendung im Hintergrund, die Funktionen wie Datenbankzugriffe und die Anbindung externer Systeme übernimmt [[1]](https://newsroom.spectrum-ag.de/was-macht-ein-backend-developer/). Der Kern der Arbeit eines Backend Developers umfasst die Bedarfsanalyse, Konzeption, Entwicklung, Implementierung und Pflege des Backend [[2]](https://www.gulp.de/bewerber/berufsbilder/backend-developer).
+Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierung von Systemen und die Sicherung eines IT-Systems im Backend konzentriert. Das Backend ist der Teil einer Anwendung, der sich mit der Datenverarbeitung und Datenhaltung beschäftigt. Es umfasst oft komplexe Prozesse und das Zusammenführen und Auswerten unterschiedlicher Daten[^1]. Ein Backend Developer kümmert sich in einer solchen Architektur um die Anwendung im Hintergrund, die Funktionen wie Datenbankzugriffe und die Anbindung externer Systeme übernimmt [[1]](https://newsroom.spectrum-ag.de/was-macht-ein-backend-developer/). Der Kern der Arbeit eines Backend Developers umfasst die Bedarfsanalyse, Konzeption, Entwicklung, Implementierung und Pflege des Backend [[2]](https://www.gulp.de/bewerber/berufsbilder/backend-developer).
 
 ## Typische Arbeitsaufgaben / Inhalte
 
@@ -69,3 +69,5 @@ Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FANG-Unt
 (1) [https://www.onpulson.de/1220/einblicke-in-die-arbeitswelt-von-google/](https://www.onpulson.de/1220/einblicke-in-die-arbeitswelt-von-google/)
 
 [https://lecture2go.uni-hamburg.de/l2go/-/get/v/60658](https://lecture2go.uni-hamburg.de/l2go/-/get/v/60658)
+
+[^1]: https://newsroom.spectrum-ag.de/was-macht-ein-backend-developer/
