@@ -30,9 +30,6 @@ Ein Backend Developer ist ein Softwareentwickler, der sich auf die Programmierun
 
 Ein Backend Developer hat je nach Spezialisierung verschiedene Aufgaben. Im Grunde sind es das Design von Systemen, die Programmierung, das Testen von Systemen und die Implementierung neuer Anwendungen, meistens APIs (Application Programming Interfaces). Außerdem ist es wichtig, bestehende Applikationen aufgrund von Expansion zu optimieren. Ein weiterer Aspekt ist die Umsetzung der Wünsche des Kunden/Auftraggebers. Dabei ist es wichtig sich genau mit dem Kunden abzusprechen und sich mit den Frontend Developern zu beraten, damit die Schnittstelle zwischen Backend und Frontend reibungslos funktioniert.
 
-
-- Beratung mit Frontend-Entwicklern, Funktionsdesignern und anderen Spezialisten beim Design eines Systems oder einer Anwendung
-
 ## Einstiegsvoraussetzungen, Wege
 
 - Reines Informatikstudium
