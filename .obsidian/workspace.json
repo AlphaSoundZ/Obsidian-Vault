@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 438.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +238,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "ab65466ba19809a7",
   "lastOpenFiles": [
     "Daily Notes/22.05.23.md",
     "Task List.md",
