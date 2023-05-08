@@ -24,8 +24,6 @@ Für eine Ausbildung oder einem Studium sollte man auf jeden Fall inhaltliches I
 
 ## Einführung
 
-Im Folgenden wird der Beruf des Backend Developers anhand verschiedener Aspekte analysiert.
-
 ## Typische Arbeitsaufgaben / Inhalte
 
 ## Einstiegsvoraussetzungen, Wege
