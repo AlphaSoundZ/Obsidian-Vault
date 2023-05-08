@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63549c9019c9fb0d",
+        "id": "fb311393c70945d9",
         "type": "tabs",
         "children": [
           {
-            "id": "3ab4cf110aebed3b",
+            "id": "7ab4405c1a137c8b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ab65466ba19809a7",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +217,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "7ab4405c1a137c8b",
   "lastOpenFiles": [
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
