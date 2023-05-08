@@ -11,8 +11,13 @@
             "id": "7ab4405c1a137c8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/S2/Harvestehude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: Harvestehude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geographie/S2/Harvestehude.md"
+              }
             }
           },
           {
@@ -153,6 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +228,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "2629862432a2babb",
+  "active": "7ab4405c1a137c8b",
   "lastOpenFiles": [
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
