@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Geographie/S2/Harvestehude.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,12 +237,12 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "7ab4405c1a137c8b",
   "lastOpenFiles": [
+    "Task List.md",
     "Geographie/S2/Harvestehude.md",
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
-    "Task List.md",
     "Untitled.table",
     "Daily Notes/11.05.23.md",
     "11.05.23.md",
