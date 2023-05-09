@@ -11,8 +11,13 @@
             "id": "3ab4cf110aebed3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -78,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Geographie/S2/Harvestehude/Aufgabe.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +240,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3ab4cf110aebed3b",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
     "Seminar/Berufsfeldanalyse.md",
     "Daily Notes/22.05.23.md",
