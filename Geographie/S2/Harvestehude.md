@@ -99,7 +99,7 @@ Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im B
 - Erreichbarkeit von Arbeitsplätzen
     
     ![Parks in Harvestehude
-    Quelle: [https://geoportal-hamburg.de/bildungsatlas/#](https://geoportal-hamburg.de/bildungsatlas/#)](Harvestehude/Untitled%203.png)
+    Quelle: [https://geoportal-hamburg.de/bildungsatlas/#](https://geoportal-hamburg.de/bildungsatlas/#)](Harvestehude/Untitled%202.png)
     
     Parks in Harvestehude
     Quelle: [https://geoportal-hamburg.de/bildungsatlas/#](https://geoportal-hamburg.de/bildungsatlas/#)
