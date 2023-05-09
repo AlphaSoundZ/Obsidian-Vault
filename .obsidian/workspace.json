@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Aufgabe.md"
+                "file": "Geographie/S2/Harvestehude.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Aufgabe.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,8 +240,9 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "3ab4cf110aebed3b",
   "lastOpenFiles": [
+    "Geographie/S2/Harvestehude/Aufgabe.md",
     "Seminar/Berufsfeldanalyse.md",
     "Daily Notes/22.05.23.md",
     "Task List.md",
@@ -264,7 +265,6 @@
     "Daily Notes/06.05.23.md",
     "Geographie/S2/Pasted image 20230506155906.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
-    "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Deutsch/Das Weiße Band/Untitled.md",
     "Daily Notes/10.05.23.md",
