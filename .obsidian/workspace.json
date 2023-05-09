@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3ae0d750789129c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geographie/S2/Harvestehude.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +167,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,15 +232,15 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7ab4405c1a137c8b",
+  "active": "e3ae0d750789129c",
   "lastOpenFiles": [
+    "Geographie/S2/Harvestehude.md",
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
     "Task List.md",
     "Untitled.table",
     "Daily Notes/11.05.23.md",
     "11.05.23.md",
-    "Geographie/S2/Harvestehude.md",
     "Geographie/S2.md",
     "Geographie/S2/Städtebau.md",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
