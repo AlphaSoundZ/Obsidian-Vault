@@ -19,6 +19,11 @@
       "tagKey": "#Physik",
       "color": "rgba(82, 89, 158, 1)",
       "backgroundColor": "rgba(109, 108, 240, 0.1)"
+    },
+    {
+      "tagKey": "#Informatik",
+      "color": "rgba(153, 153, 153, 1)",
+      "backgroundColor": "rgba(148, 148, 148, 0.1)"
     }
   ],
   "archive-date-format": "DD.MM.YY",

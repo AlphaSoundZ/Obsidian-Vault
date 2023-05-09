@@ -11,9 +11,12 @@
             "id": "e3ae0d750789129c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/10.05.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -63,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +79,7 @@
       {
         "id": "26c56f43a1884e10",
         "type": "tabs",
-        "dimension": 72.19827586206897,
+        "dimension": 58.764367816091955,
         "children": [
           {
             "id": "9aa105bf04317fd1",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/10.05.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/10.05.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/10.05.23.md"
               }
             }
           },
@@ -151,7 +153,7 @@
       {
         "id": "179a1f74e066dc47",
         "type": "tabs",
-        "dimension": 27.801724137931032,
+        "dimension": 41.235632183908045,
         "children": [
           {
             "id": "af29c05cdefb2948",
@@ -159,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/10.05.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868345,
+                  "scale": 0.5359795996225959,
                   "close": true
                 }
               }
@@ -225,12 +227,14 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "af29c05cdefb2948",
+  "active": "e3ae0d750789129c",
   "lastOpenFiles": [
+    "Seminar/Berufsfeldanalyse.md",
+    "Daily Notes/10.05.23.md",
+    "Task List.md",
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Harvestehude/Untitled 2.png",
-    "Task List.md",
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
     "Untitled.table",
@@ -251,7 +255,6 @@
     "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Deutsch/Das Weiße Band/Untitled.md",
-    "Daily Notes/10.05.23.md",
     "Templates/Daily Notes.md",
     "Informatik/Simulationen.md",
     "Templates",
