@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PGW",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.07058167567046508,
+                  "scale": 1.0534979423868345,
                   "close": true
                 }
               }
@@ -225,7 +225,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "2629862432a2babb",
+  "active": "af29c05cdefb2948",
   "lastOpenFiles": [
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
