@@ -209,7 +209,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277582,
+                  "scale": 0.535979599622594,
                   "close": true
                 }
               }
@@ -237,7 +237,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7ab4405c1a137c8b",
+  "active": "af29c05cdefb2948",
   "lastOpenFiles": [
     "Task List.md",
     "Geographie/S2/Harvestehude.md",
