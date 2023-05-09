@@ -212,7 +212,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277582,
+                  "scale": 0.6053069183011688,
                   "close": true
                 }
               }
@@ -240,7 +240,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "3ab4cf110aebed3b",
+  "active": "af29c05cdefb2948",
   "lastOpenFiles": [
     "Seminar/Berufsfeldanalyse.md",
     "Geographie/S2/Harvestehude.md",
