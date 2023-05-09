@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d85c6218e5aa69d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/S2/Harvestehude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/10.05.23.md"
+                "file": "Geographie/S2/Harvestehude.md"
               }
             }
           },
@@ -161,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,8 +241,9 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "357b373f97832bc7",
+  "active": "0d85c6218e5aa69d",
   "lastOpenFiles": [
+    "Geographie/S2/Pasted image 20230509230134.png",
     "Daily Notes/10.05.23.md",
     "PGW/Rentenversicherung.md",
     "Seminar/Berufsfeldanalyse.md",
@@ -271,7 +286,6 @@
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
     "Programming/Time tracker.md",
-    "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",

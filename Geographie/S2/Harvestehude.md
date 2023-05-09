@@ -152,6 +152,11 @@ Legende: Grün - GRÜNE, Rot - SPD, Grau - CDU
 
 Wahlbeteiligung: Harvestehude: 87,7 %
 
+### Veränderung und Verteilung der Wahlbeteiligung[^8]
+
+![[Pasted image 20230509230134.png]]
+(Seite 9 in Quelle)
+
 ## Einkommen
 
 ### Grundstückspreise
@@ -182,3 +187,4 @@ https://www.hamburg.de/contentblob/16758542/b9eedefc582183f3ba6089882bb0cb04/dat
 [^5]: https://www.hamburg.de/contentblob/15023768/4b3f967e03a337f8b1dbc6b592fd570d/data/2021-04-15-sozialindex-veraenderungen.pdf
 [^6]: https://www.hamburg.de/contentblob/16884502/674dee2e6bfd80aedf47f9bab5108167/data/pdf-gesamtdokument-2022-23.pdf
 [^7]: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg
+[^8]: https://pure.mpg.de/rest/items/item_1867815/component/file_1867810/content
