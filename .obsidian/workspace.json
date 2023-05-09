@@ -11,9 +11,12 @@
             "id": "7ab4405c1a137c8b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Untitled 3.png"
+                "file": "Geographie/S2/Harvestehude.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Untitled 3.png",
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Untitled 3.png",
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Untitled 3.png"
+                "file": "Geographie/S2/Harvestehude.md"
               }
             }
           },
@@ -168,7 +171,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geographie/S2/Harvestehude/Untitled 3.png",
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,6 +239,7 @@
   },
   "active": "7ab4405c1a137c8b",
   "lastOpenFiles": [
+    "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
     "Task List.md",
     "Daily Notes/22.05.23.md",
@@ -250,7 +254,6 @@
     "Geographie/S2/Harvestehude/Untitled 6.png",
     "Geographie/S2/Harvestehude/Untitled 5.png",
     "Geographie/S2/Harvestehude/Untitled 4.png",
-    "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude/Untitled 2.png",
     "Geographie/S2/Harvestehude/Untitled 1.png",
     "Geographie/S2/Harvestehude/Untitled.png",
@@ -278,7 +281,6 @@
     "Programming/Time tracker.md",
     "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
     "Deutsch/S2 Lyrik.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
