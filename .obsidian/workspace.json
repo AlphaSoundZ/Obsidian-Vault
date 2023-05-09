@@ -11,12 +11,9 @@
             "id": "7ab4405c1a137c8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Geographie/S2/Harvestehude/Untitled 2.png"
               }
             }
           },
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
+                "file": "Geographie/S2/Harvestehude/Untitled 2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
+                "file": "Geographie/S2/Harvestehude/Untitled 2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md"
+                "file": "Geographie/S2/Harvestehude/Untitled 2.png"
               }
             }
           },
@@ -171,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geographie/S2/Harvestehude.md",
+                "file": "Geographie/S2/Harvestehude/Untitled 2.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,8 +236,8 @@
   },
   "active": "7ab4405c1a137c8b",
   "lastOpenFiles": [
-    "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
+    "Geographie/S2/Harvestehude/Untitled 3.png",
     "Task List.md",
     "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
