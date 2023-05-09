@@ -28,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Seminar/Berufsfeldanalyse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,7 +166,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,8 +231,9 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "ab65466ba19809a7",
+  "active": "3ab4cf110aebed3b",
   "lastOpenFiles": [
+    "Seminar/Berufsfeldanalyse.md",
     "Daily Notes/22.05.23.md",
     "Task List.md",
     "conflict-files-obsidian-git.md",
@@ -281,7 +276,6 @@
     "Programming/Time tracker.md",
     "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
     "Deutsch/S2 Lyrik.md",
-    "Work/Tim Pertl/E-Lad-O-Mat/Complex Conditions for Questions.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
