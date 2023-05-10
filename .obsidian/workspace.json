@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1af10865a481e5b5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,7 +227,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "1af10865a481e5b5",
+  "active": "357b373f97832bc7",
   "lastOpenFiles": [
     "Daily Notes/10.05.23.md",
     "PGW/Rentenversicherung.md",
