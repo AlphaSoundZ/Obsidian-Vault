@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1cccc8590dff2caf",
+        "id": "b52624c44f051fba",
         "type": "tabs",
         "children": [
           {
-            "id": "357b373f97832bc7",
+            "id": "1319067ead3cfe71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/10.05.23.md"
+                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md"
               }
             }
           },
@@ -161,11 +161,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/10.05.23.md",
+                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -199,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4769860980686578,
+                  "scale": 0.7420804688996248,
                   "close": true
                 }
               }
@@ -227,16 +227,23 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "357b373f97832bc7",
+  "active": "1319067ead3cfe71",
   "lastOpenFiles": [
+    "Deutsch/S2 Lyrik.md",
     "Task List.md",
     "Daily Notes/10.05.23.md",
+    "Daily Notes/22.05.23.md",
+    "Kunst/S2 Architektur/Semesterarbeit.md",
+    "Kunst/S2 Architektur/Digitales Kunstheft.md",
+    "Kunst/S1 Portraits/S1 Semesterarbeit Konzeptpapier.md",
+    "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
+    "Mathe/Stochastik.md",
+    "Mathe/Permutation.md",
     "PGW/Rentenversicherung.md",
     "Seminar/Berufsfeldanalyse.md",
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Harvestehude/Untitled 2.png",
-    "Daily Notes/22.05.23.md",
     "conflict-files-obsidian-git.md",
     "Untitled.table",
     "Daily Notes/11.05.23.md",
@@ -263,20 +270,13 @@
     "Task List/Unbenannt.md",
     "Task List/Unbenannt 1.md",
     "Unbenannt.md",
-    "Daily Notes/05.05.23.md",
     "Daily Notes",
-    "Work/Tim Pertl.md",
-    "Work/Dream Studios/Kickstarter.md",
-    "Task List/hdtnshtnsh.md",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
-    "Programming/Time tracker.md",
-    "Deutsch/S2 Lyrik/Sturm und Drang & Aufklärung.md",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
     "Work/Tim Pertl/E-Lad-O-Mat",
-    "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas"
   ]
