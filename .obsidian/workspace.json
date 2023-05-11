@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
+                "file": "Physik/Elektrische Felder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
+                "file": "Physik/Elektrische Felder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
+                "file": "Physik/Elektrische Felder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md"
+                "file": "Physik/Elektrische Felder.md"
               }
             }
           },
@@ -146,6 +146,14 @@
               "type": "googleTaskView",
               "state": {}
             }
+          },
+          {
+            "id": "5960e980c9f25031",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
@@ -161,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Epochenübersicht.md",
+                "file": "Physik/Elektrische Felder.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,13 +232,20 @@
       "obsidian-google-tasks:Google Tasks": false,
       "templater-obsidian:Templater": false,
       "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-file-cleaner:Clean files": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "1319067ead3cfe71",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Deutsch/S2 Lyrik.md",
+    "Physik/Elektrostatik.md",
+    "Physik/Wellen.md",
     "Task List.md",
+    "Daily Notes/11.05.23.md",
+    "Untitled.table",
+    "Deutsch/S2 Lyrik/Epochenübersicht.md",
+    "Deutsch/S2 Lyrik.md",
     "Daily Notes/10.05.23.md",
     "Daily Notes/22.05.23.md",
     "Kunst/S2 Architektur/Semesterarbeit.md",
@@ -245,8 +260,6 @@
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Harvestehude/Untitled 2.png",
     "conflict-files-obsidian-git.md",
-    "Untitled.table",
-    "Daily Notes/11.05.23.md",
     "11.05.23.md",
     "Geographie/S2.md",
     "Geographie/S2/Städtebau.md",
@@ -267,9 +280,6 @@
     "Informatik/Simulationen.md",
     "Templates",
     "Task List/Unbenanntes Kanban.md",
-    "Task List/Unbenannt.md",
-    "Task List/Unbenannt 1.md",
-    "Unbenannt.md",
     "Daily Notes",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

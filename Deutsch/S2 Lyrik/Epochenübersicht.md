@@ -264,3 +264,17 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - In der Dramatik wurde der Begriff „Stück” statt Drama oder Tragödie verwendet
 	- Verlust der Schlüsselfigur
 	- Scheitern der Figuren, aufgrund der pessimistischen Weltansicht und der Untergangsstimmung
+
+## Strömungen
+
+### Fin de Siècle
+
+- Weltschmerz, Untergang, Verlust, Liebe, Tod, Sehnen, Verlangen
+- Motive: Décadence, Bohème
+- symbolistische, impressionistische Lyrik / Roman, Novelle, Satire / Einakter
+
+### Expressionismus
+
+- Großstadtlyrik, Sonett, Parodie/moderner Roman, Erzählung/Stationendrama
+
+### Impressionismus
