@@ -246,3 +246,35 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - klare und schlichte Sprache
 - wenige Personen
 - Geschichte spielen in überschaubaren Rahmen
+
+# Moderne
+
+- 1890-1933
+- Pessimistische Weltsicht
+	- negative Sicht auf die Welt und die Menschheit
+	- Welt sei dem Untergang geweiht
+- Experimentierfreudigkeit (Gegensatz zu Naturalismus und Realismus)
+	- keine Einschränkungen in der Kunst
+- Stilpluralismus
+	- Wegen der Vielzahl literarischer Tendenzen spricht man in der Moderne von einem Stilpluralismus
+- Selbstreflexion und Reflexion der persönlichen Wahrnehmung
+- Verfall, Tod, Traum, Großstadt, Anonymität, Reizüberflutung, Verlust des Ichs, das Groteske, das Hässliche, Bewusstseinskrise, Sprachkrise, Sprachkritik, Kommunikationslosigkeit, Auseinandersetzung mit Sexualität
+- Unterschiedliche Ansichten und deren Relativierung, Perspektivwechsel
+- Subjektivierung und Psychologisierung der Wirklichkeitserfahrung, der Wahrnehmung und der Bewusstseinsvorgänge
+- In der Dramatik wurde der Begriff „Stück” statt Drama oder Tragödie verwendet
+	- Verlust der Schlüsselfigur
+	- Scheitern der Figuren, aufgrund der pessimistischen Weltansicht und der Untergangsstimmung
+
+## Strömungen
+
+### Fin de Siècle
+
+- Weltschmerz, Untergang, Verlust, Liebe, Tod, Sehnen, Verlangen
+- Motive: Décadence, Bohème
+- symbolistische, impressionistische Lyrik / Roman, Novelle, Satire / Einakter
+
+### Expressionismus
+
+- Großstadtlyrik, Sonett, Parodie/moderner Roman, Erzählung/Stationendrama
+
+### Impressionismus
