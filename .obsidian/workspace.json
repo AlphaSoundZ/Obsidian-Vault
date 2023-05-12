@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Englisch/The British Empire & the Commonwealth of Nations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Englisch/The British Empire & the Commonwealth of Nations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Englisch/The British Empire & the Commonwealth of Nations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrische Felder.md"
+                "file": "Englisch/The British Empire & the Commonwealth of Nations.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Englisch/The British Empire & the Commonwealth of Nations.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7420804688996248,
+                  "scale": 0.7247346259188078,
                   "close": true
                 }
               }
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +237,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "1319067ead3cfe71",
   "lastOpenFiles": [
+    "Task List.md",
+    "Englisch/The British Empire & the Commonwealth of Nations.md",
+    "Daily Notes/02.06.23.md",
+    "Mathe/Stochastik.md",
+    "Mathe/Differentialrechnung.md",
+    "Mathe/Differentialgleichung.md",
+    "Physik/Elektrische Felder.md",
     "Physik/Elektrostatik.md",
     "Physik/Wellen.md",
-    "Task List.md",
     "Daily Notes/11.05.23.md",
     "Untitled.table",
     "Deutsch/S2 Lyrik/Epochenübersicht.md",
@@ -252,7 +258,6 @@
     "Kunst/S2 Architektur/Digitales Kunstheft.md",
     "Kunst/S1 Portraits/S1 Semesterarbeit Konzeptpapier.md",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
-    "Mathe/Stochastik.md",
     "Mathe/Permutation.md",
     "PGW/Rentenversicherung.md",
     "Seminar/Berufsfeldanalyse.md",
@@ -273,13 +278,8 @@
     "Daily Notes/06.05.23.md",
     "Geographie/S2/Pasted image 20230506155906.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
-    "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
-    "Deutsch/Das Weiße Band/Untitled.md",
-    "Templates/Daily Notes.md",
-    "Informatik/Simulationen.md",
     "Templates",
-    "Task List/Unbenanntes Kanban.md",
     "Daily Notes",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

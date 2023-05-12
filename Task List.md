@@ -6,6 +6,8 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Klausurthemen @[[02.06.23]] #Mathe
+- [ ] Berufsfeldanalyse @[[24.05.23]] #Seminar
 - [ ] Abgabe der Präsentation (Präsentatieren am 31.) @[[24.05.23]] #Geographie
 - [ ] Klausurvorbereitung #Informatik @[[22.05.23]]
 

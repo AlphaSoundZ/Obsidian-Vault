@@ -11,3 +11,6 @@ viele hintereinander ausgeführte gleiche Laplace-Experimente
 # Permutation
 
 [[Permutation]]
+
+# Binomialkoeffizient
+$\binom{n}{k} = \frac{n!}{(n-k)! * n!}$
