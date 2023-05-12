@@ -38,8 +38,13 @@ Ein Teil des Einstellungsverfahrens in der Softwareentwicklung (darunter Backend
 
 ## Aufstiegs- Und Karrieremöglichkeiten
 
-- Starke Aufstiegsmöglichkeiten (hohes Gehalt möglich)
-- Eigene Projekte
+Mit zunehmender Erfahrung und Fachkenntnissen kann man beginnend beim Junior-Backend-Developer zum Senior-Backend-Developer aufsteigen. In dieser Rolle ist man für die Leitung von Projekten und die Zusammenarbeit mit anderen Entwicklern verantwortlich, um sicherzustellen, dass die entwickelten Lösungen den Anforderungen entsprechen und effizient arbeiten.
+
+Backend Developer können auch zu Teamleitern oder Managern aufsteigen, die für die Koordination und Leitung von Backend-Entwicklungsteams verantwortlich sind. Als Teamleiter ist man für die Planung, Organisation und Überwachung von Projekten verantwortlich und man stellt sicher, dass die Arbeit des Teams den Erwartungen entspricht und termingerecht abgeschlossen wird.
+
+Neben dem Backend ist auch eine Erweiterung der Fähigkeiten auf die Frontend-Entwicklung möglich. Eine Kombination aus Backend und Frontend wird als Full-stack Developer bezeichnet. Ein Full-Stack-Developer ist sowohl für die Backend- als auch für die Frontend-Entwicklung verantwortlich und hat ein umfassendes Verständnis der gesamten Softwareentwicklung [^12].
+
+Bei großen Tech-Unternehmen sind neben Aufstiegsmöglichkeiten auch der Wechsel der Themenbereiche innerhalb des Unternehmens möglich. Bei Google kann man recht einfach von beispielsweise der Entwicklung der Google Suche zu künstlicher Intelligenz des Google Assistent oder dem YouTube Algorithmus wechseln
 
 ## Geforderte Kompetenzen[^4]
 
@@ -57,13 +62,13 @@ Insgesamt verdienen Backend Developer in den USA tendenziell mehr als ihre Kolle
 
 ## Arbeitszeiten Und Arbeitspensum
 
-Leider gibt es keine Informationen darüber, wie es mit den Arbeitszeiten von Backend Developern aussieht. Es ist jedoch allgemein bekannt, dass Arbeitszeiten und Urlaubszeiten je nach Unternehmen und Branche variieren können. Einige Unternehmen haben flexible Arbeitszeiten oder bieten ihren Mitarbeitern die Möglichkeit, ortsunabhängig zu arbeiten, während andere Unternehmen strengere Arbeitszeiten haben. In der Regel haben Backend Developer ähnliche Arbeitszeiten wie andere Mitarbeiter in der IT-Industrie.
+Es gibt keine Informationen über die Arbeitszeiten eines Backend Developers. Außerdem können Arbeitszeiten und Urlaubszeiten je nach Unternehmen und Branche variieren. Einige Unternehmen haben flexible Arbeitszeiten oder bieten ihren Mitarbeitern die Möglichkeit, ortsunabhängig zu arbeiten, während andere Unternehmen strengere Arbeitszeiten haben. In der Regel haben Backend Developer ähnliche Arbeitszeiten wie andere Mitarbeiter in der IT-Industrie.
 
 Die Arbeitszeiten hängen auch stark davon ab, ob man selbstständig oder angestellt ist, und ob man in einem Startup-Unternehmen arbeitet. In der Regel ist es so, dass man in einem Startup-Unternehmen sehr frei in der Arbeitszeit und dem Arbeitsort ist.
 
 ## Vereinbarkeit Von Familie Und Beruf
 
-Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FAANG-Unternehmen, dann verbringt die meiste Zeit im Unternehmen. Das liegt daran, dass diese Unternehmen neben dem Gehalt, viele kostenlose Angebote haben. Beispielsweise kann man bei Google das Fitnessstudio nutzen und kostenlos essen[^11]. Bei Meta kann man sogar in deren Campus wohnen, sodass man letzlich die ganze Zeit in der Firma ist. Es zeigt, dass die Jobs eher an jüngere Menschen gerichtet sind, die noch keine richtige Familie gegründet haben. Allerdings sind die Arbeitszeiten sehr flexibel und man wird nicht gezwungen zu arbeiten. Vor allem bei FAANG wird auf die Work-Life-Balance großen Wert gelegt. Laut einem Thread auf Reddit[^10] sei es unkompliziert sich Urlaub zu nehmen, man wird daran erinnert die zu nehmen und die Arbeitszeiten seien flexibel. Allerdings wird auch gesagt, dass die stark vom Team und Manager abhängt. Da meist auch Homeoffice möglich ist, kann man sagen, dass sich der Beruf aufgrund der Flexibilität gut mit der Familie vereinbaren lässt. Allerdings ist zu beachten, dass dies stark von den Kollegen und dem Unternehmen abhängig ist.
+Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FAANG-Unternehmen, dann verbringt die meiste Zeit im Unternehmen. Das liegt daran, dass diese Unternehmen neben dem Gehalt, viele kostenlose Angebote haben. Beispielsweise kann man bei Google das Fitnessstudio nutzen und kostenlos essen[^11]. Bei Meta kann man sogar in deren Campus wohnen, sodass man letzlich die ganze Zeit in der Firma ist. Es zeigt, dass die Jobs eher an jüngere Menschen gerichtet sind, die noch keine richtige Familie gegründet haben. Allerdings sind die Arbeitszeiten sehr flexibel und man wird nicht gezwungen zu arbeiten. Vor allem bei FAANG wird auf die Work-Life-Balance großen Wert gelegt[^13]. Laut einem Thread auf Reddit[^10] sei es unkompliziert sich Urlaub zu nehmen, man wird daran erinnert die zu nehmen und die Arbeitszeiten seien flexibel. Allerdings wird auch gesagt, dass die stark vom Team und Manager abhängt. Da meist auch Homeoffice möglich ist, kann man sagen, dass sich der Beruf aufgrund der Flexibilität gut mit der Familie vereinbaren lässt. Allerdings ist zu beachten, dass dies stark von den Kollegen und dem Unternehmen abhängig ist.
 
 ## Weiterbildungsangebote
 
@@ -73,9 +78,9 @@ In FAANG-Unternehmen (Meta (Facebook), Apple, Amazon, Netflix und Google) gelten
 
 # Stellungsnahme / Eignungsbeurteilung
 
-- Eigene Erfahrung in der Schule (Ausleihsystem)
 - Bereits schon intensive Ausführung in der Freizeit
-- Passt zum bisher geplanten Studium
+- Eigene Erfahrung in der Schule (Ausleihsystem)
+- Passt zum bisher geplanten Studium und Interessen
 - Möglicherweise andere Berufsfelder noch passender
 
 # Quellen
@@ -91,3 +96,5 @@ In FAANG-Unternehmen (Meta (Facebook), Apple, Amazon, Netflix und Google) gelten
 [^9]: https://medium.com/@andreimargeloiu/the-definitive-guide-to-the-coding-interview-2704d166664c
 [^10]: https://www.reddit.com/r/Finanzen/comments/riblo4/9_to_5_job_in_einem_faang_unternehmen_it_bubble/
 [^11]: https://www.onpulson.de/1220/einblicke-in-die-arbeitswelt-von-google/
+[^12]: https://www.coursera.org/articles/back-end-developer
+[^13]: https://careers.google.com/benefits/?src=Online%2FSocial%2Fyoutube
