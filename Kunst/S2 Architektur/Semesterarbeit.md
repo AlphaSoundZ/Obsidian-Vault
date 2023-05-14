@@ -28,12 +28,13 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 
 # Inspiration
 
-- The Line: Neom-Projekt in Saudi-Arabien
+- The Line: Neon-Projekt in Saudi-Arabien
 - Bjarke Ingels
 
 ![Hannover Hbf](Semesterarbeit/Untitled%201.png)
 
-Hannover Hbf
+- Hannover Hbf
+- https://www.vitra.com/de-de/about-vitra/campus/architecture/architecture-dome
 
 # Wichtige Aspekte
 

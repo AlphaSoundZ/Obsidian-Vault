@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
+                "file": "Kunst/S2 Architektur/Semesterarbeit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
+                "file": "Kunst/S2 Architektur/Semesterarbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
+                "file": "Kunst/S2 Architektur/Semesterarbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md"
+                "file": "Kunst/S2 Architektur/Semesterarbeit.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
+                "file": "Kunst/S2 Architektur/Semesterarbeit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +231,10 @@
   },
   "active": "9e8f239fba6a836b",
   "lastOpenFiles": [
+    "Kunst/S1 Portraits.md",
+    "Kunst/S2 Architektur/Semesterarbeit.md",
+    "Kunst/S2 Architektur.md",
+    "Seminar/Berufsfeldanalyse.md",
     "Deutsch/S2 Lyrik.md",
     "conflict-files-obsidian-git.md",
     "Geographie/S2/Harvestehude.md",
@@ -240,7 +244,6 @@
     "Geographie/S2/Pasted image 20230509230134.png",
     "Daily Notes/10.05.23.md",
     "PGW/Rentenversicherung.md",
-    "Seminar/Berufsfeldanalyse.md",
     "Task List.md",
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude/Untitled 2.png",
@@ -268,10 +271,7 @@
     "Task List/Unbenannt.md",
     "Task List/Unbenannt 1.md",
     "Unbenannt.md",
-    "Daily Notes/05.05.23.md",
     "Daily Notes",
-    "Work/Tim Pertl.md",
-    "Work/Dream Studios/Kickstarter.md",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
