@@ -36,6 +36,11 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 - Hannover Hbf
 - https://www.vitra.com/de-de/about-vitra/campus/architecture/architecture-dome
 
+# Informationen / Quellen
+
+![[Multilayer_City[1].pdf]]
+![[kunst_infos.jpg]]
+
 # Wichtige Aspekte
 
 - Begrünung
@@ -45,6 +50,24 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 - konkreter Ort (Kieler Str., Kreuzung Sportplatzring)
 - Fahrstühle aus benachbarten Häusern für Barrierefreiheit
 - Innenhöfe: schafft Licht
+
+- auf der Seite der Wege, die Wände entfernen und durch Stützpfeiler ersetzen
+	- Übergänge in den Boden, wenn die Seite der Wohnungen wechselt
+- Auf der langen flachen Seite treppen mit dazwischen jeweils Sitzmöglichkeiten
+- Funktion des Daches:
+	- Regenschutz
+	- Photovoltaik-Anlagen
+	- Grünflächen
+- Lichtdurchlässige Flächen, wo die Sonne reinscheinen würde
+- Anbindung zum Untergrund (Züge, Einkaufszentren: Hannover Hbf)
+- Kreislaufsysteme? (Stromversorgung)
+- Einzelteile beim Bau, sollen zurückbaubar sein
+- minimal bauen, um das maximale Ziel zu erreichen
+- warum sollte es überdacht werden? Wie setze ich das Ziel um?
+	- Starkwetterereignisse
+	- Retentionsflächen, die das Wasser in der Stadt halten
+		- um zu bewässern
+			- unter die Grünflächen, die das Wasser auffangen (welches sonst in die Regenrinne fließt)
 
 # Form / Grundriss / Möglicher Umriss Des Moduls
 
