@@ -60,6 +60,8 @@ Insgesamt verdienen Backend Developer in den USA tendenziell mehr als ihre Kolle
 
 ## Verhältnis Von Vorgabe Und Selbstständigkeit
 
+
+
 ## Arbeitszeiten Und Arbeitspensum
 
 Es gibt keine Informationen über die Arbeitszeiten eines Backend Developers. Außerdem können Arbeitszeiten und Urlaubszeiten je nach Unternehmen und Branche variieren. Einige Unternehmen haben flexible Arbeitszeiten oder bieten ihren Mitarbeitern die Möglichkeit, ortsunabhängig zu arbeiten, während andere Unternehmen strengere Arbeitszeiten haben. In der Regel haben Backend Developer ähnliche Arbeitszeiten wie andere Mitarbeiter in der IT-Industrie.
