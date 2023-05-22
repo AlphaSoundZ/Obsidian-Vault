@@ -13,8 +13,19 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Seminar/Berufsfeldanalyse.md",
+                "file": ".obsidian/workspace.json",
                 "staged": false
+              }
+            }
+          },
+          {
+            "id": "36f03d48f49cb733",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Daily Notes/22.05.23.md",
+                "staged": true
               }
             }
           },
@@ -31,7 +42,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,8 +255,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "02c06c6dc968b251",
+  "active": "36f03d48f49cb733",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Seminar/Berufsfeldanalyse.md",
     "Daily Notes/22.05.23.md",
     "Task List.md",
@@ -273,7 +286,6 @@
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Harvestehude/Untitled 2.png",
-    "conflict-files-obsidian-git.md",
     "11.05.23.md",
     "Geographie/S2.md",
     "Geographie/S2/Städtebau.md",
