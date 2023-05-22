@@ -75,6 +75,8 @@ Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FAANG-Un
 ## Weiterbildungsangebote
 
 In FAANG-Unternehmen (Meta (Facebook), Apple, Amazon, Netflix und Google) gelten Softwareentwickler als hochqualifizierte und wertvolle Mitarbeiter. Die Gehälter und Arbeitsbedingungen für Softwareentwickler bei diesen Unternehmen sind in der Regel überdurchschnittlich gut. Außerdem investieren FAANG-Unternehmen häufig in die Weiterbildung und Karriereentwicklung ihrer Mitarbeiter, indem sie Schulungen, Konferenzen und andere Möglichkeiten zur beruflichen Weiterentwicklung finanzieren.
+- Bootcamps
+- Online (z.B. Skillshare, oder Udemy)
 
 ## Beispiele Arbeitgeber in Hamburg
 
