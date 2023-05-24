@@ -4,18 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "430e145dafb6c4a6",
+        "id": "f3ee44030913af85",
         "type": "tabs",
         "children": [
           {
-            "id": "a1f0c4652fae8ac5",
+            "id": "23488218c14ffd9f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "dbdad462ed177a6c",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Seminar/Berufsfeldanalyse.md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8491134953649372,
+                  "scale": 1.0689456004454625,
                   "close": true
                 }
               }
@@ -227,13 +239,21 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "a1f0c4652fae8ac5",
+  "active": "dbdad462ed177a6c",
   "lastOpenFiles": [
+    "Unbenannt.md",
+    "Seminar/Berufsfeldanalyse.md",
+    "Deutsch/Deutsch “Erster Weltkrieg” - Das Weiße Band.md",
+    "Deutsch/S2 Lyrik/Epochenübersicht.md",
+    "Daily Notes/11.05.23.md",
+    "Daily Notes/10.05.23.md",
+    "Deutsch/S2 Lyrik.md",
+    "Seminar/Seminarportfolio.md",
+    "stepstone.de.md",
+    "Seminar/Seminarportfolio/Studienort Berlin.md",
     "Philosophie/Karl Marx.md",
     "Philosophie/schaubild_karl_marx.png",
     "Philosophie/Metaphysik.md",
-    "Seminar/Berufsfeldanalyse.md",
-    "stepstone.de.md",
     "conflict-files-obsidian-git.md",
     "Daily Notes/22.05.23.md",
     "Task List.md",
@@ -248,19 +268,12 @@
     "Physik/Elektrische Felder.md",
     "Physik/Elektrostatik.md",
     "Physik/Wellen.md",
-    "Daily Notes/11.05.23.md",
     "Untitled.table",
-    "Deutsch/S2 Lyrik/Epochenübersicht.md",
-    "Deutsch/S2 Lyrik.md",
-    "Daily Notes/10.05.23.md",
     "Kunst/S2 Architektur/Semesterarbeit.md",
     "Kunst/S2 Architektur/Digitales Kunstheft.md",
     "Kunst/S1 Portraits/S1 Semesterarbeit Konzeptpapier.md",
     "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
-    "Mathe/Permutation.md",
-    "PGW/Rentenversicherung.md",
     "Geographie/S2/Harvestehude/Untitled 3.png",
-    "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Harvestehude/Untitled 2.png",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",

@@ -79,14 +79,16 @@ Wenn man sich selbst weiterbilden möchte, kann man dies über online Plattforme
 
 ## Beispiele Arbeitgeber in Hamburg
 
-Auf der Website [Stepstone](stepstone.de) gibt es 139 Treffer für Backend Developer in Hamburg[^17]. Einige Unternehmen sind Prodyna SE, Computer Futures, Dataport. Wahrscheinlich gibt es deutlich mehr Arbeitgeber, da jede Firma, die eine Website hat, sehr wahrscheinlich neben dem Frontend Developer einen Backend Developer braucht.
+Auf der Website Stepstone gibt es 139 Treffer für Backend Developer in Hamburg[^17]. Einige Unternehmen sind Prodyna SE, Computer Futures, Dataport. Wahrscheinlich gibt es deutlich mehr Arbeitgeber, da jede Firma, die eine Website hat, sehr wahrscheinlich neben dem Frontend Developer einen Backend Developer braucht.
 
 # Stellungsnahme / Eignungsbeurteilung
 
-- Bereits schon intensive Ausführung in der Freizeit
+Seit etwa 4-5 Jahren programmiere ich in meiner Freizeit. Vor etwa zwei Jahren habe ich meinen Schwerpunkt auf Backend Entwicklung gelegt. Mich begeistert die Backend Entwicklung aufgrund ihrer Komplexität, dem Lösen von Problemen, und dem Ziel ein System effizient zu gestalten. Bei der Berufswahl ist der Interessensfaktor meiner Meinung nach der wichtigste Aspekt. 
+
+Eine Alternative zum Backend Development, die auch in meinen Interessen liegt, ist 
+
 - Eigene Erfahrung in der Schule (Ausleihsystem)
 - Passt zum bisher geplanten Studium und Interessen
-- Möglicherweise andere Berufsfelder noch passender
 
 # Quellen
 
