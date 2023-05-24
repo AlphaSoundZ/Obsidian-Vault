@@ -199,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0534979423868367,
+                  "scale": 1.0534979423868382,
                   "close": true
                 }
               }
@@ -229,7 +229,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "f45091d9cc2d930c",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
     "Seminar/Berufsfeldanalyse.md",
     "Task List.md",
