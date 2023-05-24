@@ -4,30 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f3ee44030913af85",
+        "id": "749e6e4e483b4e23",
         "type": "tabs",
         "children": [
           {
-            "id": "23488218c14ffd9f",
+            "id": "f45091d9cc2d930c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dbdad462ed177a6c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "Seminar/Berufsfeldanalyse.md",
-                "staged": false
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Informatik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Seminar/Berufsfeldanalyse.md"
+              }
             }
           },
           {
@@ -143,15 +140,7 @@
             }
           },
           {
-            "id": "19578e6c4b3319d9",
-            "type": "leaf",
-            "state": {
-              "type": "googleTaskView",
-              "state": {}
-            }
-          },
-          {
-            "id": "5960e980c9f25031",
+            "id": "410c8f6d354497d8",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -172,10 +161,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Seminar/Berufsfeldanalyse.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -209,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0689456004454625,
+                  "scale": 1.0534979423868367,
                   "close": true
                 }
               }
@@ -219,10 +209,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -234,61 +226,59 @@
       "obsidian-google-tasks:Google Tasks": false,
       "templater-obsidian:Templater": false,
       "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "dbdad462ed177a6c",
+  "active": "f45091d9cc2d930c",
   "lastOpenFiles": [
-    "Unbenannt.md",
     "Seminar/Berufsfeldanalyse.md",
-    "Deutsch/Deutsch “Erster Weltkrieg” - Das Weiße Band.md",
-    "Deutsch/S2 Lyrik/Epochenübersicht.md",
-    "Daily Notes/11.05.23.md",
-    "Daily Notes/10.05.23.md",
-    "Deutsch/S2 Lyrik.md",
-    "Seminar/Seminarportfolio.md",
-    "stepstone.de.md",
-    "Seminar/Seminarportfolio/Studienort Berlin.md",
-    "Philosophie/Karl Marx.md",
-    "Philosophie/schaubild_karl_marx.png",
-    "Philosophie/Metaphysik.md",
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/22.05.23.md",
     "Task List.md",
-    "Kunst/S2 Architektur/kunst_infos.jpg",
-    "Kunst/S2 Architektur/Multilayer_City[1].pdf",
-    "Geographie/S2/Pasted image 20230509230134.png",
-    "Englisch/The British Empire & the Commonwealth of Nations.md",
-    "Daily Notes/02.06.23.md",
-    "Mathe/Stochastik.md",
-    "Mathe/Differentialrechnung.md",
-    "Mathe/Differentialgleichung.md",
-    "Physik/Elektrische Felder.md",
-    "Physik/Elektrostatik.md",
-    "Physik/Wellen.md",
-    "Untitled.table",
+    "Unbenannt.md",
+    "Philosophie/schaubild_karl_marx.png",
+    "Philosophie/Karl Marx.md",
+    "Daily Notes/22.05.23.md",
     "Kunst/S2 Architektur/Semesterarbeit.md",
-    "Kunst/S2 Architektur/Digitales Kunstheft.md",
-    "Kunst/S1 Portraits/S1 Semesterarbeit Konzeptpapier.md",
-    "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
+    "Kunst/S2 Architektur/Multilayer_City[1].pdf",
+    "Kunst/S2 Architektur/kunst_infos.jpg",
+    "Kunst/S2 Architektur.md",
+    "Kunst/S1 Portraits.md",
+    "Deutsch/S2 Lyrik.md",
+    "conflict-files-obsidian-git.md",
+    "Geographie/S2/Harvestehude.md",
+    "Englisch/The British Empire & the Commonwealth of Nations.md",
+    "Daily Notes/11.05.23.md",
+    "Daily Notes/02.06.23.md",
+    "Geographie/S2/Pasted image 20230509230134.png",
+    "Daily Notes/10.05.23.md",
+    "PGW/Rentenversicherung.md",
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude/Untitled 2.png",
+    "Untitled.table",
+    "11.05.23.md",
+    "Geographie/S2.md",
+    "Geographie/S2/Städtebau.md",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
     "Geographie/S2/Harvestehude/Untitled 6.png",
     "Geographie/S2/Harvestehude/Untitled 5.png",
     "Geographie/S2/Harvestehude/Untitled 4.png",
+    "Daily Notes/06.05.23.md",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
+    "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
+    "Deutsch/Das Weiße Band/Untitled.md",
+    "Templates/Daily Notes.md",
+    "Informatik/Simulationen.md",
     "Templates",
+    "Task List/Unbenanntes Kanban.md",
+    "Task List/Unbenannt.md",
     "Daily Notes",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
     "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
+    "Work/Tim Pertl/E-Lad-O-Mat",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas"
   ]
