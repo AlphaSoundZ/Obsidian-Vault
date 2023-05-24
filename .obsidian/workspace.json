@@ -4,46 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3d9be9e9fa8cc868",
+        "id": "430e145dafb6c4a6",
         "type": "tabs",
         "children": [
           {
-            "id": "02c06c6dc968b251",
+            "id": "a1f0c4652fae8ac5",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "36f03d48f49cb733",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Daily Notes/22.05.23.md",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "055b3d350d49053b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/22.05.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +197,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9146377894949657,
+                  "scale": 0.8491134953649372,
                   "close": true
                 }
               }
@@ -255,10 +227,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "36f03d48f49cb733",
+  "active": "a1f0c4652fae8ac5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Philosophie/Karl Marx.md",
+    "Philosophie/schaubild_karl_marx.png",
+    "Philosophie/Metaphysik.md",
     "Seminar/Berufsfeldanalyse.md",
+    "stepstone.de.md",
+    "conflict-files-obsidian-git.md",
     "Daily Notes/22.05.23.md",
     "Task List.md",
     "Kunst/S2 Architektur/kunst_infos.jpg",
@@ -286,15 +262,11 @@
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude.md",
     "Geographie/S2/Harvestehude/Untitled 2.png",
-    "11.05.23.md",
-    "Geographie/S2.md",
-    "Geographie/S2/Städtebau.md",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
     "Geographie/S2/Harvestehude/Untitled 6.png",
     "Geographie/S2/Harvestehude/Untitled 5.png",
     "Geographie/S2/Harvestehude/Untitled 4.png",
-    "Geographie/S2/Harvestehude/Untitled 1.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Templates",

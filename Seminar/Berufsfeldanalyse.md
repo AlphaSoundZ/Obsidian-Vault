@@ -5,6 +5,7 @@ Datum: 03.04.23 (S2)
 Name der Lehrkraft: Frau Schüler
 Berufsfeld: Informatik
 Schwerpunkt: Backend Developer
+Profilfächer: PGW, Kunst
 
 # Aufgabenstellung
 
@@ -60,25 +61,25 @@ Insgesamt verdienen Backend Developer in den USA tendenziell mehr als ihre Kolle
 
 ## Verhältnis Von Vorgabe Und Selbstständigkeit
 
-
-
 ## Arbeitszeiten Und Arbeitspensum
 
-Es gibt keine Informationen über die Arbeitszeiten eines Backend Developers. Außerdem können Arbeitszeiten und Urlaubszeiten je nach Unternehmen und Branche variieren. Einige Unternehmen haben flexible Arbeitszeiten oder bieten ihren Mitarbeitern die Möglichkeit, ortsunabhängig zu arbeiten, während andere Unternehmen strengere Arbeitszeiten haben. In der Regel haben Backend Developer ähnliche Arbeitszeiten wie andere Mitarbeiter in der IT-Industrie.
+Es gibt keine Informationen über die Arbeitszeiten speziell eines Backend Developers. Außerdem können Arbeitszeiten und Urlaubszeiten je nach Unternehmen und Branche variieren. Einige Unternehmen haben flexible Arbeitszeiten oder bieten ihren Mitarbeitern die Möglichkeit, ortsunabhängig zu arbeiten, während andere Unternehmen strengere Arbeitszeiten haben. In der Regel haben Backend Developer ähnliche Arbeitszeiten wie andere Mitarbeiter in der IT-Industrie. Ein Vollzeit-Job in der IT-Industrie liegt im Durchschnitt bei 35-40 Stunden pro Woche[^16].
 
-Die Arbeitszeiten hängen auch stark davon ab, ob man selbstständig oder angestellt ist, und ob man in einem Startup-Unternehmen arbeitet. In der Regel ist es so, dass man in einem Startup-Unternehmen sehr frei in der Arbeitszeit und dem Arbeitsort ist.
+Die Arbeitszeiten hängen auch stark davon ab, ob man selbstständig oder angestellt ist, und ob man in einem Startup-Unternehmen arbeitet. In der Regel ist es so, dass man in einem Startup-Unternehmen sehr frei in der Arbeitszeit und dem Arbeitsort ist. Abhängig vom Unternehmen kann es zu Überstunden kommen, wenn ein bestimmtes Problem zeitnah gelöst werden muss, oder ein Produkt kurz vor dem Release steht.
 
 ## Vereinbarkeit Von Familie Und Beruf
 
-Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FAANG-Unternehmen, dann verbringt die meiste Zeit im Unternehmen. Das liegt daran, dass diese Unternehmen neben dem Gehalt, viele kostenlose Angebote haben. Beispielsweise kann man bei Google das Fitnessstudio nutzen und kostenlos essen[^11]. Bei Meta kann man sogar in deren Campus wohnen, sodass man letzlich die ganze Zeit in der Firma ist. Es zeigt, dass die Jobs eher an jüngere Menschen gerichtet sind, die noch keine richtige Familie gegründet haben. Allerdings sind die Arbeitszeiten sehr flexibel und man wird nicht gezwungen zu arbeiten. Vor allem bei FAANG wird auf die Work-Life-Balance großen Wert gelegt[^13]. Laut einem Thread auf Reddit[^10] sei es unkompliziert sich Urlaub zu nehmen, man wird daran erinnert die zu nehmen und die Arbeitszeiten seien flexibel. Allerdings wird auch gesagt, dass die stark vom Team und Manager abhängt. Da meist auch Homeoffice möglich ist, kann man sagen, dass sich der Beruf aufgrund der Flexibilität gut mit der Familie vereinbaren lässt. Allerdings ist zu beachten, dass dies stark von den Kollegen und dem Unternehmen abhängig ist.
+Wenn man in einem großen Unternehmen arbeitet, beispielsweise in einem FAANG-Unternehmen, dann verbringt die meiste Zeit im Unternehmen. Das liegt daran, dass diese Unternehmen neben dem Gehalt, viele kostenlose Angebote haben. Beispielsweise kann man bei Google das Fitnessstudio nutzen und kostenlos essen[^11]. Es zeigt, dass die Jobs eher an jüngere Menschen gerichtet sind, die noch keine richtige Familie gegründet haben. Allerdings sind die Arbeitszeiten sehr flexibel und man wird nicht gezwungen zu arbeiten. Vor allem bei FAANG wird auf die Work-Life-Balance großen Wert gelegt[^13]. Laut einem Thread auf Reddit[^10] sei es unkompliziert sich Urlaub zu nehmen, man wird daran erinnert die zu nehmen und die Arbeitszeiten seien flexibel. Allerdings wird auch gesagt, dass die stark vom Team und Manager abhängt. Da meist auch Homeoffice möglich ist, kann man sagen, dass sich der Beruf aufgrund der Flexibilität gut mit der Familie vereinbaren lässt. Allerdings ist zu beachten, dass dies stark von den Kollegen und dem Unternehmen abhängig ist.
 
 ## Weiterbildungsangebote
 
 In FAANG-Unternehmen (Meta (Facebook), Apple, Amazon, Netflix und Google) gelten Softwareentwickler als hochqualifizierte und wertvolle Mitarbeiter. Die Gehälter und Arbeitsbedingungen für Softwareentwickler bei diesen Unternehmen sind in der Regel überdurchschnittlich gut. Außerdem investieren FAANG-Unternehmen häufig in die Weiterbildung und Karriereentwicklung ihrer Mitarbeiter, indem sie Schulungen, Konferenzen und andere Möglichkeiten zur beruflichen Weiterentwicklung finanzieren.
-- Bootcamps
-- Online (z.B. Skillshare, oder Udemy)
+
+Wenn man sich selbst weiterbilden möchte, kann man dies über online Plattformen wie Skillshare, Udemy oder Masterschool machen, oder man besucht ein Bootcamp[^14]. Zweiteres hat den Vorteil, dass man sich kein Video anschaut, sondern live Unterricht hat, und man einen direkten Ansprechpartner hat, wenn beispielsweise Probleme auftreten. Ein Nachteil ist die Preis. Bootcamps kosten mehrere tausend Euro, bei Online Kursen liegen diese meist unter 100 Euro[^15].
 
 ## Beispiele Arbeitgeber in Hamburg
+
+Auf der Website [Stepstone](stepstone.de) gibt es 139 Treffer für Backend Developer in Hamburg[^17]. Einige Unternehmen sind Prodyna SE, Computer Futures, Dataport. Wahrscheinlich gibt es deutlich mehr Arbeitgeber, da jede Firma, die eine Website hat, sehr wahrscheinlich neben dem Frontend Developer einen Backend Developer braucht.
 
 # Stellungsnahme / Eignungsbeurteilung
 
@@ -102,3 +103,7 @@ In FAANG-Unternehmen (Meta (Facebook), Apple, Amazon, Netflix und Google) gelten
 [^11]: https://www.onpulson.de/1220/einblicke-in-die-arbeitswelt-von-google/
 [^12]: https://www.coursera.org/articles/back-end-developer
 [^13]: https://careers.google.com/benefits/?src=Online%2FSocial%2Fyoutube
+[^14]: https://www.ironhack.com/de/en/web-development/remote?gad=1
+[^15]: https://www.udemy.com/courses/search/?q=backend+development&src=sac&kw=backend
+[^16]: https://www.derstandard.at/story/2000082554554/wie-viele-stunden-arbeiten-sie-in-ihrem-it-job
+[^17]: https://www.stepstone.de/jobs/backend/in-hamburg?radius=30
