@@ -40,6 +40,9 @@ Abschirmung eines elektrischen Feldes
 
 Die Fähnchen zeigen die Richtung des elektrischen Feldes an bestimmten Punkten an. Das Richtungsfeld gibt somit an, in welche Richtung eine positive Testladung bewegt werden würde, wenn sie sich an verschiedenen Punkten im Raum befindet.
 
-# Experiment
+# Ladungsmenge Q bei Veränderung der Spannung U
 
-Bei dem Experiment würde der Sensor in die entgegengesetzte Richtung der Ladung Q zeigen bzw. eine kleine positive Ladung würde von der Ladung Q wegedrückt werden, solange die Ladung positiv ist. sobald sie negativ ist, würde der Sensor in Richtung der Ladung Q zeigen. Während Q eine Ladung von 0 hat, würde der Sensor kein Feld “spüren”, da dann keine Ladungen existieren. Die stärke des Feldes bei dem Sensor hängt von dem Abstand zum Teilchen ab. Die Kurve in Relation der Ladungsstärke kann man in etwa mit der Funktion $-1*\cos x$ darstellen. Die Richtung ist entgegengesetzt zu Ladung Q, wenn die Ladung positiv ist, und in Richtung Q, wenn sie negativ ist.
+Je höher die Spannung, desto größer die Ladungsmenge.
+$$ C = \frac{Q}{U} = Kapazität $$
+Die Kapazität gibt an, wieviel Ladung auf einer Kondensatorplatte bei vorgegebener Spannung passt.
+Einheit: $$ \frac{1C}{1V} = 1F (Farad) $$

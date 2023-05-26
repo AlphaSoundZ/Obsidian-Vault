@@ -6,15 +6,19 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] dramatic reading #Englisch @[[02.06.23]]
+- [ ] Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
+- [ ] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
+- [ ] Aufgabe siehe Note #Physik @[[01.06.23]]
 - [ ] Klausurthemen @[[02.06.23]] #Mathe
-- [ ] Berufsfeldanalyse @[[24.05.23]] #Seminar
-- [ ] Abgabe der Präsentation (Präsentatieren am 31.) @[[24.05.23]] #Geographie
-- [ ] Klausurvorbereitung #Informatik @[[22.05.23]]
+- [ ] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 
 
 ## Done
 
 **Fertiggestellt**
+- [x] Klausurvorbereitung #Informatik @[[22.05.23]]
+- [x] Berufsfeldanalyse @[[24.05.23]] #Seminar
 
 
 ## Archiv
