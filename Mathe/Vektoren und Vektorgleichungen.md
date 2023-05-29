@@ -38,8 +38,7 @@ $$
 
 Bei der Multiplikation eines Vektors mit -1 erhält man den entgegengesetzten Vektor, auch inverser Vektor genannt.
 
-$$
-- \vec{v}
+$$ - \vec{v}
 $$
 
 ## Vektoren Addieren Und Subtrahieren
