@@ -206,7 +206,7 @@ $$ \vec{g_1} = \overrightarrow{OA} + \lambda \cdot \vec{r_1} $$
 
 $$ \vec{g_2} = \overrightarrow{OB} + \mu \cdot \vec{r_2} $$
 
-Gleichungen gleichsetzen und mithilfe des LGS (Gleichungen komponentenweise austellen) nach Lambda oder Mu auflösen:
+Gleichungen gleichsetzen und mihilfe des LGS (Gleichungen komponentenweise austellen) nach Lambda oder Mu auflösen:
 
 $$
 \overrightarrow{OA} + \lambda \cdot \vec{r_1}_x = \overrightarrow{OB} + \mu \cdot \vec{r_2}_x
