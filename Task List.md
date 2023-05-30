@@ -6,10 +6,10 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] dramatic reading #Englisch @[[02.06.23]]
 - [ ] Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
 - [ ] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
 - [ ] Aufgabe siehe Note #Physik @[[01.06.23]]
+- [ ] dramatic reading #Englisch @[[02.06.23]]
 - [ ] Klausurthemen @[[02.06.23]] #Mathe
 - [ ] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 

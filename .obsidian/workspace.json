@@ -30,9 +30,20 @@
                 "staged": false
               }
             }
+          },
+          {
+            "id": "3de70446014b29d7",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "PGW/Europäische Union.md",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,8 +247,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "031d590865787853",
+  "active": "3de70446014b29d7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "PGW/Europäische Union.md",
     "Geographie/S2/Harvestehude.md",
     "Task List.md",
     "Mathe/Vektoren und Vektorgleichungen.md",
@@ -257,7 +270,6 @@
     "Kunst/S2 Architektur.md",
     "Kunst/S1 Portraits.md",
     "Deutsch/S2 Lyrik.md",
-    "conflict-files-obsidian-git.md",
     "Englisch/The British Empire & the Commonwealth of Nations.md",
     "Daily Notes/11.05.23.md",
     "Geographie/S2/Pasted image 20230509230134.png",
@@ -278,7 +290,6 @@
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Geographie/S2/Harvestehude/Aufgabe.md",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
-    "Deutsch/Das Weiße Band/Untitled.md",
     "Templates",
     "Daily Notes",
     "Task List/Unbenannt.canvas",
