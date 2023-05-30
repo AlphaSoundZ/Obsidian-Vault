@@ -143,11 +143,6 @@ $$
 
 ## Kreuzprodukt Zweier Vektoren (S. 74 Im Tafelwerk)
 
-Es fehlt eine Operation, die zwei Vektoren so veknüpft, dass:
-
-- das Ergebnis ein Vektor ist
-- und das Ergebnis Nicht in derselben Ebene wie die Eingangsvektoren liegt.
-
 $$
 \vec{v} \times \vec{w} =
 \begin{pmatrix}v_y w_z - v_z w_y \\ v_z w_x - v_x w_z \\ v_x w_y - v_y w_x\end{pmatrix}
