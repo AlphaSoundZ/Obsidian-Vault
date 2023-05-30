@@ -38,9 +38,7 @@ $$
 
 Bei der Multiplikation eines Vektors mit -1 erhält man den entgegengesetzten Vektor, auch inverser Vektor genannt.
 
-$$
-- \vec{v}
-$$
+$$ - \vec{v} $$
 
 ## Vektoren Addieren Und Subtrahieren
 
@@ -204,17 +202,11 @@ Um herauszufinden, ob sich zwei Geraden schneiden, muss man die Parametergleichu
 
 Wir betrachten die folgenden zwei Vektorgleichungen:
 
-$$
-\vec{g_1} = \overrightarrow{OA} + \lambda \cdot \vec{r_1}
-$$
+$$ \vec{g_1} = \overrightarrow{OA} + \lambda \cdot \vec{r_1} $$
 
-$$
+$$ \vec{g_2} = \overrightarrow{OB} + \mu \cdot \vec{r_2} $$
 
-\vec{g_2} = \overrightarrow{OB} + \mu \cdot \vec{r_2}
-
-$$
-
-Gleichungen gleichsetzen und mtihilfe des LGS (Gleichungen komponentenweise austellen) nach Lambda oder Mu auflösen:
+Gleichungen gleichsetzen und mihilfe des LGS (Gleichungen komponentenweise austellen) nach Lambda oder Mu auflösen:
 
 $$
 \overrightarrow{OA} + \lambda \cdot \vec{r_1}_x = \overrightarrow{OB} + \mu \cdot \vec{r_2}_x
