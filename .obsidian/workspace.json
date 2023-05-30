@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/02.06.23.md",
-                "mode": "preview",
+                "file": "PGW/Europäische Union.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/02.06.23.md",
+                "file": "PGW/Europäische Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/02.06.23.md",
+                "file": "PGW/Europäische Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/02.06.23.md"
+                "file": "PGW/Europäische Union.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/02.06.23.md",
+                "file": "PGW/Europäische Union.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +207,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6660637557677972,
+                  "scale": 0.7754432573944807,
                   "close": true
                 }
               }
@@ -237,12 +237,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "029ce76763cffdbd",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
-    "Daily Notes/Unbenannt.md",
-    "Daily Notes/02.06.23.md",
     "Task List.md",
     "Daily Notes/01.06.23.md",
+    "Daily Notes/02.06.23.md",
+    "Daily Notes/Unbenannt.md",
     "Physik/Elektrische Felder.md",
     "Daily Notes/31.05.23.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
