@@ -15,10 +15,3 @@
 - WICHTIG!!!: Wenn man eine Wurzel als Ergebnis einer Gleichung hat, dann gibt es zwei Lösungen (+ und -)
 
 [[Vektoren und Vektorgleichungen]]
-
-## Fragen
-
-- Kommt ein taschenrechnerfreier Teil dran?
-- heißt Winkel zwischen Geraden, dass sich die Geraden schneiden müssen? (man könnte ja auch nur die Richtungsvektoren nehmen)
-- Schnittmenge?
-- Wie viel darf der Taschenrechner übernehmen?

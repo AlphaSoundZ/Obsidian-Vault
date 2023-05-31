@@ -248,7 +248,7 @@ Prüfe, ob der Punkt zur Menge der Ebenenpunkte gehört. Setze den Ortsvektor gl
 
 - Gerade schneidet die Ebene → gemeinsamer Punkt
 - Gerade liegt in der Ebene → alle (unendlich viele) Punkte
-- Gerade schneidet die EBene nicht → 0 Punkte gemeinsam
+- Gerade schneidet die Ebene nicht → 0 Punkte gemeinsam
 
 ### Der Normalenvektor
 
@@ -262,11 +262,11 @@ $$
 ax+by+cz=d
 $$
 
-$\begin{pmatrix}
+$ \begin{pmatrix}
 a \\
 b \\
 c
-\end{pmatrix}$= ist der Normalenvektor der Ebene, also orthogonal zur Ebene
+\end{pmatrix} $= ist der Normalenvektor der Ebene, also orthogonal zur Ebene
 
 In der Koordinatenform sind a, b und c die Komponenten des Normalenvektors.
 
