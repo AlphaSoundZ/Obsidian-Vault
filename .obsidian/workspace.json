@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dec9432102975df3",
+        "id": "a673ece872f4a245",
         "type": "tabs",
         "children": [
           {
-            "id": "0af5fb5d7ef7f0c7",
+            "id": "2a229b66e24331b2",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Daily Notes/31.05.23.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -222,7 +219,7 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "0af5fb5d7ef7f0c7",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
     "Daily Notes/31.05.23.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
