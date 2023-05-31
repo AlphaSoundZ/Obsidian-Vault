@@ -1,4 +1,4 @@
-# Mathe_ Sinusfunktion
+# Sinusfunktion
 
 f(x) = a*sin(bx+c)+d
 
