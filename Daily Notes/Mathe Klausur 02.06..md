@@ -22,4 +22,3 @@
 - heißt Winkel zwischen Geraden, dass sich die Geraden schneiden müssen? (man könnte ja auch nur die Richtungsvektoren nehmen)
 - Schnittmenge?
 - Wie viel darf der Taschenrechner übernehmen?
-- Wie wird ist $\sqrt{28} = 2 \sqrt{7}$
