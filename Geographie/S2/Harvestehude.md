@@ -90,55 +90,7 @@ Die Abiturdurchschnittsnoten im Prüfungsjahr 2013/14 in staatlichen Gymnasien i
 
 Der Sozialindex bietet eine gute Möglichkeit, um der sozialen Ungleichheit im Bildungsbereich entgegenzuwirken. Die Schulbehörde berücksichtigt den Sozialindex bei der Ausstattung von Schulen. Zum Beispiel sollen Schulen mit nachteiligen Voraussetzungen mehr Lehrerstellen erhalten, um kleinere Klassen oder verstärkte Sprachfördermaßnahmen zu ermöglichen.
 
-## Lebensqualität / Lebensorientierung
-
-- Infrastruktur mit öffentlichen Verkehrsmitteln
-- Einkaufsmöglichkeiten
-- Restaurants
-- kulturelle Angebote
-- Erreichbarkeit von Arbeitsplätzen
-    
-    ![Parks in Harvestehude
-    Quelle: [https://geoportal-hamburg.de/bildungsatlas/#](https://geoportal-hamburg.de/bildungsatlas/#)](Harvestehude/Untitled%203.png)
-    
-    Parks in Harvestehude
-    Quelle: [https://geoportal-hamburg.de/bildungsatlas/#](https://geoportal-hamburg.de/bildungsatlas/#)
-    
-
-## Nähe Zur Innenstadt
-
-- Bus Haltestelle
-    - Sophienterrasse
-        - 19 (ca. 23 min bis hbf)
-    - Oberstraße
-        - 114 (ca. 10 min bis dammtor)
-    - Alsterchaussee
-        - 19 (ca. 21 min bis  hbf)
-        - 15 mit 1 umstieg (ca. 22 min bis hbf)
-    - Klosterstern
-        - 114 (ca. 16 min bis  dammtor)
-- U-Bahn Haltestellen
-    - Klosterstern
-        - U1 (ca. 15 min bis hbf)
-    - Eppendorfer Baum
-        - U3 (ca. 20 min bis hbf)
-- Auto
-    - meist zwischen 15 bis 20 min → abhängig von Verkehr
-
-![Untitled](Harvestehude/Untitled%204.png)
-
 ## Politisch-moralisches Denken
-
-### Tendenzen der Parteipräferenzen
-
-| Sozialer Status | Partei    | Begründung                                                                                                                                                                                                                               |
-|-----------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hoch            | CDU/CSU   | Die CDU/CSU wird oft als Partei der Besserverdienenden angesehen, da sie wirtschaftsfreundliche Politik und Steuererleichterungen für höhere Einkommensgruppen vertritt. de.statista.com                                                 |
-| Hoch            | FDP       | Die FDP vertritt liberale Werte und setzt sich für wirtschaftliche Freiheit, weniger Regulierung und Steuererleichterungen ein, was bei Personen mit höherem sozialen Status Anklang finden kann. de.statista.com                        |
-| Mittel          | SPD       | Die SPD hat historisch gesehen eine starke Basis in der Arbeiterklasse und bei Personen mit mittlerem sozialen Status. Sie setzt sich für soziale Gerechtigkeit, Arbeitnehmerrechte und den Ausbau des Sozialstaats ein. de.statista.com |
-| Mittel          | Grüne     | Die Grünen ziehen insbesondere gut gebildete, städtische Wähler an, die sich für Umwelt-, Klima- und soziale Themen interessieren. Sie haben auch eine Basis in der Mittelschicht. de.statista.com                                       |
-| Niedrig         | Die Linke | Die Linke zieht Wähler aus einkommensschwachen Schichten an, die sich eine stärkere Umverteilung und soziale Gerechtigkeit wünschen. Sie setzt sich für höhere Sozialleistungen, Mindestlohn und Arbeitnehmerrechte ein. de.statista.com |
-| Niedrig         | AfD       | Die AfD zieht Wähler aus verschiedenen sozialen Schichten an, insbesondere aber aus einkommensschwachen Gebieten. Sie vertritt eine kritische Haltung gegenüber Einwanderung, der EU und der etablierten Politik. de.statista.com        |
 
 ### Wahlgewinner Bundestagswahl 2021 in Hamburg[^7]
 
@@ -161,18 +113,6 @@ Wahlbeteiligung: Harvestehude: 87,7 %
 
 ![[Screenshot 2023-05-30 083433.png]]
 Wählerschaft: Arbeiter und Arbeitslose [^9]
-
-## Einkommen
-
-### Grundstückspreise
-
-Die Grundstückspreise sind im Vergleich zum Durchschnitt 500% höher. Ein m² kostet 6200€.
-
-Allgemein sind die Preise für Wohnungsflächen, seien es Grundstücke, Eigentumswohnungen oder Ein-familien-häuser, sehr viel teurer als in anderen Stadtteilen. 
-
-Eigentumswohnungen ausgenommen, gibt es kein Stadtteil mit teureren Wohnungen. Nur in der Hafencity sind Eigentumswohnungen nochmals 20% teurer.
-
-## Historie / Entwicklung / Gründe Der Strukturen
 
 # Quellen
 

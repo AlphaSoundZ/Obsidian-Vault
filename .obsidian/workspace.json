@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "da3e9689db91cc10",
+            "id": "9fa3441907e03fe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "16cdfe4ecd9abf73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Geographie/S2/Harvestehude.md"
               }
             }
           },
@@ -196,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Geographie/S2/Harvestehude.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,11 +251,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "16cdfe4ecd9abf73",
+  "active": "9fa3441907e03fe6",
   "lastOpenFiles": [
+    "PGW/Europäische Union.md",
     "Geographie/S2/Harvestehude.md",
     "conflict-files-obsidian-git.md",
-    "PGW/Europäische Union.md",
     "Geographie/S2/Screenshot 2023-05-30 083433.png",
     "Daily Notes/Mathe Klausur 02.06..md",
     "Task List.md",
