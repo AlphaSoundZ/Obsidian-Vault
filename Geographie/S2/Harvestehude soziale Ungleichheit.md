@@ -1,7 +1,5 @@
 # Harvestehude - Soziale Ungleichheit
 
-# Inhalt
-
 # Aufgabenstellung
 
 [Aufgabe](Harvestehude/Aufgabe.md)
