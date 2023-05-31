@@ -157,6 +157,11 @@ Wahlbeteiligung: Harvestehude: 87,7 %
 ![[Pasted image 20230509230134.png]]
 (Seite 9 in Quelle)
 
+### Wahlergebnisse AfD
+
+![[Screenshot 2023-05-30 083433.png]]
+Wählerschaft: Arbeiter und Arbeitslose [^9]
+
 ## Einkommen
 
 ### Grundstückspreise
@@ -188,3 +193,4 @@ https://www.hamburg.de/contentblob/16758542/b9eedefc582183f3ba6089882bb0cb04/dat
 [^6]: https://www.hamburg.de/contentblob/16884502/674dee2e6bfd80aedf47f9bab5108167/data/pdf-gesamtdokument-2022-23.pdf
 [^7]: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/interaktive-karten-zu-den-wahlen-und-abstimmungen-in-hamburg
 [^8]: https://pure.mpg.de/rest/items/item_1867815/component/file_1867810/content
+[^9]: https://www.bpb.de/themen/parteien/rechtspopulismus/248916/wer-waehlt-warum-die-afd/
