@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgabe siehe Note #Physik @[[01.06.23]]
 - [ ] dramatic reading #Englisch @[[02.06.23]]
 - [ ] Klausurthemen @[[02.06.23]] #Mathe
 - [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
@@ -16,6 +15,7 @@ kanban-plugin: basic
 ## Done
 
 **Fertiggestellt**
+- [x] Aufgabe siehe Note #Physik @[[01.06.23]]
 - [x] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
 
 

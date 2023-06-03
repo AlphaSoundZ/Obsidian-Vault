@@ -286,7 +286,7 @@ In der Koordinatenform sind a, b und c die Komponenten des Normalenvektors.
     - Setze die Vektor-Geradengleichungen gleich
     - Schreibe die Geradengleichung komponentenweise hin → LGS mit 2 Unbekannten (ggf. aus 3 Gleichungen)
     - Löse das Gleichungssystem (du erhältst Lambda 1 und Lambda 2)
-    - Solte das LGS nicht lösbar sein (oder unendlich viele Lösungen besitzen, dann schneiden sich die Geraden nicht
+    - Sollte das LGS nicht lösbar sein (oder unendlich viele Lösungen besitzen, dann schneiden sich die Geraden nicht
     
     Nur im R³: Setze Lambda 1 / 2 in die noch nicht benutzte Gleichung ein. Nur wenn diese erfüllt ist, dann schneiden sich die Geraden
     

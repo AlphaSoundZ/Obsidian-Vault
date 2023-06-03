@@ -1,5 +1,6 @@
 ### Zeitliche Einordnung
 
+1950: Vorschlag EGKS (von Robert Schuman)
 1952: Gründung EGKS (Montanunion): **Belgien, Frankreich, Deutschland, Italien, Luxemburg, Niederlande**
 1957/58: Römische Verträge: Gründung EWG (Wirtschaftsgemeinschaft - Aufhebung des Zolls) & EURATOM: weniger Auseinandersetzungen und bessere Lebensverhältnisse
 1965: Alle Gemeinschaften wurden vereint, was EG hieß
@@ -37,20 +38,41 @@ Er hat seinen Sitz in Luxemburg. Sein Aufgabe ist es, darauf zu achten, dass EU 
 
 - Wahlen alle 5 Jahre (von EU-Bürger/innen)
 - entscheidet über EU-Haushalt und Gesetzgebung
+- teilt sich die Haushaltsbefugnis mit dem Rat
+- Roberta Metsola Präsidentin
+- Vertretung der Interessen der Bürger gegenüber anderer EU-Organe
+- 751 Abgeordnete aus den Mitgliedsländern (Anzahl der entsendeten Mitgliedern hängt von der Bevölkerungsgröße des Landes ab)
+- wesentliche Aufgaben
+	- Gesetzgebende Gewalt (zusammen mit dem europäischen Rat)
+	- Legitimierung des europäischen Rechts
+	- Demokratische Rolle über die Organe der EU, besonders Kommission
+	- Einfluss auf Ausgaben der EU
 
-> Roberta Metsola Präsidentin
-
-### Rat der europäischen Union (Legislative)
+### Rat der europäischen Union / Ministerrat (Legislative)
 
 - Fachminister/innen der Mitgliedsstaaten
-- Umsetzung von Gesetzen u.a. in den Ländern
+- Wichtigstes Entscheidungsgremium der EU, es tagen Fachminister aus den nationalen Regierungen der EU-Mitgliedsstaaten (Umsetzung von Gesetzen u.a. in den Ländern)
+- Zusammensetzung hängt von zu behandelndem Sachgebiet ab (z.B. Wirtschaft)
+- Minister haben hohe Befugnisse (können für ihre Regierungen verbindlich handeln), sind für ihre Beschlüsse aber auch politisch verantwortlich
+	- demokratische Legitimierung
+- Je nach Politikbereich verschiedene Abstimmungsverfahren vorgesehen
+	- Einstimmig, einfache oder qualifizierte Mehrheit 
+	- Seit 1.11.2014 gilt eine qualifizierte Mehrheit als erreicht, wenn mind. 55% der Ratsmitglieder zustimmen ( mind.15 Staaten) + gemeinsam mind. 65% der EU-Bevölkerung
+	- Vier Staaten können eine Sperrminorität bilden
 - Josep Borrell Präsident
 
 ### Europäische Kommission (Exekutive)
 
-schlägt Gesetze vor an den Rat der europäischen Union
-
-Die Kommission und der Rat der europäischen Union
+- Gesetzgebung
+- Ein Mitglied pro Staat (28 Männer und Frauen)
+- schlägt Gesetze vor an den Rat der europäischen Union
+- vertritt und wahrt die Interessen der gesamten EU
+- erarbeiten Vorschläge für neue europäische Rechtsvorschriften
+- führt das Tagesgeschäft der EU
+	- Umsetzung der politischen Maßnahmen
+	- Durchführung der Programme
+	- Verwaltung der Mittel
+- Ursula von der Leyen (von DE)
 
 ### Europäischer Rat
 
@@ -58,9 +80,8 @@ Die Kommission und der Rat der europäischen Union
 - Leitfaden für Außenpolitik
 - Personalvorschläge
 - Charles Michel Präsident
-
-### Europäische Kommission
-
-- Gesetzgebung
-- Ein Mitglied pro Staat
-- Ursula von der Leyen (von DE)
+- Treffen der Staats- und Regierungschefs der EU-Mitgliedstaaten
+- Bestehend aus Präsident des Europäischen Rates und Präsident der Europäischen Kommission
+- Höchste Repräsentanz der Europäischen Union
+- Festlegung der Leitlinien der EU-Politik
+- Behandlung von Fragen, die auf niedrigerer Ebene nicht gelöst werden konnten

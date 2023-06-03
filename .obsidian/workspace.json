@@ -11,9 +11,19 @@
             "id": "18ff2da48368d83e",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Task List.md"
+              }
+            }
+          },
+          {
+            "id": "8d5f7a2bde0fe525",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
+                "file": "PGW/Europäische Union.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md"
+                "file": "Task List.md"
               }
             }
           },
@@ -169,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4455454059904769,
+                  "scale": 0.8112956255835871,
                   "close": true
                 }
               }
@@ -240,13 +250,14 @@
   "active": "18ff2da48368d83e",
   "lastOpenFiles": [
     "Mathe/Vektoren und Vektorgleichungen.md",
+    "PGW/Europäische Union.md",
+    "Mathe/Infiniteseminalrechnung.md",
     "Daily Notes/Mathe Klausur 02.06..md",
     "Daily Notes/02.06.23.md",
     "Task List.md",
     "Geographie/S2/Harvestehude soziale Ungleichheit.md",
     "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
     "Geographie/S2/Harvestehude.md",
-    "PGW/Europäische Union.md",
     "conflict-files-obsidian-git.md",
     "Geographie/S2/Screenshot 2023-05-30 083433.png",
     "Daily Notes/01.06.23.md",
@@ -267,7 +278,6 @@
     "Philosophie/Karl Marx.md",
     "Philosophie/schaubild_karl_marx.png",
     "Philosophie/Metaphysik.md",
-    "Daily Notes/22.05.23.md",
     "Kunst/S2 Architektur/kunst_infos.jpg",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
     "Geographie/S2/Pasted image 20230509230134.png",
