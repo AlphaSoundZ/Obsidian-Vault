@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b27382103ef6bb77",
+        "id": "7c1d1c37c41939b0",
         "type": "tabs",
         "children": [
           {
-            "id": "18ff2da48368d83e",
+            "id": "4f7c094816af4f46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
+                "file": "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e327fd3576f2068",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Daily Notes/Mathe Klausur 02.06..md",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Informatik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,15 +148,7 @@
             }
           },
           {
-            "id": "19578e6c4b3319d9",
-            "type": "leaf",
-            "state": {
-              "type": "googleTaskView",
-              "state": {}
-            }
-          },
-          {
-            "id": "5960e980c9f25031",
+            "id": "410c8f6d354497d8",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -169,18 +169,17 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Mathe Klausur 02.06..md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#Deutsch",
@@ -207,7 +206,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4455454059904769,
+                  "scale": 0.7514342322277645,
                   "close": true
                 }
               }
@@ -217,10 +216,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
       "canvas:Neuen Canvas erstellen": false,
@@ -232,53 +233,50 @@
       "obsidian-google-tasks:Google Tasks": false,
       "templater-obsidian:Templater": false,
       "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "18ff2da48368d83e",
+  "active": "8e327fd3576f2068",
   "lastOpenFiles": [
-    "Mathe/Vektoren und Vektorgleichungen.md",
     "Daily Notes/Mathe Klausur 02.06..md",
+    "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
+    "Mathe/Vektoren und Vektorgleichungen.md",
     "Daily Notes/02.06.23.md",
     "Task List.md",
-    "Geographie/S2/Harvestehude soziale Ungleichheit.md",
-    "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
-    "Geographie/S2/Harvestehude.md",
-    "PGW/Europäische Union.md",
-    "conflict-files-obsidian-git.md",
-    "Geographie/S2/Screenshot 2023-05-30 083433.png",
-    "Daily Notes/01.06.23.md",
-    "Daily Notes/Unbenannt.md",
-    "Physik/Elektrische Felder.md",
+    "Mathe/Vektoren (old).md",
+    "Mathe/Stochastik.md",
+    "Mathe/Permutation.md",
+    "Mathe/Mathe_ Sinusfunktion.md",
+    "Mathe/Kurvendiskussion (Kurzfassung).md",
+    "Mathe/Kurvendiskussion.md",
+    "Mathe/Klausur 30 09 2022 (S1).md",
+    "Mathe/Infiniteseminalrechnung.md",
     "Daily Notes/31.05.23.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
+    "conflict-files-obsidian-git.md",
+    "PGW/Europäische Union.md",
+    "Geographie/S2/Harvestehude.md",
+    "Daily Notes/01.06.23.md",
     "Unbenannt.md",
     "Seminar/Berufsfeldanalyse.md",
-    "Deutsch/Deutsch “Erster Weltkrieg” - Das Weiße Band.md",
-    "Deutsch/S2 Lyrik/Epochenübersicht.md",
-    "Daily Notes/11.05.23.md",
-    "Daily Notes/10.05.23.md",
-    "Deutsch/S2 Lyrik.md",
-    "Seminar/Seminarportfolio.md",
-    "stepstone.de.md",
-    "Seminar/Seminarportfolio/Studienort Berlin.md",
-    "Philosophie/Karl Marx.md",
     "Philosophie/schaubild_karl_marx.png",
-    "Philosophie/Metaphysik.md",
+    "Philosophie/Karl Marx.md",
     "Daily Notes/22.05.23.md",
-    "Kunst/S2 Architektur/kunst_infos.jpg",
+    "Kunst/S2 Architektur/Semesterarbeit.md",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
+    "Kunst/S2 Architektur/kunst_infos.jpg",
+    "Kunst/S2 Architektur.md",
+    "Kunst/S1 Portraits.md",
+    "Deutsch/S2 Lyrik.md",
     "Geographie/S2/Pasted image 20230509230134.png",
-    "Untitled.table",
-    "Kunst/S1 Portraits/Bildanalyse/AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude/Untitled 2.png",
+    "Untitled.table",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
     "Geographie/S2/Harvestehude/Untitled 6.png",
     "Geographie/S2/Harvestehude/Untitled 5.png",
+    "Geographie/S2/Harvestehude/Untitled 4.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Templates",
@@ -287,6 +285,7 @@
     "Unbenannt.canvas",
     "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
     "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
     "Unbenannt 2.canvas",
     "Unbenannt 1.canvas"
   ]
