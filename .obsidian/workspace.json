@@ -213,13 +213,12 @@
       "command-palette:Befehlspalette öffnen": false,
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
-      "obsidian-google-tasks:Google Tasks": false,
       "templater-obsidian:Templater": false,
       "notion-like-tables:Create Notion-Like table": false,
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "1e1c943d5ae015d7",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
     "Work/Dream Studios/Hangar.md",
     "Work/Dream Studios/Finanzplan.md",
