@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2e7a5e5391d619ef",
+        "id": "cf873c092ea33b5c",
         "type": "tabs",
         "children": [
           {
-            "id": "bf0cde177ca5e7b4",
+            "id": "1e1c943d5ae015d7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Task List.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Task List.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,7 +152,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +189,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.38230109687700037,
+                  "scale": 0.7514342322277663,
                   "close": true
                 }
               }
@@ -206,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,15 +219,25 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "af29c05cdefb2948",
+  "active": "1e1c943d5ae015d7",
   "lastOpenFiles": [
-    "Unbenannt.md",
+    "Work/Dream Studios/Hangar.md",
+    "Work/Dream Studios/Finanzplan.md",
+    "Work/Tim Pertl.md",
+    "Work/Fibonacci Films.md",
+    "Work/Drohne - Akkuwechselstation.md",
+    "Work/Dream Studios.md",
+    "Work/Andrea Wiese.md",
     "Google.md",
+    "Task List.md",
+    "Daily Notes/11.05.23.md",
+    "Daily Notes/10.05.23.md",
+    "Daily Notes/31.05.23.md",
+    "Unbenannt.md",
     "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
     "Daily Notes/Mathe Klausur 02.06..md",
     "Mathe/Vektoren und Vektorgleichungen.md",
     "Daily Notes/02.06.23.md",
-    "Task List.md",
     "Mathe/Vektoren (old).md",
     "Mathe/Stochastik.md",
     "Mathe/Permutation.md",
@@ -243,21 +246,11 @@
     "Mathe/Kurvendiskussion.md",
     "Mathe/Klausur 30 09 2022 (S1).md",
     "Mathe/Infiniteseminalrechnung.md",
-    "Daily Notes/31.05.23.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
     "conflict-files-obsidian-git.md",
-    "PGW/Europäische Union.md",
-    "Geographie/S2/Harvestehude.md",
-    "Daily Notes/01.06.23.md",
-    "Seminar/Berufsfeldanalyse.md",
     "Philosophie/schaubild_karl_marx.png",
-    "Philosophie/Karl Marx.md",
-    "Daily Notes/22.05.23.md",
-    "Kunst/S2 Architektur/Semesterarbeit.md",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
     "Kunst/S2 Architektur/kunst_infos.jpg",
-    "Kunst/S2 Architektur.md",
-    "Kunst/S1 Portraits.md",
     "Geographie/S2/Pasted image 20230509230134.png",
     "Geographie/S2/Harvestehude/Untitled 3.png",
     "Geographie/S2/Harvestehude/Untitled 2.png",

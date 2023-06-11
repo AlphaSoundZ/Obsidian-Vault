@@ -6,8 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] dramatic reading #Englisch @[[02.06.23]]
-- [ ] Klausurthemen @[[02.06.23]] #Mathe
+- [ ] dramatic reading #Englisch @[[12.06.23]]
 - [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
 - [ ] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 
@@ -15,12 +14,13 @@ kanban-plugin: basic
 ## Done
 
 **Fertiggestellt**
-- [x] Aufgabe siehe Note #Physik @[[01.06.23]]
 - [x] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
 
 
 ## Archiv
 
+- [ ] Klausurthemen @[[02.06.23]] #Mathe
+- [ ] Aufgabe siehe Note #Physik @[[01.06.23]]
 - [ ] Aufgaben siehe Email #PGW @[[11.05.23]]
 - [ ] Gedicht "Straße" analysieren #Deutsch @[[11.05.23]]
 - [ ] Seite 410 f. lesen #Deutsch @[[11.05.23]]
