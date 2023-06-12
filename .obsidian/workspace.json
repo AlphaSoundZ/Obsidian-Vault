@@ -4,11 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cf873c092ea33b5c",
+        "id": "7d4371adbf95bebf",
         "type": "tabs",
         "children": [
           {
-            "id": "1e1c943d5ae015d7",
+            "id": "a19a5cc66b0d05ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Englisch/Girl, Women, Other.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fd2413870c9471c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Englisch/Girl, Women, Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Englisch/Girl, Women, Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Englisch/Girl, Women, Other.md"
+              }
             }
           },
           {
@@ -152,6 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Englisch/Girl, Women, Other.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,6 +238,12 @@
   },
   "active": "05586ceeec61fb87",
   "lastOpenFiles": [
+    "Englisch/Girl, Women, Other.md",
+    "Seminar/Brüssel Reisebericht.md",
+    "Seminar/PXL_20230606_120414504.jpg",
+    "Seminar/IMG_9826.jpg",
+    "Task List.md",
+    "Daily Notes/12.06.23.md",
     "Work/Dream Studios/Hangar.md",
     "Work/Dream Studios/Finanzplan.md",
     "Work/Tim Pertl.md",
@@ -228,7 +252,6 @@
     "Work/Dream Studios.md",
     "Work/Andrea Wiese.md",
     "Google.md",
-    "Task List.md",
     "Daily Notes/11.05.23.md",
     "Daily Notes/10.05.23.md",
     "Daily Notes/31.05.23.md",
@@ -242,11 +265,7 @@
     "Mathe/Permutation.md",
     "Mathe/Mathe_ Sinusfunktion.md",
     "Mathe/Kurvendiskussion (Kurzfassung).md",
-    "Mathe/Kurvendiskussion.md",
-    "Mathe/Klausur 30 09 2022 (S1).md",
-    "Mathe/Infiniteseminalrechnung.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
-    "conflict-files-obsidian-git.md",
     "Philosophie/schaubild_karl_marx.png",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
     "Kunst/S2 Architektur/kunst_infos.jpg",
@@ -257,8 +276,6 @@
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
     "Geographie/S2/Harvestehude/Untitled 6.png",
-    "Geographie/S2/Harvestehude/Untitled 5.png",
-    "Geographie/S2/Harvestehude/Untitled 4.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Templates",
