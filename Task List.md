@@ -6,14 +6,14 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] dramatic reading #Englisch @[[12.06.23]]
 - [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
-- [ ] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 
 
 ## Done
 
 **Fertiggestellt**
+- [x] dramatic reading #Englisch @[[12.06.23]]
+- [x] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 - [x] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
 
 
