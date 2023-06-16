@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1539b6958d91de",
+        "id": "88890319adfb5593",
         "type": "tabs",
         "children": [
           {
-            "id": "517c8a1d05df476b",
+            "id": "49ced468b4eb4e47",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Mathe/Stochastik.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Informatik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Mathe/Stochastik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Mathe/Stochastik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Mathe/Stochastik.md"
               }
             }
           },
@@ -158,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Mathe/Stochastik.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,18 +228,18 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "517c8a1d05df476b",
+  "active": "49ced468b4eb4e47",
   "lastOpenFiles": [
-    "Physik/Elektrische Felder.md",
-    "Task List.md",
-    "Physik/Elektrostatik.md",
+    "Kunst/S2 Architektur/Semesterarbeit.md",
+    "Kunst/S2 Architektur/Konzeptpapier.md",
+    "Kunst/S2 Architektur/grundriss_kunst_semersterarbeit_s2.png",
+    "Kunst/S2 Architektur/Unbenannt.md",
     "Daily Notes/14.06.23.md",
-    "Englisch/Social class in the 21st century.md",
-    "Englisch/Girl, Women, Other.md",
-    "Seminar/Brüssel Reisebericht.md",
+    "Task List.md",
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/IMG_9826.jpg",
-    "Daily Notes/12.06.23.md",
+    "Seminar/Brüssel Reisebericht.md",
+    "Englisch/Girl, Women, Other.md",
     "Work/Dream Studios/Hangar.md",
     "Work/Dream Studios/Finanzplan.md",
     "Work/Tim Pertl.md",
@@ -265,7 +268,6 @@
     "Untitled.table",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
-    "Geographie/S2/Harvestehude/Untitled 6.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Templates",
