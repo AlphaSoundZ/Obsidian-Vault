@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c8173e025197741e",
+        "id": "9f1539b6958d91de",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6b8c8b6e5f5620",
+            "id": "517c8a1d05df476b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physik/Elektrische Felder.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -161,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik/Elektrische Felder.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,10 +225,10 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "8e6b8c8b6e5f5620",
+  "active": "517c8a1d05df476b",
   "lastOpenFiles": [
-    "Task List.md",
     "Physik/Elektrische Felder.md",
+    "Task List.md",
     "Physik/Elektrostatik.md",
     "Daily Notes/14.06.23.md",
     "Englisch/Social class in the 21st century.md",

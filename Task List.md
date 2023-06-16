@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
+- [ ] Aufgabe B und C @[[22.06.23]] #Physik
 
 
 ## Done
@@ -15,6 +15,7 @@ kanban-plugin: basic
 - [x] dramatic reading #Englisch @[[12.06.23]]
 - [x] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 - [x] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
+- [x] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
 
 
 ## Archiv
