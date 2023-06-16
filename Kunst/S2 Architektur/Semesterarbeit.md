@@ -26,6 +26,8 @@ Kielerstraße
 
 Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man Häuserreihen bilden kann. In meiner Vision der Zukunft wird nicht jeder ein Auto besitzen, sondern stattdessen das Fahrrad für kurze Strecken, und den Zug für längere Strecken nehmen. Im Untergeschoss könnte es Einkaufszentren geben, da diese im Vergleich zu Wohnungen oder Büros kein natürliches Licht benötigen. Möglicherweise sind Schächte für etwas Licht eine gute Option, um möglichst viel künstliches Licht zu vermeiden. Letzlich soll das Produkt ein Modul von vielen sein. Ich werde bei diesem Modul wahrscheinlich ein Kreuzungsmodul entwerfen, dass Nicht-Kreuzungsmodule verbindet. Man könnte beispielsweise in die Mitte des Moduls einen Innenhof gestalten, der mithilfe von Treppen mit dem Tiefgelegenden Einkaufszentrum verbunden ist. Es ist außerdem wichtig, die Module mit nebenstehenden Gebäuden zu verbinden, um Barrierefreiheit zu schaffen, indem man über Brücken, oder Glastunnel die Nachbarstreppenhäuser mit Fahrstühlen mit den Modulen verbindet.
 
+[[Konzeptpapier]]
+
 # Inspiration
 
 - The Line: Neon-Projekt in Saudi-Arabien
@@ -44,7 +46,7 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 # Wichtige Aspekte
 
 - Begrünung
-- Ereichbarkeit von außen
+- Erreichbarkeit von außen
 - Verbindung zu Wohnung außerhalb (z.B. Brücker etc.)
 - öffentliche Räume / Zonen
 - konkreter Ort (Kieler Str., Kreuzung Sportplatzring)
@@ -53,7 +55,7 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 
 - auf der Seite der Wege, die Wände entfernen und durch Stützpfeiler ersetzen
 	- Übergänge in den Boden, wenn die Seite der Wohnungen wechselt
-- Auf der langen flachen Seite treppen mit dazwischen jeweils Sitzmöglichkeiten
+- Auf der langen flachen Seite Treppen mit dazwischen jeweils Sitzmöglichkeiten
 - Funktion des Daches:
 	- Regenschutz
 	- Photovoltaik-Anlagen
