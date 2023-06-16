@@ -46,3 +46,6 @@ Je höher die Spannung, desto größer die Ladungsmenge.
 $$ C = \frac{Q}{U} = Kapazität $$
 Die Kapazität gibt an, wieviel Ladung auf einer Kondensatorplatte bei vorgegebener Spannung passt.
 Einheit: $$ \frac{1C}{1V} = 1F (Farad) $$
+
+Kondensator wird geladen → Elektroskop schlägt aus;
+Abstand d der Kondensatorplatten wird vergrößert → Elektroskopausschlag wird größer.
