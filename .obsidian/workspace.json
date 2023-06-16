@@ -11,9 +11,12 @@
             "id": "517c8a1d05df476b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Englisch/Girl, Women, Other.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Englisch/Girl, Women, Other.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Englisch/Girl, Women, Other.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Englisch/Girl, Women, Other.md"
               }
             }
           },
@@ -158,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Englisch/Girl, Women, Other.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7514342322277663,
+                  "scale": 0.6135434814060235,
                   "close": true
                 }
               }
@@ -227,8 +230,9 @@
   },
   "active": "517c8a1d05df476b",
   "lastOpenFiles": [
-    "Physik/Elektrische Felder.md",
     "Task List.md",
+    "Mathe/Stochastik.md",
+    "Physik/Elektrische Felder.md",
     "Physik/Elektrostatik.md",
     "Daily Notes/14.06.23.md",
     "Englisch/Social class in the 21st century.md",
@@ -254,7 +258,6 @@
     "Mathe/Vektoren und Vektorgleichungen.md",
     "Daily Notes/02.06.23.md",
     "Mathe/Vektoren (old).md",
-    "Mathe/Stochastik.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
     "Philosophie/schaubild_karl_marx.png",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",

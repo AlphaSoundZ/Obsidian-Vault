@@ -1,12 +1,4 @@
-# Summary
-
-[Carole](https://www.supersummary.com/girl-woman-other/major-character-analysis/#59800), a young financial executive, reflects on her struggle to succeed in a male-dominated workplace. She traces her love of math to her mother. She recalls how she used math to endure the pain and humiliation of being gang-raped as a teenager at her friend LaTisha’s party, led by a young man named Trey: “Carole forces herself to think of her favourite number, 1729” (126).
-
-After the rape, Carole tells no one, though she does decide to turn her life around. With the help of her teacher Mrs. [Shirley King](https://www.supersummary.com/girl-woman-other/major-character-analysis/#59804), Carole begins to excel in school. She eventually gets into the prestigious Oxford University, where she feels like a misfit due to her race and working-class background. When Carole suggests to her mother that she might drop out of school, her mother, [Bummi](https://www.supersummary.com/girl-woman-other/major-character-analysis/#59801), replies, “[Y]ou must go back and fight the battles that are your British birthright, Carole, as a true Nigerian” (143). Heeding her mother’s words, Carole befriends a host of wealthy students who expose her to a new side of life. She begins coming home less and turning her nose up at her mother’s traditional Nigerian food.
-
-She is now engaged to Freddy, a wealthy white British man who admits to her that he skated through college and his career search on his parents’ connections.
-
-# Individual Close Reading
+# Girl, Women, Other
 
 | Quote                                                                                                                                                                                                                                                       | explanation / function                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -23,3 +15,14 @@ She is now engaged to Freddy, a wealthy white British man who admits to her that
 | „yes to his intelligence, conversational skills and easy-going personality” (p. 148)                                                                                                                                                                        | she likes smart and simple people                                                  |
 | „Carole loves dancing like a warrior queen to frenzied beats of the war-painted godfather, Fela Kuti” (p. 141)                                                                                                                                              | she likes dancing, fan of Fela Kuti (musician)                                     |
 | „she recently became a Vice President, one of several hundred in this bank, as opposed to the thousands in others” (p. 144)                                                                                                                                          | she is really good as a financial executive                                                                                   |
+
+# Characterization
+
+Carole is the protagonist of the first section in Chapter 2 of the novel „Girl, Woman, Other”. Carole can be described as a smart, optimistic and romantic person who loves her job as a financial executive. She likes dancing and going on parties.
+
+Carole is an intelligent person, what can be explained by taking a look at her hobbies and interests. At a young age already, she has interest in math and loves knowing things which her classmates do not unterstand. One evidence can be found in page 122 „how she loved memorizing the quadratic equation, when her classmates didn’t even know what it is”. In addition her job as a financial executive and later then vice president of a bank connects to her interest in math. The promotions make clear, that she is really good at what she is doing (p. 144).
+Carole likes to be romantic what one can see by her boyfriend Freddy, who is also romantic, intelligent (p. 148). 
+Regarding to the location where she first met her boyfriend Freddy and her love to dancing, it shows that she likes to go on parties (p. 147). 
+On the other side of her personality, being raped at an age of 13 causes trust issues, fear and trauma (p. 132). Besides she hides her problems by acting normal but feeling herself swaying (p. 114). In addition she feels unwell, out of place and out of her depth (p. 132). But she is optimistic and makes improvements of the situation „these days, however, she feels very much more alive, very much ‘looking forward’  […]”.
+
+There would be a conclusion in the end.

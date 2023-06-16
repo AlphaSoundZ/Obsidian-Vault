@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Aufgabe Moodle @[[20.06.23]] #Mathe
 - [ ] Aufgabe B und C @[[22.06.23]] #Physik
 
 
