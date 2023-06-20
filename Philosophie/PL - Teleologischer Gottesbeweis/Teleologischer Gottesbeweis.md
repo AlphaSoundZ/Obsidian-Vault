@@ -131,9 +131,6 @@ Das Universum hat die und die Eigenschaften, daher existiert ein Planer [10].
     - kritisiert den Übergang von einem “weisen Autor der Natur” zu einem undendlichen Schöpfer (von Architekt zu Schöpfer). Denn dann wäre es eine ursprüngliche und höchste Ursache, dessen Existenz von nichts anderem als sich selbst abhängt.
     
     Dies führt uns zurück zum kosmologischen Argument und damit zu einer Abhängkeit von ontologischen Argument, denn dann gäbe es einen unbewegten Erreger.
-        
-        → Übergang zu Maxims Präsentation
-        
 - David Hume [7][13]
     - kann man aus der Ordnung der Natur wirklich auf einen intelligenten Schöpfer schließen, oder ist es nur eine Analogie, dass die Natur wie ein menschliches Kunstwerk aussieht, das von einem intelligenten Schöpfer geschaffen wurde.
     - Der Unterschied liegt darin, dass menschliche Kunstwerke von menschlichen Schöpfern stammen, aber wir keine Erfahrung mit der Schöpfung des Universums oder der Natur haben. → Sodass kann man nicht auf einen Schöpfer schließen.

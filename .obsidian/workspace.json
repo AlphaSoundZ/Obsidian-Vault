@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f1539b6958d91de",
+        "id": "413a1e03d6dbbe4b",
         "type": "tabs",
         "children": [
           {
-            "id": "517c8a1d05df476b",
+            "id": "bb5544e7ad7c9562",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Philosophie/Canvas Religionsphilosophie.canvas",
+                "viewState": {
+                  "x": -40.988128266383534,
+                  "y": -990.2588824423246,
+                  "zoom": -0.574301701381521
+                }
               }
             }
           }
@@ -49,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Informatik",
+                "query": "Maimo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Philosophie/Canvas Religionsphilosophie.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Philosophie/Canvas Religionsphilosophie.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md"
+                "file": "Philosophie/Canvas Religionsphilosophie.canvas"
               }
             }
           },
@@ -161,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Philosophie/Canvas Religionsphilosophie.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,38 +230,39 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "517c8a1d05df476b",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
+    "Philosophie/Karl Marx.md",
+    "Philosophie/Canvas Religionsphilosophie.canvas",
+    "Philosophie/Religionskritik.md",
+    "Philosophie/Ontologischer Gottesbeweis.md",
+    "Philosophie/Metaphysik.md",
+    "Philosophie/Religionsphilosophie.md",
+    "Philosophie/Maimonides - Gott ist ohne Eigenschaften.md",
+    "Philosophie/Was ist Religion.md",
+    "Google Docs/Seminar_ Akrostichon.md",
+    "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis.md",
+    "Google Docs/Philosophie_ Utilitarismus.md",
+    "Philosophie/PL - Teleologischer Gottesbeweis.md",
+    "Philosophie/Kosmologischer Gottesbeweis.md",
+    "Philosophie/schaubild_karl_marx.png",
+    "Philosophie/Philosophie Adolf Deichmann Prozess.md",
+    "Philosophie/Das Geiger-Dilemma.md",
+    "Englisch/Slavery.md",
+    "Englisch/Girl, Women, Other.md",
+    "conflict-files-obsidian-git.md",
+    "Kunst/S2 Architektur/grundriss_kunst_semersterarbeit_s2.png",
+    "Kunst/S2 Architektur/Konzeptpapier.md",
     "Task List.md",
     "Mathe/Stochastik.md",
     "Physik/Elektrische Felder.md",
     "Physik/Elektrostatik.md",
     "Daily Notes/14.06.23.md",
     "Englisch/Social class in the 21st century.md",
-    "Englisch/Girl, Women, Other.md",
     "Seminar/Brüssel Reisebericht.md",
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/IMG_9826.jpg",
-    "Daily Notes/12.06.23.md",
-    "Work/Dream Studios/Hangar.md",
-    "Work/Dream Studios/Finanzplan.md",
-    "Work/Tim Pertl.md",
-    "Work/Fibonacci Films.md",
-    "Work/Drohne - Akkuwechselstation.md",
-    "Work/Dream Studios.md",
-    "Work/Andrea Wiese.md",
-    "Google.md",
-    "Daily Notes/11.05.23.md",
-    "Daily Notes/10.05.23.md",
-    "Daily Notes/31.05.23.md",
-    "Unbenannt.md",
-    "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
-    "Daily Notes/Mathe Klausur 02.06..md",
-    "Mathe/Vektoren und Vektorgleichungen.md",
-    "Daily Notes/02.06.23.md",
-    "Mathe/Vektoren (old).md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
-    "Philosophie/schaubild_karl_marx.png",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
     "Kunst/S2 Architektur/kunst_infos.jpg",
     "Geographie/S2/Pasted image 20230509230134.png",
@@ -268,7 +271,6 @@
     "Untitled.table",
     "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
-    "Geographie/S2/Harvestehude/Untitled 6.png",
     "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
     "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
     "Templates",
