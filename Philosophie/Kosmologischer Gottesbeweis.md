@@ -1,33 +1,70 @@
 # Kosmologischer Gottesbeweis
+## Leitfrage
 
-Prämisse 1: Eine Welt existiert, in der es Veränderungen, Bewegungen und Ursachen gibt.
+Wie kann man den kosmologischen Gottesbeweis anhand der Beweise von Thomas von Aquin beurteilen?
 
-Prämisse 2: Alles, was bewegt ist, wird durch etwas anderes bewegt (und kann sich nicht selbst die erste Bewegung geben).
+## Kosmologische Beweise
 
-Konklusion: Also muss man zu etwas gelangen, das als Erstes bewegt und von nichts anderem bewegt wird; und das verstehen wir als Gott.
+### Bewegungsbeweis
 
-# Mindmap
+Thomas von Aquin versteht in diesem Beweis die Bewegung nicht nur als Ortsveränderung (physikalisch), sondern auch als Veränderung im Generellen (philosophisch - aristotelisch).
 
-## Vertreter
+Aquin lehnt den “Rückgriff auf das Unendliche” ab, denn wenn eine endliche Reihe von Bewegten sich die Bewegung nicht selbst geben kann, kann es eine unendliche auch nicht. Stattdessen behauptet er: Es ist notwendig anzunehmen, dass es eine erste Bewegungskraft gegeben hat, die von nichts anderem die Bewegung erhalten hat . Diesen “unbewegten” Beweger nennen wir Gott.
 
-Thomas von Aquin
+1. Prämisse: In der Welt ist überall Bewegung.
+    
+2. Prämisse: Alles Bewegte wird von einem Anderen bewegt, das heißt nichts kann sich selbst die erste Bewegung geben.
+	
+3. Konklusion: Die bewegte Welt setzt einen von ihr verschiedenen Beweger voraus.
 
-Leibniz
+### Kausalitätsbeweis
+
+Der kausale Gottesbeweis behauptet, dass alles Existente  in der Welt sich auf eine Ursache zurückführen lässt.
+
+Da man die Reihe der Ursachen nicht unendlich fortsetzen könne, müsse es eine erste Ursache geben.
+
+  
+
+1. Prämisse: In der Welt gibt es überall Ursachen (actio) und Wirkungen (reactio), die miteinander in Verbindung stehen.
+    
+2. Prämisse: Jede Wirkung setzt eine hinreichende Ursache voraus. Wegen der Unmöglichkeit des "regressus in infinitum” bleibt nur der Schluss, dass:
+    
+3. Konklusion: die Welt eine zeitlich erste Wirkursache hat (prima causa efficiens), welche selber unverursacht ist (in causata).
+
+  
+
+### Kontingenzbeweis
+
+Die Überlegung des Kontingenzbeweises ist, dass es Sein gibt, was nicht notwendig ist. Es ist kontingent (zufällig) entstanden. Es könnte also auch demnach nicht existieren, also nicht sein. Es ist aber, also muss es damit erklärt werden, dass Es seine Existenz einem anderen Sein verdankt.
+
+Dieses absolut Seiende ist Gott.
+
+  
+
+1. Prämisse:  Die Welt ist kontingent (= nicht notwendig existierend: alles Empirische entsteht und vergeht wieder, ist also entbehrlich).
+    
+2. Prämisse: Da das Kontingente sich nicht selbst das Sein geben kann und der regressus in infinitum ausgeschlossen ist, setzt das Vorhandensein einen kontingenten Kosmos die Existenz eines absoluten Wesens voraus: von diesem notwendig existierenden Wesen empfängt jedes kontingente Wesen das Sein.
+    
+3. Konklusion: Also setzt die kontingente Welt zur Erklärung ihrer Entstehung die Existenz eines notwendig existierenden Wesens voraus: dieses Wesen wird Gott genannt.
+
+  
 
 ## Kritik
 
-- Vakuumfluktuation
-- Man kann die Nichtexistenz nicht beweisen
+Richard Dawkins:
 
-- Der Ultimative Boeing 747 Schachzug
-- 
+Lehnt den Versuch Aquins ab, Gott als Ausweg eines infiniten Regress zu akzeptieren .  Er streitet somit die ersten drei Beweise ab. Ebenfalls behauptet er, dass die Existenz eines höheren Wesens nicht beweisbar oder widerlegbar ist, da Nichtexistenz nicht bewiesen werden könne
 
-## Argumentation
+(Beispiel Russel: Teekanne).
 
-Prämisse 1: Eine Welt existiert, in der es Veränderungen, Bewegungen und Ursachen gibt.
+Im Fall eines Nachweises liegt die Beweislast bei denen, die die Existenz eines Gottes beweisen wollen. Dawkins kritisiert ebenfalls die kontingente Existenz von Lebensformen, ihre zufällige Existenz sei nicht plausibel und müsse erklärt werden.
 
-Prämisse 2: Alles, was bewegt ist, wird durch etwas anderes bewegt (und kann sich nicht selbst die erste Bewegung geben).
+## Fazit: Beantwortung der Leitfrage
 
-Konklusion: Also muss man zu etwas gelangen, das als Erstes bewegt und von nichts anderem bewegt wird; und das verstehen wir als Gott.
+In der heutigen Zeit gelten alle kosmologischen Gottesbeweise als widerlegt. Doch wenn wir den kosmologischen Gottesbeweis zeitlich einordnen, entdeckt man, dass dies nicht immer so war.
 
-## Sonstiges
+Aquin stellte seine Beweise auf, als man noch dachte, die Erde wäre eine Scheibe und die Sonne dreht sich um die Erde. Erst durch wissenschaftliche Entwicklung, wie die bahnbrechenden astronomischen Entdeckungen von Galileo Galilei, Darwins Evolutionstheorie, und die Urknalltheorie sind wir an dem heutigen Höhepunkt an Widerlegungen angekommen. 
+
+Weiterhin hängen Kritiken und Beweise für die Existenz Gottes beidseitig vom Glauben ab, denn nichts ist  beweisbar. 
+
+Jedoch können wir anhand der hohen Plausibilität der wissenschaftlichen Kritiken davon ausgehen, dass die Entstehung des Universums eher durch den Urknall entstanden ist als durch Gott.

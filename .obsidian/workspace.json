@@ -87,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/21.06.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/21.06.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/21.06.23.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,7 +157,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/21.06.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,10 +223,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "517c8a1d05df476b",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Task List.md",
     "Daily Notes/21.06.23.md",
+    "conflict-files-obsidian-git.md",
+    "Philosophie/Was ist Religion.md",
+    "Philosophie/Religionsphilosophie.md",
+    "Philosophie/Religionskritik.md",
+    "Philosophie/Maimonides - Gott ist ohne Eigenschaften.md",
+    "Philosophie/Canvas Religionsphilosophie.canvas",
+    "Task List.md",
     "Englisch/Girl, Women, Other.md",
     "Mathe/Stochastik.md",
     "Physik/Elektrische Felder.md",
@@ -253,11 +254,6 @@
     "Daily Notes/11.05.23.md",
     "Daily Notes/10.05.23.md",
     "Daily Notes/31.05.23.md",
-    "Unbenannt.md",
-    "Mathe/Logarithmen-, Potenzregeln und -gesetze.md",
-    "Daily Notes/Mathe Klausur 02.06..md",
-    "Mathe/Vektoren und Vektorgleichungen.md",
-    "Daily Notes/02.06.23.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
     "Philosophie/schaubild_karl_marx.png",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
