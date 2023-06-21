@@ -11,13 +11,8 @@
             "id": "517c8a1d05df476b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/21.06.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -223,15 +218,16 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "517c8a1d05df476b",
   "lastOpenFiles": [
+    "Philosophie/schaubild_karl_marx.png",
+    "Philosophie/Canvas Religionsphilosophie.canvas",
     "Daily Notes/21.06.23.md",
     "conflict-files-obsidian-git.md",
     "Philosophie/Was ist Religion.md",
     "Philosophie/Religionsphilosophie.md",
     "Philosophie/Religionskritik.md",
     "Philosophie/Maimonides - Gott ist ohne Eigenschaften.md",
-    "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List.md",
     "Englisch/Girl, Women, Other.md",
     "Mathe/Stochastik.md",
@@ -253,9 +249,7 @@
     "Google.md",
     "Daily Notes/11.05.23.md",
     "Daily Notes/10.05.23.md",
-    "Daily Notes/31.05.23.md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
-    "Philosophie/schaubild_karl_marx.png",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
     "Kunst/S2 Architektur/kunst_infos.jpg",
     "Geographie/S2/Pasted image 20230509230134.png",
