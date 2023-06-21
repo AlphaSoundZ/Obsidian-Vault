@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Daily Notes/21.06.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Daily Notes/21.06.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Daily Notes/21.06.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md"
+                "file": "Daily Notes/21.06.23.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Englisch/Girl, Women, Other.md",
+                "file": "Daily Notes/21.06.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +199,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6135434814060235,
+                  "scale": 0.6135434814060245,
                   "close": true
                 }
               }
@@ -231,12 +231,13 @@
   "active": "517c8a1d05df476b",
   "lastOpenFiles": [
     "Task List.md",
+    "Daily Notes/21.06.23.md",
+    "Englisch/Girl, Women, Other.md",
     "Mathe/Stochastik.md",
     "Physik/Elektrische Felder.md",
     "Physik/Elektrostatik.md",
     "Daily Notes/14.06.23.md",
     "Englisch/Social class in the 21st century.md",
-    "Englisch/Girl, Women, Other.md",
     "Seminar/Brüssel Reisebericht.md",
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/IMG_9826.jpg",
@@ -257,7 +258,6 @@
     "Daily Notes/Mathe Klausur 02.06..md",
     "Mathe/Vektoren und Vektorgleichungen.md",
     "Daily Notes/02.06.23.md",
-    "Mathe/Vektoren (old).md",
     "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
     "Philosophie/schaubild_karl_marx.png",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
