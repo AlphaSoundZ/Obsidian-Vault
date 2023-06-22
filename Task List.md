@@ -6,21 +6,23 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgabe 1 & 2 S. 290 @[[21.06.23]] #Deutsch
+- [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
 - [ ] Phase 5 (siehe AB) @[[23.06.23]] #Englisch
 - [ ] Präsentation für Berufsfeldanalyse erstellen #Seminar @[[26.06.23]]
-- [ ] Aufgabe B und C @[[22.06.23]] #Physik
+- [ ] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 
 
 ## Done
 
 **Fertiggestellt**
-- [x] Aufgabe Moodle @[[20.06.23]] #Mathe
-- [x] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
 
 
 ## Archiv
 
+- [ ] Aufgabe 1 & 2 S. 290 @[[21.06.23]] #Deutsch
+- [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
+- [ ] Aufgabe B und C @[[22.06.23]] #Physik
+- [ ] Aufgabe Moodle @[[20.06.23]] #Mathe
 - [ ] Aufgaben zum Text von Bahr @[[31.05.23]] #Deutsch
 - [ ] Kunst Semesteraufgabe Plakat Abgabe @[[15.06.23]] #Kunst
 - [ ] dramatic reading #Englisch @[[12.06.23]]

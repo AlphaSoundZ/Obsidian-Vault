@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiGitRepositoryPrivateFill",
       "LiFile",
       "RiTodoLine",
       "LiFileText",
-      "RiSingleQuotesL",
-      "RiCalendarTodoLine"
+      "RiSingleQuotesL"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "Calendar": "RiCalendarTodoLine",
   "Daily Notes": "LiFileText",
   "Task List.md": "RiTodoLine",
-  "Templates": "LiFile"
+  "Templates": "LiFile",
+  "Privat": "RiGitRepositoryPrivateFill"
 }
