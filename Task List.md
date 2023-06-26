@@ -7,8 +7,6 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
-- [ ] Phase 5 (siehe AB) @[[23.06.23]] #Englisch
-- [ ] Präsentation für Berufsfeldanalyse erstellen #Seminar @[[26.06.23]]
 - [ ] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 
 
@@ -19,6 +17,8 @@ kanban-plugin: basic
 
 ## Archiv
 
+- [ ] Präsentation für Berufsfeldanalyse erstellen #Seminar @[[26.06.23]]
+- [ ] Phase 5 (siehe AB) @[[23.06.23]] #Englisch
 - [ ] Aufgabe 1 & 2 S. 290 @[[21.06.23]] #Deutsch
 - [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
 - [ ] Aufgabe B und C @[[22.06.23]] #Physik
