@@ -6,13 +6,14 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Kurze Erläuterung fertig stellen #PGW @[[29.06.23]]
 - [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
-- [ ] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 
 
 ## Done
 
 **Fertiggestellt**
+- [x] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 
 
 ## Archiv
