@@ -13,11 +13,11 @@ kanban-plugin: basic
 ## Done
 
 **Fertiggestellt**
-- [x] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 
 
 ## Archiv
 
+- [ ] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 - [ ] Präsentation für Berufsfeldanalyse erstellen #Seminar @[[26.06.23]]
 - [ ] Phase 5 (siehe AB) @[[23.06.23]] #Englisch
 - [ ] Aufgabe 1 & 2 S. 290 @[[21.06.23]] #Deutsch

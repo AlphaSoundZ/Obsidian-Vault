@@ -278,3 +278,92 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - Großstadtlyrik, Sonett, Parodie/moderner Roman, Erzählung/Stationendrama
 
 ### Impressionismus
+
+# Literatur nach 1945
+
+- 1945 bis 1989
+
+## Thema
+
+- Zerstörung
+- Aufarbeitung der Vergangenheit
+- Das Leben und die Erziehung in der Nachkriegsgeneration
+- Suche des modernen Menschen nach seiner Identität
+- Wirklichkeit in der Sprache
+- Selbstbetrug im Alltag
+
+## Motive und Schlüsselwörter
+
+- Heimkehr, Trümmer
+- „Stunde Null”
+- Gedächtnis
+- Wahrheit
+- Antwortlosigkeit
+- gesellschaftliche Verantwortung
+- neue Subjektivität
+- Selbstbesinnung, Selbstfindung
+
+## Gattungen / Genres
+
+- Lyrik
+- Hybridformen/Genremischung
+- Essay
+- Kurzgeschichte, Erzählung, Novelle, Roman
+- absurdes, episches, dokumentarisches Theater
+- Tragikomödie
+
+## Konflikte
+
+- Aufarbeitung des Nationalsozialismus
+- Generationenkonflikte
+- Sind Gedichte noch zeitgemäß?
+- literarische Produktion ←→ gesellschaftliche Funktion
+
+## Sprache / Stil
+
+- extreme Knappheit
+- Spiel mit der Rolle des Erzählers
+- Verschachtelung von Zeit- und Erzählebenen
+- Bewusstseinsstrom
+- Verfremdung
+- Reduktion, schlichte parataktische Reihungen
+
+## Figuren
+
+- Randfiguren
+- das Individuum in seinem Alltag
+- kommentierender Erzähler
+
+## Aspekte ausschließlich bei der DDR
+
+- Abbildung der sozialistischen Realität (Thema)
+- zurückkehrende Emigranten (Thema)
+- politische Parabel (Gattung)
+- sozialistische Gesellschaft ←→ Individualität (DDR)
+- positiver sozialistischer Held als Vorbild
+- Heimkehrer
+
+## Gattungen
+
+### Epik
+
+
+
+## Vertreter
+
+- Seghers („Das siebte Kreuz”, 1946)
+- Borchert („Draußen vor der Tür”, 1947)
+- Bachmann („Die gestundete Zeit”, 1953)
+- Koeppen („Das Treibhaus”, 1953)
+- Dürrenmatt („Der Besuch der alten Dame”, 1955)
+- Müller („Der Lohndrücker”, 1956)
+- Grass („Die Blechtrommel”, 1959)
+- Johnson („Mutmassungen über Jakob”, 1959)
+- Wolf („Der geteilte Himmer”, 1963)
+- Weiss („Die Ermittlung”, 1965)
+- Lenz („Deutschstunde”, 1968)
+- Becker („Jakob der Lügner”, 1969)
+- Böll („Die verlorene Ehre der Katharina Blum”, 1974)
+- Hein („Der fremde Freund (Drachenblut)”, 1982)
+- Bernhard („Heldenplatz”, 1988)
+
