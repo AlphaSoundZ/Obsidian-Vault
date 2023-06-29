@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Aufgaben siehe Email @[[30.06.23]] #Deutsch
 - [ ] Kurze Erläuterung fertig stellen #PGW @[[29.06.23]]
 - [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
 

@@ -291,6 +291,9 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - Suche des modernen Menschen nach seiner Identität
 - Wirklichkeit in der Sprache
 - Selbstbetrug im Alltag
+- politischen Inhalte
+- Unterschied zwischen Ost- und Westdeutschland
+- Naturgedichte behandeln oft die Einbindung des Menschen in die Gegenwart
 
 ## Motive und Schlüsselwörter
 
@@ -347,8 +350,6 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 
 ### Epik
 
-
-
 ## Vertreter
 
 - Seghers („Das siebte Kreuz”, 1946)
@@ -367,3 +368,18 @@ Die Aufklärung war eine Epoche, die von 1720 bis 1785 währte und sich durch de
 - Hein („Der fremde Freund (Drachenblut)”, 1982)
 - Bernhard („Heldenplatz”, 1988)
 
+## Phasen
+
+1. Erste Phase (unmittelbar nach dem Krieg):
+    - Autoren erfassen die zerstörte Realität und moralische Verfassung der Menschen.
+    - Sie verwenden eine prägnante Sprache, um den Zustand der Nachkriegslandschaft widerzuspiegeln.
+    - Die Sprache wird zum Ausdrucksmittel und zur Bestimmung der Wirklichkeit.
+2. Zweite Phase (wirtschaftlicher Aufschwung und gesellschaftliche Veränderungen):
+    - Die Gesellschaft ist geprägt vom wirtschaftlichen Aufschwung in Westdeutschland (das sogenannte "Wirtschaftswunder").
+    - Konsum und bescheidener Genuss nehmen zu, verbunden mit einer Ablehnung der Vergangenheit und der Schuld an den Verbrechen des Nationalsozialismus.
+    - Der Kalte Krieg verlangsamt die Auseinandersetzung mit der jüngsten Vergangenheit.
+    - Schriftsteller kommentieren diese Haltungen kritisch oder decken den Selbstbetrug des Alltags auf.
+    - Die "Neue Subjektivität" entsteht und bringt Zweifel an der Wahrnehmung der Wirklichkeit und die Verletzlichkeit individueller Träume und Probleme zum Ausdruck.
+3. Dritte Phase (Wirtschaftskrise und soziale Bewegungen):
+    - Der vermeintlich dauerhafte wirtschaftliche Aufschwung gerät in eine Krise, und studentische Protestbewegungen entstehen.
+    - Die Literatur konzentriert sich darauf, den Menschen auf neue und zeitgemäße Weise zu bestimmen.
