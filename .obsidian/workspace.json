@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "a78bad30068f6a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "628ce1a9029cb0ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab83798ad7c734b9",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".trash/06.07.23.md",
+                "staged": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e531bca231a5d6f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3769af139bcb48bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "580c5d50fb40437d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2629862432a2babb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Informatik",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "643e7418920a2380",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "125d49f58993a3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "26c56f43a1884e10",
+        "type": "tabs",
+        "dimension": 58.764367816091955,
+        "children": [
+          {
+            "id": "9aa105bf04317fd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ece139846e83a079",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfca73cbc087e4e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd25a26c9d6467cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "05586ceeec61fb87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "410c8f6d354497d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "179a1f74e066dc47",
+        "type": "tabs",
+        "dimension": 41.235632183908045,
+        "children": [
+          {
+            "id": "af29c05cdefb2948",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Deutsch",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Physik",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5984992
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6135434814060245,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 475.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-file-cleaner:Clean files": false
+    }
+  },
+  "active": "ab83798ad7c734b9",
+  "lastOpenFiles": [
+    "Englisch/Movie - Billy Elliot.md",
+    "Task List.md",
+    "Daily Notes/06.07.23.md",
+    "Daily Notes/29.06.23.md",
+    "Daily Notes/30.06.23.md",
+    "Deutsch/S2 Lyrik/Epochenübersicht.md",
+    "Unbenannt.md",
+    "Daily Notes/27.06.23.md",
+    "Mathe/Korrelationen.md",
+    "conflict-files-obsidian-git.md",
+    "Geographie/S2/Pasted image 20230621090525.png",
+    "Geographie/S2/Mumbai.md",
+    "Daily Notes/22.06.23.md",
+    "Philosophie/schaubild_karl_marx.png",
+    "Philosophie/Canvas Religionsphilosophie.canvas",
+    "Daily Notes/21.06.23.md",
+    "Philosophie/Was ist Religion.md",
+    "Philosophie/Religionsphilosophie.md",
+    "Philosophie/Religionskritik.md",
+    "Philosophie/Maimonides - Gott ist ohne Eigenschaften.md",
+    "Englisch/Girl, Women, Other.md",
+    "Mathe/Stochastik.md",
+    "Physik/Elektrische Felder.md",
+    "Physik/Elektrostatik.md",
+    "Daily Notes/14.06.23.md",
+    "Englisch/Social class in the 21st century.md",
+    "Seminar/Brüssel Reisebericht.md",
+    "Seminar/PXL_20230606_120414504.jpg",
+    "Seminar/IMG_9826.jpg",
+    "Daily Notes/12.06.23.md",
+    "Work/Dream Studios/Hangar.md",
+    "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
+    "Kunst/S2 Architektur/Multilayer_City[1].pdf",
+    "Kunst/S2 Architektur/kunst_infos.jpg",
+    "Geographie/S2/Pasted image 20230509230134.png",
+    "Geographie/S2/Harvestehude/Untitled 3.png",
+    "Geographie/S2/Harvestehude/Untitled 2.png",
+    "Untitled.table",
+    "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
+    "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
+    "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
+    "Englisch/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
+    "Templates",
+    "Daily Notes",
+    "Task List/Unbenannt.canvas",
+    "Unbenannt.canvas",
+    "Work/Tim Pertl/E-Lad-O-Mat/Create a span for each parts of one paragraph",
+    "Work/Tim Pertl/E-Lad-O-Mat/Block True in Combination",
+    "Work/Tim Pertl/E-Lad-O-Mat/At Question “Anzahl der geplanten Ladepunkte” ≤ Nu",
+    "Unbenannt 2.canvas",
+    "Unbenannt 1.canvas"
+  ]
+}
