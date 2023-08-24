@@ -5,3 +5,9 @@ Fluss von Elektronen d.h. ein Elektronen-Strahl ist von einem Magnetfeld umgeben
 Durch den Stromfluss entsteht ein Magnetfeld, zum Beispiel durch eine stromdurchflossene Spule.
 
 Ist das äußere Magnetfeld ein homogenes, so wird die Elektronen-Bahn zur Kreisbahn.
+
+##  Zentriepetalkraft
+
+Die Zentripetalkraft hält den Körper auf der Kreisbahn und wirkt zum Kreismittelpunkt.
+
+F=(m*v^2)/2
