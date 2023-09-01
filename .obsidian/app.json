@@ -1,10 +1,7 @@
 {
   "vimMode": true,
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "de",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,

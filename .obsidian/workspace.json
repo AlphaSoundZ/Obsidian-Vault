@@ -1,18 +1,23 @@
 {
   "main": {
-    "id": "7bbd628a836fff57",
+    "id": "a78bad30068f6a65",
     "type": "split",
     "children": [
       {
-        "id": "85a136cbc0068219",
+        "id": "5d416ec73c8f5c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "5fc451328603fc44",
+            "id": "7ee10114cd9db770",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/01.09.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3eadf7e01132963a",
+    "id": "e531bca231a5d6f0",
     "type": "split",
     "children": [
       {
-        "id": "448f3f642489710f",
+        "id": "3769af139bcb48bd",
         "type": "tabs",
         "children": [
           {
-            "id": "481f6413b23c80f7",
+            "id": "580c5d50fb40437d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +44,12 @@
             }
           },
           {
-            "id": "fef597dea16dc2b2",
+            "id": "2629862432a2babb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rethorische Mittel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +59,7 @@
             }
           },
           {
-            "id": "273cee959077ffe5",
+            "id": "643e7418920a2380",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +70,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 458.5
   },
   "right": {
-    "id": "9a2e103eb42676c0",
+    "id": "125d49f58993a3d3",
     "type": "split",
     "children": [
       {
-        "id": "3cf29c8a3719c82b",
+        "id": "26c56f43a1884e10",
         "type": "tabs",
+        "dimension": 58.764367816091955,
         "children": [
           {
-            "id": "f9766c3e5e05c35a",
+            "id": "9aa105bf04317fd1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/01.09.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +99,19 @@
             }
           },
           {
-            "id": "f19264735f268393",
+            "id": "ece139846e83a079",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/01.09.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f5e9518398378f0f",
+            "id": "dfca73cbc087e4e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,25 +122,97 @@
             }
           },
           {
-            "id": "9264dfd7863c3e07",
+            "id": "dd25a26c9d6467cf",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Daily Notes/01.09.23.md"
+              }
+            }
+          },
+          {
+            "id": "05586ceeec61fb87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "410c8f6d354497d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
+      },
+      {
+        "id": "179a1f74e066dc47",
+        "type": "tabs",
+        "dimension": 41.235632183908045,
+        "children": [
+          {
+            "id": "af29c05cdefb2948",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily Notes/01.09.23.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Deutsch",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Physik",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5984992
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.11327439907466762,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-file-cleaner:Clean files": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Schnellauswahl öffnen": false,
@@ -141,15 +221,65 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
-      "workspaces:Workspace-Layouts verwalten": false
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create Notion-Like table": false,
+      "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "481f6413b23c80f7",
+  "active": "7ee10114cd9db770",
   "lastOpenFiles": [
-    "Daily Notes/30.06.23.md",
     "Task List.md",
+    "Daily Notes/01.09.23.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/NOTES/Jigsaw.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/The Hate U Give - novel.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/NOTES.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/Analysing a newspaper article Pre-reading.md",
+    "Daily Notes/Mathe Klausur 02.06..md",
+    "Englisch/S1 The United Kingdom - diverse and disunited",
+    "Englisch/S3 Crime and Punishment in Literature and Film",
+    "Unbenannt",
+    "Daily Notes/Bahr Ueberwindung des Naturalismus.pdf",
+    "Physik/Magnetfelder.md",
+    "Daily Notes/31.05.23.md",
+    "Deutsch/Kommunikation/Kommunikationsanalyse.md",
+    "Deutsch/S2 Lyrik/Rhetorische Mittel.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/Movie - Billy Elliot.md",
+    "Daily Notes/06.07.23.md",
+    "Daily Notes/29.06.23.md",
+    "Daily Notes/30.06.23.md",
     "Deutsch/S2 Lyrik/Epochenübersicht.md",
-    "Daily Notes/29.06.23.md"
+    "Unbenannt.md",
+    "Daily Notes/27.06.23.md",
+    "Mathe/Korrelationen.md",
+    "conflict-files-obsidian-git.md",
+    "Geographie/S2/Pasted image 20230621090525.png",
+    "Geographie/S2/Mumbai.md",
+    "Daily Notes/22.06.23.md",
+    "Philosophie/schaubild_karl_marx.png",
+    "Philosophie/Canvas Religionsphilosophie.canvas",
+    "Daily Notes/21.06.23.md",
+    "Philosophie/Was ist Religion.md",
+    "Philosophie/Religionsphilosophie.md",
+    "Philosophie/Religionskritik.md",
+    "Seminar/PXL_20230606_120414504.jpg",
+    "Seminar/IMG_9826.jpg",
+    "Kunst/S2 Architektur/Multilayer_City[1].pdf",
+    "Kunst/S2 Architektur/kunst_infos.jpg",
+    "Geographie/S2/Pasted image 20230509230134.png",
+    "Geographie/S2/Harvestehude/Untitled 3.png",
+    "Geographie/S2/Harvestehude/Untitled 2.png",
+    "Untitled.table",
+    "Geographie/S2/Sozialindex Vergleich 2013 & 2021.png",
+    "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
+    "Geographie/S2/Liste_der_Gymnasien_in_Hamburg_1.csv",
+    "Englisch/S1 The United Kingdom - diverse and disunited/Martin Luther King and Malcolm X fighting oppressi/E.S3.AAE_MalcolmX.pdf",
+    "Templates",
+    "Daily Notes",
+    "Task List/Unbenannt.canvas",
+    "Unbenannt.canvas",
+    "Unbenannt 2.canvas",
+    "Unbenannt 1.canvas"
   ]
 }

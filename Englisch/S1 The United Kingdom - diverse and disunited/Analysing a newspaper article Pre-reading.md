@@ -22,4 +22,4 @@ Third paragraph
 
 The Aurora Humanitarian Index revealed that attitudes towards humanitarianism are decreasing, as evidenced by responses from 6,500 people in 12 countries. This lack of trust, compassion, and leadership is particularly concerning in light of the current refugee crisis in North Africa and the Middle East.
 
-[What is Britishness?](Analysing%20a%20newspaper%20article%20Pre-reading/What%20is%20Britishness.md)
+[What is Britishness?](What%20is%20Britishness.md)

@@ -14,7 +14,7 @@
 | How non-violent resistance relates to the teachings of Christianity | Martin Luther King Jr. believed that non-violent resistance was closely aligned with the teachings of Christianity. He believed that the principles of love, forgiveness, and redemption that are central to Christianity could be applied to the civil rights movement to achieve change through non-violent means. |
 | Why Martin Luther King Jr. supports the intervention of armed police in Little Rock, Arkansas despite his doctrine of nonviolence | Martin Luther King Jr. believed in using nonviolent tactics to achieve civil rights for African Americans, but he also believed in using the laws and government institutions to achieve change. In the case of Little Rock, Arkansas, where nine African American students were trying to integrate a previously all-white high school, King supported the intervention of federal troops to protect the students' right to attend the school. |
 
-[E.S3.AAE_MalcolmX.pdf](Martin%20Luther%20King%20and%20Malcolm%20X%20fighting%20oppressi/E.S3.AAE_MalcolmX.pdf)
+[E.S3.AAE_MalcolmX.pdf](E.S3.AAE_MalcolmX.pdf)
 
 ### Malcolm X’s Approach to Fighting Oppression
 
