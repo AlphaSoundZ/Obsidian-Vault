@@ -6,19 +6,20 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Research @[[01.09.23]] #Englisch
-- [ ] Kurze Erläuterung fertig stellen #PGW @[[29.06.23]]
-- [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
 
 
 ## Done
 
 **Fertiggestellt**
-- [x] Aufgaben siehe Email @[[30.06.23]] #Deutsch
+- [x] Wachstum und Grenzen des Wirtschaftswachstums #PGW @[[04.09.23]]
 
 
 ## Archiv
 
+- [ ] Research @[[01.09.23]] #Englisch
+- [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
+- [ ] Kurze Erläuterung fertig stellen #PGW @[[29.06.23]]
+- [ ] Aufgaben siehe Email @[[30.06.23]] #Deutsch
 - [ ] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 - [ ] Präsentation für Berufsfeldanalyse erstellen #Seminar @[[26.06.23]]
 - [ ] Phase 5 (siehe AB) @[[23.06.23]] #Englisch

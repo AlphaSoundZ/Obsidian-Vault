@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d416ec73c8f5c1a",
+        "id": "696a1fefcd3e155e",
         "type": "tabs",
         "children": [
           {
-            "id": "7ee10114cd9db770",
+            "id": "d2d3ce8b85eb4db0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily Notes/01.09.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/01.09.23.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/01.09.23.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/01.09.23.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -161,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/01.09.23.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -199,7 +196,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.11327439907466762,
+                  "scale": 0.3121475384849931,
                   "close": true
                 }
               }
@@ -228,8 +225,9 @@
       "obsidian-file-cleaner:Clean files": false
     }
   },
-  "active": "7ee10114cd9db770",
+  "active": "af29c05cdefb2948",
   "lastOpenFiles": [
+    "Daily Notes/04.09.23.md",
     "Task List.md",
     "Daily Notes/01.09.23.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/NOTES/Jigsaw.md",
@@ -262,7 +260,6 @@
     "Daily Notes/21.06.23.md",
     "Philosophie/Was ist Religion.md",
     "Philosophie/Religionsphilosophie.md",
-    "Philosophie/Religionskritik.md",
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/IMG_9826.jpg",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",
