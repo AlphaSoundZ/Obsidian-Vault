@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "696a1fefcd3e155e",
+        "id": "d42ef220130dec8b",
         "type": "tabs",
         "children": [
           {
-            "id": "d2d3ce8b85eb4db0",
+            "id": "bcd14ecd9d168643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/05.09.23.md",
+                "file": "Daily Notes/29.06.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rethorische Mittel",
+                "query": "tag:#PGW/Israel-Palästinensischer-Konflikt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 247.5
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/05.09.23.md",
+                "file": "Daily Notes/29.06.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/05.09.23.md",
+                "file": "Daily Notes/29.06.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/05.09.23.md"
+                "file": "Daily Notes/29.06.23.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "179a1f74e066dc47",
@@ -161,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/05.09.23.md",
+                "file": "Daily Notes/29.06.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -213,7 +214,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Schnellauswahl öffnen": false,
       "graph:Graphen-Ansicht öffnen": false,
@@ -224,21 +224,36 @@
       "workspaces:Workspace-Layouts verwalten": false,
       "random-note:Zufällige Notiz öffnen": false,
       "templater-obsidian:Templater": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "obsidian-file-cleaner:Clean files": false
+      "obsidian-file-cleaner:Clean files": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create new loom": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d2d3ce8b85eb4db0",
+  "active": "bcd14ecd9d168643",
   "lastOpenFiles": [
-    "Daily Notes/05.09.23.md",
+    "Daily Notes/27.06.23.md",
+    "Daily Notes/29.06.23.md",
     "Task List.md",
+    "Daily Notes/02.06.23.md",
+    "Daily Notes/Mathe Klausur 02.06..md",
+    "PGW/Europäische Union.md",
+    "PGW/Dimensionen sozialer Gerechtigkeit, Theorie von Ra.md",
+    "PGW/Die Entwicklung der Schulden.md",
+    "Deutsch/Der Untertan.md",
+    "Deutsch/Der Untertan/Sadismus und Masochismus.md",
+    "PGW/Die Vereinten Nationen (UNO).md",
+    "PGW/Bericht zur sozialen Ungerechtigkeit.md",
+    "PGW/Aktionen gegen den Klimawandel.md",
+    "PGW/israelisch-palästinensische Konflikt.md",
+    "Unbenannt.md",
+    "Daily Notes/05.09.23.md",
     "Daily Notes/04.09.23.md",
     "Daily Notes/01.09.23.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/NOTES/Jigsaw.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/The Hate U Give - novel.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/NOTES.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/Analysing a newspaper article Pre-reading.md",
-    "Daily Notes/Mathe Klausur 02.06..md",
     "Englisch/S1 The United Kingdom - diverse and disunited",
     "Englisch/S3 Crime and Punishment in Literature and Film",
     "Unbenannt",
@@ -247,22 +262,9 @@
     "Daily Notes/31.05.23.md",
     "Deutsch/Kommunikation/Kommunikationsanalyse.md",
     "Deutsch/S2 Lyrik/Rhetorische Mittel.md",
-    "Englisch/S1 The United Kingdom - diverse and disunited/Movie - Billy Elliot.md",
-    "Daily Notes/06.07.23.md",
-    "Daily Notes/29.06.23.md",
-    "Daily Notes/30.06.23.md",
-    "Deutsch/S2 Lyrik/Epochenübersicht.md",
-    "Unbenannt.md",
-    "Daily Notes/27.06.23.md",
-    "Mathe/Korrelationen.md",
-    "conflict-files-obsidian-git.md",
     "Geographie/S2/Pasted image 20230621090525.png",
-    "Geographie/S2/Mumbai.md",
-    "Daily Notes/22.06.23.md",
     "Philosophie/schaubild_karl_marx.png",
     "Philosophie/Canvas Religionsphilosophie.canvas",
-    "Daily Notes/21.06.23.md",
-    "Philosophie/Was ist Religion.md",
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/IMG_9826.jpg",
     "Kunst/S2 Architektur/Multilayer_City[1].pdf",

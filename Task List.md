@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgabe 1 & 2 "A masterpiece of storytelling" #Englisch @[[05.09.23]]
 
 
 ## Done
 
 **Fertiggestellt**
+- [x] Aufgabe 1 & 2 "A masterpiece of storytelling" #Englisch @[[05.09.23]]
 
 
 ## Archiv

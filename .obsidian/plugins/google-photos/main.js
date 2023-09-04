@@ -3873,11 +3873,16 @@ var DEFAULT_SETTINGS = {
   thumbnailHeight: 280,
   filename: "YYYY-MM-DD[_google-photo_]HHmmss[.jpg]",
   thumbnailMarkdown: "[![]({{local_thumbnail_link}})]({{google_photo_url}}) ",
-  parseNoteTitle: "YYYY-MM-DD",
   defaultToDailyPhotos: true,
   locationOption: "note",
   locationFolder: "",
-  locationSubfolder: "photos"
+  locationSubfolder: "photos",
+  getDateFrom: "Note's title" /* NOTE_TITLE */,
+  getDateFromFrontMatterKey: "date",
+  getDateFromFormat: "YYYY-MM-DD",
+  showPhotosInDateRange: false,
+  showPhotosXDaysPast: 7,
+  showPhotosXDaysFuture: 1
 };
 var GooglePhotosSettingTab = class extends import_obsidian6.PluginSettingTab {
   constructor(app2, plugin) {
@@ -3887,7 +3892,6 @@ var GooglePhotosSettingTab = class extends import_obsidian6.PluginSettingTab {
   display() {
     const { containerEl } = this;
     containerEl.empty();
-    containerEl.createEl("h2", { text: "Google Photos Settings" });
     new import_obsidian6.Setting(containerEl).setName("Photos API").setHeading();
     const setVisible = (setting, visible) => {
       setting.settingEl.style.display = visible ? "flex" : "none";
@@ -3988,24 +3992,90 @@ var GooglePhotosSettingTab = class extends import_obsidian6.PluginSettingTab {
       ul.createEl("li").setText("google_base_url - Advanced variable, see Photos API docs");
       ul.createEl("li").setText("google_photo_id - Advanced variable, see Photos API docs");
     });
-    new import_obsidian6.Setting(containerEl).setName("Other  settings").setHeading();
-    new import_obsidian6.Setting(containerEl).setName("Default to showing photos from note date").setDesc("If the plugin detects you are on a daily note, it can default to show you photos from that date.").addToggle((toggle) => {
+    new import_obsidian6.Setting(containerEl).setName("Date settings").setHeading();
+    new import_obsidian6.Setting(containerEl).setName("Default to limiting shown photos to date(s)").setDesc("Choose to limit the photos shown in popup modal to a specific date(s) determined by the option below.").addToggle((toggle) => {
       toggle.setValue(this.plugin.settings.defaultToDailyPhotos).onChange(async (value) => {
         this.plugin.settings.defaultToDailyPhotos = value;
         await this.plugin.saveSettings();
+        this.display();
       });
     });
-    new import_obsidian6.Setting(containerEl).setName("Daily note date format").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.parseNoteTitle).setValue(this.plugin.settings.parseNoteTitle).onChange(async (value) => {
-      this.plugin.settings.parseNoteTitle = value.trim();
+    new import_obsidian6.Setting(containerEl).setName("Determine date from").addDropdown((dropdown) => dropdown.addOption("Note's title" /* NOTE_TITLE */, "Note's title" /* NOTE_TITLE */).addOption("Note's front matter" /* FRONT_MATTER */, "Note's front matter" /* FRONT_MATTER */).addOption("Use today's date" /* USE_TODAY */, "Use today's date" /* USE_TODAY */).setValue(this.plugin.settings.getDateFrom).onChange(async (value) => {
+      this.plugin.settings.getDateFrom = value;
       await this.plugin.saveSettings();
+      this.display();
     })).then((setting) => {
-      setting.descEl.appendText("This is the ");
-      setting.descEl.createEl("a", {
-        text: "MomentJS date format",
-        href: "https://momentjs.com/docs/#/displaying/format/"
-      });
-      setting.descEl.appendText(" used in the title of your daily notes, so we can parse them back to a date.");
+      setting.descEl.appendText("The source of determining the date used to search for photos.");
+      setting.descEl.createEl("br");
+      const ul = setting.descEl.createEl("ul");
+      ul.createEl("li").setText(`${"Note's title" /* NOTE_TITLE */} - The date will be parsed from the note's title, using the format below.`);
+      ul.createEl("li").setText(`${"Note's front matter" /* FRONT_MATTER */} - The date will be parsed from the note's front matter, using the property and format below.`);
+      ul.createEl("li").setText(`${"Use today's date" /* USE_TODAY */} - Today's date will be used.`);
     });
+    if (this.plugin.settings.getDateFrom === "Note's title" /* NOTE_TITLE */) {
+      new import_obsidian6.Setting(containerEl).setName("Title date format").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.getDateFromFormat).setValue(this.plugin.settings.getDateFromFormat).onChange(async (value) => {
+        this.plugin.settings.getDateFromFormat = value.trim();
+        await this.plugin.saveSettings();
+      })).then((setting) => {
+        setting.descEl.appendText("This is the ");
+        setting.descEl.createEl("a", {
+          text: "MomentJS date format",
+          href: "https://momentjs.com/docs/#/displaying/format/"
+        });
+        setting.descEl.appendText(" used in the title of your daily notes, so we can parse them back to a date.");
+      });
+    } else if (this.plugin.settings.getDateFrom === "Note's front matter" /* FRONT_MATTER */) {
+      new import_obsidian6.Setting(containerEl).setName("Front matter key").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.getDateFromFrontMatterKey).setValue(this.plugin.settings.getDateFromFrontMatterKey).onChange(async (value) => {
+        this.plugin.settings.getDateFromFrontMatterKey = value.trim();
+        await this.plugin.saveSettings();
+      })).then((setting) => {
+        setting.descEl.appendText("This is the name of the front matter property that contains the date.");
+      });
+      new import_obsidian6.Setting(containerEl).setName("Front matter date format").addText((text) => text.setPlaceholder(DEFAULT_SETTINGS.getDateFromFormat).setValue(this.plugin.settings.getDateFromFormat).onChange(async (value) => {
+        this.plugin.settings.getDateFromFormat = value.trim();
+        await this.plugin.saveSettings();
+      })).then((setting) => {
+        setting.descEl.appendText("This is the ");
+        setting.descEl.createEl("a", {
+          text: "MomentJS date format",
+          href: "https://momentjs.com/docs/#/displaying/format/"
+        });
+        setting.descEl.appendText(" used in the front matter property, so we can parse it back to a date.");
+      });
+    }
+    new import_obsidian6.Setting(containerEl).setName("Show photos in range of days?").setDesc(`Enable to show photos from a range of days before and after the note date.`).addToggle((toggle) => {
+      toggle.setValue(this.plugin.settings.showPhotosInDateRange).onChange(async (value) => {
+        this.plugin.settings.showPhotosInDateRange = value;
+        await this.plugin.saveSettings();
+        this.display();
+      });
+    });
+    if (this.plugin.settings.showPhotosInDateRange) {
+      new import_obsidian6.Setting(containerEl).setName("Number of days in the past").setDesc("Number of days in the past to show photos from.").addText((text) => {
+        text.setPlaceholder(DEFAULT_SETTINGS.showPhotosXDaysPast.toString()).setValue(this.plugin.settings.showPhotosXDaysPast.toString()).onChange(async (value) => {
+          if (isNaN(+value)) {
+            return;
+          }
+          this.plugin.settings.showPhotosXDaysPast = +value;
+          await this.plugin.saveSettings();
+        });
+        text.inputEl.onblur = () => {
+          this.display();
+        };
+      });
+      new import_obsidian6.Setting(containerEl).setName("Number of days in the future").setDesc("Number of days in the future to show photos from.").addText((text) => {
+        text.setPlaceholder(DEFAULT_SETTINGS.showPhotosXDaysFuture.toString()).setValue(this.plugin.settings.showPhotosXDaysFuture.toString()).onChange(async (value) => {
+          if (isNaN(+value)) {
+            return;
+          }
+          this.plugin.settings.showPhotosXDaysFuture = +value;
+          await this.plugin.saveSettings();
+        });
+        text.inputEl.onblur = () => {
+          this.display();
+        };
+      });
+    }
   }
 };
 
@@ -4082,20 +4152,36 @@ var DailyPhotosModal = class extends PhotosModal {
   }
   updateDateText() {
     var _a;
-    (_a = this.dateSetting) == null ? void 0 : _a.setName("Limit photos to " + this.noteDate.format("dddd, MMMM D") + " \u{1F4C5}");
+    let rangeText = "";
+    if (this.plugin.settings.showPhotosInDateRange) {
+      const range = [];
+      if (this.plugin.settings.showPhotosXDaysPast)
+        range.push("-" + this.plugin.settings.showPhotosXDaysPast);
+      if (this.plugin.settings.showPhotosXDaysFuture)
+        range.push("+" + this.plugin.settings.showPhotosXDaysFuture);
+      rangeText = " (" + range.join("/") + " days)";
+    }
+    (_a = this.dateSetting) == null ? void 0 : _a.setName(`Limit photos to ${this.noteDate.format("dddd, MMMM D")} \u{1F4C5}` + rangeText);
   }
   async updateView() {
     if (this.limitPhotosToNoteDate) {
+      let dateFilter = {
+        dates: [dateToGoogleDateFilter(this.noteDate)]
+      };
+      if (this.plugin.settings.showPhotosInDateRange) {
+        const xDaysBeforeDate = (0, import_obsidian7.moment)(this.noteDate).subtract(this.plugin.settings.showPhotosXDaysPast, "days");
+        const xDaysAfterDate = (0, import_obsidian7.moment)(this.noteDate).add(this.plugin.settings.showPhotosXDaysFuture, "days");
+        dateFilter = {
+          ranges: [{
+            startDate: dateToGoogleDateFilter(xDaysBeforeDate),
+            endDate: dateToGoogleDateFilter(xDaysAfterDate)
+          }]
+        };
+      }
       this.updateDateText();
       this.gridView.setSearchParams({
         filters: {
-          dateFilter: {
-            dates: [{
-              year: +this.noteDate.format("YYYY"),
-              month: +this.noteDate.format("M"),
-              day: +this.noteDate.format("D")
-            }]
-          }
+          dateFilter
         }
       });
     } else {
@@ -4114,12 +4200,13 @@ var DailyPhotosModal = class extends PhotosModal {
       plugin: this.plugin,
       onThumbnailClick: (event) => this.insertImageIntoEditor(event)
     });
-    this.noteDate = (0, import_obsidian7.moment)(this.view.file.basename, this.plugin.settings.parseNoteTitle, true);
+    this.noteDate = await this.getDateUsingSetting();
     if (this.noteDate.isValid()) {
       if (this.plugin.settings.defaultToDailyPhotos) {
         this.limitPhotosToNoteDate = true;
       }
     } else {
+      new import_obsidian7.Notice(`Unable to parse date from ${lowerCaseFirstLetter(this.plugin.settings.getDateFrom)} with format ${this.plugin.settings.getDateFromFormat}. Using today's date instead.`);
       this.noteDate = (0, import_obsidian7.moment)();
     }
     const datePicker = new import_litepicker.default({
@@ -4146,7 +4233,30 @@ var DailyPhotosModal = class extends PhotosModal {
     contentEl.appendChild(this.gridView.containerEl);
     await this.updateView();
   }
+  async getDateUsingSetting() {
+    if (this.plugin.settings.getDateFrom === "Note's title" /* NOTE_TITLE */) {
+      return (0, import_obsidian7.moment)(this.view.file.basename, this.plugin.settings.getDateFromFormat, true);
+    } else if (this.plugin.settings.getDateFrom === "Note's front matter" /* FRONT_MATTER */) {
+      const file = this.app.metadataCache.getFileCache(this.view.file);
+      const frontMatter = file == null ? void 0 : file.frontmatter;
+      if (frontMatter && frontMatter[this.plugin.settings.getDateFromFrontMatterKey]) {
+        return (0, import_obsidian7.moment)(frontMatter[this.plugin.settings.getDateFromFrontMatterKey], this.plugin.settings.getDateFromFormat, true);
+      }
+      return (0, import_obsidian7.moment)("invalid date");
+    }
+    return (0, import_obsidian7.moment)();
+  }
 };
+function dateToGoogleDateFilter(date) {
+  return {
+    year: +date.format("YYYY"),
+    month: +date.format("M"),
+    day: +date.format("D")
+  };
+}
+function lowerCaseFirstLetter(string) {
+  return string.charAt(0).toLowerCase() + string.slice(1);
+}
 
 // src/main.ts
 var GooglePhotos = class extends import_obsidian8.Plugin {
