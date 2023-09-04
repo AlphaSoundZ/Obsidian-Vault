@@ -6,16 +6,17 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Aufgabe 1 & 2 "A masterpiece of storytelling" #Englisch @[[05.09.23]]
 
 
 ## Done
 
 **Fertiggestellt**
-- [x] Wachstum und Grenzen des Wirtschaftswachstums #PGW @[[04.09.23]]
 
 
 ## Archiv
 
+- [ ] Wachstum und Grenzen des Wirtschaftswachstums #PGW @[[04.09.23]]
 - [ ] Research @[[01.09.23]] #Englisch
 - [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
 - [ ] Kurze Erläuterung fertig stellen #PGW @[[29.06.23]]
