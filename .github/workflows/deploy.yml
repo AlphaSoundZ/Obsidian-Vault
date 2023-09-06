@@ -1,26 +1,26 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main  # Hier den Namen Ihrer Haupt-Branch angeben
+    push:
+        branches:
+            - main # Hier den Namen Ihrer Haupt-Branch angeben
 
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
+    build-and-deploy:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: npm install
+            - name: Install dependencies
+              run: npm install
 
-      - name: Build
-        run: npm run build  # Hier den Befehl zum Erstellen Ihres Projekts angeben
+            - name: Build
+              run: npm run build # Hier den Befehl zum Erstellen Ihres Projekts angeben
 
-      - name: Publish to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist  # Geben Sie hier den Pfad zum Build-Verzeichnis an
+            - name: Publish to GitHub Pages
+              uses: peaceiris/actions-gh-pages@v3
+              with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./dist # Geben Sie hier den Pfad zum Build-Verzeichnis an
