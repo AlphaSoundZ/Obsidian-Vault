@@ -1,3 +1,7 @@
 {
-  "extends": "astro/tsconfigs/strict"
+    "extends": "astro/tsconfigs/strict",
+    // change base url to your project's root
+    "compilerOptions": {
+        "baseUrl": "./Obsidian-Vault/"
+    }
 }
