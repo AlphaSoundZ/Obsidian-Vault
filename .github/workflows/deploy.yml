@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
     push:
         branches:
-            - main # Hier den Namen Ihrer Haupt-Branch angeben
+            - app # Hier den Namen Ihrer Haupt-Branch angeben
 
 jobs:
     build-and-deploy:
