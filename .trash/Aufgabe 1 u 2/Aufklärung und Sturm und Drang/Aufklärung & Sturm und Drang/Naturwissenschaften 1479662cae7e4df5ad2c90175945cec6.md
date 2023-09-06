@@ -1,3 +1,0 @@
-# Naturwissenschaften
-
-Epoche: Aufklärung

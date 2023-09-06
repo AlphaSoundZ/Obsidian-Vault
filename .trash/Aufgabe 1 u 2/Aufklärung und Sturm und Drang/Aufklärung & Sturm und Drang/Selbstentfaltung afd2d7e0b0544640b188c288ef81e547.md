@@ -1,3 +1,0 @@
-# Selbstentfaltung
-
-Epoche: Beide Epochen

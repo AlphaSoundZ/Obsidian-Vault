@@ -1,3 +1,0 @@
-# Regelpoetik
-
-Epoche: Aufklärung

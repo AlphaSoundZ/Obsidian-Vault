@@ -1,3 +1,0 @@
-# Vernunft
-
-Epoche: Aufklärung
