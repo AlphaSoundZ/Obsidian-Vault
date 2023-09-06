@@ -1,0 +1,3 @@
+---
+title: Anderer Mathe Zettel
+---
