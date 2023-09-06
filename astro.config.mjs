@@ -3,13 +3,13 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-    base: '/Obsidian-Vault',
     integrations: [
         starlight({
             title: "AlphaSound'Z Vault",
             social: {
                 youtube: 'https://www.youtube.com/channel/UCHC-7HwviJBDd7AaIP_Ys7A',
-                github: 'https://github.com/alphasoundz/obsidian-vault',
+                github: 'https://github.com/alphasoundz',
+                discord: 'https://discord.gg/QmFnRjNutw',
             },
             sidebar: [
                 {
