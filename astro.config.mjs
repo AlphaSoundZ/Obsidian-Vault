@@ -3,6 +3,9 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+    site: {
+        baseUrl: '/Obsidian-Vault',
+    },
     integrations: [
         starlight({
             title: "AlphaSound'Z Vault",
