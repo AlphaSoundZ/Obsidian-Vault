@@ -3,6 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+    site: 'https://notes.alphasoundz.app',
     integrations: [
         starlight({
             title: 'AlphaSoundZ',
@@ -25,6 +26,8 @@ export default defineConfig({
                 baseUrl: 'https://github.com/AlphaSoundZ/Obsidian-Vault/edit/app/',
             },
             lastUpdated: true,
+            pagination: false,
+            favicon: './src/assets/logo.png',
         }),
     ],
 });
