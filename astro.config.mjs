@@ -19,6 +19,7 @@ export default defineConfig({
                     autogenerate: { directory: 'mathe' },
                 },
             ],
+            customCss: process.env.NO_GRADIENTS ? [] : ['./src/assets/landing.css'],
             logo: {
                 src: './src/assets/logo.png',
             },
