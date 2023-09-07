@@ -5,11 +5,12 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
     integrations: [
         starlight({
-            title: "AlphaSound'Z Vault",
+            title: 'AlphaSoundZ',
             social: {
                 youtube: 'https://www.youtube.com/channel/UCHC-7HwviJBDd7AaIP_Ys7A',
                 github: 'https://github.com/alphasoundz',
                 discord: 'https://discord.gg/QmFnRjNutw',
+                instagram: 'https://www.instagram.com/alphasoundzonyt/',
             },
             sidebar: [
                 {
@@ -17,6 +18,13 @@ export default defineConfig({
                     autogenerate: { directory: 'mathe' },
                 },
             ],
+            logo: {
+                src: './src/assets/logo.png',
+            },
+            editLink: {
+                baseUrl: 'https://github.com/AlphaSoundZ/Obsidian-Vault/edit/app/',
+            },
+            lastUpdated: true,
         }),
     ],
 });
