@@ -16,7 +16,63 @@ export default defineConfig({
             sidebar: [
                 {
                     label: 'Mathe',
-                    autogenerate: { directory: 'mathe' },
+                    autogenerate: { directory: 'Mathe' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Deutsch',
+                    autogenerate: { directory: 'Deutsch' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Englisch',
+                    autogenerate: { directory: 'Englisch' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Daily Notes',
+                    autogenerate: { directory: 'Daily Notes' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Seminar',
+                    autogenerate: { directory: 'Seminar' },
+                    collapsed: true,
+                },
+                {
+                    label: 'PGW',
+                    autogenerate: { directory: 'PGW' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Kunst',
+                    autogenerate: { directory: 'Kunst' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Physik',
+                    autogenerate: { directory: 'Physik' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Geographie',
+                    autogenerate: { directory: 'Geographie' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Philosophie',
+                    autogenerate: { directory: 'Philosophie' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Informatik',
+                    autogenerate: { directory: 'Informatik' },
+                    collapsed: true,
+                },
+                {
+                    label: 'Musik',
+                    autogenerate: { directory: 'Musik' },
+                    collapsed: true,
                 },
             ],
             customCss: process.env.NO_GRADIENTS ? [] : ['./src/assets/landing.css'],

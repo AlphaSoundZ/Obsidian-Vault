@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "e7be3593fcf35403",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4f823ee77e06570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb4df064a2a9fa47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/S2 Lyrik/Dämmerung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2174e0fa8d43a236",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0881147eb4ac17b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8bca713779214e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b727a149bc7b31e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df730ad65913c1f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4062706d4e182ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b300fd41e1eca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b75a6b0ce35b0f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deutsch/S2 Lyrik/Dämmerung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74242079d98974f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deutsch/S2 Lyrik/Dämmerung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6730b6189a0e7e55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "673e5b921b41ab29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deutsch/S2 Lyrik/Dämmerung.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "cb4df064a2a9fa47",
+  "lastOpenFiles": []
+}
