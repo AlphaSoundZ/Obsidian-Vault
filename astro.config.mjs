@@ -84,7 +84,7 @@ export default defineConfig({
             },
             lastUpdated: true,
             pagination: false,
-            favicon: './src/assets/logo.png',
+            favicon: '/favicon.png',
         }),
     ],
 });
