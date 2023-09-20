@@ -59,7 +59,7 @@ Präsentationsleistung Dokumentation
 
 ### Bewertungskriterien
 
-[Bewertungsbogen zur Präsentationsleistung](Bewertungsbogen%20zur%20Pra%CC%88sentationsleistung.md)
+[Bewertungsbogen zur Praesentationsleistung](Bewertungsbogen%20zur%20Praesentationsleistung.md)
 
 ## Präsentation
 
@@ -103,7 +103,7 @@ Präsentationsleistung Dokumentation
 
 ### Bewertungskriterien
 
-[Bewertungskriterien Präsentation](Bewertungskriterien%20Pra%CC%88sentation.md)
+[Bewertungskriterien Praesentation](Bewertungskriterien%20Praesentation.md)
 
 ### Reflexion
 

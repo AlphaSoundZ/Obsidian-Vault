@@ -7,7 +7,7 @@ Von Samio, Lukas, Maxim und Jan Jacob
 
 ## Skizzen
 
-![Screenshot_20230223-165619.png](Physik%20Experiment%20-%20Protokoll/Screenshot_20230223-165619.png)
+![Screenshot_20230223-165619.png](./Physik_Experiment_Protokoll/Screenshot_20230223-165619.png)
 
 ## Experiment 1
 

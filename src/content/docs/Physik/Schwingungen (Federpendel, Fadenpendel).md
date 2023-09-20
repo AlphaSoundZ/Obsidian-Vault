@@ -51,7 +51,7 @@ $F_{\text{Fadenkraft}} = \frac{m*g*sin(\varphi)}{tan(\varphi)}$
 ##
 
 
-![Schwingungen%20(Federpendel,%20Fadenpendel)/image1.png](Schwingungen%20(Federpendel,%20Fadenpendel)/image1.png)
+![Schwingungen%20(Federpendel,%20Fadenpendel)/image1.png](./Schwingungen/image1.png)
 
 ## Federpendel
 

@@ -16,15 +16,15 @@ Phonk hat eine langsame und betonte Rhythmik, die dazu beiträgt, die düstere A
 | Besonderheiten | Steigerung zum Drop, häufige Verwendung von Samples aus Memphis Rap |
 | Stil | Verwendung von Verzerrungseffekten (Amp, Gate, Compressor, Eq, Overdrive, Delay, OTT Filter, Drum Buss, Saturator) |
 
-![Drum Computer: Roland TR-808](Phonk/Untitled.png)
+![Drum Computer: Roland TR-808](./Phonk/Untitled.png)
 
 Drum Computer: Roland TR-808
 
 ## Arrangement
 
-[_Phonk Arrangement.pdf](Phonk/_Phonk_Arrangement.pdf)
+[_Phonk Arrangement.pdf](./Phonk/_Phonk_Arrangement.pdf)
 
-[_phonk2.mp3](Phonk/_phonk2.mp3)
+[_phonk2.mp3](./Phonk/_phonk2.mp3)
 
 ## Beispielsongs
 

@@ -1,6 +1,7 @@
 ---
 title: Netzwerk
 ---
+
 # Netzwerk
 
 ## Webserver Einrichten
@@ -16,11 +17,11 @@ title: Netzwerk
 
 Switch-Konfiguration beim Vermittlungsrechner:
 
-![Netzwerke%20und%20Datenbanken/image3.png](Netzwerke%20und%20Datenbanken/image3.png)
+![Netzwerke%20und%20Datenbanken/image3.png](./Netzwerke_und_Datenbanken/image3.png)
 
 Server-Konfiguration beim Vermittlungsrechner:
 
-![Netzwerke%20und%20Datenbanken/image2.png](Netzwerke%20und%20Datenbanken/image2.png)
+![Netzwerke%20und%20Datenbanken/image2.png](./Netzwerke_und_Datenbanken/image2.png)
 
 ## ************************************DNS-Server einrichten************************************
 
@@ -103,7 +104,7 @@ Die Kryptologie ist eine Wissenschaft, die sich mit der Verschlüsselung und Ent
 
 Kryptographie beinhaltet Techniken wie Mikropunkte, die Einbettung von Wörtern in Grafiken und andere Wege, Informationen bei der Speicherung und Übertragung zu verstecken. Davon abgesehen wird Kryptographie in der heutigen, computerorientierten Welt meistens mit der Verschlüsselung von Klartext (regulärer Text) in Chiffretext (dieser Vorgang wird als Verschlüsselung bezeichnet) und wieder zurück (bekannt als Entschlüsselung) gleichgesetzt. Spezialisten auf diesem Fachgebiet werden als Kryptographen bezeichnet.
 
-![Netzwerk/image1.png](Netzwerk/image1.png)
+![Netzwerk/image1.png](./Netzwerk/image1.png)
 
 Kryptographie (verschlüsseln),
 

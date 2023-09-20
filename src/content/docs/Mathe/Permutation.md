@@ -16,7 +16,7 @@ $X_1, X_2$ | die erste Eigenschaft ist die, die zur Menge gehört (z.B. alles Ä
 ## Permutation
 
 Anzahl der Möglichkeiten, alle N Elemente anzuordnen:
-$N! =1*2*3*...(N-1)*N$a
+$N! =1*2*3*...(N-1)*N$
 
 ## Variation
 

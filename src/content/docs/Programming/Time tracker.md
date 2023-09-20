@@ -28,7 +28,7 @@ title: Time tracker
 - Bills
 - Change current Tracking time (holding shift down, to in-/decrease by ten)
     
-    ![Untitled](Time%20tracker/Untitled%201.png)
+    ![Untitled](./Time_tracker/Untitled1.png)
     
 - schon bezahlte Rechnungen und noch nicht bezahlte Rechnungen
 

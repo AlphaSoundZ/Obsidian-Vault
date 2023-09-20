@@ -12,7 +12,7 @@ title: Regensburg
 
 ## Historisch Genetische Entwicklung
 
-![Untitled](Regensburg/Untitled.png)
+![Untitled](./Regensburg/Untitled.png)
 
 ### Entstehung (200 N. Chr.)
 
@@ -47,4 +47,4 @@ title: Regensburg
 - Bis 1300 n. Chr. erfolgte eine beachtliche Verdreifachung der Siedlungsfläche
 - Regensburg wuchs durch Fernhandel, insbesondere den Salz- und Eisenhandel mit der Oberpfalz
 
-![Untitled](Regensburg/Untitled%201.png)
+![Untitled](./Regensburg/Untitled1.png)

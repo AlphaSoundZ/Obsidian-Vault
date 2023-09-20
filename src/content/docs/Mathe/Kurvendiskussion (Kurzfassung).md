@@ -25,10 +25,10 @@ Wendepunkte bestimmen:
 
 notwendige Bedingung
 
-*f*″(*xe*) ≠ 0
+*f*′(*xe*) = 0
 
 hinreichende Bedingung
 
-*f*′(*xe*) = 0
+*f*″(*xe*) ≠ 0
 
 Die erste Ableitung wird 0 gesetzt. Wenn die Funktion lösbar ist, dann ist an den Stellen in der Normalfunktion die momentane Steigung 0 (Extrempunkt oder Sattelpunkt)

@@ -1,20 +1,21 @@
 {
   "main": {
-    "id": "e7be3593fcf35403",
+    "id": "a78bad30068f6a65",
     "type": "split",
     "children": [
       {
-        "id": "d4f823ee77e06570",
+        "id": "27a35bfd402bb0b4",
         "type": "tabs",
         "children": [
           {
-            "id": "cb4df064a2a9fa47",
+            "id": "45270c96d66ab31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Dämmerung.md",
+                "file": "Rules.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -25,15 +26,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2174e0fa8d43a236",
+    "id": "e531bca231a5d6f0",
     "type": "split",
     "children": [
       {
-        "id": "c0881147eb4ac17b",
+        "id": "3769af139bcb48bd",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8bca713779214e",
+            "id": "580c5d50fb40437d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +44,7 @@
             }
           },
           {
-            "id": "2b727a149bc7b31e",
+            "id": "2629862432a2babb",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,10 +59,18 @@
             }
           },
           {
-            "id": "df730ad65913c1f6",
+            "id": "643e7418920a2380",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f899a07896bbf09",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -69,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 833.5
   },
   "right": {
-    "id": "4062706d4e182ff5",
+    "id": "125d49f58993a3d3",
     "type": "split",
     "children": [
       {
-        "id": "92b300fd41e1eca8",
+        "id": "26c56f43a1884e10",
         "type": "tabs",
+        "dimension": 58.764367816091955,
         "children": [
           {
-            "id": "8b75a6b0ce35b0f5",
+            "id": "9aa105bf04317fd1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Dämmerung.md",
+                "file": "Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +107,19 @@
             }
           },
           {
-            "id": "74242079d98974f4",
+            "id": "ece139846e83a079",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Dämmerung.md",
+                "file": "Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6730b6189a0e7e55",
+            "id": "dfca73cbc087e4e7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +130,96 @@
             }
           },
           {
-            "id": "673e5b921b41ab29",
+            "id": "dd25a26c9d6467cf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/S2 Lyrik/Dämmerung.md"
+                "file": "Rules.md"
+              }
+            }
+          },
+          {
+            "id": "05586ceeec61fb87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "410c8f6d354497d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "803d5205a10e684f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "179a1f74e066dc47",
+        "type": "tabs",
+        "dimension": 41.235632183908045,
+        "children": [
+          {
+            "id": "af29c05cdefb2948",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Rules.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Deutsch",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Physik",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5984992
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3121475384849931,
+                  "close": true
+                }
               }
             }
           }
@@ -133,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,9 +236,68 @@
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false
+      "command-palette:Befehlspalette öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false,
+      "notion-like-tables:Create new loom": false
     }
   },
-  "active": "cb4df064a2a9fa47",
-  "lastOpenFiles": []
+  "active": "45270c96d66ab31b",
+  "lastOpenFiles": [
+    "Daily Notes/26.09.23.md",
+    "Programming/Time_tracker/Untitled1.png",
+    "Task List.md",
+    "Daily Notes/20.09.23.md",
+    "Programming/Time tracker.md",
+    "Programming/Unbenannt.md",
+    "Programming/htnsh.md",
+    "_Templates/Default.md",
+    "_Templates/Unbenannt 1.md",
+    "_Templates/Daily Notes.md",
+    "PGW/Facetten der modernen Sozialstruktur.md",
+    "PGW/Unbenannt.md",
+    "PGW/Unbenannt 1.md",
+    "Mathe/Vektoren und Vektorgleichungen.md",
+    "Kunst/S2 Architektur/Digitales Kunstheft.md",
+    "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
+    "Kunst/S1 Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
+    "Informatik/Netzwerk.md",
+    "Informatik/Netzwerke und Datenbanken.md",
+    "Informatik/Ausleihe.md",
+    "Informatik/Asymmetrisches Verschluesselung.md",
+    "Informatik/Simulationen/Corona - Exponentielles Wachstum.md",
+    "Informatik/Tanaland.md",
+    "Informatik/Simulationen.md",
+    "Deutsch/S2 Lyrik/Daemmerung.md",
+    "Google Docs/Physik Arbeit 29 10 21/image1.png",
+    "Geographie/S2/Harvestehude.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/Scottish independence could Britain break up (list.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/Martin Luther King and Malcolm X fighting oppressi/_E.S3.AAE_MalcolmX.pdf",
+    "Kunst/S1 Portraits/Glossar/image-1673652661325.jpg8121125443729985203.jpg",
+    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled4.png",
+    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled2.png",
+    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled1.png",
+    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled3.png",
+    "Kunst/S2 Architektur/Semesterarbeit/Untitled1.png",
+    "Kunst/S2 Architektur/Semesterarbeit/Untitled.png",
+    "Kunst/S1 Portraits/S1_Semesterarbeit_Konzeptpapier/Snapchat-154357158.jpg",
+    "Daily Notes/Erkenntnistheoretische_Grundfragen_OS.pdf",
+    "Daily Notes/_Bahr_Ueberwindung_des_Naturalismus.pdf",
+    "_Templates",
+    "PGW/PGW_DOCS_Wirtschaft_&_Nahost-Konflikt.pdf",
+    "Deutsch/S3 Woyzeck",
+    "Englisch/S1 The United Kingdom - diverse and disunited",
+    "Englisch/S3 Crime and Punishment in Literature and Film",
+    "Unbenannt",
+    "Philosophie/Canvas Religionsphilosophie.canvas",
+    "Task List/Unbenannt.canvas",
+    "Unbenannt.canvas",
+    "Unbenannt 2.canvas",
+    "Unbenannt 1.canvas"
+  ]
 }

@@ -1,6 +1,7 @@
 ---
 title: Scottish independence could Britain break up (list
 ---
+
 # Scottish Independence: Could Britain Break Up? (listening comprehension)
 
 1 Why might Scottish independence have larger consequences?
@@ -33,7 +34,3 @@ title: Scottish independence could Britain break up (list
 - there then would be a border between Britain and Scottland
 
 ## 17 What is the Problem with a New Referendum?
-
-16 Which economic consequences would independence have?
-
-![image-1682334914780.jpg3621706992491372286.jpg](Scottish%20independence%20could%20Britain%20break%20up%20(list/image-1682334914780.jpg3621706992491372286.jpg)

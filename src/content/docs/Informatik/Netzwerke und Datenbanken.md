@@ -121,11 +121,11 @@ Die Broadcast besteht immer aus dem Netzanteil und als Hostanteil müssen alle B
 
 Switch-Konfiguration beim Vermittlungsrechner:
 
-![Netzwerke%20und%20Datenbanken/image3.png](Netzwerke%20und%20Datenbanken/image3.png)
+![Netzwerke%20und%20Datenbanken/image3.png](./Netzwerke_und_Datenbanken/image3.png)
 
 Server-Konfiguration beim Vermittlungsrechner:
 
-![Netzwerke%20und%20Datenbanken/image2.png](Netzwerke%20und%20Datenbanken/image2.png)
+![Netzwerke%20und%20Datenbanken/image2.png](./Netzwerke_und_Datenbanken/image2.png)
 
 ## DNS-Server Einrichten
 

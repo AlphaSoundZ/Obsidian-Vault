@@ -1,3 +1,8 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Typewriter",
+  "nativeMenus": false,
+  "translucency": false,
+  "baseFontSize": 16
 }

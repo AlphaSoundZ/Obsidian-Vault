@@ -5,7 +5,7 @@ title: Bildanalyse Beispiel
 
 ## Schreibe Eine Bildanalyse Mit Dem Schwerpunkt Farbe Zum Gemälde
 
-![Untitled](Bildanalyse%20Beispiel/Untitled.png)
+![Untitled](./Bildanalyse_Beispiel/Untitled.png)
 
 "Porträt der Frau des Künstlers mit Hut" von August Macke (1909), Öl auf Leinwand, 49,7 x 34 cm
 
@@ -19,11 +19,11 @@ title: Bildanalyse Beispiel
 
 ### b) Fertige Zur Vorbereitung Mindestens Zwei Kompositionsskizzen Mit Verschiedenen Untersuchungsschwerpunkten Nach Dem Aus Dem Unterricht Bekannten Vorgehen An, Die Dir Für Die Vorbereitung Der Analyse Geeignet Erscheinen. (Tipp: Wenn Die Helligkeit Deines Bildschirms Hoch Eingestellt Ist, Kann Man Das Motiv Sehr Gut Durch Ein Weißes Papier pausen.)
 
-![Hell-Dunkel](Bildanalyse%20Beispiel/Untitled%201.png)
+![Hell-Dunkel](./Bildanalyse_Beispiel/Untitled1.png)
 
 Hell-Dunkel
 
-![Farbe](Bildanalyse%20Beispiel/Untitled%202.png)
+![Farbe](./Bildanalyse_Beispiel/Untitled2.png)
 
 Farbe
 

@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiGitRepositoryPrivateFill",
+      "LiFile",
+      "RiTodoLine",
+      "LiFileText",
+      "RiSingleQuotesL"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Mathe": "LiRuler",
+  "Kunst": "LiBrush",
+  "Musik": "LiMusic",
+  "PGW": "IbGraphLineUp",
+  "Programming": "LiCode",
+  "Informatik": "LiCode",
+  "Geographie": "IbEarth",
+  "Englisch": "LiLanguages",
+  "Deutsch": "LiBook",
+  "Philosophie": "SiGooglehangouts",
+  "Physik": "SiAzurefunctions",
+  "Seminar": "SiGotomeeting",
+  "Task List": "RiTodoLine",
+  "Calendar": "RiCalendarTodoLine",
+  "Daily Notes": "LiFileText",
+  "Privat": "RiGitRepositoryPrivateFill",
+  "_Templates": "LiFile"
+}

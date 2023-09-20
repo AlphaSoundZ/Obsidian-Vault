@@ -15,7 +15,7 @@ title: Semesterarbeit
 
 ## Breite Hauptstraße
 
-![Kielerstraße](Semesterarbeit/Untitled.png)
+![Kielerstraße](./Semesterarbeit/Untitled.png)
 
 Kielerstraße
 
@@ -36,7 +36,7 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 - The Line: Neon-Projekt in Saudi-Arabien
 - Bjarke Ingels
 
-![Hannover Hbf](Semesterarbeit/Untitled%201.png)
+![Hannover Hbf](./Semesterarbeit/Untitled1.png)
 
 - Hannover Hbf
 - https://www.vitra.com/de-de/about-vitra/campus/architecture/architecture-dome
@@ -76,6 +76,6 @@ Man nimmt eine breite Straße und setzt auf die Straßen Module, mit denen man H
 
 # Form / Grundriss / Möglicher Umriss Des Moduls
 
-![e.png](Semesterarbeit/e.png)
+![e.png](./Semesterarbeit/e.png)
 
 - Maßstab fürs gesamte Gebäude: 1:500

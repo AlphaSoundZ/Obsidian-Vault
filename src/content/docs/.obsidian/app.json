@@ -1,1 +1,21 @@
-{}
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./",
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 87
+  },
+  "userIgnoreFilters": null,
+  "useMarkdownLinks": true
+}

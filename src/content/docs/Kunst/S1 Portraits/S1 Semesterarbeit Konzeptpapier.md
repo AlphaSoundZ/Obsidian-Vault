@@ -15,14 +15,14 @@ Der Hintergrund bzw. genauer gesagt die Sterne stellen die unendlichen Möglichk
 
 Aufgrund der ”Chromatic Aberration” wird mein Gesicht leicht verdeckt und etwas unkenntlich. Dies soll eine Form vom introvertiert und ruhig sein zum Ausdruck bringen.
 
-![Skizze](S1%20Semesterarbeit%20Konzeptpapier/PXL_20230105_155939696.jpg)
+![Skizze](./S1_Semesterarbeit_Konzeptpapier/PXL_20230105_155939696.jpg)
 
 Skizze
 
-![Zwischenergebnis](S1%20Semesterarbeit%20Konzeptpapier/Snapchat-154357158.jpg)
+![Zwischenergebnis](./S1_Semesterarbeit_Konzeptpapier/Snapchat-154357158.jpg)
 
 Zwischenergebnis
 
-![digital erstellte Vorlage und Idee für das Selbstportrait.](S1%20Semesterarbeit%20Konzeptpapier/kunst_Comp_1_2023-01-02_21.44.30.png)
+![digital erstellte Vorlage und Idee für das Selbstportrait.](./S1_Semesterarbeit_Konzeptpapier/kunst_Comp_1_2023-01-02_21.44.30.png)
 
 digital erstellte Vorlage und Idee für das Selbstportrait.

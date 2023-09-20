@@ -21,7 +21,7 @@ monoton wachsend, genau dann wenn (g.d.w.)
 ∀*x*1, 2 ∈ [*a*, *b*] *und* *x*1 < *x*2
 *f*(*x*1) < *f*(*x*2)
 
-![Differentialrechnung/image3.png](Differentialrechnung/image3.png)
+![Differentialrechnung/image3.png](./Differentialrechnung/image3.png)
 
 Sei f(x) eine Funktion auf ℝ
 dann heißt a∈ℝ ein Maximum von f(x)
@@ -99,7 +99,7 @@ Beispiel 3:
 Von der durchschnittlichen zur momentanen Änderungsrate - Die Anstiegsfunktion
 Anstieg einer Funktion an einer Stelle (ein Punkt):
 
-![Differentialrechnung/image1.png](Differentialrechnung/image1.png)
+![Differentialrechnung/image1.png](./Differentialrechnung/image1.png)
 
 Funktionen, bei denen man die Tangente nicht eindeutig bestimmen kann, heißen (an diesen Stellen) nicht differenzierbar.
 An der Stelle p(0|0) der Funktion f(x)=|x| ist sie nicht differenzierbar.
@@ -109,7 +109,7 @@ x → Anstieg von f (x)
 f ’ (x) 1. Ableitung von f(x),
 beschreibt den Anstieg von f (x) bei allen x∈ⅅ⊂ℝ
 
-![Differentialrechnung/image2.png](Differentialrechnung/image2.png)
+![Differentialrechnung/image2.png](./Differentialrechnung/image2.png)
 
 Ableitung = lokaler Anstieg = Tangentensteigung = momentane Änderungsrate
 s (t) ’ = v (t)

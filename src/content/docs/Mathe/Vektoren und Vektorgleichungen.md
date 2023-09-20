@@ -1,6 +1,7 @@
 ---
 title: Vektoren und Vektorgleichungen
 ---
+
 # Vektoren Und Vektorgleichungen
 
 # Vektoren
@@ -49,7 +50,7 @@ $$ - \vec{v} $$
 
 Bei dem Addieren von Vektoren ensteht ein Vektor, der Anfangspunkt und Endpunkt verbindet.
 
-![Untitled](Vektoren%20und%20Vektorgleichungen/Untitled.png)
+![Untitled](./Vektoren_und_Vektorgleichungen/Untitled.png)
 
 $$
 \vec{v} + \vec{w} =
@@ -60,7 +61,7 @@ $$
 
 Bei der Subtraktion von Vektoren erhält man den Vektor, der die Länge zwischen zwei Vektoren ausmacht. Der Vektor verbindet die beiden Vektoren, betrachtet als Ortsvektoren.
 
-![bild.png](Vektoren%20und%20Vektorgleichungen/bild.png)
+![bild.png](./Vektoren_und_Vektorgleichungen/bild.png)
 
 $$
 \vec{u} - \vec{v} =

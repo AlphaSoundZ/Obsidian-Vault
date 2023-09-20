@@ -33,7 +33,7 @@ Gain der Frequenzen Manipulieren
 
 kontrollierte Form des Clipping
 
-![Untitled](Text/Untitled.png)
+![Untitled](./Text/Untitled.png)
 
 Klang: übersteuert
 

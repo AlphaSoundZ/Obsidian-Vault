@@ -1,6 +1,7 @@
 ---
 title: Facetten der modernen Sozialstruktur
 ---
+
 # Facetten Der Modernen Sozialstruktur
 
 ## Inhalt
@@ -47,7 +48,7 @@ Das Schichtmodell teilt die Gesellschaft in die Unterschicht, Mittelschicht und 
 
 Ralf Dahrendorf wies auf, dass es soziale Mobilität zwischen den Schichten gibt, die aber mit Barrieren verbunden sind. Er bildete das “Hausmodell”, welches er in sieben Klassen und Schichten unterschied.
 
-![Hausmodell von Ralf Dahrendorf](Facetten%20der%20modernen%20Sozialstruktur/Untitled.png)
+![Hausmodell von Ralf Dahrendorf](./Facetten_der_modernen_Sozialstruktur/Untitled.png)
 
 Hausmodell von Ralf Dahrendorf
 
@@ -56,7 +57,7 @@ Hausmodell von Ralf Dahrendorf
     An der Spitze stehen wie immer die Eliten. Im Obergeschoss residieren nebeneinander die bürokratischen Helfer der Eliten, die Dienstklasse, "insbesondere nicht technische Verwaltungsangestellte aller Ränge", sowie der "alte Mittelstand" der Selbstständigen. Im Hauptgeschoss wohnen die große Arbeiterschicht und der "falsche Mittelstand" der einfachen Dienstleistungsberufe. Dessen soziale Stellung unterscheidet sich nicht von derjenigen der Arbeiter, er zählt sich jedoch seinem Selbstverständnis nach "fälschlicherweise" zur Mittelschicht. Die Arbeiterelite (hier Meister und Vorarbeiter) hat sich dagegen nach oben hin vom Rest der Arbeiterschaft abgesetzt. Der Keller des Hauses ist bevölkert von der Unterschicht der "Dauererwerbslosen, Unsteten, Rückfallkriminellen, Halbanalphabeten u. a.", die mitunter auch als "Bodensatz der Gesellschaft", "sozial Verachtete" oder "Lumpenproletariat" bezeichnet wurden.
     
 
-![Ein modernisiertes Hausmodell für die soziale Schichtung der Bevölkerung Deutschlands im Jahr 2009 orientiert sich an dem von Dahrendorf erkannten Grundmuster, zieht jedoch einige weitere Differenzierungslinien ein und macht die massiven Umschichtungen im vergangenem halben Jahrhundert deutlich. 7. Auflage von Rainer Geißler](Facetten%20der%20modernen%20Sozialstruktur/Untitled%201.png)
+![Ein modernisiertes Hausmodell für die soziale Schichtung der Bevölkerung Deutschlands im Jahr 2009 orientiert sich an dem von Dahrendorf erkannten Grundmuster, zieht jedoch einige weitere Differenzierungslinien ein und macht die massiven Umschichtungen im vergangenem halben Jahrhundert deutlich. 7. Auflage von Rainer Geißler](./Facetten_der_modernen_Sozialstruktur/Untitled1.png)
 
 Ein modernisiertes Hausmodell für die soziale Schichtung der Bevölkerung Deutschlands im Jahr 2009 orientiert sich an dem von Dahrendorf erkannten Grundmuster, zieht jedoch einige weitere Differenzierungslinien ein und macht die massiven Umschichtungen im vergangenem halben Jahrhundert deutlich. 7. Auflage von Rainer Geißler
 
@@ -64,11 +65,11 @@ Ein modernisiertes Hausmodell für die soziale Schichtung der Bevölkerung Deuts
 
 Ein einfaches Vier-Schichten-Modell, das lediglich die subjektive Schichteinstufung als Kriterium heranzieht, macht erhebliche stabile Ost-West-Unterschiede deutlich.
 
-![Untitled](Facetten%20der%20modernen%20Sozialstruktur/Untitled%202.png)
+![Untitled](./Facetten_der_modernen_Sozialstruktur/Untitled2.png)
 
 West- und Ost-Deutschland haben sich nicht in den geplanten 5 Jahren und auch nicht in den inzwischen 30 Jahren ausgeglichen. Spitzenjobs sind in Wirtschaft, Politik, Medien, Gerichten und Universitäten in West-Deutschland deutlich häufiger vorhanden. Das Vertrauen nimmt allgemein ab. 2020 waren 54 Prozent mit der politischen Situation zufrieden. 2022 sind es nur noch 44 Prozent. Die Zufriedenheit ist im Westen mit 59 Prozent allerdings im Vergleich zum Osten 20 Prozent größer. Die Schere geht aber nicht weiter auseinander, sondern geht allgemein in den letzten Jahren zurück. Außerdem ist die Arbeitslosenquote im Osten höher als im Westen. 6,7 und 4,5 Prozent. Auch das Rentenniveau ist im Osten deutlich niedriger. Deutliche Unterschiede zeigen sich auch bei der Verteilung von Armut und Reichtum: Von den 95 dauerhaft Einkommensreichen in der Bundesrepublik leben in 95 Prozent West- und nur fünf Prozent in Ostdeutschland. Bei den Einkommensarmen ist es umgekehrt: 39 Prozent der Personen, die über mehrere Jahre mit weniger als 60% des mittleren Einkommens zurechtkommen mussten, leben in den neuen Ländern, obwohl dort nur ein Fünftel der Gesamtbevölkerung beheimatet ist.
 
-![Untitled](Facetten%20der%20modernen%20Sozialstruktur/Untitled%203.png)
+![Untitled](./Facetten_der_modernen_Sozialstruktur/Untitled3.png)
 
 ## Soziale Lagen
 
@@ -95,7 +96,7 @@ In den unteren problematischen Soziallagen lassen sich Arbeitslose sowie Un- und
 
 Soziale Milieus fassen Menschen mit ähnlicher Lebensauffassung und Lebensweise zu Subkulturen zusammen. Die Milieuforschung entwickelte sich aus der kommerziellen Markt- und Wahlforschung.
 
-![Untitled](Facetten%20der%20modernen%20Sozialstruktur/Untitled%204.png)
+![Untitled](./Facetten_der_modernen_Sozialstruktur/Untitled4.png)
 
 ### Sinus-Milieus Für Deutschland
 

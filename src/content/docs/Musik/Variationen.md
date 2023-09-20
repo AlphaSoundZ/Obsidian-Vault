@@ -128,7 +128,7 @@ Klangliche Bearbeitung von Audiomaterial. Filtering macht den Klang einer Aufnah
 
 ### A Und B
 
-![Variationen/image1.png](Variationen/image1.png)
+![./Variationen/image1.png](./Variationen/image1.png)
 
 ### C
 
