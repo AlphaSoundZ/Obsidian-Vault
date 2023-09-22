@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27a35bfd402bb0b4",
+        "id": "a90b260b0d813f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "45270c96d66ab31b",
+            "id": "86fa09228c905f6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Rules.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -95,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -179,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Rules.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,9 +244,12 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "45270c96d66ab31b",
+  "active": "86fa09228c905f6b",
   "lastOpenFiles": [
+    "test.md",
     "404.mdx",
+    "index.mdx",
+    "Rules.md",
     "Daily Notes/26.09.23.md",
     "Programming/Time_tracker/Untitled1.png",
     "Task List.md",
@@ -277,7 +277,6 @@
     "Deutsch/S2 Lyrik/Daemmerung.md",
     "Google Docs/Physik Arbeit 29 10 21/image1.png",
     "Geographie/S2/Harvestehude.md",
-    "Englisch/S1 The United Kingdom - diverse and disunited/Scottish independence could Britain break up (list.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/Martin Luther King and Malcolm X fighting oppressi/_E.S3.AAE_MalcolmX.pdf",
     "Kunst/S1 Portraits/Glossar/image-1673652661325.jpg8121125443729985203.jpg",
     "PGW/Facetten_der_modernen_Sozialstruktur/Untitled4.png",
@@ -293,8 +292,6 @@
     "PGW/PGW_DOCS_Wirtschaft_&_Nahost-Konflikt.pdf",
     "Deutsch/S3 Woyzeck",
     "Englisch/S1 The United Kingdom - diverse and disunited",
-    "Englisch/S3 Crime and Punishment in Literature and Film",
-    "Unbenannt",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
