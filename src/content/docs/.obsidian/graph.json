@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#PGW/Israel-Palästinensischer-Konflikt  ",
+      "query": "tag:#PGW",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224501,
+  "scale": 1.40198289777613,
   "close": false
 }

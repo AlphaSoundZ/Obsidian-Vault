@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Sherlock Prep. Tasks @[[27.09.23]] #Englisch
 - [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
 
 
