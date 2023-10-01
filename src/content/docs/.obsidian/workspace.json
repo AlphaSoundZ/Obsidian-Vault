@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a55f7d6aacc0e4",
+        "id": "f1071f83a87e4d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "3d8ba9b1252bf4d4",
+            "id": "908024843bd7bf1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily Notes/27.09.23.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -74,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/27.09.23.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/27.09.23.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/27.09.23.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -164,9 +162,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "10b5bb54e1e68b27",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Task List.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "179a1f74e066dc47",
@@ -179,7 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/27.09.23.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,10 +255,14 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "3d8ba9b1252bf4d4",
+  "active": "10b5bb54e1e68b27",
   "lastOpenFiles": [
-    "Task List.md",
     "Daily Notes/27.09.23.md",
+    "Task List.md",
+    "Daily Notes/04.10.23.md",
+    "Deutsch/S3 Woyzeck/Woyzeck.md",
+    "Daily Notes/20.09.23.md",
+    "Daily Notes/30.06.23.md",
     "Philosophie/Religionskritik.md",
     "index.mdx",
     "test.md",
@@ -258,7 +270,6 @@
     "Rules.md",
     "Daily Notes/26.09.23.md",
     "Programming/Time_tracker/Untitled1.png",
-    "Daily Notes/20.09.23.md",
     "Programming/Time tracker.md",
     "Programming/Unbenannt.md",
     "Programming/htnsh.md",
@@ -276,9 +287,6 @@
     "Informatik/Netzwerke und Datenbanken.md",
     "Informatik/Ausleihe.md",
     "Informatik/Asymmetrisches Verschluesselung.md",
-    "Informatik/Simulationen/Corona - Exponentielles Wachstum.md",
-    "Informatik/Tanaland.md",
-    "Informatik/Simulationen.md",
     "Google Docs/Physik Arbeit 29 10 21/image1.png",
     "Englisch/S1 The United Kingdom - diverse and disunited/Martin Luther King and Malcolm X fighting oppressi/_E.S3.AAE_MalcolmX.pdf",
     "Kunst/S1 Portraits/Glossar/image-1673652661325.jpg8121125443729985203.jpg",

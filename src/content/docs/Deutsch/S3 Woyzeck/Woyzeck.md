@@ -3,7 +3,7 @@ title: Woyzeck
 tags: 
 ---
 
-|                             | Marie                                                | Andres                    | Hauptmann                                                               | Doktor                                           | Tambourmajor                                                           |
+|                             | Marie                                                | Andres                    | Hauptmann                                                               | Doctor                                           | Tambourmajor                                                           |
 | --------------------------- | ---------------------------------------------------- | ------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------- |
 | Alter                       |                                                      |                           |                                                                         |                                                  |                                                                        |
 | Beruf                       | Prostituierte (Szene 2)                              | Soldat (Szene 1)          | Hauptmann der Armee                                                     | Arzt                                             | Unteroffizier, Anführer der Tambours (Trommler) (Szene 2)              |

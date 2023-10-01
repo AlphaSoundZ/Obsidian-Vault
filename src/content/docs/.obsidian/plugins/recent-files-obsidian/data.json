@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
       "basename": "27.09.23",
       "path": "Daily Notes/27.09.23.md"
     },
     {
-      "basename": "Task List",
-      "path": "Task List.md"
+      "basename": "04.10.23",
+      "path": "Daily Notes/04.10.23.md"
+    },
+    {
+      "basename": "Woyzeck",
+      "path": "Deutsch/S3 Woyzeck/Woyzeck.md"
+    },
+    {
+      "basename": "20.09.23",
+      "path": "Daily Notes/20.09.23.md"
+    },
+    {
+      "basename": "30.06.23",
+      "path": "Daily Notes/30.06.23.md"
     },
     {
       "basename": "Religionskritik",
@@ -31,10 +47,6 @@
     {
       "basename": "Untitled1",
       "path": "Programming/Time_tracker/Untitled1.png"
-    },
-    {
-      "basename": "20.09.23",
-      "path": "Daily Notes/20.09.23.md"
     },
     {
       "basename": "Time tracker",
@@ -187,18 +199,6 @@
     {
       "basename": "Untitled3",
       "path": "Geographie/S2/Harvestehude/Untitled3.png"
-    },
-    {
-      "basename": "Untitled4",
-      "path": "Geographie/S2/Harvestehude/Untitled4.png"
-    },
-    {
-      "basename": "Untitled5",
-      "path": "Geographie/S2/Harvestehude/Untitled5.png"
-    },
-    {
-      "basename": "Untitled6",
-      "path": "Geographie/S2/Harvestehude/Untitled6.png"
     }
   ],
   "omittedPaths": [],
