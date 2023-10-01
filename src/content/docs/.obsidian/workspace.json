@@ -11,9 +11,12 @@
             "id": "908024843bd7bf1f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/04.10.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/04.10.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/04.10.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/04.10.23.md"
               }
             }
           },
@@ -169,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/04.10.23.md"
               }
             }
           }
@@ -187,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/04.10.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,10 +258,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "10b5bb54e1e68b27",
+  "active": "908024843bd7bf1f",
   "lastOpenFiles": [
-    "Daily Notes/27.09.23.md",
     "Task List.md",
+    "Daily Notes/27.09.23.md",
     "Daily Notes/04.10.23.md",
     "Deutsch/S3 Woyzeck/Woyzeck.md",
     "Daily Notes/20.09.23.md",
