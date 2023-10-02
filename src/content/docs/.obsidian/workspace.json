@@ -11,13 +11,8 @@
             "id": "719c1e26ae1c9ac4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physik/Kreisbewegung.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physik/Kreisbewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Kreisbewegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physik/Kreisbewegung.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Physik/Kreisbewegung.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -189,7 +178,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Physik/Kreisbewegung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +247,9 @@
   },
   "active": "719c1e26ae1c9ac4",
   "lastOpenFiles": [
+    "Physik/Kreisbewegung.mdx",
     "Physik/Kreisbewegung.md",
+    "Physik/Kreisbewegung.mmd",
     "Physik/Elektrische Felder.md",
     "Physik/kreisbewegung.png",
     "Physik/Magnetfelder.md",
@@ -293,7 +283,6 @@
     "Kunst/S1-Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel",
     "Kunst/S1-Portraits/Bildanalyse/Bildanalyse Beispiel.md",
-    "Kunst/S1-Portraits/S1_Semesterarbeit_Konzeptpapier",
     "Kunst/S1-Portraits/S1 Semesterarbeit Konzeptpapier.md",
     "Kunst/S1-Portraits/Glossar.md",
     "Kunst/S1-Portraits/Bildanalyse.md",
