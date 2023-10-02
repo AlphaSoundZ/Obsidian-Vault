@@ -4,15 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "feb4f8aea5f6e2ce",
+        "id": "54af9a465a677f75",
         "type": "tabs",
         "children": [
           {
-            "id": "dd654bd9b616a7cb",
+            "id": "c05ed4517dc91456",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/05.10.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a7500a51ab5e747a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9673c5961877d1b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Kunst/S3-Design/design_analyse_schreiben.pdf"
+              }
             }
           }
         ]
@@ -90,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/05.10.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/05.10.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/05.10.23.md"
+              }
             }
           },
           {
@@ -161,11 +186,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/05.10.23.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "179a1f74e066dc47",
@@ -178,6 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily Notes/05.10.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,53 +273,53 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dd654bd9b616a7cb",
+  "active": "c05ed4517dc91456",
   "lastOpenFiles": [
+    "Kunst/S3-Design/design_analyse_schreiben.pdf",
     "Daily Notes/05.10.23.md",
-    "Kunst/S3 Design",
     "Task List.md",
-    "Daily Notes/04.10.23.md",
-    "Daily Notes/26.09.23.md",
-    "Deutsch/Kommunikation/Die 5 Axiome.md",
-    "Daily Notes/27.09.23.md",
-    "Deutsch/S3 Woyzeck/Woyzeck.md",
-    "Daily Notes/20.09.23.md",
-    "Daily Notes/30.06.23.md",
-    "Philosophie/Religionskritik.md",
-    "index.mdx",
-    "test.md",
-    "404.mdx",
-    "Rules.md",
-    "Programming/Time_tracker/Untitled1.png",
-    "Programming/Time tracker.md",
-    "Programming/Unbenannt.md",
-    "Programming/htnsh.md",
-    "_Templates/Default.md",
-    "_Templates/Unbenannt 1.md",
-    "_Templates/Daily Notes.md",
-    "PGW/Facetten der modernen Sozialstruktur.md",
-    "PGW/Unbenannt.md",
-    "PGW/Unbenannt 1.md",
-    "Mathe/Vektoren und Vektorgleichungen.md",
+    "Kunst/S2-Architektur/Semesterarbeit/Untitled1.png",
+    "Kunst/S2-Architektur/Semesterarbeit/Untitled.png",
+    "Kunst/S2-Architektur/Semesterarbeit/Semesterarbeit Plakat.md",
+    "Kunst/S2-Architektur/Semesterarbeit/e.png",
+    "Kunst/S2-Architektur/Digitales_Kunstheft/Ohne_TitelSS.png",
+    "Kunst/S2-Architektur/Digitales_Kunstheft/house_Comp_1_2023-02-08_23.03.03_(Gro).png",
+    "Kunst/S2-Architektur/_Multilayer_City[1].pdf",
+    "Kunst/S2-Architektur/Unterwegs nach Utopia.md",
+    "Kunst/S2-Architektur/Semesterarbeit.md",
+    "Kunst/S2-Architektur/Semesterarbeit",
+    "Kunst/S2-Architektur/kunst_infos.jpg",
+    "Kunst/S2-Architektur/Konzeptpapier.md",
+    "Kunst/S2-Architektur/In der Wohnmaschine.md",
+    "Kunst/S2-Architektur/grundriss_kunst_semersterarbeit_s2.png",
+    "Kunst/S2-Architektur/Digitales_Kunstheft",
+    "Kunst/S2-Architektur/Digitales Kunstheft.md",
+    "Kunst/S2-Architektur/Bauhaus.md",
+    "Kunst/S2-Architektur/Architekturanalyse.md",
+    "Kunst/S2-Architektur",
+    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled2.png",
+    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled.png",
+    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled1.png",
+    "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
+    "Kunst/S1-Portraits/Bildanalyse/_AB_Komposition02_Schemata.pdf",
+    "Kunst/S1-Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
+    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel",
+    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse Beispiel.md",
+    "Kunst/S1-Portraits/S1_Semesterarbeit_Konzeptpapier",
+    "Kunst/S1-Portraits/S1 Semesterarbeit Konzeptpapier.md",
+    "Kunst/S1-Portraits/Glossar.md",
+    "Kunst/S1-Portraits/Bildanalyse.md",
+    "Kunst/S2 Architektur/Unterwegs nach Utopia.md",
+    "Kunst/S2 Architektur/Semesterarbeit/Semesterarbeit Plakat.md",
+    "Kunst/S2 Architektur/Semesterarbeit.md",
+    "Kunst/S2 Architektur/Konzeptpapier.md",
+    "Kunst/S2 Architektur/In der Wohnmaschine.md",
     "Kunst/S2 Architektur/Digitales Kunstheft.md",
+    "Kunst/S2 Architektur/Bauhaus.md",
+    "Kunst/S2 Architektur/Architekturanalyse.md",
+    "Kunst/S1 Portraits/S1 Semesterarbeit Konzeptpapier.md",
+    "Kunst/S1 Portraits/Glossar.md",
     "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
-    "Kunst/S1 Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
-    "Informatik/Netzwerk.md",
-    "Google Docs/Physik Arbeit 29 10 21/image1.png",
-    "Englisch/S1 The United Kingdom - diverse and disunited/Martin Luther King and Malcolm X fighting oppressi/_E.S3.AAE_MalcolmX.pdf",
-    "Kunst/S1 Portraits/Glossar/image-1673652661325.jpg8121125443729985203.jpg",
-    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled4.png",
-    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled2.png",
-    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled1.png",
-    "PGW/Facetten_der_modernen_Sozialstruktur/Untitled3.png",
-    "Kunst/S2 Architektur/Semesterarbeit/Untitled1.png",
-    "Kunst/S2 Architektur/Semesterarbeit/Untitled.png",
-    "Kunst/S1 Portraits/S1_Semesterarbeit_Konzeptpapier/Snapchat-154357158.jpg",
-    "Daily Notes/Erkenntnistheoretische_Grundfragen_OS.pdf",
-    "Daily Notes/_Bahr_Ueberwindung_des_Naturalismus.pdf",
-    "_Templates",
-    "PGW/PGW_DOCS_Wirtschaft_&_Nahost-Konflikt.pdf",
-    "Deutsch/S3 Woyzeck",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
