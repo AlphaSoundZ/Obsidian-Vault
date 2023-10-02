@@ -26,12 +26,13 @@ $T$ ist die Umlaufzeit in s.
 $f = \frac{1}{T}$ ist die Frequenz.
 
 ## Gravitationskraft
-
+<Fragment is:raw>
 $$ F_g = G \cdot \frac{M \cdot m}{r^2} $$
 $M$ ist die Masse des Zentralkörpers in Kg.
 $m$ ist die Masse des Satelliten in Kg.
 $r$ ist der Radius in m.
 $G$ ist die Gravitationskonstante ($G=6,67 \cdot 10^{-11})$)
+</Fragment>
 
 Bei einer Kreisbewegung im All, kann man die Gravitationskraft mit der Zentripetalkraft gleichsetzen.
 
