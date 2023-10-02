@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f89b8e101eff5c7",
+        "id": "feb4f8aea5f6e2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "6d56743a5613a9d3",
+            "id": "dd654bd9b616a7cb",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "src/content/docs/Deutsch/Kommunikation/Die 5 Axiome.md",
-                "staged": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -72,12 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 436.5
+    "width": 524.5
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -249,8 +245,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d56743a5613a9d3",
+  "active": "dd654bd9b616a7cb",
   "lastOpenFiles": [
+    "Daily Notes/05.10.23.md",
+    "Kunst/S3 Design",
     "Task List.md",
     "Daily Notes/04.10.23.md",
     "Daily Notes/26.09.23.md",
@@ -279,8 +277,6 @@
     "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
     "Kunst/S1 Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Informatik/Netzwerk.md",
-    "Informatik/Netzwerke und Datenbanken.md",
-    "Informatik/Ausleihe.md",
     "Google Docs/Physik Arbeit 29 10 21/image1.png",
     "Englisch/S1 The United Kingdom - diverse and disunited/Martin Luther King and Malcolm X fighting oppressi/_E.S3.AAE_MalcolmX.pdf",
     "Kunst/S1 Portraits/Glossar/image-1673652661325.jpg8121125443729985203.jpg",
@@ -296,7 +292,6 @@
     "_Templates",
     "PGW/PGW_DOCS_Wirtschaft_&_Nahost-Konflikt.pdf",
     "Deutsch/S3 Woyzeck",
-    "Englisch/S1 The United Kingdom - diverse and disunited",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
