@@ -7,23 +7,43 @@
   "tag-colors": [
     {
       "tagKey": "#Deutsch",
-      "color": "rgba(158, 82, 82, 1)",
-      "backgroundColor": "rgba(240, 108, 108, 0.1)"
+      "color": "rgba(250, 137, 137, 1)",
+      "backgroundColor": "rgba(245, 93, 93, 0.1)"
     },
     {
       "tagKey": "#Mathe",
-      "color": "rgba(82, 89, 158, 1)",
-      "backgroundColor": "rgba(109, 108, 240, 0.1)"
+      "color": "rgba(141, 137, 250, 1)",
+      "backgroundColor": "rgba(105, 93, 245, 0.1)"
     },
     {
       "tagKey": "#Physik",
-      "color": "rgba(82, 89, 158, 1)",
-      "backgroundColor": "rgba(109, 108, 240, 0.1)"
+      "color": "rgba(141, 137, 250, 1)",
+      "backgroundColor": "rgba(105, 93, 245, 0.1)"
     },
     {
       "tagKey": "#Informatik",
       "color": "rgba(153, 153, 153, 1)",
       "backgroundColor": "rgba(148, 148, 148, 0.1)"
+    },
+    {
+      "tagKey": "#Englisch",
+      "color": "rgba(248, 250, 137, 1)",
+      "backgroundColor": "rgba(233, 245, 93, 0.1)"
+    },
+    {
+      "tagKey": "#PGW",
+      "color": "rgba(146, 250, 137, 1)",
+      "backgroundColor": "rgba(93, 245, 95, 0.1)"
+    },
+    {
+      "tagKey": "#Seminar",
+      "color": "rgba(250, 137, 225, 1)",
+      "backgroundColor": "rgba(245, 93, 184, 0.1)"
+    },
+    {
+      "tagKey": "#Geographie",
+      "color": "rgba(146, 250, 137, 1)",
+      "backgroundColor": "rgba(93, 245, 95, 0.1)"
     }
   ],
   "archive-date-format": "DD.MM.YY",
