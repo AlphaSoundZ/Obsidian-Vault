@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "54af9a465a677f75",
+        "id": "1856e9c529424960",
         "type": "tabs",
         "children": [
           {
-            "id": "c05ed4517dc91456",
+            "id": "719c1e26ae1c9ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/05.10.23.md",
+                "file": "Physik/Kreisbewegung.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a7500a51ab5e747a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c9673c5961877d1b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Kunst/S3-Design/design_analyse_schreiben.pdf"
               }
             }
           }
@@ -111,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/05.10.23.md",
+                "file": "Physik/Kreisbewegung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/05.10.23.md",
+                "file": "Physik/Kreisbewegung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/05.10.23.md"
+                "file": "Physik/Kreisbewegung.md"
               }
             }
           },
@@ -187,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/05.10.23.md"
+                "file": "Physik/Kreisbewegung.md"
               }
             }
           }
@@ -205,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/05.10.23.md",
+                "file": "Physik/Kreisbewegung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,10 +257,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c05ed4517dc91456",
+  "active": "719c1e26ae1c9ac4",
   "lastOpenFiles": [
-    "Kunst/S3-Design/design_analyse_schreiben.pdf",
+    "Physik/Kreisbewegung.md",
+    "Physik/Elektrische Felder.md",
+    "Physik/kreisbewegung.png",
+    "Physik/Magnetfelder.md",
+    "Physik/Physik Experiment - Protokoll.md",
+    "Physik/Aufgabe Doppelspalt.md",
     "Daily Notes/05.10.23.md",
+    "Kunst/S3-Design/design_analyse_schreiben.pdf",
     "Task List.md",
     "Kunst/S2-Architektur/Semesterarbeit/Untitled1.png",
     "Kunst/S2-Architektur/Semesterarbeit/Untitled.png",
@@ -298,8 +288,6 @@
     "Kunst/S2-Architektur/Architekturanalyse.md",
     "Kunst/S2-Architektur",
     "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled2.png",
-    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled.png",
-    "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled1.png",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Bildanalyse/_AB_Komposition02_Schemata.pdf",
     "Kunst/S1-Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
@@ -315,11 +303,6 @@
     "Kunst/S2 Architektur/Konzeptpapier.md",
     "Kunst/S2 Architektur/In der Wohnmaschine.md",
     "Kunst/S2 Architektur/Digitales Kunstheft.md",
-    "Kunst/S2 Architektur/Bauhaus.md",
-    "Kunst/S2 Architektur/Architekturanalyse.md",
-    "Kunst/S1 Portraits/S1 Semesterarbeit Konzeptpapier.md",
-    "Kunst/S1 Portraits/Glossar.md",
-    "Kunst/S1 Portraits/Bildanalyse/Bildanalyse Beispiel.md",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
