@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5738e2df71ac80a8",
+        "id": "809bcc8c68de7195",
         "type": "tabs",
         "children": [
           {
-            "id": "0fdb8f18f6b39ab0",
+            "id": "2afadee8ca2da408",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/06.10.23.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/06.10.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/06.10.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/06.10.23.md"
+              }
             }
           },
           {
@@ -161,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/06.10.23.md"
+              }
             }
           }
         ],
@@ -178,6 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily Notes/06.10.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,19 +257,59 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0fdb8f18f6b39ab0",
+  "floating": {
+    "id": "ddfc5f40afd7d93e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "54eff5094afd02de",
+        "type": "window",
+        "children": [
+          {
+            "id": "9ebea381fe4b411a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5930f9481a5d23c5",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Kunst/S3-Design/design_analyse_schreiben.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2afadee8ca2da408",
   "lastOpenFiles": [
-    "Physik/Kreisbewegung.mdx",
-    "Physik/Kreisbewegung.md",
-    "Physik/Kreisbewegung.mmd",
-    "Physik/Elektrische Felder.md",
-    "Physik/kreisbewegung.png",
-    "Physik/Magnetfelder.md",
-    "Physik/Physik Experiment - Protokoll.md",
-    "Physik/Aufgabe Doppelspalt.md",
+    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/sherlock_holmes_ans_iphone_bitte.pdf",
+    "Englisch/S3 Crime and Punishment in Literature and Film/Nicht bestätigt 703851.crdownload",
+    "Daily Notes/06.10.23.md",
+    "Task List.md",
+    "Daily Notes/26.09.23.md",
     "Daily Notes/05.10.23.md",
     "Kunst/S3-Design/design_analyse_schreiben.pdf",
-    "Task List.md",
+    "Physik/Magnetfelder.md",
+    "Physik/lorenzkraft.png",
+    "Physik/Kreisbewegung.md",
+    "Physik/Elektrische Felder.md",
+    "Physik/Kreisbewegung.mdx",
+    "Physik/Kreisbewegung.mmd",
+    "Physik/kreisbewegung.png",
+    "Physik/Physik Experiment - Protokoll.md",
+    "Physik/Aufgabe Doppelspalt.md",
     "Kunst/S2-Architektur/Semesterarbeit/Untitled1.png",
     "Kunst/S2-Architektur/Semesterarbeit/Untitled.png",
     "Kunst/S2-Architektur/Semesterarbeit/Semesterarbeit Plakat.md",
@@ -280,7 +332,6 @@
     "Kunst/S1-Portraits/Bildanalyse/Bildanalyse_Beispiel/Untitled2.png",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Bildanalyse/_AB_Komposition02_Schemata.pdf",
-    "Kunst/S1-Portraits/Bildanalyse/_AB_205119_u63k9n_werkbetrachtungsmodell.pdf",
     "Kunst/S1-Portraits/Bildanalyse/Bildanalyse Beispiel.md",
     "Kunst/S1-Portraits/S1 Semesterarbeit Konzeptpapier.md",
     "Kunst/S1-Portraits/Glossar.md",
@@ -289,8 +340,6 @@
     "Kunst/S2 Architektur/Semesterarbeit/Semesterarbeit Plakat.md",
     "Kunst/S2 Architektur/Semesterarbeit.md",
     "Kunst/S2 Architektur/Konzeptpapier.md",
-    "Kunst/S2 Architektur/In der Wohnmaschine.md",
-    "Kunst/S2 Architektur/Digitales Kunstheft.md",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

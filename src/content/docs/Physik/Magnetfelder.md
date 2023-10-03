@@ -10,8 +10,9 @@ Durch den Stromfluss entsteht ein Magnetfeld, zum Beispiel durch eine stromdurch
 
 Ist das äußere Magnetfeld ein homogenes, so wird die Elektronen-Bahn zur Kreisbahn.
 
-## Zentripetalkraft
+## Stromfluss
 
-Die Zentripetalkraft hält den Körper auf der Kreisbahn und wirkt zum Kreismittelpunkt.
+Die Elektronen fließen von Minus nach Plus, der Strom fließt von Plus nach Minus.
 
-F=(m*v^2)/2
+
+![](./lorenzkraft.png)
