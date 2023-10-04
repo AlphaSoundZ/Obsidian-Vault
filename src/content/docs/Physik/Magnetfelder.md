@@ -12,7 +12,9 @@ Ist das äußere Magnetfeld ein homogenes, so wird die Elektronen-Bahn zur Kreis
 
 ## Stromfluss
 
-Die Elektronen fließen von Minus nach Plus, der Strom fließt von Plus nach Minus.
+Die Elektronen fließen von Minus nach Plus (Linke-Hand-Regel, Physikalische Stromrichtung), der Strom fließt von Plus nach Minus (Rechte-Hand-Regel, Technische Stromrichtung).
 
 
 ![](./lorenzkraft.png)
+
+![](./magnetfeld_spule.png)

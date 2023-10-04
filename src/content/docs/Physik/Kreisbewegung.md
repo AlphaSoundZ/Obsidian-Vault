@@ -11,7 +11,7 @@ Die Zentripetalkraft hält den Körper auf der Kreisbahn und wirkt zum Kreismitt
 ![](./kreisbewegung.png)
 
 Gleichung zum Berechnen der Zentripetalkraft:
-$$ \frac{m \cdot v^2}{r} = F_z $$
+$$ F_z = \frac{m \cdot v^2}{r}$$
 $m$ ist die Masse des Körpers in Kg.
 $v$ ist die Geschwindigkeit in m/s.
 $r$ ist der Radius in m.
