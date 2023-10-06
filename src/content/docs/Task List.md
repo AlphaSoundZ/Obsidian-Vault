@@ -8,7 +8,6 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Mediation Task @[[06.10.23]] #Englisch
-- [ ] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 - [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
 
 
@@ -16,6 +15,7 @@ kanban-plugin: basic
 
 **Fertiggestellt**
 - [x] Woyzeck 5. Szene Dramenanalyse @[[04.10.23]] #Deutsch
+- [x] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 
 
 ## Archiv
