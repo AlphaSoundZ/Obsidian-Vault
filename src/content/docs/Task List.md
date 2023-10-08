@@ -7,19 +7,19 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Mediation Task @[[06.10.23]] #Englisch
 - [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
 
 
 ## Done
 
 **Fertiggestellt**
-- [x] Woyzeck 5. Szene Dramenanalyse @[[04.10.23]] #Deutsch
 - [x] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 
 
 ## Archiv
 
+- [ ] Mediation Task @[[06.10.23]] #Englisch
+- [ ] Woyzeck 5. Szene Dramenanalyse @[[04.10.23]] #Deutsch
 - [ ] Sherlock Prep. Tasks @[[27.09.23]] #Englisch
 - [ ] Szenenreihenfolge Woyzeck @[[20.09.23]] #Deutsch
 - [ ] Erkenntnistheorie Grundlagen #Philosophie @[[12.09.23]]
