@@ -7,7 +7,8 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
+- [ ] Musik Song erstellen @[[19.12.23]] #Musik
+- [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 
 
 ## Done
@@ -18,6 +19,7 @@ kanban-plugin: basic
 
 ## Archiv
 
+- [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
 - [ ] Mediation Task @[[06.10.23]] #Englisch
 - [ ] Woyzeck 5. Szene Dramenanalyse @[[04.10.23]] #Deutsch
 - [ ] Sherlock Prep. Tasks @[[27.09.23]] #Englisch
