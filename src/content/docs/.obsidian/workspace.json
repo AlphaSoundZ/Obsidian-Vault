@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5274000beea4285d",
+        "id": "651b3387fa5a8efb",
         "type": "tabs",
         "children": [
           {
-            "id": "5c5c3e4dbfa76986",
+            "id": "66ac8a63d5b3b048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/06.10.23.md",
+                "file": "Daily Notes/01.09.23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/06.10.23.md",
+                "file": "Daily Notes/01.09.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/06.10.23.md",
+                "file": "Daily Notes/01.09.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/06.10.23.md"
+                "file": "Daily Notes/01.09.23.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/06.10.23.md"
+                "file": "Daily Notes/01.09.23.md"
               }
             }
           }
@@ -190,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/06.10.23.md",
+                "file": "Daily Notes/01.09.23.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,10 +257,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f899a07896bbf09",
+  "active": "66ac8a63d5b3b048",
   "lastOpenFiles": [
-    "Daily Notes/06.10.23.md",
+    "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+    "Daily Notes/01.06.23.md",
     "Task List.md",
+    "Daily Notes/06.10.23.md",
     "Daily Notes/26.09.23.md",
     "Physik/Kreisbewegung.md",
     "Physik/Magnetfelder.md",
@@ -304,7 +305,6 @@
     "Kunst/S1-Portraits/Glossar.md",
     "Kunst/S1-Portraits/Bildanalyse.md",
     "Kunst/S2 Architektur/Unterwegs nach Utopia.md",
-    "Kunst/S2 Architektur/Semesterarbeit/Semesterarbeit Plakat.md",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
