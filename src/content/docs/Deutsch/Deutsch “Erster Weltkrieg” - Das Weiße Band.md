@@ -1,5 +1,7 @@
 ---
 title: Deutsch “Erster Weltkrieg” - Das Weiße Band
+tags:
+  - Deutsch
 ---
 # Deutsch “Erster Weltkrieg” - Das Weiße Band
 

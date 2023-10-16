@@ -1,5 +1,7 @@
 ---
 title: Agnes Göppel
+tags:
+  - Deutsch
 ---
 # Agnes Göppel
 

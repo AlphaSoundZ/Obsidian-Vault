@@ -1,5 +1,7 @@
 ---
 title: Immanuel Kant Beantwortung der Frage Was ist Aufkl fd7e624ad255475d96a43ef29387b6cd
+tags:
+  - Deutsch
 ---
 # Immanuel Kant: Beantwortung Der Frage: Was Ist Aufklärung?
 

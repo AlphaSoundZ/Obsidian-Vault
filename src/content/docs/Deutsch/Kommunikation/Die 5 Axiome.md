@@ -1,5 +1,7 @@
 ---
 title: Die 5 Axiome
+tags:
+  - Deutsch
 ---
 # Die 5 Axiome
 

@@ -1,5 +1,7 @@
 ---
 title: “Prometheus” und “Das Göttliche”
+tags:
+  - Deutsch
 ---
 # “Prometheus” Und “Das Göttliche”
 

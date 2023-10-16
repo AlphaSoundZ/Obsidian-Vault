@@ -1,6 +1,7 @@
 ---
 title: Woyzeck
-tags: 
+tags:
+  - Deutsch
 ---
 
 |                             | Marie                                                | Andres                    | Hauptmann                                                               | Doctor                                           | Tambourmajor                                                           |

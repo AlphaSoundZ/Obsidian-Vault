@@ -1,5 +1,7 @@
 ---
 title: Schlegel und Novalis
+tags:
+  - Deutsch
 ---
 # Schlegel Und Novalis
 

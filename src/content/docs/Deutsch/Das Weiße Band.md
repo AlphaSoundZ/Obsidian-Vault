@@ -1,5 +1,7 @@
 ---
 title: Das Weiße Band
+tags:
+  - Deutsch
 ---
 
 # Das Weiße Band

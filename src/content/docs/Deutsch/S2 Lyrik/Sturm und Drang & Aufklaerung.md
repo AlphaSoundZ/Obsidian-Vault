@@ -1,5 +1,7 @@
 ---
 title: Sturm und Drang & Aufklärung
+tags:
+  - Deutsch
 ---
 # Sturm Und Drang & Aufklärung
 

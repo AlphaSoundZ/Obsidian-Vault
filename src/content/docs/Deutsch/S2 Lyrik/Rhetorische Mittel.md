@@ -1,5 +1,7 @@
 ---
 title: Rhetorische Mittel
+tags:
+  - Deutsch
 ---
 # Rhetorische Mittel
 

@@ -1,5 +1,7 @@
 ---
 title: Kommunikation
+tags:
+  - Deutsch
 ---
 # Kommunikation
 

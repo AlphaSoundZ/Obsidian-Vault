@@ -1,5 +1,7 @@
 ---
 title: Kommunikationsebenen (Schulz von Thun)
+tags:
+  - Deutsch
 ---
 # Kommunikationsebenen (Schulz Von Thun)
 

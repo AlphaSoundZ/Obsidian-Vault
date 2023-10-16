@@ -1,5 +1,7 @@
 ---
 title: Gewalt und Medien von Michael Haneke
+tags:
+  - Deutsch
 ---
 # Gewalt Und Medien Von Michael Haneke
 

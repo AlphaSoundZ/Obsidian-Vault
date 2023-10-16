@@ -1,5 +1,7 @@
 ---
 title: Ganymed - J W Goethe
+tags:
+  - Deutsch
 ---
 # Ganymed - J. W. Goethe
 

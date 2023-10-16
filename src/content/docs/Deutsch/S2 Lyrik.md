@@ -1,5 +1,7 @@
 ---
 title: S2 Lyrik
+tags:
+  - Deutsch
 ---
 # S2: Lyrik
 

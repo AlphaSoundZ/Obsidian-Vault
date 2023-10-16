@@ -1,5 +1,7 @@
 ---
 title: Gedichtinterpretation
+tags:
+  - Deutsch
 ---
 # Gedichtinterpretation
 

@@ -1,5 +1,7 @@
 ---
 title: Der Untertan
+tags:
+  - Deutsch
 ---
 # Der Untertan
 

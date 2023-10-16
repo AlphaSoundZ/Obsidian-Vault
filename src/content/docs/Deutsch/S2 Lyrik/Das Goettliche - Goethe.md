@@ -1,5 +1,7 @@
 ---
 title: Das Göttliche - Goethe
+tags:
+  - Deutsch
 ---
 # Das Göttliche - Goethe
 

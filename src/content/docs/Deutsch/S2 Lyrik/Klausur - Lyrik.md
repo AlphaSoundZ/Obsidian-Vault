@@ -1,5 +1,7 @@
 ---
 title: Klausur - Lyrik
+tags:
+  - Deutsch
 ---
 # Klausur - Lyrik
 

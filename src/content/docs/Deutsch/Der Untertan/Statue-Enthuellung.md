@@ -1,5 +1,7 @@
 ---
 title: Statue-Enthüllung
+tags:
+  - Deutsch
 ---
 # Statue-Enthüllung
 

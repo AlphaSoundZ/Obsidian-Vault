@@ -1,5 +1,7 @@
 ---
 title: Figuren
+tags:
+  - Deutsch
 ---
 # Figuren
 

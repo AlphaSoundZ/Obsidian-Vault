@@ -1,5 +1,7 @@
 ---
 title: Autorität und Gehorsamkeit
+tags:
+  - Deutsch
 ---
 # Autorität Und Gehorsamkeit
 

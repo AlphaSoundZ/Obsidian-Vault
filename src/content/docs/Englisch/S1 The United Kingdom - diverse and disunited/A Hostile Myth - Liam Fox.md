@@ -1,6 +1,7 @@
 ---
-title: Analysing a newspaper article Pre-reading
+title: A Hostile Myth - Liam Fox
 ---
+
 # Analysing a Newspaper Article: Pre-reading
 
 ### Words

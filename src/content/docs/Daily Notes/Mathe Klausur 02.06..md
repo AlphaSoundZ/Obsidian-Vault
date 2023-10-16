@@ -1,6 +1,9 @@
 ---
 title: Mathe Klausur 02.06.
+tags:
+  - Mathe
 ---
+
 ## Themen
 
 - Normalenvektor (Kreuzprodukt) ✅

@@ -1,5 +1,7 @@
 ---
 title: Filmstilistische Mittel
+tags:
+  - Deutsch
 ---
 # Filmstilistische Mittel
 

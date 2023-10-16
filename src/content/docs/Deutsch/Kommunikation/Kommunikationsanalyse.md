@@ -1,5 +1,7 @@
 ---
 title: Kommunikationsanalyse
+tags:
+  - Deutsch
 ---
 # Kommunikationsanalyse
 

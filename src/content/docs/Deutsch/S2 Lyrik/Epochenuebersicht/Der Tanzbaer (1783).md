@@ -1,5 +1,7 @@
 ---
 title: Der Tanzbär (1783)
+tags:
+  - Deutsch
 ---
 # Der Tanzbär (1783)
 

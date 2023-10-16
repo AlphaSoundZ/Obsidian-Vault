@@ -1,5 +1,7 @@
 ---
 title: Heinrich Heine
+tags:
+  - Deutsch
 ---
 # Heinrich Heine
 

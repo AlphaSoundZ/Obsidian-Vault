@@ -1,5 +1,7 @@
 ---
 title: Sadismus und Masochismus
+tags:
+  - Deutsch
 ---
 # Sadismus Und Masochismus
 
