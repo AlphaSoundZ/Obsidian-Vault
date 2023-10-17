@@ -1,5 +1,7 @@
 ---
 title: Köln
+tags:
+  - Geographie
 ---
 # Köln
 

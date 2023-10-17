@@ -1,5 +1,7 @@
 ---
 title: Corona - Exponentielles Wachstum
+tags:
+  - Informatik
 ---
 # Corona - Exponentielles Wachstum
 

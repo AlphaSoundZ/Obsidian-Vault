@@ -1,5 +1,7 @@
 ---
 title: Mediation
+tags:
+  - Englisch/HowTo
 ---
 # Mediation
 

@@ -1,5 +1,8 @@
 ---
 title: Bildanalyse
+tags:
+  - Kunst/HowTo
+  - Kunst/Portraits
 ---
 # Bildanalyse
 

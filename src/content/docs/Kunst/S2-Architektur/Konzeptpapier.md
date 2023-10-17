@@ -1,5 +1,7 @@
 ---
 title: Konzeptpapier
+tags:
+  - Kunst/Architektur
 ---
 # Konzeptpapier ModuCore
 

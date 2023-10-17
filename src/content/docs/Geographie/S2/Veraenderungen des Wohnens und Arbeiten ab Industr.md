@@ -1,5 +1,7 @@
 ---
 title: Veränderungen des Wohnens und Arbeiten ab Industrialisierung
+tags:
+  - Geographie
 ---
 # Veränderungen Des Wohnens Und Arbeiten Ab Industrialisierung
 

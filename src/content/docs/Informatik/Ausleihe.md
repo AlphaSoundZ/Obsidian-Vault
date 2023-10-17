@@ -1,5 +1,7 @@
 ---
 title: Ausleihe
+tags:
+  - Informatik
 ---
 # Ausleihe
 

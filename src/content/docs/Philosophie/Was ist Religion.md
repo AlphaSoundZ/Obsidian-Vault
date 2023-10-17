@@ -1,6 +1,9 @@
 ---
 title: Was ist Religion
+tags:
+  - Philosophie/Religionsphilosophie
 ---
+
 # Was ist Religion?
 
 ## Hörsters relevante Kriterien

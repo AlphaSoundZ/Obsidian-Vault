@@ -1,5 +1,7 @@
 ---
 title: Entscheidungsverhalten
+tags:
+  - Seminar
 ---
 # Entscheidungsverhalten
 

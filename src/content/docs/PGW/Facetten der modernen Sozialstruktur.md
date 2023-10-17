@@ -1,5 +1,7 @@
 ---
 title: Facetten der modernen Sozialstruktur
+tags:
+  - PGW
 ---
 
 # Facetten Der Modernen Sozialstruktur

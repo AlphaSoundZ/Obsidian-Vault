@@ -1,5 +1,7 @@
 ---
 title: Netzwerk
+tags:
+  - Informatik
 ---
 
 # Netzwerk

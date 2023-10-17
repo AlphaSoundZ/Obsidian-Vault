@@ -1,6 +1,9 @@
 ---
 title: S1 Semesterarbeit Konzeptpapier
+tags:
+  - Kunst/Portraits
 ---
+
 # S1: Semesterarbeit Konzeptpapier
 
 Das Bild befindet sich auf einem Aquarellpapier und ist 24 x 32 Zentimeter groß. Da ich zuerst eine Malplatte gekauft habe, die nicht für Aquarellfarben geeignet ist, habe ich mein noch vorhandenes Aquarellpapier verwendet. Ich hoffe, dass dies die Bewertung des Bildes nicht beeinflusst. Ich habe auch überlegt, ob ich das Bild z.B. auf eine Malplatte klebe, aber das wäre meiner Meinung nach Verschwendung der Malplatte. Eine Alternative wäre, das Bild einzurahmen. Im folgenden werde ich die Bestandteile des Bildes erkläre

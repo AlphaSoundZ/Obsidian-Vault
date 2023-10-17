@@ -1,6 +1,9 @@
 ---
-title: Martin Luther King and Malcolm X fighting oppressi
+title: Martin Luther King and Malcolm X fighting oppression
+tags:
+  - Englisch/Racism
 ---
+
 # Martin Luther King and Malcolm X: Fighting Oppression; The March on Washington
 
 ### Martin Luther King Jr

@@ -1,5 +1,7 @@
 ---
 title: Ontologischer Gottesbeweis
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Ontologischer Gottesbeweis
 

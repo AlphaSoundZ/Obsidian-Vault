@@ -1,6 +1,10 @@
 ---
 title: Dimensions of racism
+description: Dimensions of Racism, Overt Expression of Racist Attitudes, Microaggression, Racial Discrimination, Systemic Racism, Implicit Racial Bias, Othering, Internalized Racism, Institutional Racism
+tags:
+  - Englisch/Racism
 ---
+
 # Dimensions of Racism
 
 ## (unconscious) Cultural Stereotypes
@@ -25,7 +29,7 @@ policies and practices that exist throughout a whole society or organization, an
 
 ## Implicit Racial Bias
 
-can cause individuals to unknowingly act in discriminatoryways. This does not mean that the individual is overtly racist, but rather that their perceptions have been shaped by experiences and these perceptions potentially result in biased thoughts or actions
+can cause individuals to unknowingly act in discriminatory ways. This does not mean that the individual is overtly racist, but rather that their perceptions have been shaped by experiences and these perceptions potentially result in biased thoughts or actions
 
 ## Othering
 
@@ -33,7 +37,7 @@ to treat or consider a person or a group of people as alien to oneself or one’
 
 ## Internalized Racism
 
-In a society where racial prejustice thrives, it’s difficult for people of color to avoid absorbing the racist messages that constantly bombard them. Thus, people of color sometimes adopt a white supremacist mindset that results in selfhatred and hatred of their respective racial group
+In a society where racial prejudice thrives, it’s difficult for people of color to avoid absorbing the racist messages that constantly bombard them. Thus, people of color sometimes adopt a white supremacist mindset that results in self-hatred and hatred of their respective racial group
 
 ## Institutional Racism
 

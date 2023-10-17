@@ -1,5 +1,7 @@
 ---
 title: Rentenversicherung
+tags:
+  - PGW
 ---
 # Rentenversicherung
 

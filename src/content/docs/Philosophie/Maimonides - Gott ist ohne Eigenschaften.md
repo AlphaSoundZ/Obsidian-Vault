@@ -1,5 +1,7 @@
 ---
 title: Maimonides - Gott ist ohne Eigenschaften
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Maimonides
 

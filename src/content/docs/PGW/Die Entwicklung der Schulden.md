@@ -1,5 +1,7 @@
 ---
 title: Die Entwicklung der Schulden
+tags:
+  - PGW
 ---
 # Die Entwicklung Der Schulden
 

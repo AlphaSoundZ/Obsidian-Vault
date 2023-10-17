@@ -1,5 +1,7 @@
 ---
 title: Frieden und Gewalt
+tags:
+  - PGW
 ---
 # Frieden Und Gewalt
 

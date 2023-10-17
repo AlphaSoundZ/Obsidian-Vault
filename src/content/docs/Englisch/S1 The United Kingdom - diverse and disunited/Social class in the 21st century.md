@@ -1,5 +1,7 @@
 ---
 title: Social class in the 21st century
+tags:
+  - Englisch/UK
 ---
 # Social Class in the 21st Century
 

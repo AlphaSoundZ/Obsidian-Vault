@@ -1,5 +1,7 @@
 ---
 title: Magnetfelder
+tags:
+  - Physik
 ---
 
 ## Stromfluss

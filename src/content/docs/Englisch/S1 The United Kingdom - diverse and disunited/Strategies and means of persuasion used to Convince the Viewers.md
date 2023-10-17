@@ -1,6 +1,9 @@
 ---
-title: Strategies and means of persuasion used to convinc
+title: Strategies and means of persuasion used to convince the Viewers
+tags:
+  - Englisch/UK
 ---
+
 # Strategies and means of Persuasion Used to Convince the Viewers
 
 Jonas, Jan Jacob, Maxim, Paul

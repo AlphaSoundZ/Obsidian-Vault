@@ -1,5 +1,7 @@
 ---
 title: Phonk
+tags:
+  - Musik
 ---
 # Phonk
 

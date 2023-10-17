@@ -1,9 +1,12 @@
 ---
-title: Brand UK Enough to Make Britain a Cultural superpo
+title: Brand UK Enough to Make Britain a Cultural superpower
+tags:
+  - Englisch/UK
 ---
+
 # Brand UK: Enough to Make Britain a Cultural Superpower? (Podcast)
 
-Based on the material you are given and your own research, discuss to which extent your aspect of „Brand UK“ supports the thesis of the UK being a cultural superpower in a 3-4 minute podcast. Start with a general introduction to the question of whether the UK can be considered a cultural superpower and then focus on your aspect specifically to find an asnwer. Take different opinions into consideration.
+Based on the material you are given and your own research, discuss to which extent your aspect of „Brand UK“ supports the thesis of the UK being a cultural superpower in a 3-4 minute podcast. Start with a general introduction to the question of whether the UK can be considered a cultural superpower and then focus on your aspect specifically to find an answer. Take different opinions into consideration.
 
 # Arguments
 

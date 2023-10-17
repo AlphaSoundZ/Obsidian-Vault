@@ -1,5 +1,7 @@
 ---
 title: Meine supertolle Zukunft Lebensweg Vorstellungen
+tags:
+  - Seminar
 ---
 # Meine Supertolle Zukunft Lebensweg Vorstellungen
 

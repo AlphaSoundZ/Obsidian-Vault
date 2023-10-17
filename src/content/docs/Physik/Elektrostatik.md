@@ -1,5 +1,7 @@
 ---
 title: Elektrostatik
+tags:
+  - Physik
 ---
 # Elektrostatik
 

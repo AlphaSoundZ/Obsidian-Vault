@@ -1,7 +1,9 @@
 ---
 title: Bildanalyse Beispiel
+tags:
+  - Kunst/Portraits
+  - Kunst/HowTo
 ---
-# Bildanalyse Beispiel
 
 ## Schreibe Eine Bildanalyse Mit Dem Schwerpunkt Farbe Zum Gemälde
 

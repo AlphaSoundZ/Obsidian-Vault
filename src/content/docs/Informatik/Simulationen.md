@@ -1,5 +1,7 @@
 ---
 title: Simulationen
+tags:
+  - Informatik
 ---
 # Simulationen
 

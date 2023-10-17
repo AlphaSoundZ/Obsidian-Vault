@@ -1,5 +1,7 @@
 ---
 title: Aktionen gegen den Klimawandel
+tags:
+  - PGW
 ---
 # Aktionen Gegen Den Klimawandel
 

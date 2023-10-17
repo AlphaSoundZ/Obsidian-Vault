@@ -1,5 +1,7 @@
 ---
 title: Differentialrechnung
+tags:
+  - Mathe/Analysis
 ---
 # Differentialrechnung
 

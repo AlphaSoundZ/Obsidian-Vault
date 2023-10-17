@@ -1,7 +1,10 @@
 ---
 title: Aufgabe Doppelspalt
+tags:
+  - Physik
 ---
-# Aufgabe Doppelspalt
+
+## Aufgabe Doppelspalt
 
 $$
 \sin(\alpha) = \frac{n \cdot \lambda}{d}

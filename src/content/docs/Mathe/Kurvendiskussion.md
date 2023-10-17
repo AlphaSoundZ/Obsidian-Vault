@@ -1,5 +1,7 @@
 ---
 title: Kurvendiskussion
+tags:
+  - Mathe/Analysis
 ---
 # Kurvendiskussion
 

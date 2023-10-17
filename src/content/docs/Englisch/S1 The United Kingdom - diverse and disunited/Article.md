@@ -1,12 +1,15 @@
 ---
 title: Article
+tags:
+  - Englisch/HowTo
 ---
+
 # Article
 
 ## Structure
 
 - headline
-- standfirst or subheading
+- stand-first or subheading
 - (date of publication)
 - byline (the name of the writer)
 - (picture)

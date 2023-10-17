@@ -1,5 +1,7 @@
 ---
 title: Metaphysik
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Metaphysik
 

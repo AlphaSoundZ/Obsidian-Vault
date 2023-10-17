@@ -1,5 +1,7 @@
 ---
 title: Steuern
+tags:
+  - PGW
 ---
 # Steuern
 

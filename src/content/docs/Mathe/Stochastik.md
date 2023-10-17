@@ -1,6 +1,9 @@
 ---
 title: Stochastik
+tags:
+  - Mathe/Stochastik
 ---
+
 # Stochastik
 
 # Laplace-Versuch

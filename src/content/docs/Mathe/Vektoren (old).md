@@ -1,13 +1,16 @@
 ---
 title: Vektoren (old)
+tags:
+  - Mathe/Vektoren
 ---
+
 # Vektoren (old)
 
 Alles was man nur mit einer Zahl beschreiben kann nennt man Skalare. 
 
 Beispiel T: Temperatur ist ein Skalar.
 
-Größen, die man mit mehr als einer Zahl beschreiben muss (Geschwindiggkeiten, Kräfte …), nennt man Vektoren!
+Größen, die man mit mehr als einer Zahl beschreiben muss (Geschwindigkeiten, Kräfte …), nennt man Vektoren!
 
 ## Betrag Eines Vektors
 
@@ -51,7 +54,7 @@ $$
 
 ## Vektor
 
-Translation im Raum, von einem Punkt zum anderen Punkt. Vektoren beschreiben eine Bewegung im Raum. Vektoren sind durch ihre Komponenten eindeutig festgelegt, allerdings gibt es unendliche viele Prepräsentanten.
+Translation im Raum, von einem Punkt zum anderen Punkt. Vektoren beschreiben eine Bewegung im Raum. Vektoren sind durch ihre Komponenten eindeutig festgelegt, allerdings gibt es unendliche viele Repräsentanten.
 
 $$
 \overrightarrow{OP} = 

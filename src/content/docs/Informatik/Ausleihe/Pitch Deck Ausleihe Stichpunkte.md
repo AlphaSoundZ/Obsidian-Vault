@@ -1,5 +1,7 @@
 ---
 title: Pitch Deck Ausleihe Stichpunkte
+tags:
+  - Informatik
 ---
 # Pitch Deck Ausleihe Stichpunkte
 

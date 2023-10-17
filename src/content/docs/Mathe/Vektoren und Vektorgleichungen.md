@@ -1,5 +1,7 @@
 ---
 title: Vektoren und Vektorgleichungen
+tags:
+  - Mathe/Vektoren
 ---
 
 # Vektoren Und Vektorgleichungen

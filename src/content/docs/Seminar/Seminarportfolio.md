@@ -1,6 +1,9 @@
 ---
 title: Seminarportfolio
+tags:
+  - Seminar
 ---
+
 # Seminarportfolio
 
 **von Jan Jacob Holst**

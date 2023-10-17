@@ -1,5 +1,7 @@
 ---
 title: Discussion Malcolm vs Martin Luther King
+tags:
+  - Englisch/Racism
 ---
 # Discussion Malcolm Vs Martin Luther King
 

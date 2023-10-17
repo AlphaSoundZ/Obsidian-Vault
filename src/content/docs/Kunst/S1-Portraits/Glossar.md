@@ -1,8 +1,8 @@
 ---
 title: Glossar
+tags:
+  - Kunst/Portraits
 ---
-
-# Glossar
 
 ## Links
 

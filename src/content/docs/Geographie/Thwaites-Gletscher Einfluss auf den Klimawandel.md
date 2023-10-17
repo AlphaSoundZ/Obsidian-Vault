@@ -1,5 +1,7 @@
 ---
 title: Thwaites-Gletscher Einfluss auf den Klimawandel
+tags:
+  - Geographie
 ---
 # Thwaites-Gletscher: Einfluss Auf Den Klimawandel
 

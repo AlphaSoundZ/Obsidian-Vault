@@ -1,5 +1,7 @@
 ---
 title: Europäische Union
+tags:
+  - PGW
 ---
 ### Zeitliche Einordnung
 

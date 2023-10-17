@@ -1,5 +1,7 @@
 ---
 title: Semesterarbeit
+tags:
+  - Kunst/Architektur
 ---
 # Semesterarbeit
 

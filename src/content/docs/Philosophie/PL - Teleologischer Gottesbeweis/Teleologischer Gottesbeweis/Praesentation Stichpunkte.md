@@ -1,5 +1,7 @@
 ---
-title: Präsentation Stichpunkte e984aebbdf9a4de480e84bd1238a59aa
+title: Präsentation Stichpunkte
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Präsentation Stichpunkte
 

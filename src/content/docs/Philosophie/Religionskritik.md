@@ -1,5 +1,7 @@
 ---
 title: Religionskritik
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Religionskritik
 

@@ -1,6 +1,9 @@
 ---
 title: Tanaland
+tags:
+  - Informatik
 ---
+
 # Tanaland
 
 Tanaland ist eine fiktive Region in Ostafrika. Hier leben Menschen in einer fruchtbaren Region, die von Ackerbau und Gartenwirtschaft leben. 

@@ -1,5 +1,7 @@
 ---
 title: Parteienfinanzierung
+tags:
+  - PGW
 ---
 # Parteienfinanzierung
 

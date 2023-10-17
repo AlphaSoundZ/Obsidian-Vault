@@ -1,5 +1,7 @@
 ---
 title: Solidaritätszuschlag
+tags:
+  - PGW
 ---
 # Solidaritätszuschlag
 

@@ -1,5 +1,7 @@
 ---
 title: Schwingungen (Federpendel, Fadenpendel)
+tags:
+  - Physik
 ---
 # Schwingungen (Federpendel, Fadenpendel)
 

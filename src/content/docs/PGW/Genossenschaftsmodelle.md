@@ -1,5 +1,7 @@
 ---
 title: Genossenschaftsmodelle
+tags:
+  - PGW
 ---
 # Genossenschaftsmodelle
 

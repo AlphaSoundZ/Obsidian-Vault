@@ -1,5 +1,7 @@
 ---
 title: Exponentialfunktionen
+tags:
+  - Mathe
 ---
 # Exponentialfunktionen
 

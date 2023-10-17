@@ -1,5 +1,7 @@
 ---
 title: Bewertungskriterien Präsentation
+tags:
+  - Seminar
 ---
 # Bewertungskriterien Präsentation
 

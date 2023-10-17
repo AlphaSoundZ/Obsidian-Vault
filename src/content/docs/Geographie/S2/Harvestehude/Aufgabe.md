@@ -1,5 +1,7 @@
 ---
 title: Aufgabe
+tags:
+  - Geographie
 ---
 # Aufgabe
 

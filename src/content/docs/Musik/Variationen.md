@@ -1,6 +1,9 @@
 ---
 title: Variationen
+tags:
+  - Musik
 ---
+
 # Variationen
 
 ### Original

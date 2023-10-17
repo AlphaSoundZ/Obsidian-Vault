@@ -1,5 +1,7 @@
 ---
 title: Differentialgleichung
+tags:
+  - Mathe/Analysis
 ---
 # Differentialgleichung
 

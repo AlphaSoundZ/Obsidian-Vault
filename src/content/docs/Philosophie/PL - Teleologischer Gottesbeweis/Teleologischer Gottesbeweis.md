@@ -1,5 +1,7 @@
 ---
 title: Teleologischer Gottesbeweis
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Teleologischer Gottesbeweis
 

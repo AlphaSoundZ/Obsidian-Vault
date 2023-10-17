@@ -1,5 +1,7 @@
 ---
 title: Brüssel Reisebericht
+tags:
+  - Seminar
 ---
 # Studienfahrt Brüssel 2023
 

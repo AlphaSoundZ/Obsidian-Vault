@@ -1,5 +1,7 @@
 ---
 title: Konservativ-korporatistischer Wohlfahrtsstaat Fran
+tags:
+  - PGW
 ---
 # Konservativ-korporatistischer Wohlfahrtsstaat: Frankreich 🥖
 

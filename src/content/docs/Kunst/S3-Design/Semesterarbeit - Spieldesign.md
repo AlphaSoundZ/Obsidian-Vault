@@ -1,8 +1,9 @@
 ---
 title: Semesterarbeit - Spieldesign
 tags:
-  - Kunst
+  - Kunst/Design
 ---
+
 ### Problemanalyse bzw. Themenfindung
 
 Wenn darüber nachdenkt, gibt es ziemlich wenige Spiele, die sich mit dem Thema Klimawandel beschäftigen. Jedoch ein Spiel, das sich mit dem Klimawandel besonders detailliert beschäftigt ist Daybreak[^1]. Mit dieser Inspiration versuche ich eine Version zu entwickeln, die weniger kompliziert ist, aber dennoch den Klimawandel möglichst akkurat darstellt.

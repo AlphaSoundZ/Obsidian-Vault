@@ -1,7 +1,8 @@
 ---
 title: Stylistic Devices in an Article
+tags:
+  - Englisch/UK
 ---
-# Stylistic Devices in an Article
 
 ## No One Knows What Britain Is Anymore
 

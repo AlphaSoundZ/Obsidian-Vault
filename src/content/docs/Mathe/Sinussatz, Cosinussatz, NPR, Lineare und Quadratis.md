@@ -1,6 +1,9 @@
 ---
-title: Sinussatz, Cosinussatz, NPR, Lineare und Quadratis
+title: Sinussatz, Cosinussatz, NPR, Lineare und Quadratische Funktionen
+tags:
+  - Mathe
 ---
+
 # Sinussatz, Cosinussatz, NPR, Lineare Und Quadratische Funktionen
 
 Sinussatz:
@@ -19,7 +22,7 @@ Cosinussatz:
 
 *a*² − *b*² − *c*²=  − 2*bc* * *cos*(*α*) |  ÷  − 2*bc*
 
-$\frac{a² - b² - c²}{- 2bc} = \ cos(\alpha)\ |\ arccos()$→ minus cosinus
+$\frac{a² - b² - c²}{- 2bc} = \ cos(\alpha)\ |\ arccos()$ → minus Cosinus
 
 $\alpha = co{s^{}}^{- 1}(\frac{a² - b² - c²}{- 2bc})$
 

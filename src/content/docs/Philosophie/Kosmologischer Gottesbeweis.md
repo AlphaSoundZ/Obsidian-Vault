@@ -1,5 +1,7 @@
 ---
 title: Kosmologischer Gottesbeweis
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Kosmologischer Gottesbeweis
 ## Leitfrage

@@ -1,5 +1,7 @@
 ---
 title: Physik Huygenssches Prinzip
+tags:
+  - Physik
 ---
 # Physik Huygenssches Prinzip
 

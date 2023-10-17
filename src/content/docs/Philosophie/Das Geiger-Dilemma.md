@@ -1,5 +1,7 @@
 ---
 title: Das Geiger-Dilemma
+tags:
+  - Philosophie/Ethik
 ---
 # Das Geiger-Dilemma
 

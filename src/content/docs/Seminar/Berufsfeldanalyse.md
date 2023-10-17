@@ -1,5 +1,7 @@
 ---
 title: Berufsfeldanalyse
+tags:
+  - Seminar
 ---
 # Berufsfeldanalyse
 

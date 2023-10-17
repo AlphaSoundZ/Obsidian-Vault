@@ -1,5 +1,7 @@
 ---
 title: Bewertungsbogen zur Präsentationsleistung
+tags:
+  - Seminar
 ---
 # Bewertungsbogen Zur Präsentationsleistung
 

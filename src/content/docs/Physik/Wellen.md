@@ -1,5 +1,7 @@
 ---
 title: Wellen
+tags:
+  - Physik
 ---
 # Wellen
 

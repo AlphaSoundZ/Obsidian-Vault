@@ -1,5 +1,7 @@
 ---
 title: Regensburg
+tags:
+  - Geographie
 ---
 # Regensburg
 

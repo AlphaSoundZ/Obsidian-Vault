@@ -1,5 +1,7 @@
 ---
 title: Bauhaus
+tags:
+  - Kunst/Architektur
 ---
 # Bauhaus
 

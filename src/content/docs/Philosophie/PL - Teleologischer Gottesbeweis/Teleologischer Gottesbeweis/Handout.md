@@ -1,5 +1,7 @@
 ---
 title: Handout
+tags:
+  - Philosophie/Religionsphilosophie
 ---
 # Handout
 

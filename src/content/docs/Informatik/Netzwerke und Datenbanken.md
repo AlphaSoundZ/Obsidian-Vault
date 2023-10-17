@@ -1,5 +1,7 @@
 ---
 title: Netzwerke und Datenbanken
+tags:
+  - Informatik
 ---
 # Netzwerke Und Datenbanken
 

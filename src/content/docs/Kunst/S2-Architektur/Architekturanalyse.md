@@ -1,5 +1,8 @@
 ---
 title: Architekturanalyse
+tags:
+  - Kunst/Architektur
+  - Kunst/HowTo
 ---
 # Architekturanalyse
 

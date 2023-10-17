@@ -1,5 +1,7 @@
 ---
 title: Digitales Kunstheft
+tags:
+  - Kunst/Architektur
 ---
 
 # Digitales Kunstheft

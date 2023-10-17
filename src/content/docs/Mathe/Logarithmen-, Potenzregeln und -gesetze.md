@@ -1,5 +1,7 @@
 ---
 title: Logarithmen-, Potenzregeln und -gesetze
+tags:
+  - Mathe
 ---
 # Logarithmen-, Potenzregeln und -gesetze
 

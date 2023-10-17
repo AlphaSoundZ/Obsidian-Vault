@@ -1,5 +1,7 @@
 ---
 title: Philosophie Adolf Deichmann Prozess
+tags:
+  - Philosophie/Ethik
 ---
 # Philosophie: Adolf Deichmann Prozess
 

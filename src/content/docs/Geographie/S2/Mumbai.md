@@ -1,5 +1,7 @@
 ---
 title: Mumbai
+tags:
+  - Geographie
 ---
 # Lokalisierung
 

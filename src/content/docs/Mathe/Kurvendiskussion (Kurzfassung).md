@@ -1,6 +1,9 @@
 ---
 title: Kurvendiskussion (Kurzfassung)
+tags:
+  - Mathe/Analysis
 ---
+
 # Kurvendiskussion (Kurzfassung)
 
 Gegeben ist eine Funktion f(x):

@@ -1,11 +1,14 @@
 ---
 title: Slavery
+tags:
+  - Englisch
 ---
+
 # Slavery
 
-- racist dieology → justification
+- racist ideology → justification
 - treatment as property / dehumanized
-- (trans-)atlantic slave trade
+- (trans-) Atlantic slave trade
 - colonies, legacy of slavery
 - crops: sugar cane, cotton, tobacco (labour intesive)
 - indentured servants

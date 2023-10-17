@@ -1,5 +1,7 @@
 ---
 title: Physik Experiment - Protokoll
+tags:
+  - Physik
 ---
 # Physik Experiment - Protokoll
 

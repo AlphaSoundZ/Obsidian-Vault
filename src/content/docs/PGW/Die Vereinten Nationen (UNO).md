@@ -1,5 +1,7 @@
 ---
 title: Die Vereinten Nationen (UNO)
+tags:
+  - PGW
 ---
 # Die Vereinten Nationen (UNO)
 

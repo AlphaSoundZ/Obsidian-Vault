@@ -1,5 +1,7 @@
 ---
 title: Pitch Deck Ausleihe
+tags:
+  - Informatik
 ---
 # Pitch Deck Ausleihe
 

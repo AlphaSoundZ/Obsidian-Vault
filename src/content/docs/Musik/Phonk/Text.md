@@ -1,6 +1,9 @@
 ---
 title: Text
+tags:
+  - Musik
 ---
+
 # Text
 
 ## Drum Composer Instrumente

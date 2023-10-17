@@ -1,5 +1,7 @@
 ---
 title: Maßnahmen von Hamburg für mehr Chancengerechtigkeit
+tags:
+  - PGW
 ---
 # Maßnahmen Von Hamburg Für Mehr Chancengerechtigkeit
 

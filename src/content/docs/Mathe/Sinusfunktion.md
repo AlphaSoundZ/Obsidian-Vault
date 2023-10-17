@@ -1,6 +1,9 @@
 ---
 title: Mathe_ Sinusfunktion
+tags:
+  - Mathe
 ---
+
 # Sinusfunktion
 
 f(x) = a*sin(bx+c)+d

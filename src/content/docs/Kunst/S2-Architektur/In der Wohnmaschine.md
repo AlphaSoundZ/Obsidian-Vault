@@ -1,5 +1,7 @@
 ---
 title: In der Wohnmaschine
+tags:
+  - Kunst/Architektur
 ---
 # In Der Wohnmaschine
 

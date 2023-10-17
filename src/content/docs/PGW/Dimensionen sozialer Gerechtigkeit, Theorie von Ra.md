@@ -1,5 +1,7 @@
 ---
 title: Dimensionen sozialer Gerechtigkeit, Theorie von Ra
+tags:
+  - PGW
 ---
 # Dimensionen Sozialer Gerechtigkeit, Theorie Von Rawls, Egalitarismus Und Non-Egalitarismus
 

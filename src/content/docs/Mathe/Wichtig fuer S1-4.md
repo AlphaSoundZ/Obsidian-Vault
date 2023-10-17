@@ -1,6 +1,9 @@
 ---
 title: Wichtig für S1-4
+tags:
+  - Mathe
 ---
+
 # Wichtig Für S1-4
 
 - Gleichungen lösen
@@ -22,6 +25,6 @@ title: Wichtig für S1-4
     - Monotonie (s.m.w, s.m.f)
     - Anstiegsfunktionen / Ableitungsfunktionen / f’(x)
     - Extremstelle (lokales Maximum / Minimum)
-    - Tangentenanstieg: Sekante → (lim h→0) → Tangente
+    - Tangentenanstieg: Sekante → (limes h→0) → Tangente
     - Ableitungsregeln / Differentiationsregeln (f(x) → ableiten → f’(x))
         - Struktur der Funktionsgleichung erkennen

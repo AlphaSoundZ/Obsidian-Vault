@@ -1,6 +1,9 @@
 ---
 title: Zum ewigen Frieden
+tags:
+  - PGW
 ---
+
 # Zum Ewigen Frieden
 
 - Immanuel Kant
@@ -9,9 +12,9 @@ Arbeiten Sie die Bedingungen und Schritte heraus, die Kant für die Befriedung d
 
 ## Erster Definitivartikel
 
-- Die bürgerliche Verfassung in jedem Staate solll republikanisch sein.
+- Die bürgerliche Verfassung in jedem Staate soll republikanisch sein.
 
-Ein republikanischer Staat beginnt einen Krieg unwahrscheinlicher als ein Staat mit einem Staatseigentümer, da eine Wahl vollzogen werden muss, ob es einen Krieg geben solll und die Bürger dem sehr wahrscheinlich nicht zustimmen werden, da sie die Kosten des Krieges aus ihrere eigenen Habe bezahlen.
+Ein republikanischer Staat beginnt einen Krieg unwahrscheinlicher als ein Staat mit einem Staatseigentümer, da eine Wahl vollzogen werden muss, ob es einen Krieg geben soll und die Bürger dem sehr wahrscheinlich nicht zustimmen werden, da sie die Kosten des Krieges aus ihrer eigenen Habe bezahlen.
 
 ## Zweiter Definitivartikel
 

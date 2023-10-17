@@ -1,6 +1,9 @@
 ---
 title: Religionsphilosophie
+tags:
+  - Philosophie/Religionsphilosophie
 ---
+
 # Religionsphilosophie
 
 Welche Gründe sind ausreichend um als Begründung für Gott gelten zu können?

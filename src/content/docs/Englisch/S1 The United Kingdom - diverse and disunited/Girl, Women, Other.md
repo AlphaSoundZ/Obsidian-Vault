@@ -1,6 +1,9 @@
 ---
 title: Girl, Women, Other
+tags:
+  - Englisch
 ---
+
 # Girl, Women, Other
 
 | Quote                                                                                                                                                                                                                                                       | explanation / function                                                             |

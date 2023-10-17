@@ -1,6 +1,9 @@
 ---
 title: Scottish independence
+tags:
+  - Englisch/UK
 ---
+
 # Scottish Independence
 
 ## Nicola Sturgeon

@@ -1,6 +1,9 @@
 ---
 title: Treibhauseffekt
+tags:
+  - Geographie
 ---
+
 # Treibhauseffekt
 
 ## Natürlicher Treibhauseffekt

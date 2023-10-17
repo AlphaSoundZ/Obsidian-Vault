@@ -1,5 +1,7 @@
 ---
 title: Semesterarbeit Plakat
+tags:
+  - Kunst/Architektur
 ---
 # Semesterarbeit: Plakat
 

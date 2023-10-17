@@ -1,5 +1,7 @@
 ---
 title: Bericht zur sozialen Ungerechtigkeit
+tags:
+  - PGW
 ---
 # Bericht Zur Sozialen Ungerechtigkeit
 

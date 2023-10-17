@@ -1,5 +1,7 @@
 ---
 title: Studienort Berlin
+tags:
+  - Seminar
 ---
 # Studienort: Berlin
 

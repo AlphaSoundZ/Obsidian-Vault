@@ -1,5 +1,7 @@
 ---
 title: Infiniteseminalrechnung
+tags:
+  - Mathe
 ---
 # Infiniteseminalrechnung
 

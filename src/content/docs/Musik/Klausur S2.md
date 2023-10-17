@@ -1,11 +1,14 @@
 ---
 title: Klausur S2
+tags:
+  - Musik
 ---
+
 # Klausur S2
 
 # Inhalte
 
-- Spezifika poularmusikalischer Notation (Slash-Notation, Faulenzer, Layout etc.)
+- Spezifika popular-musikalischer Notation (Slash-Notation, Faulenzer, Layout etc.)
 - Allgemeine und musikalische Merkmale der Genres
     - Reggae
     - Rock
