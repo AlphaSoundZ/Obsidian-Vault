@@ -1,0 +1,100 @@
+---
+title: PL - Gesicherte Erkenntnis und Induktion
+tags:
+  - Philosophie/Erkenntnistheorie
+---
+
+### „Wir Wissen nicht, sondern wir raten” - Karl R. Popper
+
+## Inhalt
+
+### Aufgabe
+
+Diskutieren Sie, inwiefern die Methode der Induktion zu gesicherter Erkenntnis führen kann; nehmen Sie dabei auch Bezug auf das Induktionsproblem.
+
+### Leitfrage
+
+Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen?
+
+### Aufbau
+
+- Was ist Induktion?
+	- Definition
+	- Begriffe klären
+	- Induktionslogik
+
+## Was ist Induktion
+
+Bei der Induktion handelt es sich um eine Schlussfolgerung, bei der aus beobachteten Phänomenen auf eine allgemeinere Erkenntnis folgt. Es handelt sich dabei um einen allgemeinen Begriff oder einem Naturgesetz. Der Gegensatz zur Induktion ist die Deduktion die Anwendung einer Schlussfolgerung oder Voraussetzung auf einen spezifischen Fall.
+
+Es wird von einer Teilklasse auf die Gesamtklasse geschlossen, oder vom Besonderen aufs Allgemeine.
+
+In der Form der Syllogistik:
+
+Prämisse 1: A hat die Eigenschaft F.
+Prämisse 2: A ist ein B.
+
+Konklusion: Alle Bs haben die Eigenschaft F.
+
+Ein typisches Beispiel für einen Induktionsschluss:
+
+**P1**. 100% aller n bisher beobachteten Schafe (S1, S2, S3, ...Sn) waren weiß.  
+**K1**. **Also**: 100% aller Schafe sind (ungefähr; wahrscheinlich) weiß.
+
+Dieser Schluss ist offenbar **nicht-zwingend**. Denn auch eine noch so hohe Anzahl n an bisher beobachteten weißen Schafen macht es nicht _zwingend_, dass alle Schafe weiß sind. In der Tat könnte bereits das n+1.te Schaf schwarz sein!
+
+Ein typisches Beispiel für einen induktiven Schluss wäre die Beobachtung, dass die Sonne jeden Tag aufgeht, woraus man schließen könnte, dass sie auch morgen aufgehen wird. Diese Art von Schlussfolgerung ist jedoch nicht absolut sicher, da sie auf der Annahme beruht, dass sich zukünftige Ereignisse so verhalten werden wie vergangene Ereignisse [de.wikipedia.org](https://de.wikipedia.org/wiki/Induktionsproblem).
+
+### Induktive Logik
+
+### Induktive Wahrscheinlichkeit
+
+### Formen des Induktionsschlusses
+
+#### Induktive Verallgemeinerung
+
+#### Induktiver Teilschluss
+
+#### Induktionsschluss als statistisches Gesetz
+
+Relative Häufigkeit führt zu Erwartungswert / Vorhersage
+
+## Abgrenzung zum Empirismus
+
+„Für Empiristen ist Induktion stets nicht-konklusiv.”
+
+Der Empirismus vertritt die Vorstellung, dass alle menschlichen Erkenntnisse direkt oder indirekt aus internen oder externen Sinneserfahrungen stammen[^1].
+
+## Rationalisten
+
+Sie brauchen keine Induktion, da sie die Naturgesetze als apriorische Urteile betrachten. Das bedeutet, dass die Naturgesetze auch ohne ihre Wahrnehmung existieren.
+
+## Gesicherte Erkenntnis
+
+## Induktionsproblem
+
+Das Problem der Begründung von PUA ist der Kern des Induktionsproblems.
+
+„Es ist [..] unmöglich, dass irgendein Erfahrungsbeweis die Ähnlichkeit der Vergangenheit mit der Zukunft erweisen könnte. Mag der Gang der Dinge bislang auch noch so regelmäßig gewesen sein, so kann das allein nicht beweisen, dass es auch in Zukunft so bleiben werde."
+
+- David Hume[1]
+
+Woher weiß ich, dass das, was ich im einem Einzelfall beobachtet habe, in allen Fällen gilt?
+
+## Was ist dann die Lösung?
+
+Für Home gibt es genau zwei sichere Quellen der Erkenntnis. Zum einen die sinnliche Erfahrung an sich, und zum anderen das Zusammensetzen verschiedener Erfahrungen (John Locke.
+
+## Begriffe
+
+**Falsifikation**: Widerlegung einer wissenschaftlichen Aussage durch ein Gegenbeispiel
+**A Priori**: Wissen, das vor der Erfahrung oder der Beobachtung erworben wird. Es wird als unabhängig von der Erfahrung angesehen und wird als etwas betrachtet, das aus der bloßen Vernunft oder aus grundlegenden Prinzipien der Logik und Moral hervorgeht.
+**A Posteriori**: Wissen, das auf der Erfahrung oder Beobachtung basiert. Es wird als abhängig von der Erfahrung angesehen und wird als etwas betrachtet, das durch Beobachtung und Erfahrung erworben wird.
+
+## Anhänge
+
+Siehe Zotero
+
+„Ich kann nun allerdings keinen Vorteil darin erblicken, wenn man die systematischen Versuche, das Verfahren der wissenschaftlichen Hypothesenbildung zu rationalisieren, mit der Behauptung abtut, daß hier ein rationales Verfahren nicht vorliegt. […] Ich gestatte mir einen etwas drastischen Vergleich: die Obstverkäufer auf der Straße haben die Angewohnheit, die guten Äpfel auf die Vorderseite ihres Karrens, also auf die dem Publikum zugewandte Seite zu legen, während die schlechten Äpfel hinten liegen; beim Einfüllen des Obstes in die Tüten pflegen sie dann die Äpfel immer von der hinteren Seite des Haufens zu nehmen. Stellt man einen Obstverkäufer deshalb zur Rede, so wird er energisch bestreiten, daß er ein solches Prinzip bei seinem Obstverkauf benutzt; er wird die Wahl der ausgelieferten Äpfel als unabhängig von solchen Überlegungen bestimmt bezeichnen. Gerade so wenig wie ich diesem Obstverkäufer Glauben schenke, kann ich denjenigen glauben, die behaupten, ohne das Induktionsprinzip ihre Zukunftsaussagen zu bilden. Ich muß nämlich immer wieder konstatieren, daß sie denjenigen Aussagen für die Zukunft glauben, die mit dem Induktionsprinzip in Übereinstimmung sind; daß sie z.B. den Abgang eines Eisenbahnzuges zu derjenigen Zeit erwarten, die das Kursbuch angibt, daß sie auf einen Klingelknopf drücken, wen sie klingeln wollen, usw. Wenn man mir dann antwortet ‚wir wissen nicht, sondern wir raten’, so kann ich nur konstatieren, daß dieses Raten sich in Bahnen bewegt, die mit dem Induktionsprinzip auffallend gut übereinstimmen.“ (Reichenbach 1935, S.281-282)
+
+[^1]: https://www.philomag.de/lexikon/empirismus

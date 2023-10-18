@@ -73,7 +73,7 @@ Prämisse 2: B ist ein A.
 
 Konklusion: B hat die Eigenschaft F.
 
-### Weltaunschauungen
+### Weltauschauungen
 
 - Atheist: glaubt nicht an die Existenz von Göttern oder einer höheren Macht.
 - Theist: glaubt an die Existenz eines oder mehrerer Götter oder einer höheren Macht

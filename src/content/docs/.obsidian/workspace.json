@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "651b3387fa5a8efb",
+        "id": "473b4f14e3d39d99",
         "type": "tabs",
         "children": [
           {
-            "id": "66ac8a63d5b3b048",
+            "id": "b87c24f1e1b1c2f1",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -46,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Mathe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
               }
             }
           },
@@ -169,11 +171,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "179a1f74e066dc47",
@@ -186,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,9 +257,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "66ac8a63d5b3b048",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
+    "Philosophie/Induktion.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
     "Task List.md",
+    "Mathe/Korrelationen.md",
+    "Daily Notes/26.09.23.md",
+    "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis.md",
+    "Daily Notes/08.12.23.md",
+    "Unbenannt.md",
+    "Philosophie/PL - Induktion",
     "Rules.md",
     "Productivity Plan and Strategies.md",
     "overview.md",
@@ -276,13 +287,6 @@
     "Physik/Physik Huygenssches Prinzip.md",
     "Physik/Physik Experiment - Protokoll.md",
     "Physik/Magnetfelder.md",
-    "Physik/Kreisbewegung.md",
-    "Physik/Elektrostatik.md",
-    "Physik/Aufgabe Doppelspalt.md",
-    "Physik/Elektrische Felder.md",
-    "Philosophie/Was ist Religion.md",
-    "Philosophie/Religionsphilosophie.md",
-    "Philosophie/Religionskritik.md",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Informatik/Netzwerk/image1.png",
@@ -301,7 +305,6 @@
     "Physik/Kreisbewegung.mmd",
     "Physik/kreisbewegung.png",
     "Kunst/S2-Architektur/Semesterarbeit/Untitled1.png",
-    "Kunst/S2-Architektur/_Multilayer_City[1].pdf",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
