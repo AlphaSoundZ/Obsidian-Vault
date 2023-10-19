@@ -14,14 +14,28 @@ Diskutieren Sie, inwiefern die Methode der Induktion zu gesicherter Erkenntnis f
 
 ### Leitfrage
 
-Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen?
+Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie sollte die Wissenschaft und man damit umgehen?
 
 ### Aufbau
 
-- Was ist Induktion?
-	- Definition
+- Logische Schlüsse
+	- [[Deduktion]] und [[Induktion]] (+ Abduktion)
+		- Definition
+		- Struktur (Syllogismus)
+		- Unterschiede
+		- Beispiel
 	- Begriffe klären
-	- Induktionslogik
+		- A Priori
+		- A Posteriori
+- Induktive Methoden von John Stuart Mill
+	- Axiom: Gang der Natur ist absolut gleichförmig
+	- 5 Methoden
+- Was ist das Induktionsproblem (Hume)?
+- Wann ist Erkenntnis sicher?
+- Welche Lösungsansätze gibt es?
+- Ausblick
+	- Wie soll man mit Induktion in der Wissenschaft und dem Alltag umgehen?
+	- Beantwortung der Leitfrage
 
 ## Was ist Induktion
 
@@ -45,10 +59,6 @@ Dieser Schluss ist offenbar **nicht-zwingend**. Denn auch eine noch so hohe Anz
 
 Ein typisches Beispiel für einen induktiven Schluss wäre die Beobachtung, dass die Sonne jeden Tag aufgeht, woraus man schließen könnte, dass sie auch morgen aufgehen wird. Diese Art von Schlussfolgerung ist jedoch nicht absolut sicher, da sie auf der Annahme beruht, dass sich zukünftige Ereignisse so verhalten werden wie vergangene Ereignisse [de.wikipedia.org](https://de.wikipedia.org/wiki/Induktionsproblem).
 
-### Induktive Logik
-
-### Induktive Wahrscheinlichkeit
-
 ### Formen des Induktionsschlusses
 
 #### Induktive Verallgemeinerung
@@ -59,17 +69,13 @@ Ein typisches Beispiel für einen induktiven Schluss wäre die Beobachtung, dass
 
 Relative Häufigkeit führt zu Erwartungswert / Vorhersage
 
-## Abgrenzung zum Empirismus
-
-„Für Empiristen ist Induktion stets nicht-konklusiv.”
-
-Der Empirismus vertritt die Vorstellung, dass alle menschlichen Erkenntnisse direkt oder indirekt aus internen oder externen Sinneserfahrungen stammen[^1].
-
 ## Rationalisten
 
 Sie brauchen keine Induktion, da sie die Naturgesetze als apriorische Urteile betrachten. Das bedeutet, dass die Naturgesetze auch ohne ihre Wahrnehmung existieren.
 
 ## Gesicherte Erkenntnis
+
+## PUA -
 
 ## Induktionsproblem
 

@@ -14,11 +14,11 @@ kanban-plugin: basic
 ## Done
 
 **Fertiggestellt**
-- [x] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 
 
 ## Archiv
 
+- [ ] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 - [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
 - [ ] Mediation Task @[[06.10.23]] #Englisch
 - [ ] Woyzeck 5. Szene Dramenanalyse @[[04.10.23]] #Deutsch
