@@ -19,7 +19,7 @@ Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie s
 ### Aufbau
 
 - Logische Schlüsse
-	- [[Deduktion]] und [[Induktion]] (+ Abduktion)
+	- [[Deduktion]] und [[Induktion]]
 		- Definition
 		- Struktur (Syllogismus)
 		- Unterschiede

@@ -22,3 +22,5 @@ Es gibt verschiedene Arten von induktiven Schlüssen, die sich in ihrem Aufbau u
 4. abduktiv: $G$ ist die beste Erklärung für $F$. Also ist $G$ wohl die Erklärung für $F$.
 
 ## Anhänge
+
+https://www.philoclopedia.de/was-kann-ich-wissen/erkenntnistheorie/induktionsproblem/
