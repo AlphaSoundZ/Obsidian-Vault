@@ -22,15 +22,18 @@ Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie s
 	- [[Deduktion]] und [[Induktion]]
 		- Definition
 		- Struktur (Syllogismus)
-		- Unterschiede
+		- Kontrahieren (wahrheitskonservierend, gehaltserweiternd)
 		- Beispiel
 	- Begriffe klären
 		- A Priori
 		- A Posteriori
+- Was ist das [[Induktionsproblem]] (Hume)?
+	- Absolute Gleichförmigkeit der Natur
+	- Zirkelschluss
+		- Warum ist dieser problematisch, oder vielleicht auch nicht?
 - Induktive Methoden von John Stuart Mill
 	- Axiom: Gang der Natur ist absolut gleichförmig
 	- 5 Methoden
-- Was ist das Induktionsproblem (Hume)?
 - Wann ist Erkenntnis sicher?
 - Welche Lösungsansätze gibt es?
 - Ausblick
@@ -56,8 +59,6 @@ Ein typisches Beispiel für einen Induktionsschluss:
 **K1**. **Also**: 100% aller Schafe sind (ungefähr; wahrscheinlich) weiß.
 
 Dieser Schluss ist offenbar **nicht-zwingend**. Denn auch eine noch so hohe Anzahl n an bisher beobachteten weißen Schafen macht es nicht _zwingend_, dass alle Schafe weiß sind. In der Tat könnte bereits das n+1.te Schaf schwarz sein!
-
-Ein typisches Beispiel für einen induktiven Schluss wäre die Beobachtung, dass die Sonne jeden Tag aufgeht, woraus man schließen könnte, dass sie auch morgen aufgehen wird. Diese Art von Schlussfolgerung ist jedoch nicht absolut sicher, da sie auf der Annahme beruht, dass sich zukünftige Ereignisse so verhalten werden wie vergangene Ereignisse [de.wikipedia.org](https://de.wikipedia.org/wiki/Induktionsproblem).
 
 ### Formen des Induktionsschlusses
 

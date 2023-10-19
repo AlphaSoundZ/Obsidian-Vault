@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
+      "basename": "Induktionsproblem",
+      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
+    },
+    {
+      "basename": "PL - Gesicherte Erkenntnis und Induktion",
+      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+    },
+    {
+      "basename": "Religionsphilosophie",
+      "path": "Philosophie/Religionsphilosophie.md"
     },
     {
       "basename": "Deduktion",
       "path": "Philosophie/PL - Induktion/Deduktion.md"
     },
     {
-      "basename": "PL - Gesicherte Erkenntnis und Induktion",
-      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+      "basename": "Induktion",
+      "path": "Philosophie/PL - Induktion/Induktion.md"
     },
     {
       "basename": "Task List",
@@ -125,10 +133,6 @@
       "path": "Philosophie/Was ist Religion.md"
     },
     {
-      "basename": "Religionsphilosophie",
-      "path": "Philosophie/Religionsphilosophie.md"
-    },
-    {
       "basename": "Religionskritik",
       "path": "Philosophie/Religionskritik.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Frieden und Gewalt",
       "path": "PGW/Frieden und Gewalt.md"
-    },
-    {
-      "basename": "Facetten der modernen Sozialstruktur",
-      "path": "PGW/Facetten der modernen Sozialstruktur.md"
     }
   ],
   "omittedPaths": [],
