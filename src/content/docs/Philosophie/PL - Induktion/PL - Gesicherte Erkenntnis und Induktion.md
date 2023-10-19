@@ -18,7 +18,7 @@ Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie s
 
 ### Aufbau
 
-- Logische Schlüsse
+- Logische Schlüsse _(3 min)_
 	- [[Deduktion]] und [[Induktion]]
 		- Definition
 		- Struktur (Syllogismus)
@@ -27,15 +27,15 @@ Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie s
 	- Begriffe klären
 		- A Priori
 		- A Posteriori
-- Was ist das [[Induktionsproblem]] (Hume)?
+- Was ist das [[Induktionsproblem]]? _(2 min)_
 	- Absolute Gleichförmigkeit der Natur
 	- Zirkelschluss
 		- Warum ist dieser problematisch, oder vielleicht auch nicht?
+	- Die zwei Lösungswege[^2]
+		- Induktion ohne Regeln
 - Induktive Methoden von John Stuart Mill
 	- Axiom: Gang der Natur ist absolut gleichförmig
 	- 5 Methoden
-- Wann ist Erkenntnis sicher?
-- Welche Lösungsansätze gibt es?
 - Ausblick
 	- Wie soll man mit Induktion in der Wissenschaft und dem Alltag umgehen?
 	- Beantwortung der Leitfrage
@@ -105,3 +105,4 @@ Siehe Zotero
 „Ich kann nun allerdings keinen Vorteil darin erblicken, wenn man die systematischen Versuche, das Verfahren der wissenschaftlichen Hypothesenbildung zu rationalisieren, mit der Behauptung abtut, daß hier ein rationales Verfahren nicht vorliegt. […] Ich gestatte mir einen etwas drastischen Vergleich: die Obstverkäufer auf der Straße haben die Angewohnheit, die guten Äpfel auf die Vorderseite ihres Karrens, also auf die dem Publikum zugewandte Seite zu legen, während die schlechten Äpfel hinten liegen; beim Einfüllen des Obstes in die Tüten pflegen sie dann die Äpfel immer von der hinteren Seite des Haufens zu nehmen. Stellt man einen Obstverkäufer deshalb zur Rede, so wird er energisch bestreiten, daß er ein solches Prinzip bei seinem Obstverkauf benutzt; er wird die Wahl der ausgelieferten Äpfel als unabhängig von solchen Überlegungen bestimmt bezeichnen. Gerade so wenig wie ich diesem Obstverkäufer Glauben schenke, kann ich denjenigen glauben, die behaupten, ohne das Induktionsprinzip ihre Zukunftsaussagen zu bilden. Ich muß nämlich immer wieder konstatieren, daß sie denjenigen Aussagen für die Zukunft glauben, die mit dem Induktionsprinzip in Übereinstimmung sind; daß sie z.B. den Abgang eines Eisenbahnzuges zu derjenigen Zeit erwarten, die das Kursbuch angibt, daß sie auf einen Klingelknopf drücken, wen sie klingeln wollen, usw. Wenn man mir dann antwortet ‚wir wissen nicht, sondern wir raten’, so kann ich nur konstatieren, daß dieses Raten sich in Bahnen bewegt, die mit dem Induktionsprinzip auffallend gut übereinstimmen.“ (Reichenbach 1935, S.281-282)
 
 [^1]: https://www.philomag.de/lexikon/empirismus
+[^2]: https://plato.stanford.edu/entries/induction-problem/

@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10828a20e87bba3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PL - Induktion/Deduktion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3637b64d0ce05dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PL - Induktion/Induktion.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
               }
             }
           },
@@ -198,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
               }
             }
           }
@@ -216,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -286,11 +260,11 @@
   },
   "active": "719e93595fafd30b",
   "lastOpenFiles": [
+    "Philosophie/PL - Induktion/Induktion.md",
     "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
     "Philosophie/PL - Induktion/Induktionsproblem.md",
-    "Philosophie/Religionsphilosophie.md",
     "Philosophie/PL - Induktion/Deduktion.md",
-    "Philosophie/PL - Induktion/Induktion.md",
+    "Philosophie/Religionsphilosophie.md",
     "Task List.md",
     "Daily Notes/05.10.23.md",
     "Philosophie/Induktion.md",
