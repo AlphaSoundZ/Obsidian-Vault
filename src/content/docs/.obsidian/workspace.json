@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "0d07f89ed5bf959c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/PL - Induktion/Induktion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "04d7c246d01e35b7",
             "type": "leaf",
             "state": {
@@ -45,9 +58,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0cced8a40cb6724",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "81c1e2ce705c941b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch Linux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "file": "Arch Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "file": "Arch Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md"
+                "file": "Arch Linux.md"
               }
             }
           },
@@ -198,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md"
+                "file": "Arch Linux.md"
               }
             }
           }
@@ -216,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "file": "Arch Linux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,13 +318,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "857f2c07bff67469",
+  "active": "81c1e2ce705c941b",
   "lastOpenFiles": [
-    "Philosophie/PL - Induktion/Zirkelschluss.md",
+    "Arch Linux.md",
+    "Philosophie/PL - Induktion/Unbenannt.md",
     "Philosophie/PL - Induktion/Induktionsproblem.md",
+    "Philosophie/PL - Induktion/Induktion.md",
+    "Philosophie/PL - Induktion/Zirkelschluss.md",
     "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
     "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
-    "Philosophie/PL - Induktion/Induktion.md",
     "Task List.md",
     "Productivity Plan and Strategies.md",
     "overview.md",
@@ -303,7 +339,6 @@
     "Daily Notes/26.09.23.md",
     "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis.md",
     "Daily Notes/08.12.23.md",
-    "Unbenannt.md",
     "Philosophie/PL - Induktion",
     "Seminar/Meine supertolle Zukunft Lebensweg Vorstellungen.md",
     "Figurenkonstellation.md",
@@ -313,7 +348,6 @@
     "Seminar/Entscheidungsverhalten.md",
     "Seminar/Bruessel Reisebericht.md",
     "Seminar/Bewertungskriterien Praesentation.md",
-    "Seminar/Bewertungsbogen zur Praesentationsleistung.md",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Informatik/Netzwerk/image1.png",

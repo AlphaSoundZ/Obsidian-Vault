@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Arch Linux",
+      "path": "Arch Linux.md"
+    },
+    {
       "basename": "Induktionsproblem",
       "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
+    },
+    {
+      "basename": "Induktion",
+      "path": "Philosophie/PL - Induktion/Induktion.md"
     },
     {
       "basename": "Zirkelschluss",
@@ -15,10 +23,6 @@
     {
       "basename": "PL - Gesicherte Erkenntnis und Induktion",
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
-    },
-    {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
     },
     {
       "basename": "Task List",
@@ -195,10 +199,6 @@
     {
       "basename": "Maßnahmen von Hamburg fuer mehr Chancengerechtigke",
       "path": "PGW/Maßnahmen von Hamburg fuer mehr Chancengerechtigke.md"
-    },
-    {
-      "basename": "Konservativ-korporatistischer Wohlfahrtsstaat Fran",
-      "path": "PGW/Konservativ-korporatistischer Wohlfahrtsstaat Fran.md"
     }
   ],
   "omittedPaths": [],

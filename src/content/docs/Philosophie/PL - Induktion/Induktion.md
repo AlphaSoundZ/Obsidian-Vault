@@ -10,7 +10,20 @@ Bei der Induktion handelt es sich um einen logischen Schluss, der sich aus beoba
 
 In einem induktiven Schluss ist garantieren die Prämissen nicht, dass die Konklusion tatsächlich wahr ist (**nicht-wahrheitskonservierend**). Das liegt daran, dass die Konklusion über das hinaus geht, was die Prämissen implizieren. Die Prämissen machen die Konklusion stattdessen wahrscheinlicher bzw. logischer. Anders als bei der [[Deduktion]] ist diese Art von logischen Schluss dementsprechend **gehaltserweiternd**.
 
-Zusammenfassend lässt sich sagen, dass es prinzipiell nicht möglich ist, einen logischen Schluss zu ziehen, der sowohl **wahrheitskonservierend**, als auch **gehaltserweiternd** ist.
+Es lässt sich sagen, dass es prinzipiell nicht möglich ist, einen logischen Schluss zu ziehen, der sowohl **wahrheitskonservierend**, als auch **gehaltserweiternd** ist.
+
+### Form
+
+Alle beobachteten Fälle von A waren B. 
+Die nächste Instanz von A wird B sein.
+
+Es gibt verschiedene Induktionsschlussarten. Meistens spricht man jedoch von der enumerativen Induktion:
+
+**Prämisse 1**: Alle beobachteten Fälle F waren G.
+**Konklusion**: Alle Fälle von F sind G.
+
+**Prämisse 1**: Alle beobachteten Fälle F waren G. 
+**Konklusion**: Die nächste Instanz von F wird G sein.
 
 ## Beispiel
 
@@ -18,14 +31,6 @@ Zusammenfassend lässt sich sagen, dass es prinzipiell nicht möglich ist, einen
 **Konklusion**: Also sind 100% aller Schafe (ungefähr; wahrscheinlich) weiß.
 
 Dieser Schluss ist offenbar **nicht-zwingend**. Denn auch eine noch so hohe Anzahl n an bisher beobachteten weißen Schafen macht es nicht _zwingend_, dass alle Schafe weiß sind. In der Tat könnte bereits das n+1.te Schaf schwarz sein!
-
-## Enumerative Induktion
-
-Es gibt verschiedene Induktionsschlussarten. Philosophen haben versucht starke Schemata herauszuarbeiten, beispielsweise die enumerative Induktion, welche die folgenden beiden Formen hat:
-
-Alle beobachteten Fs waren Gs. Also, alle Fs sind Gs.
-
-Alle beobachteten Fs waren Gs. Also, alle nächsten Fs werden Gs sein.
 
 ## Anhänge
 

@@ -16,6 +16,8 @@ Um die Gültigkeit der Induktion zu gewährleisten, muss der [[Satz vom Widerspr
 
 Wenn sich die Natur nicht zumindest annähernd gleichförmig verhält, ist es sinnlos, auf der Basis vergangener Erfahrungen auf die Zukunft zu schließen. Es wäre unmöglich an Erkenntnis zu gelangen, da ausschließlich auf Basis von Erfahrung wahrheits-konservierende Schlüsse entstehen können.
 
+Es gibt bis jetzt keine Lösung auf das Induktionsproblem, allerdings kann auch nicht bewiesen werden, dass es keine Lösung geben wird.
+
 ## Beispiel
 
 Wenn man Beispielsweise Schießpulver  wahrnimmt, dann denkt man möglicherweise an den Effekt der Explosion. Wir schließen darauf, dass das Schießpulver explodieren wird, aufgrund der Basis von vergänglichen Erfahrungen und der bestehenden Assoziation zwischen Schießpulver und Explosionen.
@@ -27,7 +29,7 @@ Hume argumentiert, dass wir keinen kausalen Schluss (auf dem Verhältnis von Urs
 Da Humes Argument ein Dilemma ist, gibt es im Wesentlichen zwei Möglichkeiten, ihm zu widerstehen:
 
 1. Ein demonstratives Argument für die Existenz der Uniformität der Natur, das den induktiven Schluss rechtfertigt, welches a priori sein muss, um nicht [zirkulär](./Zirkelschluss) zu sein.
-2. 
+2. Zu argumentieren, dass es schließlich ein wahrscheinliches (oder empirisches) Argument gibt, das den induktiven Schluss rechtfertigen kann.
 
 ## Anhänge
 
