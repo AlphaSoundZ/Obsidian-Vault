@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#b67aff",
   "theme": "obsidian",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Tokyo Night",
   "nativeMenus": false,
   "translucency": false,
   "baseFontSize": 16

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f32e70be05ba7644",
+        "id": "ee915041608ab071",
         "type": "tabs",
         "children": [
           {
-            "id": "719e93595fafd30b",
+            "id": "d68b86006b2d235b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "857f2c07bff67469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04d7c246d01e35b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/PL - Induktion/Induktion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md"
               }
             }
           },
@@ -172,7 +198,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md"
               }
             }
           }
@@ -190,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +254,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6135434814060278,
+                  "scale": 0.8601774679732614,
                   "close": true
                 }
               }
@@ -258,14 +284,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "719e93595fafd30b",
+  "active": "857f2c07bff67469",
   "lastOpenFiles": [
-    "Philosophie/PL - Induktion/Induktion.md",
-    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Philosophie/PL - Induktion/Zirkelschluss.md",
     "Philosophie/PL - Induktion/Induktionsproblem.md",
+    "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Philosophie/PL - Induktion/Induktion.md",
+    "Task List.md",
+    "Productivity Plan and Strategies.md",
+    "overview.md",
+    "Rules.md",
     "Philosophie/PL - Induktion/Deduktion.md",
     "Philosophie/Religionsphilosophie.md",
-    "Task List.md",
     "Daily Notes/05.10.23.md",
     "Philosophie/Induktion.md",
     "Mathe/Korrelationen.md",
@@ -274,9 +305,6 @@
     "Daily Notes/08.12.23.md",
     "Unbenannt.md",
     "Philosophie/PL - Induktion",
-    "Rules.md",
-    "Productivity Plan and Strategies.md",
-    "overview.md",
     "Seminar/Meine supertolle Zukunft Lebensweg Vorstellungen.md",
     "Figurenkonstellation.md",
     "Seminar/Seminarportfolio.md",
@@ -286,8 +314,6 @@
     "Seminar/Bruessel Reisebericht.md",
     "Seminar/Bewertungskriterien Praesentation.md",
     "Seminar/Bewertungsbogen zur Praesentationsleistung.md",
-    "Seminar/Berufsfeldanalyse.md",
-    "Seminar/Seminarportfolio/Studienort Berlin.md",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Informatik/Netzwerk/image1.png",
