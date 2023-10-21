@@ -8,80 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d68b86006b2d235b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "857f2c07bff67469",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d07f89ed5bf959c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PL - Induktion/Induktion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04d7c246d01e35b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/PL - Induktion/Induktion.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0cced8a40cb6724",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "81c1e2ce705c941b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Arch Linux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch Linux.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch Linux.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch Linux.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -232,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Arch Linux.md"
+                "file": "Task List.md"
               }
             }
           }
@@ -250,7 +186,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Arch Linux.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -318,7 +254,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "81c1e2ce705c941b",
+  "active": "e0cced8a40cb6724",
   "lastOpenFiles": [
     "Arch Linux.md",
     "Philosophie/PL - Induktion/Unbenannt.md",

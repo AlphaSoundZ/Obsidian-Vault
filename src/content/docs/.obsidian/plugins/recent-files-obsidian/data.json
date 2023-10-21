@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
       "basename": "Arch Linux",
       "path": "Arch Linux.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "PL - Gesicherte Erkenntnis und Induktion",
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "Productivity Plan and Strategies",
