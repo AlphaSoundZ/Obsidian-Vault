@@ -5,16 +5,32 @@
       "path": "Task List.md"
     },
     {
-      "basename": "Arch Linux",
-      "path": "Arch Linux.md"
+      "basename": "PL - Gesicherte Erkenntnis und Induktion",
+      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+    },
+    {
+      "basename": "Induktion",
+      "path": "Philosophie/PL - Induktion/Induktion.md"
+    },
+    {
+      "basename": "Deduktion",
+      "path": "Philosophie/PL - Induktion/Deduktion.md"
+    },
+    {
+      "basename": "Elektrische Felder",
+      "path": "Physik/Elektrische Felder.md"
+    },
+    {
+      "basename": "Studienort Berlin",
+      "path": "Seminar/Seminarportfolio/Studienort Berlin.md"
     },
     {
       "basename": "Induktionsproblem",
       "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
     },
     {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
+      "basename": "Arch Linux",
+      "path": "Arch Linux.md"
     },
     {
       "basename": "Zirkelschluss",
@@ -23,10 +39,6 @@
     {
       "basename": "Satz vom Widerspruch",
       "path": "Philosophie/PL - Induktion/Satz vom Widerspruch.md"
-    },
-    {
-      "basename": "PL - Gesicherte Erkenntnis und Induktion",
-      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
       "basename": "Productivity Plan and Strategies",
@@ -39,10 +51,6 @@
     {
       "basename": "Rules",
       "path": "Rules.md"
-    },
-    {
-      "basename": "Deduktion",
-      "path": "Philosophie/PL - Induktion/Deduktion.md"
     },
     {
       "basename": "Religionsphilosophie",
@@ -101,10 +109,6 @@
       "path": "Seminar/Berufsfeldanalyse.md"
     },
     {
-      "basename": "Studienort Berlin",
-      "path": "Seminar/Seminarportfolio/Studienort Berlin.md"
-    },
-    {
       "basename": "Wellen",
       "path": "Physik/Wellen.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "Aufgabe Doppelspalt",
       "path": "Physik/Aufgabe Doppelspalt.md"
-    },
-    {
-      "basename": "Elektrische Felder",
-      "path": "Physik/Elektrische Felder.md"
     },
     {
       "basename": "Was ist Religion",

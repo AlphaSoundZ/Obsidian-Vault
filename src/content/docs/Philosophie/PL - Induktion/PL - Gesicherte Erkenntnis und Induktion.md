@@ -18,27 +18,44 @@ Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie s
 
 ### Aufbau
 
-- Logische Schlüsse _(3 min)_
-	- [[Deduktion]] und [[Induktion]]
-		- Definition
-		- Struktur (Syllogismus)
-		- Kontrahieren (wahrheitskonservierend, gehaltserweiternd)
-		- Beispiel
-	- Begriffe klären
-		- A Priori
-		- A Posteriori
+Präsentation der Aussage beginnen, dass der Mensch letztlich keine gesicherte Erkenntnis erlangen kann.
+
+- Erkenntnis
+	- „Der Mensch kann keine endgültig gesicherte Erkenntnis erlangen.”
+	- Logische Schlüsse _(3 min)_
+		- [[Deduktion]] und [[Induktion]]
+			- Definition
+			- (Typen)
+			- Struktur (Syllogismus)
+			- Kontrahieren (wahrheitskonservierend, gehaltserweiternd)
+			- Beispiel
+		- Begriffe klären
+			- A Priori
+			- A Posteriori
 - Was ist das [[Induktionsproblem]]? _(2 min)_
 	- Absolute Gleichförmigkeit der Natur
 	- Zirkelschluss
 		- Warum ist dieser problematisch, oder vielleicht auch nicht?
-	- Die zwei Lösungswege[^2]
+- Lösungsversuche
+	- Lösungsversuche sind gescheitert, das Induktionsproblem bleibt ungelöst
+- Die zwei Argumente des Induktionsproblems lösen[^2]
+	- Demonstratives oder apriorisches Argument sei nicht ausschließbar
+		- Man hat auf verschiedene Weise versucht zu zeigen, dass das erste Horn ein demonstratives oder apriorisches Argument für induktive Schlussfolgerungen nicht definitiv ausschließt
+		- Prämisse 3 leugnen → ermöglicht synthetische apriorische Sätze
+		- A priori argumentieren, dass die Schlussfolgerung der Schlussfolgerung wahrscheinlich ist, aber nicht sicher ist.
+	- Dem Zirkelschluss widersprechen
+		- Induktive Rechtfertigung der Induktion
 		- Induktion ohne Regeln
-- Induktive Methoden von John Stuart Mill
-	- Axiom: Gang der Natur ist absolut gleichförmig
-	- 5 Methoden
 - Ausblick
+	- Aussage vom Beginn gehört zum Fallibilismus, welche durch Hume geprägt wurde.
 	- Wie soll man mit Induktion in der Wissenschaft und dem Alltag umgehen?
 	- Beantwortung der Leitfrage
+
+Ganz am Schluss noch:
+Wenn Sie aufmerksam zugehört haben, begründen Sie, warum die folgende Aussage falsch ist:
+„Das Induktionsproblem ist nicht lösbar” 
+
+oder man sagt, dass es wichtig ist sich mit dem Induktionsproblem zu beschäftigen, da man nicht beweisen kann, dass es nicht lösbar ist.
 
 ## Was ist Induktion
 

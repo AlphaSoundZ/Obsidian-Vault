@@ -27,7 +27,7 @@ Es gibt verschiedene Induktionsschlussarten. Meistens spricht man jedoch von der
 
 ## Beispiel
 
-**Prämisse 1**: 100% aller n bisher beobachteten Schafe waren weiß.  
+**Prämisse 1**: 100% aller n bisher beobachteten Schafe waren weiß.
 **Konklusion**: Also sind 100% aller Schafe (ungefähr; wahrscheinlich) weiß.
 
 Dieser Schluss ist offenbar **nicht-zwingend**. Denn auch eine noch so hohe Anzahl n an bisher beobachteten weißen Schafen macht es nicht _zwingend_, dass alle Schafe weiß sind. In der Tat könnte bereits das n+1.te Schaf schwarz sein!

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de95386cd92d6443",
+        "id": "fd61c138292082e6",
         "type": "tabs",
         "children": [
           {
-            "id": "1c15c2b62923e105",
+            "id": "0cfa3b7d57fe0c4d",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 397.5,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -224,7 +225,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4376255105388689,
+                  "scale": 0.9846573987124545,
                   "close": true
                 }
               }
@@ -254,20 +255,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1c15c2b62923e105",
+  "active": "0cfa3b7d57fe0c4d",
   "lastOpenFiles": [
+    "Philosophie/PL - Induktion/Induktion.md",
+    "Philosophie/PL - Induktion/Deduktion.md",
+    "Physik/Elektrische Felder.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Seminar/Seminarportfolio/Studienort Berlin.md",
+    "Task List.md",
+    "Philosophie/PL - Induktion/Induktionsproblem.md",
     "Arch Linux.md",
     "Philosophie/PL - Induktion/Unbenannt.md",
-    "Philosophie/PL - Induktion/Induktionsproblem.md",
-    "Philosophie/PL - Induktion/Induktion.md",
     "Philosophie/PL - Induktion/Zirkelschluss.md",
     "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
-    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
-    "Task List.md",
     "Productivity Plan and Strategies.md",
     "overview.md",
     "Rules.md",
-    "Philosophie/PL - Induktion/Deduktion.md",
     "Philosophie/Religionsphilosophie.md",
     "Daily Notes/05.10.23.md",
     "Philosophie/Induktion.md",
@@ -282,8 +285,6 @@
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/Mini-Pl Bewertung.md",
     "Seminar/Entscheidungsverhalten.md",
-    "Seminar/Bruessel Reisebericht.md",
-    "Seminar/Bewertungskriterien Praesentation.md",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Informatik/Netzwerk/image1.png",
