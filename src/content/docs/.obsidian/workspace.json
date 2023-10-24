@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd61c138292082e6",
+        "id": "d852b9b9b9447223",
         "type": "tabs",
         "children": [
           {
-            "id": "0cfa3b7d57fe0c4d",
+            "id": "92271dbd77cb3626",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -255,7 +255,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0cfa3b7d57fe0c4d",
+  "active": "92271dbd77cb3626",
   "lastOpenFiles": [
     "Philosophie/PL - Induktion/Induktion.md",
     "Philosophie/PL - Induktion/Deduktion.md",
