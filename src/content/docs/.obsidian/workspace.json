@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee915041608ab071",
+        "id": "de95386cd92d6443",
         "type": "tabs",
         "children": [
           {
-            "id": "e0cced8a40cb6724",
+            "id": "1c15c2b62923e105",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -224,7 +224,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8601774679732614,
+                  "scale": 0.4376255105388689,
                   "close": true
                 }
               }
@@ -254,7 +254,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e0cced8a40cb6724",
+  "active": "1c15c2b62923e105",
   "lastOpenFiles": [
     "Arch Linux.md",
     "Philosophie/PL - Induktion/Unbenannt.md",
