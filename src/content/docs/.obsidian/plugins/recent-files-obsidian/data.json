@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Task List",
-      "path": "Task List.md"
-    },
-    {
       "basename": "PL - Gesicherte Erkenntnis und Induktion",
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+    },
+    {
+      "basename": "Induktionsproblem",
+      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
     },
     {
       "basename": "Induktion",
@@ -23,10 +27,6 @@
     {
       "basename": "Studienort Berlin",
       "path": "Seminar/Seminarportfolio/Studienort Berlin.md"
-    },
-    {
-      "basename": "Induktionsproblem",
-      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
     },
     {
       "basename": "Arch Linux",

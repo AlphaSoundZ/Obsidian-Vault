@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "d852b9b9b9447223",
+        "id": "92ca0dbf6c22ee3f",
         "type": "tabs",
         "children": [
           {
-            "id": "92271dbd77cb3626",
+            "id": "f6bf2197b1f41f95",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c8056dc70f604c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophie/PL - Induktion/Induktionsproblem.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
               }
             }
           },
@@ -169,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
               }
             }
           }
@@ -187,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,15 +271,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "92271dbd77cb3626",
+  "active": "f6bf2197b1f41f95",
   "lastOpenFiles": [
+    "Philosophie/PL - Induktion/Induktionsproblem.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Task List.md",
     "Philosophie/PL - Induktion/Induktion.md",
     "Philosophie/PL - Induktion/Deduktion.md",
     "Physik/Elektrische Felder.md",
-    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
     "Seminar/Seminarportfolio/Studienort Berlin.md",
-    "Task List.md",
-    "Philosophie/PL - Induktion/Induktionsproblem.md",
     "Arch Linux.md",
     "Philosophie/PL - Induktion/Unbenannt.md",
     "Philosophie/PL - Induktion/Zirkelschluss.md",

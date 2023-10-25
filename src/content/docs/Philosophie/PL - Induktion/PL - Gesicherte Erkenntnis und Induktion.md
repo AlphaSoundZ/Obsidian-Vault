@@ -20,8 +20,10 @@ Inwiefern kann die Induktionsmethode zu gesicherter Erkenntnis führen und wie s
 
 Präsentation der Aussage beginnen, dass der Mensch letztlich keine gesicherte Erkenntnis erlangen kann.
 
+Um die Aussage zu verifizieren bzw. zu falsifizieren, schauen wir uns zunächst an, wie der Mensch zu allgemeinen Prinzipien bzw. gesicherter Erkenntnis kommt.
+
 - Erkenntnis
-	- „Der Mensch kann keine endgültig gesicherte Erkenntnis erlangen.”
+	- „Menschliche Erkenntnis bezüglich von Prinzipien ist nie endgültig gesichert.”
 	- Logische Schlüsse _(3 min)_
 		- [[Deduktion]] und [[Induktion]]
 			- Definition
@@ -32,20 +34,20 @@ Präsentation der Aussage beginnen, dass der Mensch letztlich keine gesicherte E
 		- Begriffe klären
 			- A Priori
 			- A Posteriori
-- Was ist das [[Induktionsproblem]]? _(2 min)_
-	- Absolute Gleichförmigkeit der Natur
+- [[Induktionsproblem]] _(2 min)_
+	- Absolute Gleichförmigkeit der Natur (Uniformitätsprinzips)
 	- Zirkelschluss
 		- Warum ist dieser problematisch, oder vielleicht auch nicht?
-- Lösungsversuche
-	- Lösungsversuche sind gescheitert, das Induktionsproblem bleibt ungelöst
-- Die zwei Argumente des Induktionsproblems lösen[^2]
-	- Demonstratives oder apriorisches Argument sei nicht ausschließbar
-		- Man hat auf verschiedene Weise versucht zu zeigen, dass das erste Horn ein demonstratives oder apriorisches Argument für induktive Schlussfolgerungen nicht definitiv ausschließt
-		- Prämisse 3 leugnen → ermöglicht synthetische apriorische Sätze
-		- A priori argumentieren, dass die Schlussfolgerung der Schlussfolgerung wahrscheinlich ist, aber nicht sicher ist.
-	- Dem Zirkelschluss widersprechen
-		- Induktive Rechtfertigung der Induktion
-		- Induktion ohne Regeln
+	- Lösungsversuche
+		- Lösungsversuche sind gescheitert, das Induktionsproblem bleibt ungelöst
+	- Die zwei Argumente des Induktionsproblems lösen[^2]
+		- Demonstratives oder apriorisches Argument sei nicht ausschließbar
+			- Man hat auf verschiedene Weise versucht zu zeigen, dass das erste Horn ein demonstratives oder apriorisches Argument für induktive Schlussfolgerungen nicht definitiv ausschließt
+			- Prämisse 3 leugnen → ermöglicht synthetische apriorische Sätze
+			- A priori argumentieren, dass die Schlussfolgerung der Schlussfolgerung wahrscheinlich ist, aber nicht sicher ist.
+		- Dem Zirkelschluss widersprechen
+			- Induktive Rechtfertigung der Induktion
+			- Induktion ohne Regeln
 - Ausblick
 	- Aussage vom Beginn gehört zum Fallibilismus, welche durch Hume geprägt wurde.
 	- Wie soll man mit Induktion in der Wissenschaft und dem Alltag umgehen?
@@ -93,21 +95,19 @@ Sie brauchen keine Induktion, da sie die Naturgesetze als apriorische Urteile be
 
 ## Gesicherte Erkenntnis
 
-## PUA -
-
 ## Induktionsproblem
 
 Das Problem der Begründung von PUA ist der Kern des Induktionsproblems.
 
 „Es ist [..] unmöglich, dass irgendein Erfahrungsbeweis die Ähnlichkeit der Vergangenheit mit der Zukunft erweisen könnte. Mag der Gang der Dinge bislang auch noch so regelmäßig gewesen sein, so kann das allein nicht beweisen, dass es auch in Zukunft so bleiben werde."
 
-- David Hume[1]
+- David Hume
 
 Woher weiß ich, dass das, was ich im einem Einzelfall beobachtet habe, in allen Fällen gilt?
 
 ## Was ist dann die Lösung?
 
-Für Home gibt es genau zwei sichere Quellen der Erkenntnis. Zum einen die sinnliche Erfahrung an sich, und zum anderen das Zusammensetzen verschiedener Erfahrungen (John Locke.
+Für Home gibt es genau zwei sichere Quellen der Erkenntnis. Zum einen die sinnliche Erfahrung an sich, und zum anderen das Zusammensetzen verschiedener Erfahrungen (John Locke).
 
 ## Begriffe
 
