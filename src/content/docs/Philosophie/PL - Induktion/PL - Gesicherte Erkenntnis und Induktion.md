@@ -118,5 +118,28 @@ Siehe Zotero
 
 „Ich kann nun allerdings keinen Vorteil darin erblicken, wenn man die systematischen Versuche, das Verfahren der wissenschaftlichen Hypothesenbildung zu rationalisieren, mit der Behauptung abtut, daß hier ein rationales Verfahren nicht vorliegt. […] Ich gestatte mir einen etwas drastischen Vergleich: die Obstverkäufer auf der Straße haben die Angewohnheit, die guten Äpfel auf die Vorderseite ihres Karrens, also auf die dem Publikum zugewandte Seite zu legen, während die schlechten Äpfel hinten liegen; beim Einfüllen des Obstes in die Tüten pflegen sie dann die Äpfel immer von der hinteren Seite des Haufens zu nehmen. Stellt man einen Obstverkäufer deshalb zur Rede, so wird er energisch bestreiten, daß er ein solches Prinzip bei seinem Obstverkauf benutzt; er wird die Wahl der ausgelieferten Äpfel als unabhängig von solchen Überlegungen bestimmt bezeichnen. Gerade so wenig wie ich diesem Obstverkäufer Glauben schenke, kann ich denjenigen glauben, die behaupten, ohne das Induktionsprinzip ihre Zukunftsaussagen zu bilden. Ich muß nämlich immer wieder konstatieren, daß sie denjenigen Aussagen für die Zukunft glauben, die mit dem Induktionsprinzip in Übereinstimmung sind; daß sie z.B. den Abgang eines Eisenbahnzuges zu derjenigen Zeit erwarten, die das Kursbuch angibt, daß sie auf einen Klingelknopf drücken, wen sie klingeln wollen, usw. Wenn man mir dann antwortet ‚wir wissen nicht, sondern wir raten’, so kann ich nur konstatieren, daß dieses Raten sich in Bahnen bewegt, die mit dem Induktionsprinzip auffallend gut übereinstimmen.“ (Reichenbach 1935, S.281-282)
 
+### Zwischenexport (Zotero)
+
+Erkenntnis. (2023). In Wikipedia. https://de.wikipedia.org/w/index.php?title=Erkenntnis&oldid=238361041
+Hawthorne, J. (2021). Inductive Logic. In E. N. Zalta (Hrsg.), The Stanford Encyclopedia of Philosophy (Spring 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/spr2021/entries/logic-inductive/
+Henderson, L. (2022a). The Problem of Induction. In E. N. Zalta & U. Nodelman (Hrsg.), The Stanford Encyclopedia of Philosophy (Winter 2022). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/win2022/entries/induction-problem/
+Henderson, L. (2022b). The Problem of Induction. In E. N. Zalta & U. Nodelman (Hrsg.), The Stanford Encyclopedia of Philosophy (Winter 2022). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/win2022/entries/induction-problem/
+Henderson, L. (2022c). The Problem of Induction. In E. N. Zalta & U. Nodelman (Hrsg.), The Stanford Encyclopedia of Philosophy (Winter 2022). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/win2022/entries/induction-problem/
+Henderson, L. (2022d). The Problem of Induction. In E. N. Zalta & U. Nodelman (Hrsg.), The Stanford Encyclopedia of Philosophy (Winter 2022). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/win2022/entries/induction-problem/
+humans.txt. (o. J.). Deduktion und Induktion | Methodenportal der Uni Leipzig. Abgerufen 17. Oktober 2023, von https://home.uni-leipzig.de/methodenportal/deduktion_induktion/
+Induktion (Philosophie). (2023a). In Wikipedia. https://de.wikipedia.org/w/index.php?title=Induktion_(Philosophie)&oldid=236704572
+Induktion (Philosophie). (2023b). In Wikipedia. https://de.wikipedia.org/w/index.php?title=Induktion_(Philosophie)&oldid=236704572
+Induktion (Philosophie). (2023c). In Wikipedia. https://de.wikipedia.org/w/index.php?title=Induktion_(Philosophie)&oldid=236704572
+Induktion (Philosophie). (2023d). In Wikipedia. https://de.wikipedia.org/w/index.php?title=Induktion_(Philosophie)&oldid=236704572
+Induktionsproblem. (o. J.-a). Philoclopedia. Abgerufen 18. Oktober 2023, von http://www.philoclopedia.de/was-kann-ich-wissen/erkenntnistheorie/induktionsproblem/
+Induktionsproblem. (o. J.-b). Philoclopedia. Abgerufen 18. Oktober 2023, von http://www.philoclopedia.de/was-kann-ich-wissen/erkenntnistheorie/induktionsproblem/
+Induktionsproblem. (o. J.-c). Philoclopedia. Abgerufen 19. Oktober 2023, von http://www.philoclopedia.de/was-kann-ich-wissen/erkenntnistheorie/induktionsproblem/
+Induktionsproblem. (2023). In Wikipedia. https://de.wikipedia.org/w/index.php?title=Induktionsproblem&oldid=238149698
+Kelly, T. (2010). Hume, Norton, and Induction without Rules. Philosophy of Science, 77(5), 754–764. https://doi.org/10.1086/656548
+Macleod, C. (2020a). John Stuart Mill. In E. N. Zalta (Hrsg.), The Stanford Encyclopedia of Philosophy (Summer 2020). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/mill/
+Macleod, C. (2020b). John Stuart Mill. In E. N. Zalta (Hrsg.), The Stanford Encyclopedia of Philosophy (Summer 2020). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/archives/sum2020/entries/mill/
+philomag. (2023, September 7). Philosophischer Grundbegriff: Empirismus. https://www.philomag.de/lexikon/empirismus
+
+
 [^1]: https://www.philomag.de/lexikon/empirismus
 [^2]: https://plato.stanford.edu/entries/induction-problem/
