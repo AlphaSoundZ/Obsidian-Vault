@@ -5,20 +5,20 @@
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
-      "basename": "Induktionsproblem",
-      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
-    },
-    {
       "basename": "Task List",
       "path": "Task List.md"
     },
     {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
+      "basename": "Induktionsproblem",
+      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
     },
     {
       "basename": "Deduktion",
       "path": "Philosophie/PL - Induktion/Deduktion.md"
+    },
+    {
+      "basename": "Induktion",
+      "path": "Philosophie/PL - Induktion/Induktion.md"
     },
     {
       "basename": "Elektrische Felder",

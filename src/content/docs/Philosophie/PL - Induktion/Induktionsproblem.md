@@ -46,7 +46,7 @@ Humes Argumentation betrifft die folgende induktive Schlussfolgerung:
 
 ## Beispiel
 
-Wenn man Beispielsweise Schießpulver  wahrnimmt, dann denkt man möglicherweise an den Effekt der Explosion. Wir schließen darauf, dass das Schießpulver explodieren wird, aufgrund der Basis von vergänglichen Erfahrungen und der bestehenden Assoziation zwischen Schießpulver und Explosionen.
+Wenn man Beispielsweise Schießpulver wahrnimmt, dann denkt man möglicherweise an den Effekt der Explosion. Wir schließen darauf, dass das Schießpulver explodieren wird, aufgrund der Basis von vergänglichen Erfahrungen und der bestehenden Assoziation zwischen Schießpulver und Explosionen.
 
 Hume argumentiert, dass wir keinen kausalen Schluss (auf dem Verhältnis von Ursache und Wirkung) a priori (ohne Erfahrung) machen können. Für Hume ist die Kausalitätsbeziehung die einzige Beziehung, durch die wir an neue Erkenntnis gelangen können.
 
@@ -56,6 +56,23 @@ Da Humes Argument ein Dilemma ist, gibt es im Wesentlichen zwei Möglichkeiten, 
 
 1. Ein demonstratives Argument für die Existenz der Uniformität der Natur, das den induktiven Schluss rechtfertigt, welches a priori sein muss, um nicht [zirkulär](./Zirkelschluss) zu sein.
 2. Zu argumentieren, dass es schließlich ein wahrscheinliches (oder empirisches) Argument gibt, das den induktiven Schluss rechtfertigen kann.
+
+### Demonstratives Argument für das Uniformitätsprinzip
+
+### Induktive Begründungen der Induktion
+
+#### Entstehung der Zirkularität nach Hume
+
+Hume behauptet, dass enumerative Induktion das Uniformitätsprinzip voraussetzen. Nach Prämisse 7 und 8 muss auch das Uniformitätsprinzip durch ein Argument gestützt werden, damit der induktive Schluss gerechtfertigt ist.
+
+Eine natürliche Idee ist, damit zu argumentieren, dass „es funktioniert“. Wir wissen, dass es funktioniert, weil sich frühere Argumente, die sich auf das Uniformitätsprinzip stützten, als erfolgreich erwiesen.
+
+Diese Argumentation allein reicht allerdings nicht aus, es sei denn, wir haben Grund zu der Annahme, dass solche Argumente auch in Zukunft Erfolg haben werden. Diese Behauptung selbst muss durch ein induktives Argument gestützt werden:
+
+**Prämisse**: Die meisten Argumente der Form X , die auf dem Uniformitätsprinzip basieren, waren in der Vergangenheit erfolgreich.
+**Konklusion**: Daher sind die meisten Argumente der Form X , die auf das Uniformitätsprinzip basieren, erfolgreich.
+
+Problematisch ist, dass dieses Argument, welches das Uniformitätsprinzip rechtfertigen will, selbst von dem Uniformitätsprinzip abhängt.
 
 ## Anhänge
 

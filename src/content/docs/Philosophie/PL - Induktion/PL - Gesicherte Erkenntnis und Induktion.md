@@ -31,23 +31,20 @@ Um die Aussage zu verifizieren bzw. zu falsifizieren, schauen wir uns zunächst 
 			- Struktur (Syllogismus)
 			- Kontrahieren (wahrheitskonservierend, gehaltserweiternd)
 			- Beispiel
-		- Begriffe klären
-			- A Priori
-			- A Posteriori
+	- Anwendung von Logischen Schlüssen (z.B. in der Wissenschaft)
 - [[Induktionsproblem]] _(2 min)_
-	- Absolute Gleichförmigkeit der Natur (Uniformitätsprinzips)
-	- Zirkelschluss
-		- Warum ist dieser problematisch, oder vielleicht auch nicht?
-	- Lösungsversuche
-		- Lösungsversuche sind gescheitert, das Induktionsproblem bleibt ungelöst
-	- Die zwei Argumente des Induktionsproblems lösen[^2]
+	- Beispiel, warum Induktion nicht funktioniert
+		- „Problem of the Black Swan”
+	- Induktionsproblem erklären
+	- Lösungsversuche sind gescheitert, das Induktionsproblem bleibt also ungelöst
+	- Da es ein Dilemma ist, ist die einzige Möglichkeit es zu lösen, dem zu widersprechen[^2]
 		- Demonstratives oder apriorisches Argument sei nicht ausschließbar
 			- Man hat auf verschiedene Weise versucht zu zeigen, dass das erste Horn ein demonstratives oder apriorisches Argument für induktive Schlussfolgerungen nicht definitiv ausschließt
 			- Prämisse 3 leugnen → ermöglicht synthetische apriorische Sätze
 			- A priori argumentieren, dass die Schlussfolgerung der Schlussfolgerung wahrscheinlich ist, aber nicht sicher ist.
 		- Dem Zirkelschluss widersprechen
-			- Induktive Rechtfertigung der Induktion
-			- Induktion ohne Regeln
+			- Induktive Rechtfertigung der Induktion (Zirkelschluss sei in diesem Fall nicht problematisch)
+			- Induktion ohne Regeln (wahrscheinliche Argumente seien kein Zirkelschluss)
 - Ausblick
 	- Aussage vom Beginn gehört zum Fallibilismus, welche durch Hume geprägt wurde.
 	- Wie soll man mit Induktion in der Wissenschaft und dem Alltag umgehen?
