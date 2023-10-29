@@ -15,9 +15,9 @@ Konklusion: Also A → C
 
 ## Beispiel
 
-**Prämisse 1**: Alle Menschen (As) sind sterblich (C).
-**Prämisse 2**: Sokrates (B) ist ein Mensch (A).
-**Konklusion**: Sokrates (B) ist sterblich (C).
+**Prämisse 1**: Sokrates (A) ist ein Mensch (B).
+**Prämisse 2**: Alle Menschen (Bs) sind sterblich (C).
+**Konklusion**: Sokrates (A) ist sterblich (C).
 
 ## Anhänge
 

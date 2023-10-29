@@ -42,7 +42,7 @@ Humes Argumentation betrifft die folgende induktive Schlussfolgerung:
 
 **Prämisse 5**: Jedes wahrscheinliche Argument für das Uniformitätsprinzip setzt das Uniformitätsprinzip voraus.
 **Prämisse 6**: Ein Argument für ein Prinzip darf nicht dasselbe Prinzip voraussetzen.
-**Konklusion 2**: Es gibt kein wahrscheinliches Argument für das Uniformitätsprinzips. 
+**Konklusion 2**: Es gibt kein wahrscheinliches Argument für das Uniformitätsprinzips.
 
 ## Beispiel
 

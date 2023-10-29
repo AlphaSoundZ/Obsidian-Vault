@@ -5,20 +5,24 @@
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
-      "basename": "Task List",
-      "path": "Task List.md"
+      "basename": "Induktion",
+      "path": "Philosophie/PL - Induktion/Induktion.md"
     },
     {
       "basename": "Induktionsproblem",
       "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
     },
     {
+      "basename": "Satz vom Widerspruch",
+      "path": "Philosophie/PL - Induktion/Satz vom Widerspruch.md"
+    },
+    {
       "basename": "Deduktion",
       "path": "Philosophie/PL - Induktion/Deduktion.md"
     },
     {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
+      "basename": "Task List",
+      "path": "Task List.md"
     },
     {
       "basename": "Elektrische Felder",
@@ -35,10 +39,6 @@
     {
       "basename": "Zirkelschluss",
       "path": "Philosophie/PL - Induktion/Zirkelschluss.md"
-    },
-    {
-      "basename": "Satz vom Widerspruch",
-      "path": "Philosophie/PL - Induktion/Satz vom Widerspruch.md"
     },
     {
       "basename": "Productivity Plan and Strategies",
@@ -195,10 +195,6 @@
     {
       "basename": "Parteienfinanzierung",
       "path": "PGW/Parteienfinanzierung.md"
-    },
-    {
-      "basename": "Maßnahmen von Hamburg fuer mehr Chancengerechtigke",
-      "path": "PGW/Maßnahmen von Hamburg fuer mehr Chancengerechtigke.md"
     }
   ],
   "omittedPaths": [],

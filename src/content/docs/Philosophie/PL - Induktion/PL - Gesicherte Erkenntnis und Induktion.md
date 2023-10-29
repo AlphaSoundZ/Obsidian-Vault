@@ -22,7 +22,7 @@ Präsentation der Aussage beginnen, dass der Mensch letztlich keine gesicherte E
 
 Um die Aussage zu verifizieren bzw. zu falsifizieren, schauen wir uns zunächst an, wie der Mensch zu allgemeinen Prinzipien bzw. gesicherter Erkenntnis kommt.
 
-- Erkenntnis
+- Erkenntnis und logische Schlüsse
 	- „Menschliche Erkenntnis bezüglich von Prinzipien ist nie endgültig gesichert.”
 	- Logische Schlüsse _(3 min)_
 		- [[Deduktion]] und [[Induktion]]
@@ -37,6 +37,12 @@ Um die Aussage zu verifizieren bzw. zu falsifizieren, schauen wir uns zunächst 
 		- „Problem of the Black Swan”
 	- Induktionsproblem erklären
 	- Lösungsversuche sind gescheitert, das Induktionsproblem bleibt also ungelöst
+- Induktion ohne Regeln
+
+
+
+
+
 	- Da es ein Dilemma ist, ist die einzige Möglichkeit es zu lösen, dem zu widersprechen[^2]
 		- Demonstratives oder apriorisches Argument sei nicht ausschließbar
 			- Man hat auf verschiedene Weise versucht zu zeigen, dass das erste Horn ein demonstratives oder apriorisches Argument für induktive Schlussfolgerungen nicht definitiv ausschließt
@@ -45,7 +51,7 @@ Um die Aussage zu verifizieren bzw. zu falsifizieren, schauen wir uns zunächst 
 		- Dem Zirkelschluss widersprechen
 			- Induktive Rechtfertigung der Induktion (Zirkelschluss sei in diesem Fall nicht problematisch)
 			- Induktion ohne Regeln (wahrscheinliche Argumente seien kein Zirkelschluss)
-- Ausblick
+- Fazit
 	- Aussage vom Beginn gehört zum Fallibilismus, welche durch Hume geprägt wurde.
 	- Wie soll man mit Induktion in der Wissenschaft und dem Alltag umgehen?
 	- Beantwortung der Leitfrage

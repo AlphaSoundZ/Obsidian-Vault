@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "203bfad8c55328cc",
+        "id": "eeb492e09d5ccdc4",
         "type": "tabs",
         "children": [
           {
-            "id": "6cfc83e9a036e04b",
+            "id": "d4be817e8a4ae57c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -258,19 +258,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6cfc83e9a036e04b",
+  "active": "d4be817e8a4ae57c",
   "lastOpenFiles": [
-    "Task List.md",
-    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
-    "Philosophie/PL - Induktion/Induktionsproblem.md",
-    "Philosophie/PL - Induktion/Deduktion.md",
     "Philosophie/PL - Induktion/Induktion.md",
+    "Philosophie/PL - Induktion/Induktionsproblem.md",
+    "Philosophie/PL - Induktion/Unbenannt.md",
+    "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Philosophie/PL - Induktion/Deduktion.md",
+    "Philosophie/PL - Induktion/test.md",
+    "Task List.md",
     "Physik/Elektrische Felder.md",
     "Seminar/Seminarportfolio/Studienort Berlin.md",
     "Arch Linux.md",
-    "Philosophie/PL - Induktion/Unbenannt.md",
     "Philosophie/PL - Induktion/Zirkelschluss.md",
-    "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
     "Productivity Plan and Strategies.md",
     "overview.md",
     "Rules.md",
@@ -287,7 +288,6 @@
     "Seminar/Seminarportfolio.md",
     "Seminar/PXL_20230606_120414504.jpg",
     "Seminar/Mini-Pl Bewertung.md",
-    "Seminar/Entscheidungsverhalten.md",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Informatik/Netzwerk/image1.png",
