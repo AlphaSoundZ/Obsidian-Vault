@@ -1,44 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "PL - Gesicherte Erkenntnis und Induktion",
-      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
+      "basename": "Deduktion",
+      "path": "Philosophie/PL - Induktion/Deduktion.md"
     },
     {
       "basename": "Induktion",
       "path": "Philosophie/PL - Induktion/Induktion.md"
     },
     {
-      "basename": "Induktionsproblem",
-      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
-    },
-    {
-      "basename": "Satz vom Widerspruch",
-      "path": "Philosophie/PL - Induktion/Satz vom Widerspruch.md"
-    },
-    {
-      "basename": "Deduktion",
-      "path": "Philosophie/PL - Induktion/Deduktion.md"
+      "basename": "PL - Gesicherte Erkenntnis und Induktion",
+      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
       "basename": "Task List",
       "path": "Task List.md"
     },
     {
-      "basename": "Elektrische Felder",
-      "path": "Physik/Elektrische Felder.md"
-    },
-    {
-      "basename": "Studienort Berlin",
-      "path": "Seminar/Seminarportfolio/Studienort Berlin.md"
-    },
-    {
       "basename": "Arch Linux",
       "path": "Arch Linux.md"
     },
     {
+      "basename": "Induktionsproblem",
+      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
+    },
+    {
       "basename": "Zirkelschluss",
       "path": "Philosophie/PL - Induktion/Zirkelschluss.md"
+    },
+    {
+      "basename": "Satz vom Widerspruch",
+      "path": "Philosophie/PL - Induktion/Satz vom Widerspruch.md"
     },
     {
       "basename": "Productivity Plan and Strategies",
@@ -109,6 +101,10 @@
       "path": "Seminar/Berufsfeldanalyse.md"
     },
     {
+      "basename": "Studienort Berlin",
+      "path": "Seminar/Seminarportfolio/Studienort Berlin.md"
+    },
+    {
       "basename": "Wellen",
       "path": "Physik/Wellen.md"
     },
@@ -139,6 +135,10 @@
     {
       "basename": "Aufgabe Doppelspalt",
       "path": "Physik/Aufgabe Doppelspalt.md"
+    },
+    {
+      "basename": "Elektrische Felder",
+      "path": "Physik/Elektrische Felder.md"
     },
     {
       "basename": "Was ist Religion",
@@ -195,6 +195,10 @@
     {
       "basename": "Parteienfinanzierung",
       "path": "PGW/Parteienfinanzierung.md"
+    },
+    {
+      "basename": "Maßnahmen von Hamburg fuer mehr Chancengerechtigke",
+      "path": "PGW/Maßnahmen von Hamburg fuer mehr Chancengerechtigke.md"
     }
   ],
   "omittedPaths": [],
