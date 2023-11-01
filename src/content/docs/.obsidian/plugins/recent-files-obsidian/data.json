@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "06.11.23",
+      "path": "Daily Notes/06.11.23.md"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "Woyzeck",
+      "path": "Deutsch/S3 Woyzeck/Woyzeck.md"
+    },
+    {
+      "basename": "Das Weiße Band",
+      "path": "Deutsch/Das Weiße Band.md"
+    },
+    {
       "basename": "Deduktion",
       "path": "Philosophie/PL - Induktion/Deduktion.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "PL - Gesicherte Erkenntnis und Induktion",
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "Arch Linux",
@@ -187,18 +199,6 @@
     {
       "basename": "Solidaritaetszuschlag",
       "path": "PGW/Solidaritaetszuschlag.md"
-    },
-    {
-      "basename": "Rentenversicherung",
-      "path": "PGW/Rentenversicherung.md"
-    },
-    {
-      "basename": "Parteienfinanzierung",
-      "path": "PGW/Parteienfinanzierung.md"
-    },
-    {
-      "basename": "Maßnahmen von Hamburg fuer mehr Chancengerechtigke",
-      "path": "PGW/Maßnahmen von Hamburg fuer mehr Chancengerechtigke.md"
     }
   ],
   "omittedPaths": [],
