@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "08.12.23",
+      "path": "Daily Notes/08.12.23.md"
+    },
+    {
+      "basename": "10.11.23",
+      "path": "Daily Notes/10.11.23.md"
+    },
+    {
       "basename": "Lorentzkraft",
       "path": "Physik/Lorentzkraft.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "PL - Gesicherte Erkenntnis und Induktion",
       "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "06.11.23",
@@ -91,10 +99,6 @@
     {
       "basename": "Teleologischer Gottesbeweis",
       "path": "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis.md"
-    },
-    {
-      "basename": "08.12.23",
-      "path": "Daily Notes/08.12.23.md"
     },
     {
       "basename": "Meine supertolle Zukunft Lebensweg Vorstellungen",
@@ -195,10 +199,6 @@
     {
       "basename": "Handout",
       "path": "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis/Handout.md"
-    },
-    {
-      "basename": "Steuern",
-      "path": "PGW/Steuern.md"
     }
   ],
   "omittedPaths": [],

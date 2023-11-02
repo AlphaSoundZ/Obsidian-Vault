@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Präsentation über einen Film/Serie @[[10.11.23]] #Englisch
 - [ ] Musik Song erstellen @[[19.12.23]] #Musik
 - [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 
