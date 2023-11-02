@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "06.11.23",
-      "path": "Daily Notes/06.11.23.md"
+      "basename": "Lorentzkraft",
+      "path": "Physik/Lorentzkraft.md"
+    },
+    {
+      "basename": "Magnetfelder",
+      "path": "Physik/Magnetfelder.md"
+    },
+    {
+      "basename": "Kreisbewegung",
+      "path": "Physik/Kreisbewegung.md"
+    },
+    {
+      "basename": "Induktion",
+      "path": "Philosophie/PL - Induktion/Induktion.md"
+    },
+    {
+      "basename": "Elektrische Felder",
+      "path": "Physik/Elektrische Felder.md"
+    },
+    {
+      "basename": "Deduktion",
+      "path": "Philosophie/PL - Induktion/Deduktion.md"
+    },
+    {
+      "basename": "PL - Gesicherte Erkenntnis und Induktion",
+      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
       "basename": "Task List",
       "path": "Task List.md"
+    },
+    {
+      "basename": "06.11.23",
+      "path": "Daily Notes/06.11.23.md"
     },
     {
       "basename": "Woyzeck",
@@ -15,18 +43,6 @@
     {
       "basename": "Das Weiße Band",
       "path": "Deutsch/Das Weiße Band.md"
-    },
-    {
-      "basename": "Deduktion",
-      "path": "Philosophie/PL - Induktion/Deduktion.md"
-    },
-    {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
-    },
-    {
-      "basename": "PL - Gesicherte Erkenntnis und Induktion",
-      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
       "basename": "Arch Linux",
@@ -133,24 +149,12 @@
       "path": "Physik/Physik Experiment - Protokoll.md"
     },
     {
-      "basename": "Magnetfelder",
-      "path": "Physik/Magnetfelder.md"
-    },
-    {
-      "basename": "Kreisbewegung",
-      "path": "Physik/Kreisbewegung.md"
-    },
-    {
       "basename": "Elektrostatik",
       "path": "Physik/Elektrostatik.md"
     },
     {
       "basename": "Aufgabe Doppelspalt",
       "path": "Physik/Aufgabe Doppelspalt.md"
-    },
-    {
-      "basename": "Elektrische Felder",
-      "path": "Physik/Elektrische Felder.md"
     },
     {
       "basename": "Was ist Religion",
@@ -195,10 +199,6 @@
     {
       "basename": "Steuern",
       "path": "PGW/Steuern.md"
-    },
-    {
-      "basename": "Solidaritaetszuschlag",
-      "path": "PGW/Solidaritaetszuschlag.md"
     }
   ],
   "omittedPaths": [],

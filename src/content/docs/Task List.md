@@ -7,7 +7,6 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Sprachanalyse #Deutsch @[[06.11.23]]
 - [ ] Musik Song erstellen @[[19.12.23]] #Musik
 - [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 
@@ -15,6 +14,7 @@ kanban-plugin: basic
 ## Done
 
 **Fertiggestellt**
+- [x] Sprachanalyse #Deutsch @[[06.11.23]]
 
 
 ## Archiv
