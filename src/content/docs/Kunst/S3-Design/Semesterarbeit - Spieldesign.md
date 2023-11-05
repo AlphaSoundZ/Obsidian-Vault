@@ -99,4 +99,6 @@ weitere Felder:
 
 ## Anhänge
 
+Icons sind von: https://thenounproject.com/
+
 [^1]: https://www.youtube.com/watch?time_continue=54&v=cmNS24bIXxw&embeds_referring_euri=https%3A%2F%2Fwww.langweiledich.net%2F
