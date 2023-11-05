@@ -15,7 +15,9 @@ Problematisch ist das Ziel des Spiels und die Motivation, die meist durch ein ko
 - Siedler von Catan
 - Uno
 
-Mir hat Monopoly und Catan besten gefallen, und letzlich habe ich mich dann für ein  Konzept zur Adaption von Monopoly entschieden, da ich dieses Spiel besser als Catan kenne und ich schon einige Ideen im Kopf hatte.
+Mir hat Monopoly und Catan besten gefallen, und letzlich habe ich mich dann für ein  Konzept zur Adaption von Monopoly entschieden, da ich dieses Spiel besser als Catan kenne und ich schon einige Ideen im Kopf hatte. Da es sich um eine Adaption von Monopoly handelt, werden die Spielmaterialien sich nicht stark abweichen. Die Spielfiguren werde ich höchstwahrscheinlich 3D drucken, um meine Spielfiguren akkurat darzustellen. Da es keine so kleinen Modell-Bäume gibt, werde ich diese auch drucken. Das Spielbrett wird aus den typischem pappartigen Material bestehen, und die Karten aus sehr dickem Papier. Eventuell kann man teile laminieren, um sie robuster zu machen.
+
+### Ideenfindung und Illuminationsphase
 
 #### Spielidee 1 (Daybreak, Risiko Adaption)
 
