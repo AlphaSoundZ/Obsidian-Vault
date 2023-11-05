@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Geschichte des Designs",
+      "path": "Kunst/S3-Design/Geschichte des Designs.md"
+    },
+    {
+      "basename": "Geschichte des Spielzeugs",
+      "path": "Kunst/S3-Design/Geschichte des Spielzeugs.md"
+    },
+    {
       "basename": "Semesterarbeit - Spieldesign",
       "path": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Metaphysik",
       "path": "Philosophie/Metaphysik.md"
-    },
-    {
-      "basename": "Maimonides - Gott ist ohne Eigenschaften",
-      "path": "Philosophie/Maimonides - Gott ist ohne Eigenschaften.md"
-    },
-    {
-      "basename": "Kosmologischer Gottesbeweis",
-      "path": "Philosophie/Kosmologischer Gottesbeweis.md"
     }
   ],
   "omittedPaths": [],

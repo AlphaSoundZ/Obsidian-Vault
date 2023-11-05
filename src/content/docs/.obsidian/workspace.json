@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+                "file": "Kunst/S3-Design/Geschichte des Designs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+                "file": "Kunst/S3-Design/Geschichte des Designs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+                "file": "Kunst/S3-Design/Geschichte des Designs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
+                "file": "Kunst/S3-Design/Geschichte des Designs.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
+                "file": "Kunst/S3-Design/Geschichte des Designs.md"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+                "file": "Kunst/S3-Design/Geschichte des Designs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,8 +259,10 @@
   },
   "active": "34999688b0a53140",
   "lastOpenFiles": [
-    "Kunst/S3-Design/Beispiel_Feld.png",
+    "Kunst/S3-Design/Geschichte des Spielzeugs.md",
+    "Kunst/S3-Design/Geschichte des Designs.md",
     "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+    "Kunst/S3-Design/Beispiel_Feld.png",
     "Kunst/S3-Design/Monopoly_Handel.png",
     "Physik/Magnetfelder.md",
     "Task List.md",
@@ -286,7 +288,6 @@
     "overview.md",
     "Rules.md",
     "Philosophie/Religionsphilosophie.md",
-    "Daily Notes/05.10.23.md",
     "Philosophie/PL - Induktion",
     "Seminar/PXL_20230606_120414504.jpg",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
