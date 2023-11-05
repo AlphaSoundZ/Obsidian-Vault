@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Semesterarbeit - Spieldesign",
+      "path": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
+    },
+    {
+      "basename": "Beispiel_Feld",
+      "path": "Kunst/S3-Design/Beispiel_Feld.png"
+    },
+    {
+      "basename": "Monopoly_Handel",
+      "path": "Kunst/S3-Design/Monopoly_Handel.png"
+    },
+    {
+      "basename": "Magnetfelder",
+      "path": "Physik/Magnetfelder.md"
+    },
+    {
       "basename": "Task List",
       "path": "Task List.md"
+    },
+    {
+      "basename": "Induktionsproblem",
+      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
+    },
+    {
+      "basename": "PL - Gesicherte Erkenntnis und Induktion",
+      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
     },
     {
       "basename": "08.12.23",
@@ -15,10 +39,6 @@
     {
       "basename": "Lorentzkraft",
       "path": "Physik/Lorentzkraft.md"
-    },
-    {
-      "basename": "Magnetfelder",
-      "path": "Physik/Magnetfelder.md"
     },
     {
       "basename": "Kreisbewegung",
@@ -37,10 +57,6 @@
       "path": "Philosophie/PL - Induktion/Deduktion.md"
     },
     {
-      "basename": "PL - Gesicherte Erkenntnis und Induktion",
-      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
-    },
-    {
       "basename": "06.11.23",
       "path": "Daily Notes/06.11.23.md"
     },
@@ -55,10 +71,6 @@
     {
       "basename": "Arch Linux",
       "path": "Arch Linux.md"
-    },
-    {
-      "basename": "Induktionsproblem",
-      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
     },
     {
       "basename": "Zirkelschluss",
@@ -187,18 +199,6 @@
     {
       "basename": "Kosmologischer Gottesbeweis",
       "path": "Philosophie/Kosmologischer Gottesbeweis.md"
-    },
-    {
-      "basename": "Das Geiger-Dilemma",
-      "path": "Philosophie/Das Geiger-Dilemma.md"
-    },
-    {
-      "basename": "Praesentation Stichpunkte",
-      "path": "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis/Praesentation Stichpunkte.md"
-    },
-    {
-      "basename": "Handout",
-      "path": "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis/Handout.md"
     }
   ],
   "omittedPaths": [],

@@ -6,9 +6,20 @@ tags:
 
 ### Problemanalyse bzw. Themenfindung
 
-Wenn darüber nachdenkt, gibt es ziemlich wenige Spiele, die sich mit dem Thema Klimawandel beschäftigen. Jedoch ein Spiel, das sich mit dem Klimawandel besonders detailliert beschäftigt ist Daybreak[^1]. Mit dieser Inspiration versuche ich eine Version zu entwickeln, die weniger kompliziert ist, aber dennoch den Klimawandel möglichst akkurat darstellt.
+Wenn darüber nachdenkt, gibt es ziemlich wenige Spiele, die sich mit dem Thema Klimawandel beschäftigen. Jedoch ein Spiel, das sich mit dem Klimawandel besonders detailliert beschäftigt ist Daybreak[^1]. Mit dieser Inspiration überlege ich eine Version zu entwickeln, die weniger kompliziert ist, aber dennoch den Klimawandel möglichst akkurat darstellt.
 
-### Aspekte und Maßnahmen
+Problematisch ist das Ziel des Spiels und die Motivation, die meist durch ein kompetitives Spiel entsteht. Dementsprechend habe ich über weitere schon existierende Spiele nachgedacht, da ein Zusammenspiel gegen den Klimawandel, wo man entweder als Gesamtheit gewinnt oder verliert, meiner Meinung nach nicht optimal ist:
+
+- Monopoly
+- Mensch ärgere dich nicht
+- Siedler von Catan
+- Uno
+
+Mir hat Monopoly und Catan besten gefallen, und letzlich habe ich mich dann für ein  Konzept zur Adaption von Monopoly entschieden, da ich dieses Spiel besser als Catan kenne und ich schon einige Ideen im Kopf hatte.
+
+#### Spielidee 1 (Daybreak, Risiko Adaption)
+
+##### Aspekte und Maßnahmen
 
 1. Klimakatastrophen
 	Eventuell Ereigniskarten (wie bei Monopoly), die Klimakatastrophen auslösen. Anschließend müssen die Spieler darauf bezogene Maßnahmen ergreifen, um die Schäden bzw. Auswirkungen zu minimieren.
@@ -28,11 +39,11 @@ Damit das Spiel Bildungselemente enthält, sollen auf den Ereigniskarten oder Ak
 
 Jeder Spieler übernimmt die Rolle eines Umweltschützers und muss Maßnahmen ergreifen, um Treibhausgasemissionen zu reduzieren, erneuerbare Energiequellen zu fördern und die Umwelt zu schützen. Das Ziel ist es, die CO2-Emissionen zu verringern, bevor die globale Temperatur einen kritischen Punkt erreicht.
 
-### Ziel des Spiels
+##### Ziel des Spiels
 
 Ziel des Spiels ist es, die CO2-Emissionen zu minimieren bzw. 0 zu erreichen, bevor die globale Temperatur einen kritischen Punkt erreicht, oder die Bevölkerung zu unglücklich wird (vgl. SimCity BuildIt).
 
-### Vereinfachung
+##### Vereinfachung
 
 1. Ein einheitlicher CO2-Wert
 	Es wird nicht zwischen CO2-Emissionen, dem CO2-Gehalt in der Atmosphäre und z.B. dem im Wasser unterschieden.
@@ -40,6 +51,51 @@ Ziel des Spiels ist es, die CO2-Emissionen zu minimieren bzw. 0 zu erreichen, be
 	Anstatt detaillierter Berechnungen und komplizierter Begriffe, verwendet man Symbole auf den Spielsteinen. Die CO2-Emissionen könnte man mit einem Schieberegler darstellen, um an Quantität der Spielsteine zu sparen.
 3. Eventkarten
 	Mit Eventkarten steigt oder sinkt der CO2-Gehalt oder die Temperatur, je nachdem, ob sie Katastrophen oder Maßnahmen gegen den Klimawandel darstellen. 
+
+#### Spielidee 2 (Monopoly Adaption)
+
+- Anstatt von Ländern hat man Anlagen und Maßnahmen, die den Klimawandel bekämpfen sollen.
+	- Diese sind ohne jegliches Upgrade erstmal schlecht für den Klimawandel (zum Beispiel Kohlekraftwerk anstatt Windkraftanlage), und somit erhöhen sich beim Kauf die Emissionen des Spielers
+	- Mit jedem Upgrade verringert sich der Emissionshaushalt.
+- Bäume anstatt von Häusern und Hotels (Upgrades der Grundstücke), mit denen man die Maßnahmen verschärfen, Anlagen verbessern oder Forschung betreiben kann.
+- Jeder Spieler hat Spielgeld und CO2 Emissionen.
+- Man hat gewonnen, wenn man 0 Emissionen hat.
+- Man hat verloren wenn man kein Spielgeld mehr hat.
+- Anstatt ins Gefängnis zu gehen, fährt/fliegt man in den Urlaub, da es sich dann negativ deiner Emissionen auswirkt.
+- Ereigniskarten enthalten positive und negative Maßnahmen, die z.B. die Menge an Emissionen beeinflussen.
+- Wenn man auf ein Land kommt, kann man, solange es noch niemand anderes Besitzt, mit Spielgeld kaufen.
+- Wenn man auf ein Land kommt, welches schon jemand besitzt muss man entweder CO2 Emission des Besitzers aufnehmen, oder man zahlt Geld zum CO2 Ausgleich, und es findet kein CO2 Austausch statt.
+  ![](./Monopoly_Handel.png)
+- Wenn man über Start kommt, bekommt man ganz normal etwas Geld
+- Auf den Karten sollen zusätzlich kleine Infotexte stehen, um auch den Bildungsaspekt zu beinhalten.
+- Es könnte u.a. folgende Spielfiguren geben:
+	- Klimaaktivist
+	- Wissenschaftler
+	- Baum oder Blume (müsste sich von den anderen Bäumen unterscheiden)
+	- Windkraftanalage
+	- Eisbär (als betroffener des Klimawandels)
+- In der Mitte könnte ein Wald sein, wo man alle Bäume hinstellt, die man als Upgrade verwenden kann.
+- Man könnte Karten mit Zielen hinzufügen, die man auf bestimmten Feldern erhält, und mit denen man beim Erreichen der Ziele die CO2 Emissionen bei sich senkt.
+- Eventuell kann man das Spielgeld ganz weglassen, indem man beim Kauf eines Feldes nur mit CO2 Emissionen bezahlt.
+	- Wenn man zum Beispiel ein Kohlekraftwerk kauft, um es klimaneutral zu machen, muss man zunächst Emissionen aufnehmen, die die Nutzung des Kohlekraftwerks beschreibt. Wenn man Upgrades mit Bäumen hinzufügt, werden die Emissionen weniger, aber für den Nutzer teurer.
+
+##### Felder
+
+Beispiel eines Feldes:
+![](./Beispiel_Feld.png)
+Bei diesem Feld handelt es sich um ein Kohlekraftwerk, das nun nach und nach umweltneutral sein soll:
+Das erste Upgrade (oben links) erhöht die Effizienz und den Wirkungsgrad des Kraftwerks, wodurch insgesamt weniger solcher Kraftwerke benötigt werden.
+Das zweite Upgrade fügt Filter hinzu, die den CO2 Ausstoß verringern sollen.
+Das dritte Upgrade ersetzt nach und nach die Kohlekraftwerke durch erneuerbare Energie (in diesem Fall Windkraftanlagen) 
+Das vierte Feld speichert Energie, damit man nicht gebrauchte Energie aufbewahrt, und sie an Zeiten, wo beispielsweise kein Wind ist, nutzen kann.
+
+weitere Felder:
+- Gehe ins Gefängnis → Fliege in den Urlaub
+- Rettung des Regenwaldes (der Regenwald wird durch Bäume pflanzen wieder aufgebaut)
+- Verkehr (Upgrades: Car-Sharing, Ausbau der öffentlichen Transportmittel, nachhaltig bzw. umweltneutrale Fortbewegungsmittel, Optimierung der Stadtplanung, um allgemein Strecken zu reduzieren)
+- Steuern zahlen → CO2-Steuer
+- Eine „Straße”, also mehrere Felder mit der gleichen Farbe bilden zusammen einen Aspekt, wie man den Klimawandel bekämpfen kann (z.B. eine Straße, mit verschiedenen Nationalparks)
+- Regierungsviertel, bei denen man Maßnahmen ergreifen kann, wie z.B. CO2-Steuer erhöhen
 
 ## Anhänge
 

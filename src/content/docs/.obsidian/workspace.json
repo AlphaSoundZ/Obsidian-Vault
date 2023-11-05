@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55bb772ca5a7991a",
+        "id": "f567de1aae414c31",
         "type": "tabs",
         "children": [
           {
-            "id": "73fd281a71ca154c",
+            "id": "34999688b0a53140",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -71,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
               }
             }
           },
@@ -169,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
               }
             }
           }
@@ -187,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +227,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4376255105388689,
+                  "scale": 0.45050811767578186,
                   "close": true
                 }
               }
@@ -255,26 +257,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "73fd281a71ca154c",
+  "active": "34999688b0a53140",
   "lastOpenFiles": [
-    "Daily Notes/08.12.23.md",
-    "Task List.md",
-    "Daily Notes/10.11.23.md",
+    "Kunst/S3-Design/Beispiel_Feld.png",
+    "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
+    "Kunst/S3-Design/Monopoly_Handel.png",
     "Physik/Magnetfelder.md",
+    "Task List.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Philosophie/PL - Induktion/Induktionsproblem.md",
+    "Daily Notes/08.12.23.md",
+    "Daily Notes/10.11.23.md",
     "Physik/Kreisbewegung.md",
     "Physik/Lorentzkraft.md",
     "Philosophie/PL - Induktion/Induktion.md",
     "Physik/Pasted image 20231102131543.png",
     "Physik/Elektrische Felder.md",
     "Philosophie/PL - Induktion/Deduktion.md",
-    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
     "Daily Notes/06.11.23.md",
     "Deutsch/S3 Woyzeck/Woyzeck.md",
     "Deutsch/Das Weiße Band.md",
     "Deutsch/S3 Woyzeck/Unbenannt.md",
     "Arch Linux.md",
     "Philosophie/PL - Induktion/Unbenannt.md",
-    "Philosophie/PL - Induktion/Induktionsproblem.md",
     "Philosophie/PL - Induktion/Zirkelschluss.md",
     "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
     "Productivity Plan and Strategies.md",
@@ -282,8 +287,6 @@
     "Rules.md",
     "Philosophie/Religionsphilosophie.md",
     "Daily Notes/05.10.23.md",
-    "Philosophie/Induktion.md",
-    "Mathe/Korrelationen.md",
     "Philosophie/PL - Induktion",
     "Seminar/PXL_20230606_120414504.jpg",
     "Kunst/S1-Portraits/Bildanalyse/_VorbereitungKlausurFachbegriffezurWerkanalyseS1.pdf",
@@ -297,12 +300,10 @@
     "Daily Notes/_Bahr_Ueberwindung_des_Naturalismus.pdf",
     "Physik/magnetfeld_spule.png",
     "Physik/MagnetfeldSpuleLoesung3.png.crdownload",
-    "Physik/lorenzkraft.png",
     "Kunst/S3-Design/design_analyse_schreiben.pdf",
     "Englisch/S3 Crime and Punishment in Literature and Film/Nicht bestätigt 703851.crdownload",
     "Physik/Kreisbewegung.mdx",
     "Physik/Kreisbewegung.mmd",
-    "Physik/kreisbewegung.png",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
