@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/08.11.23.md",
+                "file": "404.mdx",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/08.11.23.md",
+                "file": "404.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/08.11.23.md",
+                "file": "404.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/08.11.23.md"
+                "file": "404.mdx"
               }
             }
           },
@@ -171,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/08.11.23.md"
+                "file": "404.mdx"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/08.11.23.md",
+                "file": "404.mdx",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,8 +259,8 @@
   },
   "active": "34999688b0a53140",
   "lastOpenFiles": [
-    "Task List.md",
     "Daily Notes/08.11.23.md",
+    "Task List.md",
     "Geographie/Unbenannt.md",
     "Daily Notes/10.11.23.md",
     "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
