@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Klausur #Geographie @[[08.11.23]]
 - [ ] Präsentation über einen Film/Serie @[[10.11.23]] #Englisch
 - [ ] Musik Song erstellen @[[19.12.23]] #Musik
 - [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
@@ -15,11 +16,11 @@ kanban-plugin: basic
 ## Done
 
 **Fertiggestellt**
-- [x] Sprachanalyse #Deutsch @[[06.11.23]]
 
 
 ## Archiv
 
+- [ ] Sprachanalyse #Deutsch @[[06.11.23]]
 - [ ] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 - [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
 - [ ] Mediation Task @[[06.10.23]] #Englisch

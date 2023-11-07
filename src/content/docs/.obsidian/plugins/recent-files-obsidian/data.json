@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "08.11.23",
+      "path": "Daily Notes/08.11.23.md"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "10.11.23",
+      "path": "Daily Notes/10.11.23.md"
+    },
+    {
+      "basename": "design_analyse_schreiben",
+      "path": "Kunst/S3-Design/design_analyse_schreiben.pdf"
+    },
+    {
+      "basename": "Semesterarbeit - Spieldesign",
+      "path": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
+    },
+    {
       "basename": "Geschichte des Designs",
       "path": "Kunst/S3-Design/Geschichte des Designs.md"
     },
     {
       "basename": "Geschichte des Spielzeugs",
       "path": "Kunst/S3-Design/Geschichte des Spielzeugs.md"
-    },
-    {
-      "basename": "Semesterarbeit - Spieldesign",
-      "path": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
     },
     {
       "basename": "Beispiel_Feld",
@@ -25,10 +41,6 @@
       "path": "Physik/Magnetfelder.md"
     },
     {
-      "basename": "Task List",
-      "path": "Task List.md"
-    },
-    {
       "basename": "Induktionsproblem",
       "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "08.12.23",
       "path": "Daily Notes/08.12.23.md"
-    },
-    {
-      "basename": "10.11.23",
-      "path": "Daily Notes/10.11.23.md"
     },
     {
       "basename": "Lorentzkraft",
@@ -191,14 +199,6 @@
     {
       "basename": "Philosophie Adolf Deichmann Prozess",
       "path": "Philosophie/Philosophie Adolf Deichmann Prozess.md"
-    },
-    {
-      "basename": "Ontologischer Gottesbeweis",
-      "path": "Philosophie/Ontologischer Gottesbeweis.md"
-    },
-    {
-      "basename": "Metaphysik",
-      "path": "Philosophie/Metaphysik.md"
     }
   ],
   "omittedPaths": [],

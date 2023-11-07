@@ -33,7 +33,6 @@ tags:
 - Industrialisierung
 	- es entstehen Spielzeuge in Verbindung mit Maschinen der Industrialisierung
 		- z.B. Dampfmaschine
-	- 
 
 ## Anhänge
 

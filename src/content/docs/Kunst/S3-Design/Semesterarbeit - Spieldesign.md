@@ -65,6 +65,7 @@ Ziel des Spiels ist es, die CO2-Emissionen zu minimieren bzw. 0 zu erreichen, be
 - Man hat verloren wenn man kein Spielgeld mehr hat.
 - Anstatt ins Gefängnis zu gehen, fährt/fliegt man in den Urlaub, da es sich dann negativ deiner Emissionen auswirkt.
 - Ereigniskarten enthalten positive und negative Maßnahmen, die z.B. die Menge an Emissionen beeinflussen.
+	- Klimakleber verhindern den Weg
 - Wenn man auf ein Land kommt, kann man, solange es noch niemand anderes Besitzt, mit Spielgeld kaufen.
 - Wenn man auf ein Land kommt, welches schon jemand besitzt muss man entweder CO2 Emission des Besitzers aufnehmen, oder man zahlt Geld zum CO2 Ausgleich, und es findet kein CO2 Austausch statt.
   ![](./Monopoly_Handel.png)
