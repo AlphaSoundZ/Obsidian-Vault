@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a50bfb4318d34413",
+        "id": "6e01af7a2daf5cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "ba81088f53a1deda",
+            "id": "27ab1c9c0dd90491",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -257,12 +257,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ba81088f53a1deda",
+  "active": "27ab1c9c0dd90491",
   "lastOpenFiles": [
+    "Task List.md",
     "Daily Notes/13.11.23.md",
     "Daily Notes/Konzeptionelle_Muendlichkeit_und_Schriftlichkeit.pdf",
     "Rules.md",
-    "Task List.md",
     "Daily Notes/08.11.23.md",
     "Geographie/Unbenannt.md",
     "Daily Notes/10.11.23.md",
