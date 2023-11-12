@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "13.11.23",
+      "path": "Daily Notes/13.11.23.md"
+    },
+    {
+      "basename": "Rules",
+      "path": "Rules.md"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
       "basename": "404",
       "path": "404.mdx"
     },
     {
       "basename": "08.11.23",
       "path": "Daily Notes/08.11.23.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "10.11.23",
@@ -109,10 +117,6 @@
       "path": "overview.md"
     },
     {
-      "basename": "Rules",
-      "path": "Rules.md"
-    },
-    {
       "basename": "Religionsphilosophie",
       "path": "Philosophie/Religionsphilosophie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Was ist Religion",
       "path": "Philosophie/Was ist Religion.md"
-    },
-    {
-      "basename": "Religionskritik",
-      "path": "Philosophie/Religionskritik.md"
     }
   ],
   "omittedPaths": [],
