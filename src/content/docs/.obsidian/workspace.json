@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6e01af7a2daf5cb6",
+        "id": "3548e77643b125e3",
         "type": "tabs",
         "children": [
           {
-            "id": "27ab1c9c0dd90491",
+            "id": "92e2a51a2aa7dbc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -257,7 +257,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27ab1c9c0dd90491",
+  "active": "92e2a51a2aa7dbc9",
   "lastOpenFiles": [
     "Task List.md",
     "Daily Notes/13.11.23.md",
