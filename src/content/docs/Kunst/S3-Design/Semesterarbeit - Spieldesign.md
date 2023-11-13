@@ -60,27 +60,26 @@ Ziel des Spiels ist es, die CO2-Emissionen zu minimieren bzw. 0 zu erreichen, be
 	- Diese sind ohne jegliches Upgrade erstmal schlecht für den Klimawandel (zum Beispiel Kohlekraftwerk anstatt Windkraftanlage), und somit erhöhen sich beim Kauf die Emissionen des Spielers
 	- Mit jedem Upgrade verringert sich der Emissionshaushalt.
 - Bäume anstatt von Häusern und Hotels (Upgrades der Grundstücke), mit denen man die Maßnahmen verschärfen, Anlagen verbessern oder Forschung betreiben kann.
-- Jeder Spieler hat Spielgeld und CO2 Emissionen.
+- Jeder Spieler hat CO2 Emissionen. Das ist die einzige Währung - es gibt also kein Geld
 - Man hat gewonnen, wenn man 0 Emissionen hat.
-- Man hat verloren wenn man kein Spielgeld mehr hat.
-- Anstatt ins Gefängnis zu gehen, fährt/fliegt man in den Urlaub, da es sich dann negativ deiner Emissionen auswirkt.
+- Man darf eine bestimmte Grenze nicht überschreiten.
+- Anstatt ins Gefängnis zu gehen, fährt/fliegt man in den Urlaub, da es sich dann negativ auf die Emissionen auswirkt.
 - Ereigniskarten enthalten positive und negative Maßnahmen, die z.B. die Menge an Emissionen beeinflussen.
 	- Klimakleber verhindern den Weg
-- Wenn man auf ein Land kommt, kann man, solange es noch niemand anderes Besitzt, mit Spielgeld kaufen.
-- Wenn man auf ein Land kommt, welches schon jemand besitzt muss man entweder CO2 Emission des Besitzers aufnehmen, oder man zahlt Geld zum CO2 Ausgleich, und es findet kein CO2 Austausch statt.
-  ![](./Monopoly_Handel.png)
-- Wenn man über Start kommt, bekommt man ganz normal etwas Geld
-- Auf den Karten sollen zusätzlich kleine Infotexte stehen, um auch den Bildungsaspekt zu beinhalten.
-- Es könnte u.a. folgende Spielfiguren geben:
+- Wenn man auf ein Land kommt, kann man, solange es noch niemand anderes Besitzt, kaufen, indem man Emissionen aufnimmt.
+- Wenn man auf ein Land kommt, welches schon jemand besitzt muss man CO2 Emission des Besitzers aufnehmen, die Gesamtzahl der Emissionen bleibt in diesem Fall also gleich, nur die Verteilung ändert sich.
+- Oder man kann welche kaufen, indem wieder Emissionen aufnimmt, da bildlich gesehen, ein Baum aus dem Wald genommen wird, damit dieser als Upgrade verwendet werden kann. Der Baum stellt an dieser Stelle Ressourcen im Allgemeinen dar, und dass die Verwendung auch Auswirkungen auf die Umwelt haben.
+- Wenn man über Start kommt, gibt man eine gewisse Menge an Emissionen ab. 
+- Auf den Karten sollen zusätzlich kleine Infotexte stehen, um den Bildungsaspekt mit in das Spiel einzubringen.
+- Es könnten u.a. folgende Spielfiguren geben:
 	- Klimaaktivist
 	- Wissenschaftler
 	- Baum oder Blume (müsste sich von den anderen Bäumen unterscheiden)
 	- Windkraftanalage
 	- Eisbär (als betroffener des Klimawandels)
-- In der Mitte könnte ein Wald sein, wo man alle Bäume hinstellt, die man als Upgrade verwenden kann.
+- In der Mitte könnte ein Wald sein, wo man alle Bäume hinstellt, die man als Upgrade verwenden kann. Damit kann man, wie bereits gesagt, Upgrades durchführen. Auf der anderen Seite sieht man bei der Verwendung der Bäume, dass der Wald kleiner wird, was allgemein die begrenzten Ressourcen darstellen soll.
 - Man könnte Karten mit Zielen hinzufügen, die man auf bestimmten Feldern erhält, und mit denen man beim Erreichen der Ziele die CO2 Emissionen bei sich senkt.
-- Eventuell kann man das Spielgeld ganz weglassen, indem man beim Kauf eines Feldes nur mit CO2 Emissionen bezahlt.
-	- Wenn man zum Beispiel ein Kohlekraftwerk kauft, um es klimaneutral zu machen, muss man zunächst Emissionen aufnehmen, die die Nutzung des Kohlekraftwerks beschreibt. Wenn man Upgrades mit Bäumen hinzufügt, werden die Emissionen weniger, aber für den Nutzer teurer.
+- Wenn man zum Beispiel ein Kohlekraftwerk kauft, um es klimaneutral zu machen, muss man zunächst Emissionen aufnehmen, die die Nutzung des Kohlekraftwerks beschreibt. Wenn man Upgrades mit Bäumen hinzufügt, werden die Emissionen weniger, aber für den Nutzer teurer.
 
 ##### Felder
 
