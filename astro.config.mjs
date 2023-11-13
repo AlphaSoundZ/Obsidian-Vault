@@ -82,7 +82,7 @@ export default defineConfig({
             editLink: {
                 baseUrl: 'https://github.com/AlphaSoundZ/Obsidian-Vault/edit/app/',
             },
-            lastUpdated: true,
+            lastUpdated: false,
             pagination: false,
             favicon: '/favicon.png',
         }),
