@@ -99,6 +99,21 @@ weitere Felder:
 - Eine „Straße”, also mehrere Felder mit der gleichen Farbe bilden zusammen einen Aspekt, wie man den Klimawandel bekämpfen kann (z.B. eine Straße, mit verschiedenen Nationalparks)
 - Regierungsviertel, bei denen man Maßnahmen ergreifen kann, wie z.B. CO2-Steuer erhöhen
 
+##### Abhängigkeit zwischen den Spielern
+
+- Maximale Anzahl an Emissionen
+- Abhängigkeiten bei den Upgrades:
+	- Nachhaltige Baumaterialen: Architektur ←> Forschung
+	- Energiespeicherung: Forschung ←> Energie (Mindestens ein Gebäude)
+	- Wasserstoff-Autos: Auto ←> Forschung
+	- Fahrradvermietung: Umweltfreundliche Transportmittel ←> Fahrrad
+	- Biologische Produkte: Supermarkt ←> Landwirtschaft
+	- Wasserstoff betriebene Flugzeuge: Umweltfreundliche Transportmittel ←> Forschung
+	- Nachhaltige Energieversorgung: Architektur ←> Energie
+	- Umweltfreundliche Unterkünfte ←> Architektur
+
+[[Semesterarbeit Monopoly Adaption]]
+
 ## Anhänge
 
 Icons sind von: https://thenounproject.com/

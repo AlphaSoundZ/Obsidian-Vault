@@ -7,38 +7,38 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Die Macht der Sprache #Deutsch @[[13.11.23]]
-- [ ] Präsentation über einen Film/Serie @[[10.11.23]] #Englisch
-- [ ] Musik Song erstellen @[[19.12.23]] #Musik
 - [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 
 
 ## Done
 
 **Fertiggestellt**
+- [x] Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
 
 
 ## Archiv
 
+- [ ] Musik Song erstellen @[[19.12.23]] #Musik
+- [ ] Präsentation über einen Film/Serie @[[10.11.23]] #Englisch/CrimeAndPunishment
+- [ ] Die Macht der Sprache #Deutsch @[[13.11.23]]
 - [ ] Klausur #Geographie @[[08.11.23]]
 - [ ] Sprachanalyse #Deutsch @[[06.11.23]]
 - [ ] Analyse des Designobjektes Duplo-Stein #Kunst @[[05.10.23]]
 - [ ] Aufgaben siehe Iserv @[[26.09.23]] #Philosophie
-- [ ] Mediation Task @[[06.10.23]] #Englisch
+- [ ] Mediation Task @[[06.10.23]] #Englisch/CrimeAndPunishment
 - [ ] Woyzeck 5. Szene Dramenanalyse @[[04.10.23]] #Deutsch
-- [ ] Sherlock Prep. Tasks @[[27.09.23]] #Englisch
+- [ ] Sherlock Prep. Tasks @[[27.09.23]] #Englisch/CrimeAndPunishment
 - [ ] Szenenreihenfolge Woyzeck @[[20.09.23]] #Deutsch
 - [ ] Erkenntnistheorie Grundlagen #Philosophie @[[12.09.23]]
-- [ ] The Yellow Wallpaper #Englisch @[[12.09.23]]
-- [ ] Aufgabe 1 & 2 "A masterpiece of storytelling" #Englisch @[[05.09.23]]
+- [ ] The Yellow Wallpaper #Englisch/CrimeAndPunishment @[[12.09.23]]
+- [ ] Aufgabe 1 & 2 "A masterpiece of storytelling" #Englisch/CrimeAndPunishment @[[05.09.23]]
 - [ ] Wachstum und Grenzen des Wirtschaftswachstums #PGW @[[04.09.23]]
-- [ ] Research @[[01.09.23]] #Englisch
+- [ ] Research @[[01.09.23]] #Englisch/CrimeAndPunishment
 - [ ] Aufgaben A1 - A3 bearbeiten #Physik @[[06.07.23]]
 - [ ] Kurze Erläuterung fertig stellen #PGW @[[29.06.23]]
 - [ ] Aufgaben siehe Email @[[30.06.23]] #Deutsch
 - [ ] Doku anschauen und Notizen machen #PGW @[[27.06.23]]
 - [ ] Präsentation für Berufsfeldanalyse erstellen #Seminar @[[26.06.23]]
-- [ ] Phase 5 (siehe AB) @[[23.06.23]] #Englisch
 - [ ] Aufgabe 1 & 2 S. 290 @[[21.06.23]] #Deutsch
 - [ ] Aufgaben zum Expressionismus @[[14.06.23]] #Deutsch
 - [ ] Aufgabe B und C @[[22.06.23]] #Physik
