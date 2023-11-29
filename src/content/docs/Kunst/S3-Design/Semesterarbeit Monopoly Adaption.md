@@ -8,7 +8,7 @@ tags:
 
 ### Stadtplanung (3)
 
-#### Architektur
+#### Hausbau
 
 - Verbesserte Wärmedämmung
 - Nachhaltige Baumaterialien
@@ -124,7 +124,7 @@ tags:
 
 ### Bildung und Forschung (2)
 
-#### Schulen
+#### Bildung
 
 - Bildung über Nachhaltigkeit
 - Bildung über Klimawandel
