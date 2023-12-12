@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
 - [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 
 

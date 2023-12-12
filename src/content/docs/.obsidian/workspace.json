@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9af69ff49ee571c3",
+        "id": "ba2c046b4662f027",
         "type": "tabs",
         "children": [
           {
-            "id": "8e67b7d0510b5ae0",
+            "id": "f71f5259a81aa61e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Programming/Time tracker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -75,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5,
-    "collapsed": true
+    "width": 524.5
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Programming/Time tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Programming/Time tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Programming/Time tracker.md"
               }
             }
           },
@@ -169,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Programming/Time tracker.md"
               }
             }
           }
@@ -187,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Programming/Time tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,38 +257,39 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8e67b7d0510b5ae0",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
-    "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
-    "Kunst/S3-Design/Semesterarbeit Monopoly Adaption.md",
+    "Daily Notes/15.12.23.md",
+    "Programming/Admark AI/Verhandlung.md",
+    "Mathe/Vektoren und Vektorgleichungen.md",
     "Task List.md",
+    "Philosophie/PL - Induktion/Deduktion.md",
+    "Philosophie/PL - Induktion/Induktion.md",
+    "Daily Notes/12.09.23.md",
+    "Daily Notes/26.09.23.md",
+    "Philosophie/PL - Induktion/Zirkelschluss.md",
+    "Philosophie/PL - Induktion/Satz vom Widerspruch.md",
+    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
+    "Philosophie/PL - Induktion/Induktionsproblem.md",
+    "Daily Notes/04.09.23.md",
+    "Kunst/S3-Design/Semesterarbeit Monopoly Adaption.md",
+    "Daily Notes/08.12.23.md",
+    "Daily Notes/Unbenannt.md",
+    "Programming/Admark AI",
+    "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
     "Kunst/S2-Architektur/Semesterarbeit.md",
     "Daily Notes/24.11.23.md",
-    "Daily Notes/08.12.23.md",
     "Daily Notes/19.12.23.md",
     "Daily Notes/23.06.23.md",
     "Daily Notes/01.09.23.md",
     "Daily Notes/05.09.23.md",
-    "Daily Notes/12.09.23.md",
     "Daily Notes/27.09.23.md",
     "Daily Notes/06.10.23.md",
     "Daily Notes/10.11.23.md",
-    "Daily Notes/13.11.23.md",
-    "mathe jona.md",
     "Daily Notes/Konzeptionelle_Muendlichkeit_und_Schriftlichkeit.pdf",
-    "Rules.md",
-    "Daily Notes/08.11.23.md",
-    "Geographie/Unbenannt.md",
     "Kunst/S3-Design/design_analyse_schreiben.pdf",
-    "Kunst/S3-Design/Geschichte des Designs.md",
-    "Kunst/S3-Design/Geschichte des Spielzeugs.md",
     "Kunst/S3-Design/Beispiel_Feld.png",
     "Kunst/S3-Design/Monopoly_Handel.png",
-    "Physik/Magnetfelder.md",
-    "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md",
-    "Philosophie/PL - Induktion/Induktionsproblem.md",
-    "Physik/Kreisbewegung.md",
-    "Physik/Lorentzkraft.md",
     "Physik/Pasted image 20231102131543.png",
     "Philosophie/PL - Induktion",
     "Seminar/PXL_20230606_120414504.jpg",
@@ -302,7 +305,6 @@
     "Physik/magnetfeld_spule.png",
     "Physik/MagnetfeldSpuleLoesung3.png.crdownload",
     "Englisch/S3 Crime and Punishment in Literature and Film/Nicht bestätigt 703851.crdownload",
-    "Physik/Kreisbewegung.mdx",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

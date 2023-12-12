@@ -6,8 +6,6 @@ tags:
 
 # Vektoren Und Vektorgleichungen
 
-# Vektoren
-
 ## Notation
 
 $$

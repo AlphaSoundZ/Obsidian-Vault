@@ -8,7 +8,7 @@ tags:
 
 ### Stadtplanung (3)
 
-#### Hausbau
+#### Bauen
 
 - Verbesserte Wärmedämmung
 - Nachhaltige Baumaterialien
