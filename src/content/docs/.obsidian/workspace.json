@@ -74,11 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 257.5
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -161,7 +162,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -241,14 +244,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "workspaces:Workspace-Layouts verwalten": false,
-      "random-note:Zufällige Notiz öffnen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "notion-like-tables:Create new loom": false,
       "obsidian-file-cleaner:Clean files": false,
@@ -257,7 +260,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "f71f5259a81aa61e",
   "lastOpenFiles": [
     "Daily Notes/15.12.23.md",
     "Programming/Admark AI/Verhandlung.md",
