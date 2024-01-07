@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
       "basename": "Time tracker",
       "path": "Programming/Time tracker.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Vektoren und Vektorgleichungen",
       "path": "Mathe/Vektoren und Vektorgleichungen.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "12.09.23",

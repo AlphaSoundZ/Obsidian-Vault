@@ -7,14 +7,10 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
-- [ ] Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 
 
 ## Done
 
-**Fertiggestellt**
-- [x] Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
 
 
 ## Archiv
@@ -58,11 +54,14 @@ kanban-plugin: basic
 
 ***
 
-## Archiv
+## Archive
 
-- [x] 31.05.23 : Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
-- [x] 31.05.23 : Klausurvorbereitung #Informatik @[[22.05.23]]
-- [x] 31.05.23 : Berufsfeldanalyse @[[24.05.23]] #Seminar
+- [x] 07.01.24 : 31.05.23 : Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
+- [x] 07.01.24 : 31.05.23 : Klausurvorbereitung #Informatik @[[22.05.23]]
+- [x] 07.01.24 : 31.05.23 : Berufsfeldanalyse @[[24.05.23]] #Seminar
+- [ ] 07.01.24 : Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
+- [ ] 07.01.24 : 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
+- [x] 07.01.24 : Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
 
 %% kanban:settings
 ```
