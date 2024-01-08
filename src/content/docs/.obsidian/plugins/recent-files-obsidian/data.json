@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Zusammenfassungen schreiben",
+      "path": "Deutsch/Zusammenfassungen schreiben.md"
+    },
+    {
+      "basename": "Erörterung schreiben",
+      "path": "Deutsch/Erörterung schreiben.md"
+    },
+    {
+      "basename": "In ein Bild eintreten",
+      "path": "Kunst/S4-Fotographie/In ein Bild eintreten.md"
+    },
+    {
+      "basename": "Rules",
+      "path": "Rules.md"
+    },
+    {
+      "basename": "Fotographie Geschichte",
+      "path": "Kunst/S4-Fotographie/Fotographie Geschichte.md"
+    },
+    {
       "basename": "Task List",
       "path": "Task List.md"
     },
@@ -109,10 +129,6 @@
       "path": "Daily Notes/13.11.23.md"
     },
     {
-      "basename": "Rules",
-      "path": "Rules.md"
-    },
-    {
       "basename": "404",
       "path": "404.mdx"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Religionsphilosophie",
       "path": "Philosophie/Religionsphilosophie.md"
-    },
-    {
-      "basename": "05.10.23",
-      "path": "Daily Notes/05.10.23.md"
-    },
-    {
-      "basename": "Korrelationen",
-      "path": "Mathe/Korrelationen.md"
-    },
-    {
-      "basename": "Teleologischer Gottesbeweis",
-      "path": "Philosophie/PL - Teleologischer Gottesbeweis/Teleologischer Gottesbeweis.md"
-    },
-    {
-      "basename": "Meine supertolle Zukunft Lebensweg Vorstellungen",
-      "path": "Seminar/Meine supertolle Zukunft Lebensweg Vorstellungen.md"
     }
   ],
   "omittedPaths": [],
