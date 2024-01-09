@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Acknowledgement in Canada",
+      "path": "Englisch/S4/Acknowledgement in Canada.md"
+    },
+    {
+      "basename": "Arch Linux",
+      "path": "Arch Linux.md"
+    },
+    {
+      "basename": "404",
+      "path": "404.mdx"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "09.01.24",
+      "path": "Daily Notes/09.01.24.md"
+    },
+    {
       "basename": "Zusammenfassungen schreiben",
       "path": "Deutsch/Zusammenfassungen schreiben.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Fotographie Geschichte",
       "path": "Kunst/S4-Fotographie/Fotographie Geschichte.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "Time tracker",
@@ -129,10 +145,6 @@
       "path": "Daily Notes/13.11.23.md"
     },
     {
-      "basename": "404",
-      "path": "404.mdx"
-    },
-    {
       "basename": "08.11.23",
       "path": "Daily Notes/08.11.23.md"
     },
@@ -185,20 +197,8 @@
       "path": "Deutsch/Das Weiße Band.md"
     },
     {
-      "basename": "Arch Linux",
-      "path": "Arch Linux.md"
-    },
-    {
       "basename": "Productivity Plan and Strategies",
       "path": "Productivity Plan and Strategies.md"
-    },
-    {
-      "basename": "overview",
-      "path": "overview.md"
-    },
-    {
-      "basename": "Religionsphilosophie",
-      "path": "Philosophie/Religionsphilosophie.md"
     }
   ],
   "omittedPaths": [],
