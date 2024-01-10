@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "Politische Sprache",
+      "path": "Deutsch/S4 Sprache/Politische Sprache.md"
+    },
+    {
+      "basename": "Sprachvarietäten",
+      "path": "Deutsch/S4 Sprache/Sprachvarietäten.md"
+    },
+    {
+      "basename": "Woyzeck",
+      "path": "Deutsch/S3 Woyzeck/Woyzeck.md"
+    },
+    {
+      "basename": "Zusammenfassungen schreiben",
+      "path": "Deutsch/Zusammenfassungen schreiben.md"
+    },
+    {
+      "basename": "Stochastik",
+      "path": "Mathe/Stochastik.md"
+    },
+    {
       "basename": "17.01.24",
       "path": "Daily Notes/17.01.24.md"
     },
     {
       "basename": "Screenshot-2024-01-10-085702",
       "path": "Daily Notes/Screenshot-2024-01-10-085702.png"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "Discussion about UK and India",
@@ -31,10 +51,6 @@
     {
       "basename": "09.01.24",
       "path": "Daily Notes/09.01.24.md"
-    },
-    {
-      "basename": "Zusammenfassungen schreiben",
-      "path": "Deutsch/Zusammenfassungen schreiben.md"
     },
     {
       "basename": "Erörterung schreiben",
@@ -183,22 +199,6 @@
     {
       "basename": "Magnetfelder",
       "path": "Physik/Magnetfelder.md"
-    },
-    {
-      "basename": "Lorentzkraft",
-      "path": "Physik/Lorentzkraft.md"
-    },
-    {
-      "basename": "Kreisbewegung",
-      "path": "Physik/Kreisbewegung.md"
-    },
-    {
-      "basename": "Elektrische Felder",
-      "path": "Physik/Elektrische Felder.md"
-    },
-    {
-      "basename": "06.11.23",
-      "path": "Daily Notes/06.11.23.md"
     }
   ],
   "omittedPaths": [],
