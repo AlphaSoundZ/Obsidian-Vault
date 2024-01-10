@@ -10,3 +10,7 @@ tags: []
 - Criticism of Canada's hypocrisy in addressing historical mistreatment, citing instances like the Muskrat Falls project
 - Shift in focus from "What's wrong with them?" to "What's wrong with us?"
 - Suggestions to make acknowledgments more genuine, reflecting the multicultural contradiction – every refugee is also a settler.
+
+## Anhänge
+
+https://www.newyorker.com/culture/culture-desk/canadas-impossible-acknowledgment

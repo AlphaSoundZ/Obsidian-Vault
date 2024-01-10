@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Erdöl Aufgaben #Geographie @[[17.01.24]]
 
 
 ## Done

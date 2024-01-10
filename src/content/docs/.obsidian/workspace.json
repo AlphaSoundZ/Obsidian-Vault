@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4e9399b984c8307",
+        "id": "83472959430c8e14",
         "type": "tabs",
         "children": [
           {
-            "id": "cde00371db5d173f",
+            "id": "cabde8bf4776d396",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "src/content/docs/404.mdx",
-                "staged": false
+                "file": "Daily Notes/17.01.24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 458.5024719238281
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -93,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily Notes/17.01.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Notes/17.01.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/17.01.24.md"
+              }
             }
           },
           {
@@ -166,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Daily Notes/17.01.24.md"
+              }
             }
           }
         ],
@@ -183,6 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Daily Notes/17.01.24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,14 +259,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cde00371db5d173f",
+  "active": "cabde8bf4776d396",
   "lastOpenFiles": [
-    "Englisch/S4/Acknowledgement in Canada.md",
+    "Daily Notes/Screenshot-2024-01-10-085702.png",
+    "Daily Notes/17.01.24.md",
+    "Daily Notes/Screenshot 2024-01-10 085702 1.png",
+    "Task List.md",
+    "Discussion about UK and India.pdf",
+    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Acknowledgement in Canada.md",
+    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Discussion about UK and India.md",
     "Arch Linux.md",
     "404.mdx",
     "Untitled",
     "Englisch/S4",
-    "Task List.md",
     "Daily Notes/09.01.24.md",
     "Deutsch/Erörterung schreiben.md",
     "Deutsch/Zusammenfassungen schreiben.md",
@@ -279,10 +293,7 @@
     "Philosophie/PL - Induktion/Induktionsproblem.md",
     "Daily Notes/04.09.23.md",
     "Kunst/S3-Design/Semesterarbeit Monopoly Adaption.md",
-    "Daily Notes/08.12.23.md",
-    "Daily Notes/Unbenannt.md",
     "Programming/Admark AI",
-    "Kunst/S3-Design/Semesterarbeit - Spieldesign.md",
     "Daily Notes/Konzeptionelle_Muendlichkeit_und_Schriftlichkeit.pdf",
     "Kunst/S3-Design/design_analyse_schreiben.pdf",
     "Kunst/S3-Design/Beispiel_Feld.png",
@@ -295,9 +306,6 @@
     "Informatik/Netzwerk/image1.png",
     "Geographie/S2/Harvestehude/Untitled6.png",
     "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
-    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/sherlock_holmes_ans_iphone_bitte.pdf",
-    "Deutsch/S2 Lyrik/Daemmerung/Untitled.png",
-    "Physik/magnetfeld_spule.png",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

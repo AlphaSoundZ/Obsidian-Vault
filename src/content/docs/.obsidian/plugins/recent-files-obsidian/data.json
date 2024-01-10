@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "17.01.24",
+      "path": "Daily Notes/17.01.24.md"
+    },
+    {
+      "basename": "Screenshot-2024-01-10-085702",
+      "path": "Daily Notes/Screenshot-2024-01-10-085702.png"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "Discussion about UK and India",
+      "path": "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Discussion about UK and India.md"
+    },
+    {
       "basename": "Acknowledgement in Canada",
-      "path": "Englisch/S4/Acknowledgement in Canada.md"
+      "path": "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Acknowledgement in Canada.md"
     },
     {
       "basename": "Arch Linux",
@@ -11,10 +27,6 @@
     {
       "basename": "404",
       "path": "404.mdx"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "09.01.24",
@@ -187,18 +199,6 @@
     {
       "basename": "06.11.23",
       "path": "Daily Notes/06.11.23.md"
-    },
-    {
-      "basename": "Woyzeck",
-      "path": "Deutsch/S3 Woyzeck/Woyzeck.md"
-    },
-    {
-      "basename": "Das Weiße Band",
-      "path": "Deutsch/Das Weiße Band.md"
-    },
-    {
-      "basename": "Productivity Plan and Strategies",
-      "path": "Productivity Plan and Strategies.md"
     }
   ],
   "omittedPaths": [],
