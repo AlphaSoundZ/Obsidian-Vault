@@ -5,6 +5,18 @@
       "path": "Task List.md"
     },
     {
+      "basename": "11.01.24",
+      "path": "Daily Notes/11.01.24.md"
+    },
+    {
+      "basename": "Bildanalyse einer Photographie",
+      "path": "Kunst/S4-Fotographie/Bildanalyse einer Photographie.md"
+    },
+    {
+      "basename": "In ein Bild eintreten",
+      "path": "Kunst/S4-Fotographie/In ein Bild eintreten.md"
+    },
+    {
       "basename": "Politische Sprache",
       "path": "Deutsch/S4 Sprache/Politische Sprache.md"
     },
@@ -55,10 +67,6 @@
     {
       "basename": "Erörterung schreiben",
       "path": "Deutsch/Erörterung schreiben.md"
-    },
-    {
-      "basename": "In ein Bild eintreten",
-      "path": "Kunst/S4-Fotographie/In ein Bild eintreten.md"
     },
     {
       "basename": "Rules",
@@ -191,14 +199,6 @@
     {
       "basename": "Beispiel_Feld",
       "path": "Kunst/S3-Design/Beispiel_Feld.png"
-    },
-    {
-      "basename": "Monopoly_Handel",
-      "path": "Kunst/S3-Design/Monopoly_Handel.png"
-    },
-    {
-      "basename": "Magnetfelder",
-      "path": "Physik/Magnetfelder.md"
     }
   ],
   "omittedPaths": [],

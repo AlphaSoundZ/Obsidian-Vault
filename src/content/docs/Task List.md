@@ -13,6 +13,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] Kunst Aufgabe #Kunst/Fotographie @[[11.01.24]]
 
 
 ## Archiv
