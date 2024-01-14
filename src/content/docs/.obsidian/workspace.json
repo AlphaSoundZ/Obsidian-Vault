@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1a5a1080913eb6",
+        "id": "833c3613d5008ade",
         "type": "tabs",
         "children": [
           {
-            "id": "a29905c83068c820",
+            "id": "00572075105b85d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kunst/S4-Fotographie/In ein Bild eintreten.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e73f4f6867f22186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/11.01.24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/11.01.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/11.01.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/11.01.24.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Daily Notes/11.01.24.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -205,7 +180,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/11.01.24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +217,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.45050811767578247,
+                  "scale": 2.569283255088441,
                   "close": true
                 }
               }
@@ -270,23 +244,31 @@
       "obsidian-file-cleaner:Clean files": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e73f4f6867f22186",
+  "active": "00572075105b85d7",
   "lastOpenFiles": [
+    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.md",
+    "Deutsch/S4 Sprache/Pasted Image 20240114235113_546.svg",
+    "Deutsch/S4 Sprache/Politische Sprache.md",
+    "Deutsch/S4 Sprache/Sprachvarietäten.md",
+    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw",
+    "Daily Notes/15.01.24.md",
     "Task List.md",
+    "Daily Notes/12.01.24.md",
+    "Daily Notes/16.01.24.md",
+    "Mathe/Stochastik.md",
+    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Untitled.md",
     "Daily Notes/11.01.24.md",
     "Kunst/S4-Fotographie/In ein Bild eintreten.md",
     "Kunst/().md",
     "Kunst/S4-Fotographie/Bildanalyse einer Photographie.md",
     "Physik/Quantenphysik",
-    "Deutsch/S4 Sprache/Politische Sprache.md",
-    "Deutsch/S4 Sprache/Sprachvarietäten.md",
     "Deutsch/S3 Woyzeck/Woyzeck.md",
     "Deutsch/S4 Sprache",
     "Deutsch/Zusammenfassungen schreiben.md",
-    "Mathe/Stochastik.md",
     "Daily Notes/Screenshot-2024-01-10-085702.png",
     "Daily Notes/17.01.24.md",
     "Daily Notes/Screenshot 2024-01-10 085702 1.png",
@@ -304,15 +286,8 @@
     "Untitled.md",
     "Kunst/S4-Fotographie",
     "Daily Notes/15.12.23.md",
-    "Programming/Admark AI/Verhandlung.md",
-    "Mathe/Vektoren und Vektorgleichungen.md",
-    "Philosophie/PL - Induktion/Deduktion.md",
-    "Philosophie/PL - Induktion/Induktion.md",
-    "Daily Notes/12.09.23.md",
-    "Daily Notes/26.09.23.md",
     "Programming/Admark AI",
     "Daily Notes/Konzeptionelle_Muendlichkeit_und_Schriftlichkeit.pdf",
-    "Kunst/S3-Design/design_analyse_schreiben.pdf",
     "Kunst/S3-Design/Beispiel_Feld.png",
     "Kunst/S3-Design/Monopoly_Handel.png",
     "Physik/Pasted image 20231102131543.png",
@@ -320,7 +295,6 @@
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Informatik/Netzwerk/image1.png",
     "Geographie/S2/Harvestehude/Untitled6.png",
-    "Geographie/S2/Harvestehude/Aufgabe/nse-5888120634512996870-1513468860.jpg",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

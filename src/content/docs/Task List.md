@@ -7,6 +7,8 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Task #Englisch  @[[16.01.24]]
+- [ ] notes #Englisch @[[12.01.24]]
 - [ ] Mindmap (für die erste 95 Zeilen) #Deutsch @[[15.01.24]]
 - [ ] Erdöl Aufgaben #Geographie @[[17.01.24]]
 

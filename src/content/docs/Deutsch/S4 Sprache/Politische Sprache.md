@@ -57,4 +57,6 @@ tags:
 - Kritik an der Dominanz der Medien in der Politik.
 - Beschreibt eine Situation, in der die Medien die Politik bestimmen und politische Entscheidungen stark von ihrer medialen Darstellung beeinflusst werden.
 
+![[mindmap_deutsch_politische_sprache.excalidraw]]
+
 ## Anhänge
