@@ -42,3 +42,9 @@ Für große N und viele Versuche (Ebenen im Baumdiagramm) geht die (diskrete) No
 $$
 f(x | \mu, \sigma) = \frac{1}{\sigma \sqrt{2\pi}} \exp\left(-\frac{(x - \mu)^2}{2\sigma^2}\right)
 $$
+Wenn eine Zufallsgröße normalverteilt ist (also Ergebnis einer großen Anzahl von Laplace-Experimenten ist), dann gilt der folgende Zusammenhang zwischen der Varianz und p:
+$$
+\sigma^2=n \cdot p \cdot (1-p)
+$$
+
+## Hypothesentest

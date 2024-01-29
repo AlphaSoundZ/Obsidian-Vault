@@ -39,12 +39,34 @@ title: Fotographie
 
 - Bildfläche Metall → mithilfe von Beschichtung konnte Papier verwendet werden
 - Bild musste nachgebessert werden
-- Bildqualität war nicht so gut wie bei der Daguerreotypie
 
 ### Kalotypie
 
 - Negativbild erstellen, um mehrere Drucke zu ermöglichen
 
-## Inwiefern kann man mit Fotographie die Realität abbilden/einfangen?
+## Entscheidende Entwicklungsschritte
+
+- Veränderung des Materials für die Bildfläche → Bilder länger haltbar machen, beständiger
+- Fixierung der Belichtung mit Kochsalz
+- Mehrere Drucke durch Negativ/Positivdruck
+
+## Einfluss der technischen Möglichkeiten
+
+### Ästhetik
+
+- Eine höhere Auflösung bietet mehr Möglichkeiten für Ästhetik
+	- Makro-Aufnahmen?
+- Veränderung des Materials für die Bildfläche
+
+### Bildgestaltung
+
+- Größe der Kamera (Mobilität)
+
+### Motiv
+
+- Kürzere Belichtungszeit
+	- realistischere Bilder möglich
+	- weniger gestellt
+	- Aufnahmen von Bewegungen möglich
 
 ## Anhänge

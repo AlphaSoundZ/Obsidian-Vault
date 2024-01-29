@@ -7,19 +7,25 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Task #Englisch  @[[16.01.24]]
-- [ ] notes #Englisch @[[12.01.24]]
-- [ ] Mindmap (für die erste 95 Zeilen) #Deutsch @[[15.01.24]]
-- [ ] Erdöl Aufgaben #Geographie @[[17.01.24]]
+- [ ] Read the exceprt from the hunger games and take notes... #Englisch @[[26.01.24]]
+- [ ] Kunst Aufgaben #Kunst
+- [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[08.02.24]]
 
 
 ## Done
 
-- [ ] Kunst Aufgabe #Kunst/Fotographie @[[11.01.24]]
 
 
 ## Archiv
 
+- [ ] Schwachstellen und Angriffsstellen ausfüllen (letzte Deutsch Datei) #Deutsch @[[24.01.24]]
+- [ ] Kriterien für einen gerechten Krieg #Philosophie @[[23.01.24]]
+- [ ] Text lesen siehe IServ @[[22.01.24]] #Deutsch
+- [ ] Erdöl Aufgaben #Geographie @[[17.01.24]]
+- [ ] Task #Englisch  @[[16.01.24]]
+- [ ] Mindmap (für die erste 95 Zeilen) #Deutsch @[[15.01.24]]
+- [ ] notes #Englisch @[[12.01.24]]
+- [ ] Kunst Aufgabe #Kunst/Fotographie @[[11.01.24]]
 - [ ] Musik Song erstellen @[[19.12.23]] #Musik
 - [ ] Präsentation über einen Film/Serie @[[10.11.23]] #Englisch/CrimeAndPunishment
 - [ ] Die Macht der Sprache #Deutsch @[[13.11.23]]

@@ -17,5 +17,6 @@
     "downscalePercent": 87
   },
   "userIgnoreFilters": null,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "readableLineLength": false
 }

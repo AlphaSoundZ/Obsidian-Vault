@@ -31,9 +31,18 @@ tags:
 8. Politiker müssen ihre Botschaften mediengerecht, exakt, prägnant und verständlich übermitteln.
 9. Mediale Erfahrung und rhetorische Geschultheit sind Kernkompetenzen politischer Akteure.
 
-### Entscheidungspolitik vs. Darstellungspolitik
+### Entscheidungspolitik
 
-#### Grundfunktionen der Sprache (Darstellungspolitik)
+- Nichtöffentlich
+- Bestimmte Verfahren müssen eingehalten werden (z.B. Gesetzgebung)
+
+### Darstellungspolitik
+
+- Öffentlich
+- Medienvermittelt
+- Zustimmungsbereitschaft erzeugen
+
+### Grundfunktionen der Sprache (Darstellungspolitik)
 
 1. **Persuasion (Überredung):** Sprache dient dazu, Meinungen und Einstellungen zu beeinflussen und Vertrauen in politische Akteure zu schaffen.
 
@@ -45,18 +54,65 @@ tags:
 
 5. **Aktive politische Partizipation:** Sprache fördert die Beteiligung der Bürger an politischen Prozessen durch Diskussion, Informationsaustausch und politische Mitarbeit.
 
-### Massenmediale Merkmale
-
-#### Politainment
+### Politainment
 
 - Kritik an der Vermischung von Politik und Unterhaltung.
 - Bezieht sich auf den Unterhaltungscharakter politischer Kommunikation, der den Fokus auf Unterhaltung und Dramatisierung legt.
 
-#### Mediokratie
+### Mediokratie
 
 - Kritik an der Dominanz der Medien in der Politik.
 - Beschreibt eine Situation, in der die Medien die Politik bestimmen und politische Entscheidungen stark von ihrer medialen Darstellung beeinflusst werden.
 
 ![[mindmap_deutsch_politische_sprache.excalidraw]]
+
+### Semantische Kämpfe
+
+Vom eigenen Verständnis eines Begriffs andere überzeugen (das eigene Verständnis sei die richtige)
+
+### Schlagwörter
+
+Ideologievokabular. Diese können verschiedene Wertungen haben - positive und negative. Diese Wörter haben eine dreifache Leistung: bezeichnet, bewertet, fordert
+
+### Bedeutungskonkurrenz
+
+Ein Begriff hat mehrere Bedeutungen. Z.B. Leistungsträger, Krieg
+
+Kann zu Missverständnissen zwischen Politikern und Bürgern führen.
+
+### Bezeichnungskonkurrenz
+
+Mehrere Begriffe für eine Bedeutung. Die Begriffe erzeugen möglicherweise eine andere Wirkung bzw. haben einen anderen Effekt.
+### Prinzipientropos
+## Mündliche und Schriftliche Texttypen
+
+| Typ                 | Merkmale                                                                                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| politische Rede     | mündliche Präsentationsform (meistens auf schriftlicher Basis), oft anlassbezogen, klarer Kommunikationsrahmen, Beziehung zwischen Redner:in und Publikum |
+| Parteiprogramm      | sachlich, formell, gegliedert, addressatenbezogen, Ziele der Partei, Persuation                                                                                                                                                        |
+| politische Talkshow | mündliche Diskussionsform (intuitiv), klarer Kommunikationsrahmen, Beziehung zwischen verschiedenen Redner:innen und Moderator:in                                                                                                                                                       |
+| Debatte             |                                                                                                                                                        |
+| Interview           |                                                                                                                                                        |
+| Weblog              |                                                                                                                                                        |
+| Twitter/X           | Kurzlebig, direkt (da die Nachrichtenlänge begrenzt ist), direktes Feedback von jedem möglich                                                                                                                                                       |
+| Podcast             | Zielgerecht, begrenzte Interessensgruppe (Follower)                                                                                                                                                       |
+
+## Politolinguistik
+
+### Denotation
+
+Ein Wort bezeichnet eine Sache, Wort ohne Wertung
+
+### Konnotation
+
+Ein Wort bringt eine Nebenbedeutung mit sich, die entweder positiv oder negativ ist.
+
+### Deontik
+
+Ein Wort, welches durch dessen Wirkung stark geprägt ist.
+
+Beispiel: Ungeziefer → Ungeziefer muss entfernt werden
+
+=> appellativ
 
 ## Anhänge

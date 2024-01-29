@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "833c3613d5008ade",
+        "id": "f15c47267a2d7ce5",
         "type": "tabs",
         "children": [
           {
-            "id": "00572075105b85d7",
+            "id": "9ad664dfa46f8562",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Task List.md"
+              }
             }
           }
         ]
@@ -82,7 +84,7 @@
       {
         "id": "26c56f43a1884e10",
         "type": "tabs",
-        "dimension": 58.764367816091955,
+        "dimension": 58.748778103616814,
         "children": [
           {
             "id": "9aa105bf04317fd1",
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           },
           {
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           }
         ],
@@ -172,7 +180,7 @@
       {
         "id": "179a1f74e066dc47",
         "type": "tabs",
-        "dimension": 41.235632183908045,
+        "dimension": 41.251221896383186,
         "children": [
           {
             "id": "af29c05cdefb2948",
@@ -180,6 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,7 +226,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.569283255088441,
+                  "scale": 0.8090062898013026,
                   "close": true
                 }
               }
@@ -227,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 475.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,53 +258,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00572075105b85d7",
+  "active": "9ad664dfa46f8562",
   "lastOpenFiles": [
-    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.md",
-    "Deutsch/S4 Sprache/Pasted Image 20240114235113_546.svg",
-    "Deutsch/S4 Sprache/Politische Sprache.md",
-    "Deutsch/S4 Sprache/Sprachvarietäten.md",
-    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw",
-    "Daily Notes/15.01.24.md",
+    "Daily Notes/26.01.24.md",
     "Task List.md",
-    "Daily Notes/12.01.24.md",
-    "Daily Notes/16.01.24.md",
-    "Mathe/Stochastik.md",
-    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Untitled.md",
-    "Daily Notes/11.01.24.md",
-    "Kunst/S4-Fotographie/In ein Bild eintreten.md",
-    "Kunst/().md",
-    "Kunst/S4-Fotographie/Bildanalyse einer Photographie.md",
-    "Physik/Quantenphysik",
-    "Deutsch/S3 Woyzeck/Woyzeck.md",
-    "Deutsch/S4 Sprache",
+    "Daily Notes/23.01.24.md",
+    "Philosophie/S4 - Wege zu einer gesicherten Friedensordnung zwischen Staaten.md",
     "Deutsch/Zusammenfassungen schreiben.md",
-    "Daily Notes/Screenshot-2024-01-10-085702.png",
+    "Daily Notes/22.01.24.md",
+    "Deutsch/S4 Sprache/Sprachvarietäten.md",
+    "Deutsch/S4 Sprache/Politische Sprache.md",
+    "Mathe/Stochastik.md",
+    "PGW/Wachstumspositionen.md",
+    "Seminar/Chancen und Risiken von KI.md",
+    "Deutsch/S4 Sprache/Argumentationstypen.md",
+    "Daily Notes/16.01.24.md",
+    "Kunst/S4-Fotographie/In ein Bild eintreten.md",
+    "Daily Notes/11.01.24.md",
+    "Physik/Quantenphysik/Photonen.md",
+    "Physik/Aufgabe Doppelspalt.md",
+    "Daily Notes/15.01.24.md",
     "Daily Notes/17.01.24.md",
+    "Daily Notes/17.01.24 2024-01-17 08.12.33.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-01-17 08.11.46.excalidraw.md",
+    "Philosophie/Das Geiger-Dilemma.md",
+    "Admark-AI",
+    "Daily Notes/12.01.24.md",
+    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.md",
+    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.png",
+    "Deutsch/S4 Sprache/Pasted Image 20240114235113_546.svg",
+    "Kunst/S4-Fotographie/Fotographie Geschichte.md",
+    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw",
+    "Physik/Quantenphysik",
+    "Deutsch/S4 Sprache",
+    "Daily Notes/Screenshot-2024-01-10-085702.png",
     "Daily Notes/Screenshot 2024-01-10 085702 1.png",
     "Discussion about UK and India.pdf",
-    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Acknowledgement in Canada.md",
-    "Englisch/S3-Crime-and-Punishment-in-Literature-and-Film/Discussion about UK and India.md",
-    "Arch Linux.md",
     "404.mdx",
-    "Untitled",
     "Englisch/S4",
-    "Daily Notes/09.01.24.md",
-    "Deutsch/Erörterung schreiben.md",
-    "Rules.md",
-    "Kunst/S4-Fotographie/Fotographie Geschichte.md",
-    "Untitled.md",
-    "Kunst/S4-Fotographie",
-    "Daily Notes/15.12.23.md",
-    "Programming/Admark AI",
-    "Daily Notes/Konzeptionelle_Muendlichkeit_und_Schriftlichkeit.pdf",
     "Kunst/S3-Design/Beispiel_Feld.png",
     "Kunst/S3-Design/Monopoly_Handel.png",
     "Physik/Pasted image 20231102131543.png",
     "Seminar/PXL_20230606_120414504.jpg",
     "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
-    "Informatik/Netzwerk/image1.png",
-    "Geographie/S2/Harvestehude/Untitled6.png",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
