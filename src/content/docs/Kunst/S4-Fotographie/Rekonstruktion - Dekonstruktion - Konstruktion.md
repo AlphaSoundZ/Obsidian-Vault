@@ -15,12 +15,16 @@ tags:
 	- Filter
 	- Einfärbung von Farbflächen (Himmel)
 	- Kolorierung
-	- Veränderung des Gesichtszugs (Frau vorne links)
+	- Veränderung des Gesichtszugs (Frau vorne links), um sie weiter von den anderen Personen abzuheben
 	- Verfremdung der Gesichter der restlichen Personen
 3. **Konstruktion**
 	Konstruiere neu! Nutze das Motiv oder die Gesamtkomposition des Ausgangsfotos als Anlass für eine neue und individuelle Bildschöpfung
 	- Einbettung der Krone
 	- Dekonstruktionselemente kombiniert
+
+## Original
+
+![](./William_Klein_Xmas_Macys_December_1954.jpg)
 
 ## Ergebnis
 
