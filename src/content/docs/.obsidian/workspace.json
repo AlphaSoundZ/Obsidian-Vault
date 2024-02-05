@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5773f27c56b5d925",
+        "id": "66ea8af4223ee98a",
         "type": "tabs",
         "children": [
           {
-            "id": "faa402a9063b1687",
+            "id": "e904d577e2955a5c",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -238,8 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,16 +250,16 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
-      "notion-like-tables:Create new loom": false,
       "obsidian-file-cleaner:Clean files": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "faa402a9063b1687",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
     "Kunst/S4-Fotographie/In ein Bild eintreten.md",
     "Task List.md",

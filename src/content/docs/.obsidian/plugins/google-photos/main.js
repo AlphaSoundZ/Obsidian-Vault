@@ -27,639 +27,6 @@ var __copyProps = (to, from, except, desc) => {
 var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target, mod));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// node_modules/@electron/remote/dist/src/renderer/callbacks-registry.js
-var require_callbacks_registry = __commonJS({
-  "node_modules/@electron/remote/dist/src/renderer/callbacks-registry.js"(exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    exports.CallbacksRegistry = void 0;
-    var CallbacksRegistry = class {
-      constructor() {
-        this.nextId = 0;
-        this.callbacks = {};
-        this.callbackIds = /* @__PURE__ */ new WeakMap();
-        this.locationInfo = /* @__PURE__ */ new WeakMap();
-      }
-      add(callback) {
-        let id = this.callbackIds.get(callback);
-        if (id != null)
-          return id;
-        id = this.nextId += 1;
-        this.callbacks[id] = callback;
-        this.callbackIds.set(callback, id);
-        const regexp = /at (.*)/gi;
-        const stackString = new Error().stack;
-        if (!stackString)
-          return id;
-        let filenameAndLine;
-        let match;
-        while ((match = regexp.exec(stackString)) !== null) {
-          const location = match[1];
-          if (location.includes("(native)"))
-            continue;
-          if (location.includes("(<anonymous>)"))
-            continue;
-          if (location.includes("callbacks-registry.js"))
-            continue;
-          if (location.includes("remote.js"))
-            continue;
-          if (location.includes("@electron/remote/dist"))
-            continue;
-          const ref = /([^/^)]*)\)?$/gi.exec(location);
-          if (ref)
-            filenameAndLine = ref[1];
-          break;
-        }
-        this.locationInfo.set(callback, filenameAndLine);
-        return id;
-      }
-      get(id) {
-        return this.callbacks[id] || function() {
-        };
-      }
-      getLocation(callback) {
-        return this.locationInfo.get(callback);
-      }
-      apply(id, ...args) {
-        return this.get(id).apply(global, ...args);
-      }
-      remove(id) {
-        const callback = this.callbacks[id];
-        if (callback) {
-          this.callbackIds.delete(callback);
-          delete this.callbacks[id];
-        }
-      }
-    };
-    exports.CallbacksRegistry = CallbacksRegistry;
-  }
-});
-
-// node_modules/@electron/remote/dist/src/common/type-utils.js
-var require_type_utils = __commonJS({
-  "node_modules/@electron/remote/dist/src/common/type-utils.js"(exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    exports.deserialize = exports.serialize = exports.isSerializableObject = exports.isPromise = void 0;
-    var electron_1 = require("electron");
-    function isPromise(val) {
-      return val && val.then && val.then instanceof Function && val.constructor && val.constructor.reject && val.constructor.reject instanceof Function && val.constructor.resolve && val.constructor.resolve instanceof Function;
-    }
-    exports.isPromise = isPromise;
-    var serializableTypes = [
-      Boolean,
-      Number,
-      String,
-      Date,
-      Error,
-      RegExp,
-      ArrayBuffer
-    ];
-    function isSerializableObject(value) {
-      return value === null || ArrayBuffer.isView(value) || serializableTypes.some((type) => value instanceof type);
-    }
-    exports.isSerializableObject = isSerializableObject;
-    var objectMap = function(source, mapper) {
-      const sourceEntries = Object.entries(source);
-      const targetEntries = sourceEntries.map(([key, val]) => [key, mapper(val)]);
-      return Object.fromEntries(targetEntries);
-    };
-    function serializeNativeImage(image) {
-      const representations = [];
-      const scaleFactors = image.getScaleFactors();
-      if (scaleFactors.length === 1) {
-        const scaleFactor = scaleFactors[0];
-        const size = image.getSize(scaleFactor);
-        const buffer = image.toBitmap({ scaleFactor });
-        representations.push({ scaleFactor, size, buffer });
-      } else {
-        for (const scaleFactor of scaleFactors) {
-          const size = image.getSize(scaleFactor);
-          const dataURL = image.toDataURL({ scaleFactor });
-          representations.push({ scaleFactor, size, dataURL });
-        }
-      }
-      return { __ELECTRON_SERIALIZED_NativeImage__: true, representations };
-    }
-    function deserializeNativeImage(value) {
-      const image = electron_1.nativeImage.createEmpty();
-      if (value.representations.length === 1) {
-        const { buffer, size, scaleFactor } = value.representations[0];
-        const { width, height } = size;
-        image.addRepresentation({ buffer, scaleFactor, width, height });
-      } else {
-        for (const rep of value.representations) {
-          const { dataURL, size, scaleFactor } = rep;
-          const { width, height } = size;
-          image.addRepresentation({ dataURL, scaleFactor, width, height });
-        }
-      }
-      return image;
-    }
-    function serialize(value) {
-      if (value && value.constructor && value.constructor.name === "NativeImage") {
-        return serializeNativeImage(value);
-      }
-      if (Array.isArray(value)) {
-        return value.map(serialize);
-      } else if (isSerializableObject(value)) {
-        return value;
-      } else if (value instanceof Object) {
-        return objectMap(value, serialize);
-      } else {
-        return value;
-      }
-    }
-    exports.serialize = serialize;
-    function deserialize(value) {
-      if (value && value.__ELECTRON_SERIALIZED_NativeImage__) {
-        return deserializeNativeImage(value);
-      } else if (Array.isArray(value)) {
-        return value.map(deserialize);
-      } else if (isSerializableObject(value)) {
-        return value;
-      } else if (value instanceof Object) {
-        return objectMap(value, deserialize);
-      } else {
-        return value;
-      }
-    }
-    exports.deserialize = deserialize;
-  }
-});
-
-// node_modules/@electron/remote/dist/src/common/get-electron-binding.js
-var require_get_electron_binding = __commonJS({
-  "node_modules/@electron/remote/dist/src/common/get-electron-binding.js"(exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    exports.getElectronBinding = void 0;
-    var getElectronBinding = (name) => {
-      if (process._linkedBinding) {
-        return process._linkedBinding("electron_common_" + name);
-      } else if (process.electronBinding) {
-        return process.electronBinding(name);
-      } else {
-        return null;
-      }
-    };
-    exports.getElectronBinding = getElectronBinding;
-  }
-});
-
-// node_modules/@electron/remote/dist/src/common/module-names.js
-var require_module_names = __commonJS({
-  "node_modules/@electron/remote/dist/src/common/module-names.js"(exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    exports.browserModuleNames = exports.commonModuleNames = void 0;
-    var get_electron_binding_1 = require_get_electron_binding();
-    exports.commonModuleNames = [
-      "clipboard",
-      "nativeImage",
-      "shell"
-    ];
-    exports.browserModuleNames = [
-      "app",
-      "autoUpdater",
-      "BaseWindow",
-      "BrowserView",
-      "BrowserWindow",
-      "contentTracing",
-      "crashReporter",
-      "dialog",
-      "globalShortcut",
-      "ipcMain",
-      "inAppPurchase",
-      "Menu",
-      "MenuItem",
-      "nativeTheme",
-      "net",
-      "netLog",
-      "MessageChannelMain",
-      "Notification",
-      "powerMonitor",
-      "powerSaveBlocker",
-      "protocol",
-      "pushNotifications",
-      "safeStorage",
-      "screen",
-      "session",
-      "ShareMenu",
-      "systemPreferences",
-      "TopLevelWindow",
-      "TouchBar",
-      "Tray",
-      "utilityProcess",
-      "View",
-      "webContents",
-      "WebContentsView",
-      "webFrameMain"
-    ].concat(exports.commonModuleNames);
-    var features = get_electron_binding_1.getElectronBinding("features");
-    if (!features || features.isDesktopCapturerEnabled()) {
-      exports.browserModuleNames.push("desktopCapturer");
-    }
-    if (!features || features.isViewApiEnabled()) {
-      exports.browserModuleNames.push("ImageView");
-    }
-  }
-});
-
-// node_modules/@electron/remote/dist/src/renderer/remote.js
-var require_remote = __commonJS({
-  "node_modules/@electron/remote/dist/src/renderer/remote.js"(exports) {
-    "use strict";
-    Object.defineProperty(exports, "__esModule", { value: true });
-    exports.createFunctionWithReturnValue = exports.getGlobal = exports.getCurrentWebContents = exports.getCurrentWindow = exports.getBuiltin = void 0;
-    var callbacks_registry_1 = require_callbacks_registry();
-    var type_utils_1 = require_type_utils();
-    var electron_1 = require("electron");
-    var module_names_1 = require_module_names();
-    var get_electron_binding_1 = require_get_electron_binding();
-    var { Promise: Promise2 } = global;
-    var callbacksRegistry = new callbacks_registry_1.CallbacksRegistry();
-    var remoteObjectCache = /* @__PURE__ */ new Map();
-    var finalizationRegistry = new FinalizationRegistry((id) => {
-      const ref = remoteObjectCache.get(id);
-      if (ref !== void 0 && ref.deref() === void 0) {
-        remoteObjectCache.delete(id);
-        electron_1.ipcRenderer.send("REMOTE_BROWSER_DEREFERENCE", contextId, id, 0);
-      }
-    });
-    var electronIds = /* @__PURE__ */ new WeakMap();
-    var isReturnValue = /* @__PURE__ */ new WeakSet();
-    function getCachedRemoteObject(id) {
-      const ref = remoteObjectCache.get(id);
-      if (ref !== void 0) {
-        const deref = ref.deref();
-        if (deref !== void 0)
-          return deref;
-      }
-    }
-    function setCachedRemoteObject(id, value) {
-      const wr = new WeakRef(value);
-      remoteObjectCache.set(id, wr);
-      finalizationRegistry.register(value, id);
-      return value;
-    }
-    function getContextId() {
-      const v8Util = get_electron_binding_1.getElectronBinding("v8_util");
-      if (v8Util) {
-        return v8Util.getHiddenValue(global, "contextId");
-      } else {
-        throw new Error("Electron >=v13.0.0-beta.6 required to support sandboxed renderers");
-      }
-    }
-    var contextId = process.contextId || getContextId();
-    process.on("exit", () => {
-      const command = "REMOTE_BROWSER_CONTEXT_RELEASE";
-      electron_1.ipcRenderer.send(command, contextId);
-    });
-    var IS_REMOTE_PROXY = Symbol("is-remote-proxy");
-    function wrapArgs(args, visited = /* @__PURE__ */ new Set()) {
-      const valueToMeta = (value) => {
-        if (visited.has(value)) {
-          return {
-            type: "value",
-            value: null
-          };
-        }
-        if (value && value.constructor && value.constructor.name === "NativeImage") {
-          return { type: "nativeimage", value: type_utils_1.serialize(value) };
-        } else if (Array.isArray(value)) {
-          visited.add(value);
-          const meta = {
-            type: "array",
-            value: wrapArgs(value, visited)
-          };
-          visited.delete(value);
-          return meta;
-        } else if (value instanceof Buffer) {
-          return {
-            type: "buffer",
-            value
-          };
-        } else if (type_utils_1.isSerializableObject(value)) {
-          return {
-            type: "value",
-            value
-          };
-        } else if (typeof value === "object") {
-          if (type_utils_1.isPromise(value)) {
-            return {
-              type: "promise",
-              then: valueToMeta(function(onFulfilled, onRejected) {
-                value.then(onFulfilled, onRejected);
-              })
-            };
-          } else if (electronIds.has(value)) {
-            return {
-              type: "remote-object",
-              id: electronIds.get(value)
-            };
-          }
-          const meta = {
-            type: "object",
-            name: value.constructor ? value.constructor.name : "",
-            members: []
-          };
-          visited.add(value);
-          for (const prop in value) {
-            meta.members.push({
-              name: prop,
-              value: valueToMeta(value[prop])
-            });
-          }
-          visited.delete(value);
-          return meta;
-        } else if (typeof value === "function" && isReturnValue.has(value)) {
-          return {
-            type: "function-with-return-value",
-            value: valueToMeta(value())
-          };
-        } else if (typeof value === "function") {
-          return {
-            type: "function",
-            id: callbacksRegistry.add(value),
-            location: callbacksRegistry.getLocation(value),
-            length: value.length
-          };
-        } else {
-          return {
-            type: "value",
-            value
-          };
-        }
-      };
-      return args.map(valueToMeta);
-    }
-    function setObjectMembers(ref, object, metaId, members) {
-      if (!Array.isArray(members))
-        return;
-      for (const member of members) {
-        if (Object.prototype.hasOwnProperty.call(object, member.name))
-          continue;
-        const descriptor = { enumerable: member.enumerable };
-        if (member.type === "method") {
-          const remoteMemberFunction = function(...args) {
-            let command;
-            if (this && this.constructor === remoteMemberFunction) {
-              command = "REMOTE_BROWSER_MEMBER_CONSTRUCTOR";
-            } else {
-              command = "REMOTE_BROWSER_MEMBER_CALL";
-            }
-            const ret = electron_1.ipcRenderer.sendSync(command, contextId, metaId, member.name, wrapArgs(args));
-            return metaToValue(ret);
-          };
-          let descriptorFunction = proxyFunctionProperties(remoteMemberFunction, metaId, member.name);
-          descriptor.get = () => {
-            descriptorFunction.ref = ref;
-            return descriptorFunction;
-          };
-          descriptor.set = (value) => {
-            descriptorFunction = value;
-            return value;
-          };
-          descriptor.configurable = true;
-        } else if (member.type === "get") {
-          descriptor.get = () => {
-            const command = "REMOTE_BROWSER_MEMBER_GET";
-            const meta = electron_1.ipcRenderer.sendSync(command, contextId, metaId, member.name);
-            return metaToValue(meta);
-          };
-          if (member.writable) {
-            descriptor.set = (value) => {
-              const args = wrapArgs([value]);
-              const command = "REMOTE_BROWSER_MEMBER_SET";
-              const meta = electron_1.ipcRenderer.sendSync(command, contextId, metaId, member.name, args);
-              if (meta != null)
-                metaToValue(meta);
-              return value;
-            };
-          }
-        }
-        Object.defineProperty(object, member.name, descriptor);
-      }
-    }
-    function setObjectPrototype(ref, object, metaId, descriptor) {
-      if (descriptor === null)
-        return;
-      const proto = {};
-      setObjectMembers(ref, proto, metaId, descriptor.members);
-      setObjectPrototype(ref, proto, metaId, descriptor.proto);
-      Object.setPrototypeOf(object, proto);
-    }
-    function proxyFunctionProperties(remoteMemberFunction, metaId, name) {
-      let loaded = false;
-      const loadRemoteProperties = () => {
-        if (loaded)
-          return;
-        loaded = true;
-        const command = "REMOTE_BROWSER_MEMBER_GET";
-        const meta = electron_1.ipcRenderer.sendSync(command, contextId, metaId, name);
-        setObjectMembers(remoteMemberFunction, remoteMemberFunction, meta.id, meta.members);
-      };
-      return new Proxy(remoteMemberFunction, {
-        set: (target, property, value) => {
-          if (property !== "ref")
-            loadRemoteProperties();
-          target[property] = value;
-          return true;
-        },
-        get: (target, property) => {
-          if (property === IS_REMOTE_PROXY)
-            return true;
-          if (!Object.prototype.hasOwnProperty.call(target, property))
-            loadRemoteProperties();
-          const value = target[property];
-          if (property === "toString" && typeof value === "function") {
-            return value.bind(target);
-          }
-          return value;
-        },
-        ownKeys: (target) => {
-          loadRemoteProperties();
-          return Object.getOwnPropertyNames(target);
-        },
-        getOwnPropertyDescriptor: (target, property) => {
-          const descriptor = Object.getOwnPropertyDescriptor(target, property);
-          if (descriptor)
-            return descriptor;
-          loadRemoteProperties();
-          return Object.getOwnPropertyDescriptor(target, property);
-        }
-      });
-    }
-    function metaToValue(meta) {
-      if (meta.type === "value") {
-        return meta.value;
-      } else if (meta.type === "array") {
-        return meta.members.map((member) => metaToValue(member));
-      } else if (meta.type === "nativeimage") {
-        return type_utils_1.deserialize(meta.value);
-      } else if (meta.type === "buffer") {
-        return Buffer.from(meta.value.buffer, meta.value.byteOffset, meta.value.byteLength);
-      } else if (meta.type === "promise") {
-        return Promise2.resolve({ then: metaToValue(meta.then) });
-      } else if (meta.type === "error") {
-        return metaToError(meta);
-      } else if (meta.type === "exception") {
-        if (meta.value.type === "error") {
-          throw metaToError(meta.value);
-        } else {
-          throw new Error(`Unexpected value type in exception: ${meta.value.type}`);
-        }
-      } else {
-        let ret;
-        if ("id" in meta) {
-          const cached = getCachedRemoteObject(meta.id);
-          if (cached !== void 0) {
-            return cached;
-          }
-        }
-        if (meta.type === "function") {
-          const remoteFunction = function(...args) {
-            let command;
-            if (this && this.constructor === remoteFunction) {
-              command = "REMOTE_BROWSER_CONSTRUCTOR";
-            } else {
-              command = "REMOTE_BROWSER_FUNCTION_CALL";
-            }
-            const obj = electron_1.ipcRenderer.sendSync(command, contextId, meta.id, wrapArgs(args));
-            return metaToValue(obj);
-          };
-          ret = remoteFunction;
-        } else {
-          ret = {};
-        }
-        setObjectMembers(ret, ret, meta.id, meta.members);
-        setObjectPrototype(ret, ret, meta.id, meta.proto);
-        if (ret.constructor && ret.constructor[IS_REMOTE_PROXY]) {
-          Object.defineProperty(ret.constructor, "name", { value: meta.name });
-        }
-        electronIds.set(ret, meta.id);
-        setCachedRemoteObject(meta.id, ret);
-        return ret;
-      }
-    }
-    function metaToError(meta) {
-      const obj = meta.value;
-      for (const { name, value } of meta.members) {
-        obj[name] = metaToValue(value);
-      }
-      return obj;
-    }
-    function handleMessage(channel, handler) {
-      electron_1.ipcRenderer.on(channel, (event, passedContextId, id, ...args) => {
-        if (event.senderId !== 0) {
-          console.error(`Message ${channel} sent by unexpected WebContents (${event.senderId})`);
-          return;
-        }
-        if (passedContextId === contextId) {
-          handler(id, ...args);
-        } else {
-          electron_1.ipcRenderer.send("REMOTE_BROWSER_WRONG_CONTEXT_ERROR", contextId, passedContextId, id);
-        }
-      });
-    }
-    var enableStacks = process.argv.includes("--enable-api-filtering-logging");
-    function getCurrentStack() {
-      const target = { stack: void 0 };
-      if (enableStacks) {
-        Error.captureStackTrace(target, getCurrentStack);
-      }
-      return target.stack;
-    }
-    handleMessage("REMOTE_RENDERER_CALLBACK", (id, args) => {
-      callbacksRegistry.apply(id, metaToValue(args));
-    });
-    handleMessage("REMOTE_RENDERER_RELEASE_CALLBACK", (id) => {
-      callbacksRegistry.remove(id);
-    });
-    exports.require = (module3) => {
-      const command = "REMOTE_BROWSER_REQUIRE";
-      const meta = electron_1.ipcRenderer.sendSync(command, contextId, module3, getCurrentStack());
-      return metaToValue(meta);
-    };
-    function getBuiltin(module3) {
-      const command = "REMOTE_BROWSER_GET_BUILTIN";
-      const meta = electron_1.ipcRenderer.sendSync(command, contextId, module3, getCurrentStack());
-      return metaToValue(meta);
-    }
-    exports.getBuiltin = getBuiltin;
-    function getCurrentWindow() {
-      const command = "REMOTE_BROWSER_GET_CURRENT_WINDOW";
-      const meta = electron_1.ipcRenderer.sendSync(command, contextId, getCurrentStack());
-      return metaToValue(meta);
-    }
-    exports.getCurrentWindow = getCurrentWindow;
-    function getCurrentWebContents() {
-      const command = "REMOTE_BROWSER_GET_CURRENT_WEB_CONTENTS";
-      const meta = electron_1.ipcRenderer.sendSync(command, contextId, getCurrentStack());
-      return metaToValue(meta);
-    }
-    exports.getCurrentWebContents = getCurrentWebContents;
-    function getGlobal(name) {
-      const command = "REMOTE_BROWSER_GET_GLOBAL";
-      const meta = electron_1.ipcRenderer.sendSync(command, contextId, name, getCurrentStack());
-      return metaToValue(meta);
-    }
-    exports.getGlobal = getGlobal;
-    Object.defineProperty(exports, "process", {
-      enumerable: true,
-      get: () => exports.getGlobal("process")
-    });
-    function createFunctionWithReturnValue(returnValue) {
-      const func = () => returnValue;
-      isReturnValue.add(func);
-      return func;
-    }
-    exports.createFunctionWithReturnValue = createFunctionWithReturnValue;
-    var addBuiltinProperty = (name) => {
-      Object.defineProperty(exports, name, {
-        enumerable: true,
-        get: () => exports.getBuiltin(name)
-      });
-    };
-    module_names_1.browserModuleNames.forEach(addBuiltinProperty);
-  }
-});
-
-// node_modules/@electron/remote/dist/src/renderer/index.js
-var require_renderer = __commonJS({
-  "node_modules/@electron/remote/dist/src/renderer/index.js"(exports) {
-    "use strict";
-    var __createBinding = exports && exports.__createBinding || (Object.create ? function(o, m, k, k2) {
-      if (k2 === void 0)
-        k2 = k;
-      Object.defineProperty(o, k2, { enumerable: true, get: function() {
-        return m[k];
-      } });
-    } : function(o, m, k, k2) {
-      if (k2 === void 0)
-        k2 = k;
-      o[k2] = m[k];
-    });
-    var __exportStar = exports && exports.__exportStar || function(m, exports2) {
-      for (var p in m)
-        if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports2, p))
-          __createBinding(exports2, m, p);
-    };
-    Object.defineProperty(exports, "__esModule", { value: true });
-    if (process.type === "browser")
-      throw new Error(`"@electron/remote" cannot be required in the browser process. Instead require("@electron/remote/main").`);
-    __exportStar(require_remote(), exports);
-  }
-});
-
-// node_modules/@electron/remote/renderer/index.js
-var require_renderer2 = __commonJS({
-  "node_modules/@electron/remote/renderer/index.js"(exports, module2) {
-    module2.exports = require_renderer();
-  }
-});
-
 // node_modules/litepicker/dist/litepicker.umd.js
 var require_litepicker_umd = __commonJS({
   "node_modules/litepicker/dist/litepicker.umd.js"(exports, module2) {
@@ -1898,10 +1265,12 @@ function dateToGoogleDateFilter(date) {
 
 // src/oauth.ts
 var import_obsidian2 = require("obsidian");
+var http = __toESM(require("http"));
 var OAuth = class {
   constructor(plugin) {
-    this.callbackUrl = "https://localhost/google-photos";
+    this.port = 51894;
     this.plugin = plugin;
+    this.redirectUrl = `http://localhost:${this.port}/google-photos`;
   }
   async authenticate() {
     const s = this.plugin.settings;
@@ -1913,62 +1282,59 @@ var OAuth = class {
         client_secret: s.clientSecret,
         grant_type: "refresh_token"
       })) {
-        console.log("success");
         return true;
       } else {
         s.refreshToken = "";
       }
     }
     console.log("Google Photos: attempting permissions");
-    return this.requestPermissions();
+    this.requestPermissions();
+    return false;
   }
   requestPermissions() {
-    return new Promise((resolve) => {
-      if (import_obsidian2.Platform.isMobile) {
-        new import_obsidian2.Notice("You will need to authenticate using a desktop device first before you can use a mobile device.");
-        resolve(false);
-      } else {
-        const { BrowserWindow } = require_renderer2();
-        const codeUrl = new URL("https://accounts.google.com/o/oauth2/v2/auth");
-        codeUrl.search = new URLSearchParams({
-          scope: "https://www.googleapis.com/auth/photoslibrary.readonly",
-          include_granted_scopes: "true",
-          response_type: "code",
-          access_type: "offline",
-          state: "state_parameter_passthrough_value",
-          redirect_uri: this.callbackUrl,
-          client_id: this.plugin.settings.clientId
-        }).toString();
-        const window2 = new BrowserWindow({
-          width: 600,
-          height: 800,
-          webPreferences: {
-            nodeIntegration: false,
-            contextIsolation: true
+    if (import_obsidian2.Platform.isMobile) {
+      new import_obsidian2.Notice("You will need to authenticate using a desktop device first before you can use a mobile device.");
+      return;
+    }
+    if (!this.httpServer) {
+      this.httpServer = http.createServer(async (req, res) => {
+        var _a;
+        if (req && ((_a = req == null ? void 0 : req.url) == null ? void 0 : _a.startsWith("/google-photos"))) {
+          const code = new URL(this.redirectUrl + (req.url || "")).searchParams.get("code") || "";
+          if (await this.processCode(code)) {
+            res.end("Authentication successful! Please return to Obsidian.");
+            this.httpServer.close();
+          } else {
+            new import_obsidian2.Notice("\u274C Not able to authentication with Google Photos - please try again");
           }
-        });
-        window2.loadURL(codeUrl.href).then();
-        const { session: { webRequest } } = window2.webContents;
-        const filter = {
-          urls: [this.callbackUrl + "*"]
-        };
-        webRequest.onBeforeRequest(filter, async ({ url }) => {
-          const code = new URL(url).searchParams.get("code") || "";
-          const res = await this.getAccessToken({
-            code,
-            client_id: this.plugin.settings.clientId,
-            client_secret: this.plugin.settings.clientSecret,
-            redirect_uri: this.callbackUrl,
-            grant_type: "authorization_code"
-          });
-          resolve(res);
-          if (window2)
-            window2.close();
-        });
-        window2.on("closed", () => {
-          resolve(false);
-        });
-      }
+        }
+      }).listen(this.port, () => {
+        this.startAuthProcess();
+      });
+    } else {
+      this.startAuthProcess();
+    }
+  }
+  startAuthProcess() {
+    const url = new URL("https://accounts.google.com/o/oauth2/v2/auth");
+    url.search = new URLSearchParams({
+      scope: "https://www.googleapis.com/auth/photoslibrary.readonly",
+      include_granted_scopes: "true",
+      response_type: "code",
+      access_type: "offline",
+      state: "state_parameter_passthrough_value",
+      redirect_uri: this.redirectUrl,
+      client_id: this.plugin.settings.clientId
+    }).toString();
+    window.open(url.toString());
+  }
+  async processCode(code) {
+    return this.getAccessToken({
+      code,
+      client_id: this.plugin.settings.clientId,
+      client_secret: this.plugin.settings.clientSecret,
+      redirect_uri: this.redirectUrl,
+      grant_type: "authorization_code"
     });
   }
   async getAccessToken(params = {}) {
@@ -1981,12 +1347,12 @@ var OAuth = class {
       }
     });
     if (res.status === 200) {
-      const token = await res.json();
-      this.plugin.settings.accessToken = token.access_token;
-      if (token.refresh_token) {
-        this.plugin.settings.refreshToken = token.refresh_token;
+      const tokenData = await res.json();
+      this.plugin.settings.accessToken = tokenData.access_token;
+      if (tokenData.refresh_token) {
+        this.plugin.settings.refreshToken = tokenData.refresh_token;
       }
-      this.plugin.settings.expires = (0, import_obsidian2.moment)().add(token.expires_in, "second").format();
+      this.plugin.settings.expires = (0, import_obsidian2.moment)().add(tokenData.expires_in, "second").format();
       await this.plugin.saveSettings();
       return true;
     } else {
@@ -3744,6 +3110,7 @@ var DEFAULT_SETTINGS = {
   locationOption: "note",
   locationFolder: "",
   locationSubfolder: "photos",
+  convertPastedLink: true,
   getDateFrom: "Note's title" /* NOTE_TITLE */,
   getDateFromFrontMatterKey: "date",
   getDateFromFormat: "YYYY-MM-DD",
@@ -4321,15 +3688,20 @@ var CodeblockProcessor = class {
         return;
       }
     } else {
+      let params = {
+        query: null,
+        title: null
+      };
       try {
-        const params = JSON.parse(this.source);
-        if (params.query) {
-          this.title = params.title || "";
-          this.searchParams = params.query;
-        } else {
-          this.searchParams = params;
-        }
+        params = JSON.parse(this.source);
       } catch (e) {
+        console.log(e);
+      }
+      if (params.query) {
+        this.title = params.title || "";
+        this.searchParams = params.query;
+      } else {
+        this.searchParams = params;
       }
     }
     this.createGrid();
@@ -4358,6 +3730,15 @@ var GooglePhotos = class extends import_obsidian10.Plugin {
     this.photosApi = new PhotosApi(this);
     this.oauth = new OAuth(this);
     this.addSettingTab(new GooglePhotosSettingTab(this.app, this));
+    this.registerObsidianProtocolHandler("google-photos", async (data) => {
+      if (data.code) {
+        console.log(data.code);
+        const res = await this.oauth.processCode(data.code);
+        if (res) {
+          new import_obsidian10.Notice("Successfully connected to Google Photos");
+        }
+      }
+    });
     this.registerMarkdownCodeBlockProcessor("photos", (source, el, context) => {
       const file = app.vault.getAbstractFileByPath(context.sourcePath);
       if (file instanceof import_obsidian10.TFile) {
@@ -4395,6 +3776,8 @@ var GooglePhotos = class extends import_obsidian10.Plugin {
     });
   }
   onunload() {
+    var _a;
+    (_a = this.oauth.httpServer) == null ? void 0 : _a.close();
   }
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
