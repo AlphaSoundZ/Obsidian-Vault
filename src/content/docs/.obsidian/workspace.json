@@ -11,9 +11,12 @@
             "id": "48c8c6fc48a585b1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png"
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -92,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png"
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
               }
             }
           },
@@ -170,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png"
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
               }
             }
           }
@@ -188,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,8 +260,12 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "48c8c6fc48a585b1",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
+    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.42.png",
@@ -267,12 +274,7 @@
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.12.03.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.56.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Kunst/S4-Fotographie/Lernzirkel/kunst_photography_Timeline 1_2024-02-05_15.05.42.png",
-    "Kunst/S4-Fotographie/Lernzirkel/kunst_photography_Timeline 1_2024-02-05_15.00.24.png",
-    "Kunst/S4-Fotographie/Lernzirkel/kunst_photography_Timeline 1_2024-02-05_15.13.56.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder",
     "Task List.md",
     "Physik/Magnetfelder.md",

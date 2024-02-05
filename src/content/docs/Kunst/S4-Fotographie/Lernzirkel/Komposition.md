@@ -42,4 +42,4 @@ tags:
 
 ### Bildformat
 
-![](Bilder/kunst_photography_1_2024-02-05_15.12.03.png)
+![](./Bilder/kunst_photography_1_2024-02-05_15.12.03.png)

@@ -65,9 +65,9 @@ tags:
 
 ### Bewegung
 
-![](Bilder/kunst_photography_1_2024-02-05_15.11.31.png)
+![](./Bilder/kunst_photography_1_2024-02-05_15.11.31.png)
 
 ### Fokus
 
- ![](Bilder/kunst_photography_1_2024-02-05_15.00.24.png)
+ ![](./Bilder/kunst_photography_1_2024-02-05_15.00.24.png)
  

@@ -44,9 +44,9 @@ tags:
 
 ### Silhouette
 
-![](Bilder/kunst_photography_1_2024-02-05_15.02.29.png)
+![](./Bilder/kunst_photography_1_2024-02-05_15.02.29.png)
 
 ### Nachts auf der Straße
 
-![](Bilder/kunst_photography_1_2024-02-05_15.13.33.png)
-![](Bilder/kunst_photography_1_2024-02-05_15.13.56.png)
+![](./Bilder/kunst_photography_1_2024-02-05_15.13.33.png)
+![](./Bilder/kunst_photography_1_2024-02-05_15.13.56.png)
