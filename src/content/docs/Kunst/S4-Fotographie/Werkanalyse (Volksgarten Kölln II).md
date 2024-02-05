@@ -6,6 +6,8 @@ tags:
 
 ## Volksgarten Köln II (1974)
 
+![](S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg)
+
 ### Mit dem Bild konnotierte Begriffe
 
 - Schwarzweiß
@@ -50,6 +52,8 @@ Während ich auf das Bild schaue, entfaltet sich vor meinen Augen eine **lebendi
 Das Bild zeigt eine Szene in einem Park oder einer Grünanlage. Mehrere Personen sind hier auf einer Wiese verteilt. Links im Bild sieht man eine Gruppe von fünf Personen, die auf Decken sitzen und ein Picknick zu genießen scheinen. Ihre Körperhaltung und das gemeinsame Ausrichten auf die mitgebrachten Lebensmittel ebenso wie ihre relative Nähe zueinander lassen auf eine Gruppenaktivität schließen und vermitteln ein Gefühl von Gemeinschaft und Entspannung. Rechts im Bild steht ein Mann, der sich zu einer weiteren Person hinunterbeugt, die auf dem Boden sitzt. Die Körperhaltung der stehenden Person und die Ausrichtung ihrer Aufmerksamkeit auf die sitzende Person könnten auf eine Form der Interaktion oder Kommunikation hinweisen. Es ist jedoch aus dem Bild heraus nicht klar, in welchem Kontext diese Interaktion stattfindet. Die Szene wird von Bäumen und Büschen umrahmt, was den Eindruck eines naturnahen, friedlichen Ortes verstärkt. Das Licht scheint gleichmäßig und lässt auf ein bewölktes oder neutrales Wetter schließen, was wiederum die entspannte Atmosphäre unterstützt. Die Wirkung des Bildes hängt stark von der Interpretation der Betrachtenden ab. Es kann Gefühle von Ruhe und Entspannung, von sozialer Verbundenheit in der Gruppe links, aber auch von Neugierde oder Anteilnahme mit den beiden Personen rechts hervorrufen. Möglicherweise erzeugt die Interaktion zwischen den beiden Personen rechts auch Spannung oder Neugier, da der Kontext ihres Geschehens unklar bleibt. Die s/w-Fotografie trägt zu einer zeitlosen Wahrnehmung bei und könnte Nostalgie oder eine Verbindung zu historischen oder klassischen Themen und Ästhetiken hervorrufen. Das s/w-Bild entfernt zudem die Ablenkung durch Farben und fokussiert die Betrachtenden auf die Formen, Strukturen und das menschliche Element der Szene.
 
 ## New York City (1975)
+
+*Nur Mitschriften. Mehr wurde hier nicht besprochen.*
 
 ### Mit dem Bild konnotierte Begriffe
 

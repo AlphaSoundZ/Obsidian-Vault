@@ -25,6 +25,7 @@ tags:
 ## Original
 
 ![](./William_Klein_Xmas_Macys_December_1954.jpg)
+William Klein: Xmas Macys December (1954)
 
 ## Ergebnis
 
