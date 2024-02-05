@@ -49,4 +49,4 @@ tags:
 ### Nachts auf der Straße
 
 ![](./Bilder/kunst_photography_1_2024-02-05_15.13.33.png)
-![](./Bilder/kunst_photography_1_2024-02-05_15.13.56.png)
+![](./Bilder/reflexionen_2_1.29.3.png)
