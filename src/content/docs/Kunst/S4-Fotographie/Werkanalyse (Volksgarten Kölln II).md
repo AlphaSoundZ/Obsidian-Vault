@@ -6,7 +6,7 @@ tags:
 
 ## Volksgarten Köln II (1974)
 
-![](S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg)
+![](./Candita_Höfer_Volksgarten_Köln_II_1974.jpg)
 
 ### Mit dem Bild konnotierte Begriffe
 

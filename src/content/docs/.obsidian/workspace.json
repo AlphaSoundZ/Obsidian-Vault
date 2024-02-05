@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,11 +260,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "48c8c6fc48a585b1",
   "lastOpenFiles": [
+    "Kunst/S4-Fotographie/Serie.md",
+    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
@@ -280,15 +284,11 @@
     "Physik/Magnetfelder.md",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
     "Kunst/S4-Fotographie/Lernzirkel",
-    "Kunst/S4-Fotographie/Serie.md",
     "S4-Fotographie/test.md",
     "S4-Fotographie",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
-    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
     "Kunst/S4-Fotographie/().md",
     "Daily Notes/10.11.23.md",
     "Daily Notes/11.01.24.md",
-    "Kunst/S4-Fotographie/Geschichte.md",
     "Kunst/S4-Fotographie/Bildanalyse Volksgarten Köln II.md",
     "Daily Notes/15.01.24.md",
     "Daily Notes/24.01.24.md",
