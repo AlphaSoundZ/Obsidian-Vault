@@ -39,3 +39,7 @@ tags:
 ### Drittelregel
 
 ![](./Bilder/kunst_photography_1_2024-02-05_15.05.31.png)
+
+### Bildformat
+
+![](Bilder/kunst_photography_1_2024-02-05_15.12.03.png)
