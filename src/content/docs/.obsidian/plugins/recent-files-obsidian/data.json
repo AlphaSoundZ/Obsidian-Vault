@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
       "basename": "Bildanalyse",
       "path": "Kunst/S4-Fotographie/Bildanalyse.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Geschichte",
       "path": "Kunst/S4-Fotographie/Geschichte.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
     },
     {
       "basename": "Argumentationstypen",

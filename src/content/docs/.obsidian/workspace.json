@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f5998b9fbcd375c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Task List.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5110321044922
+    "width": 593.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Bildanalyse.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Bildanalyse.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Bildanalyse.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -173,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Bildanalyse.md"
+                "file": "Task List.md"
               }
             }
           }
@@ -191,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Bildanalyse.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,8 +272,9 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "729ec2d2e7fa115d",
+  "active": "8f5998b9fbcd375c",
   "lastOpenFiles": [
+    "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
@@ -273,7 +286,6 @@
     "Task List.md",
     "Kunst/S4-Fotographie/Serie.md",
     "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
