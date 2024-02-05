@@ -16,6 +16,9 @@ Die beiden Positionen Degrowth und Green Growth beruhen somit auf Kernannahmen, 
 
 - Wirtschaftswachstum ist notwendig, um die Lebensqualität zu erhalten
 - Wirtschaftsleistung und ökologische Belastungen stehen nicht im Zusammenhang
+- Wachstum innerhalb planetarer Grenzen
+	- Absorbtion
+	- Wachstum nicht überschreiten
 
 ## Degrowth-Position
 

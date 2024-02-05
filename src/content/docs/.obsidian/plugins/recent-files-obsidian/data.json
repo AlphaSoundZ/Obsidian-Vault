@@ -5,20 +5,52 @@
       "path": "Task List.md"
     },
     {
-      "basename": "26.01.24",
-      "path": "Daily Notes/26.01.24.md"
+      "basename": "Foto-Serie",
+      "path": "Kunst/S4-Fotographie/Foto-Serie.md"
     },
     {
-      "basename": "23.01.24",
-      "path": "Daily Notes/23.01.24.md"
+      "basename": "In ein Bild eintreten",
+      "path": "Kunst/S4-Fotographie/In ein Bild eintreten.md"
+    },
+    {
+      "basename": "Argumentationstypen",
+      "path": "Deutsch/S4 Sprache/Argumentationstypen.md"
+    },
+    {
+      "basename": "15.01.24",
+      "path": "Daily Notes/15.01.24.md"
+    },
+    {
+      "basename": "24.01.24",
+      "path": "Daily Notes/24.01.24.md"
+    },
+    {
+      "basename": "Stochastik",
+      "path": "Mathe/Stochastik.md"
+    },
+    {
+      "basename": "07.02.24",
+      "path": "Daily Notes/07.02.24.md"
+    },
+    {
+      "basename": "26.01.24",
+      "path": "Daily Notes/26.01.24.md"
     },
     {
       "basename": "S4 - Wege zu einer gesicherten Friedensordnung zwischen Staaten",
       "path": "Philosophie/S4 - Wege zu einer gesicherten Friedensordnung zwischen Staaten.md"
     },
     {
-      "basename": "Argumentationstypen",
-      "path": "Deutsch/S4 Sprache/Argumentationstypen.md"
+      "basename": "23.01.24",
+      "path": "Daily Notes/23.01.24.md"
+    },
+    {
+      "basename": "Zum ewigen Frieden",
+      "path": "PGW/Frieden und Gewalt/Zum ewigen Frieden.md"
+    },
+    {
+      "basename": "Wachstumspositionen",
+      "path": "PGW/Wachstumspositionen.md"
     },
     {
       "basename": "Zusammenfassungen schreiben",
@@ -37,16 +69,8 @@
       "path": "Deutsch/S4 Sprache/Politische Sprache.md"
     },
     {
-      "basename": "Stochastik",
-      "path": "Mathe/Stochastik.md"
-    },
-    {
       "basename": "Chancen und Risiken von KI",
       "path": "Seminar/Chancen und Risiken von KI.md"
-    },
-    {
-      "basename": "Wachstumspositionen",
-      "path": "PGW/Wachstumspositionen.md"
     },
     {
       "basename": "_Bahr_Ueberwindung_des_Naturalismus",
@@ -55,10 +79,6 @@
     {
       "basename": "16.01.24",
       "path": "Daily Notes/16.01.24.md"
-    },
-    {
-      "basename": "In ein Bild eintreten",
-      "path": "Kunst/S4-Fotographie/In ein Bild eintreten.md"
     },
     {
       "basename": "11.01.24",
@@ -179,26 +199,6 @@
     {
       "basename": "26.09.23",
       "path": "Daily Notes/26.09.23.md"
-    },
-    {
-      "basename": "Zirkelschluss",
-      "path": "Philosophie/PL - Induktion/Zirkelschluss.md"
-    },
-    {
-      "basename": "Satz vom Widerspruch",
-      "path": "Philosophie/PL - Induktion/Satz vom Widerspruch.md"
-    },
-    {
-      "basename": "PL - Gesicherte Erkenntnis und Induktion",
-      "path": "Philosophie/PL - Induktion/PL - Gesicherte Erkenntnis und Induktion.md"
-    },
-    {
-      "basename": "Induktionsproblem",
-      "path": "Philosophie/PL - Induktion/Induktionsproblem.md"
-    },
-    {
-      "basename": "Semesterarbeit - Spieldesign",
-      "path": "Kunst/S3-Design/Semesterarbeit - Spieldesign.md"
     }
   ],
   "omittedPaths": [],

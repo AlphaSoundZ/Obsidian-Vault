@@ -7,7 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Read the exceprt from the hunger games and take notes... #Englisch @[[26.01.24]]
+- [ ] Abhängigkeiten Deutschland von China #Geographie @[[07.02.24]]
 - [ ] Kunst Aufgaben #Kunst
 - [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[08.02.24]]
 
@@ -18,6 +18,7 @@ kanban-plugin: basic
 
 ## Archiv
 
+- [ ] Read the exceprt from the hunger games and take notes... #Englisch @[[26.01.24]]
 - [ ] Schwachstellen und Angriffsstellen ausfüllen (letzte Deutsch Datei) #Deutsch @[[24.01.24]]
 - [ ] Kriterien für einen gerechten Krieg #Philosophie @[[23.01.24]]
 - [ ] Text lesen siehe IServ @[[22.01.24]] #Deutsch

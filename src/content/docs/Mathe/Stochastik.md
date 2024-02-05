@@ -12,7 +12,7 @@ ein Zufallsexperiment mit genau zwei möglichen Ausgängen. Zum Beispiel ein Mü
 
 ## Bernoulli-Kette
 
-viele hintereinander ausgeführte gleiche Laplace-Experimente
+viele hintereinander ausgeführte gleiche Laplace-Exvereinfachendperimente
 
 ## Permutation
 

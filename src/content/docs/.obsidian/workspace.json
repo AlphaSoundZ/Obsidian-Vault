@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f15c47267a2d7ce5",
+        "id": "5773f27c56b5d925",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad664dfa46f8562",
+            "id": "faa402a9063b1687",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Englisch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,11 +71,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 458.5024719238281
+    "width": 458.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -258,26 +260,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ad664dfa46f8562",
+  "active": "faa402a9063b1687",
   "lastOpenFiles": [
-    "Daily Notes/26.01.24.md",
+    "Kunst/S4-Fotographie/In ein Bild eintreten.md",
     "Task List.md",
+    "Kunst/S4-Fotographie/Foto-Serie.md",
+    "Daily Notes/15.01.24.md",
+    "Daily Notes/24.01.24.md",
+    "Daily Notes/07.02.24.md",
     "Daily Notes/23.01.24.md",
+    "Daily Notes/26.01.24.md",
     "Philosophie/S4 - Wege zu einer gesicherten Friedensordnung zwischen Staaten.md",
+    "PGW/Frieden und Gewalt/Zum ewigen Frieden.md",
+    "PGW/Wachstumspositionen.md",
     "Deutsch/Zusammenfassungen schreiben.md",
     "Daily Notes/22.01.24.md",
     "Deutsch/S4 Sprache/Sprachvarietäten.md",
     "Deutsch/S4 Sprache/Politische Sprache.md",
     "Mathe/Stochastik.md",
-    "PGW/Wachstumspositionen.md",
     "Seminar/Chancen und Risiken von KI.md",
     "Deutsch/S4 Sprache/Argumentationstypen.md",
     "Daily Notes/16.01.24.md",
-    "Kunst/S4-Fotographie/In ein Bild eintreten.md",
     "Daily Notes/11.01.24.md",
     "Physik/Quantenphysik/Photonen.md",
     "Physik/Aufgabe Doppelspalt.md",
-    "Daily Notes/15.01.24.md",
     "Daily Notes/17.01.24.md",
     "Daily Notes/17.01.24 2024-01-17 08.12.33.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
@@ -286,13 +292,9 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "Excalidraw/Drawing 2024-01-17 08.11.46.excalidraw.md",
-    "Philosophie/Das Geiger-Dilemma.md",
     "Admark-AI",
-    "Daily Notes/12.01.24.md",
-    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.md",
     "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.png",
     "Deutsch/S4 Sprache/Pasted Image 20240114235113_546.svg",
-    "Kunst/S4-Fotographie/Fotographie Geschichte.md",
     "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw",
     "Physik/Quantenphysik",
     "Deutsch/S4 Sprache",
