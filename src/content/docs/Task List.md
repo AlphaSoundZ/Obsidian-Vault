@@ -8,12 +8,12 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Abhängigkeiten Deutschland von China #Geographie @[[07.02.24]]
-- [ ] Kunst Aufgaben #Kunst
 - [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[08.02.24]]
 
 
 ## Done
 
+- [ ] Kunst Aufgaben #Kunst
 
 
 ## Archiv
@@ -64,8 +64,6 @@ kanban-plugin: basic
 - [ ] Alle Aufgaben auf AB @[[11.05.23]] #Physik
 
 
-***
-
 ## Archive
 
 - [x] 07.01.24 : 31.05.23 : Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
@@ -74,6 +72,9 @@ kanban-plugin: basic
 - [ ] 07.01.24 : Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
 - [ ] 07.01.24 : 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
 - [x] 07.01.24 : Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
+
+
+
 
 %% kanban:settings
 ```

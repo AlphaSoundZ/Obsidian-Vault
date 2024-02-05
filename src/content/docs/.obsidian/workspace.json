@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+                "file": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ee854977de49b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Magnetfelder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+                "file": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+                "file": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
+                "file": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md"
               }
             }
           },
@@ -173,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
+                "file": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md"
               }
             }
           }
@@ -191,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+                "file": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,14 +275,18 @@
   },
   "active": "45b019095d3ccc1d",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Bildanalyse.md",
-    "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
     "Kunst/S4-Fotographie/Serie.md",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
-    "Daily Notes/11.01.24.md",
-    "Kunst/S4-Fotographie/Bildanalyse Volksgarten Köln II.md",
-    "Kunst/S4-Fotographie/Unbenannt.md",
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Physik/Magnetfelder.md",
+    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Kunst/S4-Fotographie/().md",
+    "Daily Notes/10.11.23.md",
     "Task List.md",
+    "Daily Notes/11.01.24.md",
+    "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Bildanalyse Volksgarten Köln II.md",
     "Daily Notes/15.01.24.md",
     "Daily Notes/24.01.24.md",
     "Daily Notes/07.02.24.md",
@@ -284,10 +301,6 @@
     "Deutsch/S4 Sprache/Politische Sprache.md",
     "Mathe/Stochastik.md",
     "Seminar/Chancen und Risiken von KI.md",
-    "Deutsch/S4 Sprache/Argumentationstypen.md",
-    "Daily Notes/16.01.24.md",
-    "Physik/Quantenphysik/Photonen.md",
-    "Physik/Aufgabe Doppelspalt.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -307,7 +320,6 @@
     "Kunst/S3-Design/Monopoly_Handel.png",
     "Physik/Pasted image 20231102131543.png",
     "Seminar/PXL_20230606_120414504.jpg",
-    "Kunst/S1-Portraits/Glossar/image-1673652680437.jpg6192272395130514792.jpg",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
