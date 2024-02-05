@@ -1,7 +1,8 @@
 ---
-
 title: Belichtung
-tags: []
+tags:
+  - Kunst/Fotographie
+  - Kunst/HowTo
 ---
 
 ## Notizen
@@ -50,5 +51,23 @@ tags: []
 		- Weniger Bildrauschen
 			- steril
 			- künstlich
+- **Belichtungskorrektur**
+	- Was?
+		- Bild wird dunkler
+			- Weniger Details in den Schatten
+			- Mehr in den Lichtern
+		- Bild wird heller
+			- Mehr Details in den Schatten
+			- Weniger in den Lichtern
+	- Warum?
+		- Bild wird dunkler
+			- Silhouetten
 
-## Anhänge
+### Bewegung
+
+![](Bilder/kunst_photography_1_2024-02-05_15.11.31.png)
+
+### Fokus
+
+ ![](Bilder/kunst_photography_1_2024-02-05_15.00.24.png)
+ 
