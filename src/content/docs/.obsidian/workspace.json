@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Foto-Serie.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 458.5024719238281
+    "width": 593.5110321044922
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Foto-Serie.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Foto-Serie.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Foto-Serie.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Foto-Serie.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Foto-Serie.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 688.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,9 +262,14 @@
   },
   "active": "45b019095d3ccc1d",
   "lastOpenFiles": [
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Serie.md",
+    "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+    "Daily Notes/11.01.24.md",
+    "Kunst/S4-Fotographie/Bildanalyse Volksgarten Köln II.md",
+    "Kunst/S4-Fotographie/Unbenannt.md",
     "Task List.md",
-    "Kunst/S4-Fotographie/In ein Bild eintreten.md",
-    "Kunst/S4-Fotographie/Foto-Serie.md",
     "Daily Notes/15.01.24.md",
     "Daily Notes/24.01.24.md",
     "Daily Notes/07.02.24.md",
@@ -281,17 +286,12 @@
     "Seminar/Chancen und Risiken von KI.md",
     "Deutsch/S4 Sprache/Argumentationstypen.md",
     "Daily Notes/16.01.24.md",
-    "Daily Notes/11.01.24.md",
     "Physik/Quantenphysik/Photonen.md",
     "Physik/Aufgabe Doppelspalt.md",
-    "Daily Notes/17.01.24.md",
-    "Daily Notes/17.01.24 2024-01-17 08.12.33.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-01-17 08.11.46.excalidraw.md",
     "Admark-AI",
     "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw.png",
     "Deutsch/S4 Sprache/Pasted Image 20240114235113_546.svg",

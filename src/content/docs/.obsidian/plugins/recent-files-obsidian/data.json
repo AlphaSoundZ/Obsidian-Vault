@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Foto-Serie",
-      "path": "Kunst/S4-Fotographie/Foto-Serie.md"
+      "basename": "Werkanalyse (Volksgarten Kölln II)",
+      "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
+    },
+    {
+      "basename": "Bildanalyse",
+      "path": "Kunst/S4-Fotographie/Bildanalyse.md"
+    },
+    {
+      "basename": "Geschichte",
+      "path": "Kunst/S4-Fotographie/Geschichte.md"
+    },
+    {
+      "basename": "Serie",
+      "path": "Kunst/S4-Fotographie/Serie.md"
+    },
+    {
+      "basename": "11.01.24",
+      "path": "Daily Notes/11.01.24.md"
     },
     {
       "basename": "Task List",
       "path": "Task List.md"
-    },
-    {
-      "basename": "In ein Bild eintreten",
-      "path": "Kunst/S4-Fotographie/In ein Bild eintreten.md"
     },
     {
       "basename": "Argumentationstypen",
@@ -81,10 +93,6 @@
       "path": "Daily Notes/16.01.24.md"
     },
     {
-      "basename": "11.01.24",
-      "path": "Daily Notes/11.01.24.md"
-    },
-    {
       "basename": "Photonen",
       "path": "Physik/Quantenphysik/Photonen.md"
     },
@@ -127,14 +135,6 @@
     {
       "basename": "Pasted Image 20240114235113_546",
       "path": "Deutsch/S4 Sprache/Pasted Image 20240114235113_546.svg"
-    },
-    {
-      "basename": "Fotographie Geschichte",
-      "path": "Kunst/S4-Fotographie/Fotographie Geschichte.md"
-    },
-    {
-      "basename": "Bildanalyse einer Photographie",
-      "path": "Kunst/S4-Fotographie/Bildanalyse einer Photographie.md"
     },
     {
       "basename": "Woyzeck",
@@ -191,14 +191,6 @@
     {
       "basename": "Deduktion",
       "path": "Philosophie/PL - Induktion/Deduktion.md"
-    },
-    {
-      "basename": "Induktion",
-      "path": "Philosophie/PL - Induktion/Induktion.md"
-    },
-    {
-      "basename": "26.09.23",
-      "path": "Daily Notes/26.09.23.md"
     }
   ],
   "omittedPaths": [],

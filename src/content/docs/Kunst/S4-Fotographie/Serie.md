@@ -1,6 +1,8 @@
 ---
 title: Foto-Serie
 tags:
+  - Kunst/Fotographie
+  - Kunst/HowTo
 ---
 - Wiederkehrende Elemente
 	- Formale Elemente

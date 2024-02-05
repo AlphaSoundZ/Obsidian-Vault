@@ -3,9 +3,6 @@ tags:
   - Kunst/Fotographie
 title: Fotographie
 ---
-- Namen
-- Wichtige Schritte in der Erfindung
-- Inwiefern kann man mit Fotographie die Realität abbilden/einfangen?
 
 ## Vertreter / Namen
 
@@ -36,7 +33,6 @@ title: Fotographie
 - Belichtungszeit auf lediglich eine Stunde verbessert
 - 1841: Neue Substanzen reduzieren Belichtungszeit auf 10 Sekunden, später auf 2 Sekunden
 - maximal 16,5 x 21 cm (mehrere Bilder kombiniert konnten die Größe erweitern)
-
 - Bildfläche Metall → mithilfe von Beschichtung konnte Papier verwendet werden
 - Bild musste nachgebessert werden
 

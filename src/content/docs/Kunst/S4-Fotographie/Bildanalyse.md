@@ -1,7 +1,8 @@
 ---
-title: Bildanalyse einer Photographie
+title: Bildanalyse
 tags:
   - Kunst/Fotographie
+  - Kunst/HowTo
 ---
 
 ## Analyse der Gestaltungsmittel
@@ -38,6 +39,7 @@ Wirkung:
 	- Farbpalette
 	- Kontraste etc.
 
+#### Bildzentrum
 
 Optisches Bildzentrum (Wichtigstes Bildelement)
 Mathematisch konstruiertes Bildzentrum (Center)
