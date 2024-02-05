@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Belichtung",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md"
+    },
+    {
+      "basename": "Komposition",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Komposition.md"
+    },
+    {
       "basename": "Magnetfelder",
       "path": "Physik/Magnetfelder.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Rules",
       "path": "Rules.md"
-    },
-    {
-      "basename": "Time tracker",
-      "path": "Programming/Time tracker.md"
-    },
-    {
-      "basename": "15.12.23",
-      "path": "Daily Notes/15.12.23.md"
     }
   ],
   "omittedPaths": [],

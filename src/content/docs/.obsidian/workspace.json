@@ -11,8 +11,13 @@
             "id": "3252bf9e1f026dc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md"
+              }
             }
           },
           {
@@ -163,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md"
+              }
             }
           }
         ],
@@ -180,6 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,6 +262,8 @@
   },
   "active": "3252bf9e1f026dc9",
   "lastOpenFiles": [
+    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Physik/Magnetfelder.md",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
     "Kunst/S4-Fotographie/Lernzirkel",
@@ -280,7 +294,6 @@
     "Daily Notes/22.01.24.md",
     "Deutsch/S4 Sprache/Sprachvarietäten.md",
     "Deutsch/S4 Sprache/Politische Sprache.md",
-    "Mathe/Stochastik.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
