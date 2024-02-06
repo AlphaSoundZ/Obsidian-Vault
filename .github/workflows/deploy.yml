@@ -17,6 +17,7 @@ jobs:
               run: |
                 find ./src/content/docs -name "*.excalidraw.md" -type f -delete
                 rm -rf ./src/content/docs/Excalidraw
+                rm -rf ./src/content/docs/NvimNotes
 
             - name: Install dependencies
               run: npm install
