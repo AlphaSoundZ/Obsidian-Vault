@@ -14,11 +14,11 @@ kanban-plugin: basic
 
 ## Done
 
-- [ ] Kunst Aufgaben #Kunst
 
 
 ## Archiv
 
+- [ ] Kunst Aufgaben #Kunst
 - [ ] Read the exceprt from the hunger games and take notes... #Englisch @[[26.01.24]]
 - [ ] Schwachstellen und Angriffsstellen ausfüllen (letzte Deutsch Datei) #Deutsch @[[24.01.24]]
 - [ ] Kriterien für einen gerechten Krieg #Philosophie @[[23.01.24]]

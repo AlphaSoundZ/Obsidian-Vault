@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "44e5a8fd3dc8dc33",
+        "id": "428683edc6d3b189",
         "type": "tabs",
         "children": [
           {
-            "id": "76856c7f2786eb9e",
+            "id": "34e35da377335ead",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Deutsch/S4 Sprache/Politische Sprache.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Deutsch/S4 Sprache/Politische Sprache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Deutsch/S4 Sprache/Politische Sprache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Deutsch/S4 Sprache/Politische Sprache.md"
               }
             }
           },
@@ -171,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Deutsch/S4 Sprache/Politische Sprache.md"
               }
             }
           }
@@ -189,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Deutsch/S4 Sprache/Politische Sprache.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 518.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,10 +262,13 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "34e35da377335ead",
   "lastOpenFiles": [
-    "NvimNotes/02.06.24.md",
+    "NvimNotes/02.06.24.md~",
+    "Deutsch/S4 Sprache/Argumentationstypen.md",
     "Task List.md",
+    "Untitled.md",
+    "NvimNotes/02.06.24.md",
     "NvimNotes/Untitled.loom",
     "NvimNotes",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
@@ -287,14 +294,11 @@
     "GWÖ.md",
     "PGW/Facetten der modernen Sozialstruktur.md",
     "Deutsch/S4 Sprache/Politische Sprache.md",
-    "Deutsch/S4 Sprache/Argumentationstypen.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
     "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Geschichte.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
-    "Kunst/S4-Fotographie/Serie.md",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.42.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.26.png",
@@ -305,7 +309,6 @@
     "Excalidraw/Scripts",
     "Excalidraw",
     "Admark-AI",
-    "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
