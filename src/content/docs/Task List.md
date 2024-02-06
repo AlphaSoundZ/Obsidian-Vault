@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Missionsorientierte Wirtschaftspolitik Aufgabe 1 und 2 #PGW @[[12.02.24]]
 - [ ] Abhängigkeiten Deutschland von China #Geographie @[[07.02.24]]
 - [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[08.02.24]]
 

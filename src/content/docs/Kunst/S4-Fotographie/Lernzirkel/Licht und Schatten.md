@@ -42,7 +42,7 @@ tags:
 		- Hoher Kontrast
 		- Stimmungsvolles Bild durch direkte Lichtquellen
 
-### Silhouette
+		### Silhouette
 
 ![](./Bilder/kunst_photography_1_2024-02-05_15.02.29.png)
 

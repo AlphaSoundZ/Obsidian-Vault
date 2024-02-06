@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiNotion",
+      "SiNeovim",
       "RiGitRepositoryPrivateFill",
       "LiFile",
-      "RiTodoLine",
-      "LiFileText",
-      "RiSingleQuotesL"
+      "RiTodoLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,6 @@
   "Calendar": "RiCalendarTodoLine",
   "Daily Notes": "LiFileText",
   "Privat": "RiGitRepositoryPrivateFill",
-  "_Templates": "LiFile"
+  "_Templates": "LiFile",
+  "NvimNotes": "SiNotion"
 }
