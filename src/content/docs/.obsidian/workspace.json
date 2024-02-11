@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
               }
             }
           },
@@ -186,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
               }
             }
           }
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,8 +275,8 @@
   },
   "active": "bdce2a37d23d0421",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Serie.md",
     "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
