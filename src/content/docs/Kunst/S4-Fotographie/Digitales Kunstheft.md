@@ -21,7 +21,7 @@ tags:
 
 ## Galerie
 
-**Wichtige Info:** Da ich in meiner Freizeit häufiger fotographiere und filme sind ein paar Bilder schon etwas früher entstanden. Dennoch wollte ich sie mit einbeziehen, da mir manche sehr gut gefallen und ich denke, dass es mir bei der Ideensammlung weiterhilft.
+**Wichtige Info:** Da ich bei meinem Vater häufig bei Filmproduktionen für die B-Kamera zuständig bin, sind ein Teil der Aufnahmen schon etwas früher vor der Aufgabenstellung entstanden. Ich kann die Kamera auch für eine Projekte verwenden. Da ich die Methoden des Lernzirkels schon zuvor angewandt habe, finde ich es angemessen, diese auch hier mit anzugeben. 
 
-Alle aufgenommenen Bilder werden auch hier bei den jeweiligen Dokumenten angezeigt, allerdings sind diese Bilder komprimiert. Die volle Auflösung ist unter folgendem Link verfügbar:
+Die auf dieser Website angezeigten Bilder sind komprimiert. Die originalen Bilder mit hoher Auflösung sind unter folgendem Link verfügbar:
 https://photos.app.goo.gl/essG9ZBYMQvB52VP6

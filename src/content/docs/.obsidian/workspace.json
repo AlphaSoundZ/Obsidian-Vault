@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4e3c1ea3977007df",
+        "id": "011ffae12472c62a",
         "type": "tabs",
         "children": [
           {
-            "id": "bdce2a37d23d0421",
+            "id": "89c19c18f2c70857",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6668d2316145a36d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kunst/S4-Fotographie/Bildanalyse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -273,20 +260,22 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "bdce2a37d23d0421",
+  "active": "89c19c18f2c70857",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
     "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Serie.md",
-    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
-    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
     "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Task List.md",
+    "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png.crdownload",
+    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
     "kunst/s4-fotographie/lernzirkel/blickwinkel 1.md",
     "Kunst/S4-Fotographie/Lernzirkel/blickwinkel 1.md",
     "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
-    "Task List.md",
     "NvimNotes/10.02.24.md",
     "NvimNotes/08.02.24.md",
     "NvimNotes/06.02.24.md",
@@ -306,7 +295,6 @@
     "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
     "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder",
     "Physik/Magnetfelder.md",
@@ -319,7 +307,6 @@
     "Excalidraw",
     "Admark-AI",
     "Deutsch/S4 Sprache/mindmap_deutsch_politische_sprache.excalidraw",
-    "Physik/Quantenphysik",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
