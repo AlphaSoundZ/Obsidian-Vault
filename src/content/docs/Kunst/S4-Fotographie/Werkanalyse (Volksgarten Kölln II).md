@@ -46,6 +46,7 @@ Während ich auf das Bild schaue, entfaltet sich vor meinen Augen eine **lebendi
 - Bruch der Diagonale durch den Mann mit dem Gehstock ist aufgehoben, da er im Hintergrund verschwindet (wenig Kontrast)
 - Weiche Schatten → sanftes Erscheinungsbild
 - Köpfe befinden sich auf der gleiche Höhe, die Hand des stehenden Mannes befindet sich auch auf dieser Linie. Da der Kopf des stehenden Mannes im geringen Kontrast zum Hintergrund steht, fällt es nicht so stark ins Gewicht, dass er nicht auf dieser Linie ist.
+- Trennung links/rechts durch Kontrast in der Kleidung der Personen; Trennung oben/unten durch dunklen Hintergrund und hellen Vordergrund
 
 ### Bilddeutung
 
@@ -73,6 +74,32 @@ Das Bild zeigt eine Szene in einem Park oder einer Grünanlage. Mehrere Personen
 - Momentaufnahme
 - Romantik
 - Entgegengesetzt
+
+### Analyse
+
+- Hell-Dunkel-Kontrast
+- Kalt-Warm-Kontrast
+- Wenige Farben
+- Komposition
+	- Nebel bildet ein Dreieck
+	- Die Personen auf der rechten Seite bilden auch ein Dreieck
+	- Fluchtpunkt befindet sich auf dem Drittel (Drittelregel)
+- Licht kommt von hinter dem Betrachter
+	- traegt zur Dynamik bei (Schatten fallen in die Richtung des Fluchtpunkts)
+- Es wirkt so, als waere noch mehr los, weil auf die Ruecken der Personen Schatten von anderen Personen fallen
+- Dramatische Wirkung aufgrund vieler Kontraste
+- Spannung durch unterschiedliche Positionen zwischen Fluchtpunkt und Treffpunkt der Dreiecke
+- Bruch zwischen der Richtung des Fluchtpunkts und dem Nebel/Rauch von rechts
+
+## Vergleich
+
+| Volksgarten Koelln II | New York City |
+| ---- | ---- |
+| Schwarz-Weiss | Farbe, warm und kalt, vor allem Beige und Grau/Blau |
+| Statisch, ruhig | Dynamisch, Brueche |
+| Nur Vertikalen und Horizontalen | Viele Diagonalen |
+| Weiche Schatten | Harte Schatten |
+| Wenig Tiefe | Viel Tiefe |
 
 ## Anhänge
 

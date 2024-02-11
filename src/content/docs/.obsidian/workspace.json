@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "271f26941062d623",
+        "id": "a4f584799fef09bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d45687e069caca5c",
+            "id": "6fda744617060e10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Daily Notes/07.02.24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -49,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gemeinwohl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +71,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 593.5110321044922,
+    "width": 349.5010185241699,
     "collapsed": true
   },
   "right": {
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/07.02.24.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/07.02.24.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/07.02.24.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -175,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/07.02.24.md"
+                "file": "Task List.md"
               }
             }
           }
@@ -193,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/07.02.24.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,13 +258,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d45687e069caca5c",
+  "active": "6fda744617060e10",
   "lastOpenFiles": [
     "Task List.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
+    "NvimNotes/08.02.24.md",
+    "NvimNotes/06.02.24.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
+    "Daily Notes/08.02.24.md",
+    "Physik/Aufgabe Doppelspalt.md",
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
+    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
+    "Kunst/S4-Fotographie/Serie.md",
+    "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+    "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
+    "NvimNotes/02.08.24.md~",
     "NvimNotes/02.06.24.md~",
+    "Daily Notes/07.02.24.md",
     "Deutsch/S4 Sprache/Argumentationstypen.md",
     "Untitled.md",
-    "NvimNotes/02.06.24.md",
     "NvimNotes/Untitled.loom",
     "NvimNotes",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
@@ -278,8 +293,6 @@
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/reflexionen_2_1.29.3.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/symmetrie_1.30.2.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
     "Daily Notes/06.10.23.md",
     "Daily Notes/20.09.23.md",
@@ -287,28 +300,12 @@
     "Informatik/Simulationen.md",
     "Informatik/Ausleihe/Pitch Deck Ausleihe.md",
     "Deutsch/Der Untertan/Sadismus und Masochismus.md",
-    "Deutsch/Gedichtinterpretation.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
-    "Englisch/S1 The United Kingdom - diverse and disunited/Social class in the 21st century.md",
-    "PGW/Frieden und Gewalt/Zum ewigen Frieden.md",
-    "GWÖ.md",
-    "PGW/Facetten der modernen Sozialstruktur.md",
-    "Deutsch/S4 Sprache/Politische Sprache.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
-    "Kunst/S4-Fotographie/Geschichte.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.42.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.26.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder",
     "Kunst/S4-Fotographie/Lernzirkel",
     "S4-Fotographie",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Admark-AI",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

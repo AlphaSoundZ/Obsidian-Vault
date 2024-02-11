@@ -8,8 +8,7 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] Missionsorientierte Wirtschaftspolitik Aufgabe 1 und 2 #PGW @[[12.02.24]]
-- [ ] Abhängigkeiten Deutschland von China #Geographie @[[07.02.24]]
-- [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[08.02.24]]
+- [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[Daily Notes/08.02.24]]
 
 
 ## Done
@@ -18,6 +17,13 @@ kanban-plugin: basic
 
 ## Archiv
 
+- [x] 07.01.24 : Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
+- [ ] 07.01.24 : 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
+- [ ] 07.01.24 : Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
+- [x] 07.01.24 : 31.05.23 : Berufsfeldanalyse @[[24.05.23]] #Seminar
+- [x] 07.01.24 : 31.05.23 : Klausurvorbereitung #Informatik @[[22.05.23]]
+- [x] 07.01.24 : 31.05.23 : Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
+- [ ] Abhängigkeiten Deutschland von China #Geographie @[[07.02.24]]
 - [ ] Kunst Aufgaben #Kunst
 - [ ] Read the exceprt from the hunger games and take notes... #Englisch @[[26.01.24]]
 - [ ] Schwachstellen und Angriffsstellen ausfüllen (letzte Deutsch Datei) #Deutsch @[[24.01.24]]
@@ -63,16 +69,6 @@ kanban-plugin: basic
 - [ ] Seite 410 f. lesen #Deutsch @[[11.05.23]]
 - [ ] Aufgaben siehe Email #Deutsch @[[10.05.23]]
 - [ ] Alle Aufgaben auf AB @[[11.05.23]] #Physik
-
-
-## Archive
-
-- [x] 07.01.24 : 31.05.23 : Abgabe der Präsentation (Präsentatieren am 31.) @[[31.05.23]] #Geographie
-- [x] 07.01.24 : 31.05.23 : Klausurvorbereitung #Informatik @[[22.05.23]]
-- [x] 07.01.24 : 31.05.23 : Berufsfeldanalyse @[[24.05.23]] #Seminar
-- [ ] 07.01.24 : Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]
-- [ ] 07.01.24 : 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
-- [x] 07.01.24 : Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
 
 
 
