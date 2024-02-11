@@ -44,7 +44,6 @@ tags:
 
 ### Untersicht
 
-![](https://matix.li/613c8abf3edf)
 ![](./Bilder/blickwinkel_1.5.1.png)
 
 Station to Station: 

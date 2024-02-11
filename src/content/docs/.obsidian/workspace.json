@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md"
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md"
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,6 +262,9 @@
   },
   "active": "bdce2a37d23d0421",
   "lastOpenFiles": [
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Task List.md",
     "NvimNotes/10.02.24.md",
@@ -284,14 +287,12 @@
     "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
     "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.31.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.05.42.png",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Kunst/S4-Fotographie/Serie.md",
     "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
     "Kunst/S4-Fotographie/Geschichte.md",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder",
     "Physik/Magnetfelder.md",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
@@ -301,7 +302,6 @@
     "Kunst/S4-Fotographie/().md",
     "Daily Notes/10.11.23.md",
     "Daily Notes/11.01.24.md",
-    "Kunst/S4-Fotographie/Bildanalyse Volksgarten Köln II.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
