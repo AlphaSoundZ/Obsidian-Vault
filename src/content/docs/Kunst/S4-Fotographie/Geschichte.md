@@ -1,7 +1,7 @@
 ---
 tags:
   - Kunst/Fotographie
-title: Fotographie
+title: Geschichte
 ---
 
 ## Vertreter / Namen
