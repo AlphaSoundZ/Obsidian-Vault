@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6668d2316145a36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kunst/S4-Fotographie/Bildanalyse.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -264,6 +277,8 @@
   "lastOpenFiles": [
     "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "kunst/s4-fotographie/lernzirkel/blickwinkel 1.md",
+    "Kunst/S4-Fotographie/Lernzirkel/blickwinkel 1.md",
     "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Task List.md",
@@ -300,8 +315,6 @@
     "S4-Fotographie/test.md",
     "S4-Fotographie",
     "Kunst/S4-Fotographie/().md",
-    "Daily Notes/10.11.23.md",
-    "Daily Notes/11.01.24.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
