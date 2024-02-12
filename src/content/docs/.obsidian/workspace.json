@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55e23c6010edf147",
+        "id": "99c418e7e8e6e17a",
         "type": "tabs",
         "children": [
           {
-            "id": "ca98ccc8a12c0305",
+            "id": "03faa3a66f715bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa798faf2b0b93a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
               }
             }
           },
@@ -174,7 +188,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
               }
             }
           }
@@ -192,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,25 +275,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "aa798faf2b0b93a7",
   "lastOpenFiles": [
-    "thumbnails/2024-02-11_google-photo_161118.jpg",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Task List.md",
+    "thumbnails/2024-02-11_google-photo_161118.jpg",
     "Kunst/S4-Fotographie/Geschichte.md",
     "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
     "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
     "thumbnails",
     "Daily Notes/12.02.24.md",
-    "Task List.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "NvimNotes/06.02.24.md",
     "NvimNotes/08.02.24.md",
     "NvimNotes/10.02.24.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Daily Notes/08.02.24.md",
     "Physik/Aufgabe Doppelspalt.md",
@@ -300,7 +315,6 @@
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.31.png",
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/reflexionen_2_1.29.3.png",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
     "Daily Notes/06.10.23.md",
     "Daily Notes/20.09.23.md",

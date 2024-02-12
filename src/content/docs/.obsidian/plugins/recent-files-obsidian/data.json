@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Digitales Kunstheft",
+      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+    },
+    {
       "basename": "Semesterarbeit",
       "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
+    },
+    {
+      "basename": "Licht und Schatten",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
+    },
+    {
+      "basename": "Brennweite",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md"
+    },
+    {
+      "basename": "Blickwinkel",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md"
+    },
+    {
+      "basename": "Belichtung",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md"
+    },
+    {
+      "basename": "Komposition",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Komposition.md"
     },
     {
       "basename": "Bildanalyse",
       "path": "Kunst/S4-Fotographie/Bildanalyse.md"
     },
     {
-      "basename": "Digitales Kunstheft",
-      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+      "basename": "Task List",
+      "path": "Task List.md"
     },
     {
       "basename": "Geschichte",
@@ -29,14 +53,6 @@
       "path": "Daily Notes/12.02.24.md"
     },
     {
-      "basename": "Task List",
-      "path": "Task List.md"
-    },
-    {
-      "basename": "Belichtung",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md"
-    },
-    {
       "basename": "06.02.24",
       "path": "NvimNotes/06.02.24.md"
     },
@@ -51,18 +67,6 @@
     {
       "basename": "26.01.24",
       "path": "Daily Notes/26.01.24.md"
-    },
-    {
-      "basename": "Blickwinkel",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md"
-    },
-    {
-      "basename": "Komposition",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Komposition.md"
-    },
-    {
-      "basename": "Licht und Schatten",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
     },
     {
       "basename": "Motiv Reduktion",
@@ -185,20 +189,12 @@
       "path": "PGW/Facetten der modernen Sozialstruktur.md"
     },
     {
-      "basename": "Brennweite",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md"
-    },
-    {
       "basename": "15.01.24",
       "path": "Daily Notes/15.01.24.md"
     },
     {
       "basename": "24.01.24",
       "path": "Daily Notes/24.01.24.md"
-    },
-    {
-      "basename": "Stochastik",
-      "path": "Mathe/Stochastik.md"
     }
   ],
   "omittedPaths": [],

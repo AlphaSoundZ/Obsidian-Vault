@@ -65,9 +65,15 @@ tags:
 
 ### Bewegung
 
+- Bewegungsunschärfe durch Bewegung der Kamera mit der Bewegung der Person
+- Geringe Tiefenschärfe
+	- Geschäfte sind im Hintergrund nicht erkennbar
 ![](./Bilder/kunst_photography_1_2024-02-05_15.11.31.png)
+https://photos.app.goo.gl/gXCxghp8YATVDyX6A
 
 ### Fokus
 
- ![](./Bilder/kunst_photography_1_2024-02-05_15.00.24.png)
+- Extrem kleiner Schärfebereich und Schärfentiefe
+- Blatt ist als einziges Objekt erkennbar → Isolation
+![](./Bilder/kunst_photography_1_2024-02-05_15.00.24.png)
  

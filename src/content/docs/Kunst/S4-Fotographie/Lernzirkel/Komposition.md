@@ -39,3 +39,13 @@ tags:
 ### Symmetrie
 
 ![](./Bilder/symmetrie_1.30.2.png)
+
+https://photos.app.goo.gl/SLg4DZauMLKNRN457
+
+### Blickführung
+
+- Wirkung ist weniger stark, wenn sie nach hinten rein fällt
+https://photos.app.goo.gl/UJnsZKpgjgNPyiet7
+
+- Sich kreuzende Führungslinien machen das Bild interessanter
+https://photos.app.goo.gl/D87mjoN42Eyv4hNb7

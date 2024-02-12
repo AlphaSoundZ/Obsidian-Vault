@@ -42,11 +42,18 @@ tags:
 		- Hoher Kontrast
 		- Stimmungsvolles Bild durch direkte Lichtquellen
 
-		### Silhouette
+### Silhouette
 
 ![](./Bilder/kunst_photography_1_2024-02-05_15.02.29.png)
+https://photos.app.goo.gl/iyP6w53swHETxc5R9
 
 ### Nachts auf der Straße
 
+- Unterbelichtung, wodurch die Gesichter, vor allem bei den Personen im linken Drittel mehr details zeigen
 ![](./Bilder/kunst_photography_1_2024-02-05_15.13.33.png)
+https://photos.app.goo.gl/8zjkRDcfNetAfK5W8
+
+- Reflexionen von Pfützen
+- Bokeh-Effekt durch Autolichter, hoher Tiefenunschaerfe und Fokussierung auf das „Motel” Schild im Hintergrund
 ![](./Bilder/reflexionen_2_1.29.3.png)
+https://photos.app.goo.gl/MhPHNLTXsUszq5eq5

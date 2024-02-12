@@ -44,10 +44,10 @@ tags:
 
 ### Untersicht
 
-![](./Bilder/blickwinkel_1.5.1.png)
+- Funktioniert sehr gut
+- Trotz Reduzierung der Elemente hat das Bild eine starke Wirkung
+![](Lernzirkel/Bilder/blickwinkel_1.5.1.png)
 
-Station to Station: 
-02:09 → Blick nach oben 
-02:15 → Anonymitaet
-02:16 → Blickfuehrung
-03:18 → Blick nach oben
+### Froschperspektive
+
+Das Bild mit der Brücke links und der Laterne hinten (siehe Video: When the shadows fall 2:31)

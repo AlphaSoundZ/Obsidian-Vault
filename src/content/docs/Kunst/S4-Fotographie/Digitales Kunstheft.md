@@ -21,7 +21,10 @@ tags:
 
 ## Galerie
 
-**Wichtige Info:** Da ich bei meinem Vater häufig bei Filmproduktionen für die B-Kamera zuständig bin, sind ein Teil der Aufnahmen schon etwas früher vor der Aufgabenstellung entstanden. Ich kann die Kamera auch für eine Projekte verwenden. Da ich die Methoden des Lernzirkels schon zuvor angewandt habe, finde ich es angemessen, diese auch hier mit anzugeben. 
+**Wichtige Info:** Da ich bei meinem Vater häufig bei Filmproduktionen für die B-Kamera zuständig bin, sind ein Teil der Aufnahmen schon etwas früher vor der Aufgabenstellung entstanden. Ich kann die Kamera auch für eine Projekte verwenden. Ein paar Bilder habe ich ergänzend zu den neuen Bildern mit aufgenommen.
 
-Die auf dieser Website angezeigten Bilder sind komprimiert. Die originalen Bilder mit hoher Auflösung sind unter folgendem Link verfügbar:
+Die folgenden Bilder wurden schon früher aufgenommen:
+https://photos.app.goo.gl/FJ7KjebF2NQrZxir6
+
+Die auf dieser Website angezeigten Bilder sind komprimiert. Die originalen Bilder mit hoher Auflösung sind unter folgendem Link verfügbar (oder über die Links bei den jeweiligen Bildern):
 https://photos.app.goo.gl/essG9ZBYMQvB52VP6
