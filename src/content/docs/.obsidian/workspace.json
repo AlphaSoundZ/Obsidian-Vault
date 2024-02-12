@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88dc77ed26a926e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/12.02.24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5010185241699,
-    "collapsed": true
+    "width": 349.5010185241699
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Daily Notes/12.02.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Daily Notes/12.02.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Daily Notes/12.02.24.md"
               }
             }
           },
@@ -188,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Daily Notes/12.02.24.md"
               }
             }
           }
@@ -206,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Daily Notes/12.02.24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,17 +287,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa798faf2b0b93a7",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Task List.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
     "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
     "Kunst/S4-Fotographie/Bildanalyse.md",
-    "Task List.md",
     "thumbnails/2024-02-11_google-photo_161118.jpg",
     "Kunst/S4-Fotographie/Geschichte.md",
     "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
