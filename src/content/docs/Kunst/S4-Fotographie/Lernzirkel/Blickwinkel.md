@@ -44,9 +44,10 @@ tags:
 
 ### Untersicht
 
-- Funktioniert sehr gut
-- Trotz Reduzierung der Elemente hat das Bild eine starke Wirkung
-![](./Bilder/blickwinkel_1.5.1.png)
+- Funktioniert sehr gut: trotz Reduzierung der Elemente hat das Bild eine starke Wirkung
+- Dramatische Wirkung
+
+[![](./2024-02-05_google-photo_225120_3.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipONtDWdKhihrZ5WRtK9Ggv9-niVGdYj-fT9UbH0?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 ### Froschperspektive
 

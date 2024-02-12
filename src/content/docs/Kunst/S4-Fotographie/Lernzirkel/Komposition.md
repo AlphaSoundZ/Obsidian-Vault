@@ -38,14 +38,16 @@ tags:
 
 ### Symmetrie
 
-![](./Bilder/symmetrie_1.30.2.png)
+[![](./2024-02-05_google-photo_224823_4.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipPvMfv1pbnOOWeEmkYUa5ZZhdwRGjhZRiRIY3BW?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
-https://photos.app.goo.gl/SLg4DZauMLKNRN457
+- Stabiles Dreieck durch die Warnschilder und die Uhr
+- Farbkontrast: Blau - Gelb
+- Hell-Dunkel-Kontrast: Uhr - Hintergrund
+[![](./2024-02-11_google-photo_161010_6.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipOyxo0o6WjtlrAH9gauY0OLJp26s_rZ5dP8zgRz?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 ### Blickführung
 
-- Wirkung ist weniger stark, wenn sie nach hinten rein fällt
-https://photos.app.goo.gl/UJnsZKpgjgNPyiet7
+[![](./2024-02-11_google-photo_212618_5.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNJm87B8vhqXhsl2nI5C3zZnlbyJ4oakznks5vi?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 - Sich kreuzende Führungslinien machen das Bild interessanter
 https://photos.app.goo.gl/D87mjoN42Eyv4hNb7

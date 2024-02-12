@@ -6,7 +6,7 @@ tags: []
 
 curl https://api.openai.com/v1/chat/completions \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer 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" \
+  -H "Authorization: Bearer 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" \
   -d '{
     "model": "gpt-4-vision-preview",
     "messages": [

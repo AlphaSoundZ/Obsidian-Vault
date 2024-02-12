@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99c418e7e8e6e17a",
+        "id": "ae55d8db420b82db",
         "type": "tabs",
         "children": [
           {
-            "id": "aa798faf2b0b93a7",
+            "id": "41a54b5186c272c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88dc77ed26a926e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d6f3111fa25b296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PGW/Wachstumspositionen.md",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nachhaltigkeit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,12 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5010185241699
+    "width": 521.5010185241699
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -122,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md"
               }
             }
           },
@@ -200,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md"
               }
             }
           }
@@ -218,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,33 +260,40 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "41a54b5186c272c9",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
-    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
-    "PGW/Wachstumspositionen.md",
-    "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
-    "PGW/Facetten der modernen Sozialstruktur.md",
-    "Daily Notes/12.02.24.md",
-    "NvimNotes/run.py~",
-    "NvimNotes/run.py",
-    "NvimNotes/bildanalyse.txt~",
-    "NvimNotes/test.json~",
-    "NvimNotes/test.json",
-    "Kunst/S4-Fotographie/test.md",
-    "NvimNotes/bildanalyse.txt",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
     "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
     "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_225417_7.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_9.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_8.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-11_google-photo_161010_6.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-11_google-photo_212618_5.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_224823_4.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_225120_3.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-04_google-photo_193918.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_1.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_2.jpg",
+    "Kunst/S4-Fotographie/test.md",
+    "NvimNotes/run.py~",
+    "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Kunst/S4-Fotographie/Bildanalyse.md",
     "Task List.md",
-    "thumbnails/2024-02-11_google-photo_161118.jpg",
+    "Daily Notes/12.02.24.md",
+    "PGW/Wachstumspositionen.md",
+    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "PGW/Facetten der modernen Sozialstruktur.md",
+    "NvimNotes/run.py",
+    "NvimNotes/bildanalyse.txt~",
+    "NvimNotes/test.json~",
+    "NvimNotes/test.json",
+    "NvimNotes/bildanalyse.txt",
     "Kunst/S4-Fotographie/Geschichte.md",
-    "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
-    "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
     "thumbnails",
     "NvimNotes/06.02.24.md",
     "NvimNotes/08.02.24.md",
@@ -321,20 +301,12 @@
     "Daily Notes/08.02.24.md",
     "Physik/Aufgabe Doppelspalt.md",
     "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
-    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
     "Kunst/S4-Fotographie/Serie.md",
-    "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
     "NvimNotes/02.08.24.md~",
     "NvimNotes/02.06.24.md~",
     "Daily Notes/07.02.24.md",
     "Deutsch/S4 Sprache/Argumentationstypen.md",
-    "Untitled.md",
     "NvimNotes/Untitled.loom",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/blickwinkel_1.5.1.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.31.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

@@ -7,16 +7,16 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Missionsorientierte Wirtschaftspolitik Aufgabe 1 und 2 #PGW @[[12.02.24]]
-- [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[Daily Notes/08.02.24]]
 
 
 ## Done
 
+- [ ] Missionsorientierte Wirtschaftspolitik Aufgabe 1 und 2 #PGW @[[12.02.24]]
 
 
 ## Archiv
 
+- [ ] Was passiert, wenn man bei einem Doppelspalt-Experiment Elektronen einzeln rein schickt #Physik @[[Daily Notes/08.02.24]]
 - [x] 07.01.24 : Mediation - True Crime #Englisch/CrimeAndPunishment @[[24.11.23]]
 - [ ] 07.01.24 : 2. Klausur S3 @[[15.12.23]] #Mathe/Vektoren
 - [ ] 07.01.24 : Wissenschaftliches Plakat #Seminar #Kunst #PGW @[[08.12.23]]

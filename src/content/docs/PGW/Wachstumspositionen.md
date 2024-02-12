@@ -11,13 +11,15 @@ Die beiden Positionen Degrowth und Green Growth beruhen somit auf Kernannahmen, 
 - Anstrebung einer hohen Wachstumsunabhängigkeit
 	- Gesellschaftliche Institutionen sollen sich vorsorglich so transformieren, dass sie möglichst unabhängig von der Wirtschaftsleistung ihre Aufgabe erfüllen
 	- Hohe Lebensqualität bleibt auch dann erhalten, wenn sich die Wirtschaftsleistung verändert (positiv als auch negativ)
+- Dadurch sind Umweltmaßnahmen leichter umsetzbar, weil man unabhängig vom Wachstum ist.
 
 ## Green-Growth-Position
 
 - Wirtschaftswachstum ist notwendig, um die Lebensqualität zu erhalten
 - Wirtschaftsleistung und ökologische Belastungen stehen nicht im Zusammenhang
 - Wachstum innerhalb planetarer Grenzen
-	- Absorbtion
+	- Absorption
+	- Begrenzte Ressourcen
 	- Wachstum nicht überschreiten
 
 ## Degrowth-Position
@@ -26,8 +28,10 @@ Die beiden Positionen Degrowth und Green Growth beruhen somit auf Kernannahmen, 
 - Wirtschaftswachstum ist nicht notwendig, um die Lebensqualität zu erhalten (und kann sogar sinken, obwohl die Lebensqualität steigt)
 - Wirtschaftsleistung und ökologische Belastungen stehen im Zusammenhang
 
-## Missionsorientiertes Wirtschaftspolitik
+## Missionsorientierte Wirtschaftspolitik
 
-## Pro und Contra Wirtschaftswachstum
+## Pro und Kontra Wirtschaftswachstum
 
-- 
+- Mehr Wohlstand
+	- Pro: Höheres Einkommen → mehr materieller Wohlstand, mehr Steuern können für wohlstandssteigernde Investitionen genutzt werden
+	- Kontra:  

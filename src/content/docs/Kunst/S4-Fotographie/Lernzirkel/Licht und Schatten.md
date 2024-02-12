@@ -44,16 +44,14 @@ tags:
 
 ### Silhouette
 
-![](./Bilder/kunst_photography_1_2024-02-05_15.02.29.png)
-https://photos.app.goo.gl/iyP6w53swHETxc5R9
+- Bild wirft bei dem Betrachter möglicherweise die Frage auf, was hinter den Bäumen ist/passiert
+[![](./2024-02-05_google-photo_153853_8.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNqDkqJFbyZcp9mW_bawXOhKl_ZXkNKV9oxr6B0?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 ### Nachts auf der Straße
 
 - Unterbelichtung, wodurch die Gesichter, vor allem bei den Personen im linken Drittel mehr details zeigen
-![](./Bilder/kunst_photography_1_2024-02-05_15.13.33.png)
-https://photos.app.goo.gl/8zjkRDcfNetAfK5W8
+[![](./2024-02-05_google-photo_153853_9.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNqDkqJFbyZcp9mW_bawXOhKl_ZXkNKV9oxr6B0?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
-- Reflexionen von Pfützen
+- Reflexionen in einer Pfütze
 - Bokeh-Effekt durch Autolichter, hoher Tiefenunschaerfe und Fokussierung auf das „Motel” Schild im Hintergrund
-![](./Bilder/reflexionen_2_1.29.3.png)
-https://photos.app.goo.gl/MhPHNLTXsUszq5eq5
+[![](./2024-02-05_google-photo_225417_7.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipO5BA0g93iI4s0vEPh1NkOjC2_XlcE2y5VfmeNH?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)

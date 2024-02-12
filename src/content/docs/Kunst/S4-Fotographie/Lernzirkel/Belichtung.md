@@ -68,12 +68,10 @@ tags:
 - Bewegungsunschärfe durch Bewegung der Kamera mit der Bewegung der Person
 - Geringe Tiefenschärfe
 	- Geschäfte sind im Hintergrund nicht erkennbar
-![](./Bilder/kunst_photography_1_2024-02-05_15.11.31.png)
-https://photos.app.goo.gl/gXCxghp8YATVDyX6A
+[![](./2024-02-05_google-photo_153853_1.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipPjnfnjC2DEZU_EXnYpxPJUXsGnAn94TooZzhtH?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 ### Fokus
 
 - Extrem kleiner Schärfebereich und Schärfentiefe
 - Blatt ist als einziges Objekt erkennbar → Isolation
-![](./Bilder/kunst_photography_1_2024-02-05_15.00.24.png)
- 
+[![](./2024-02-05_google-photo_153853_2.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipPiD5ZD0o7eaOCE4O56aY-8EUU4omAd2cgQR993?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)

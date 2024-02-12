@@ -5,7 +5,7 @@ url = "https://api.openai.com/v1/chat/completions"
 
 headers = CaseInsensitiveDict()
 headers["Content-Type"] = "application/json"
-headers["Authorization"] = "Bearer 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"
+headers["Authorization"] = "Bearer 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"
 
 data = """
 {
