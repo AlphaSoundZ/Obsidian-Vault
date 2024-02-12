@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd43aae12c980cd6",
+        "id": "55e23c6010edf147",
         "type": "tabs",
         "children": [
           {
-            "id": "487e35b1045f1004",
+            "id": "ca98ccc8a12c0305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 593.5110321044922
+    "width": 349.5010185241699,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
               }
             }
           },
@@ -173,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
               }
             }
           }
@@ -191,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -229,7 +230,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6316046762907496,
+                  "scale": 1.074692657160901,
                   "close": true
                 }
               }
@@ -239,74 +240,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 688.5
+    "width": 518.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "random-note:Zufällige Notiz öffnen": false,
-      "workspaces:Workspace-Layouts verwalten": false,
-      "obsidian-file-cleaner:Clean files": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "notion-like-tables:Create loom": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-file-cleaner:Clean files": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "487e35b1045f1004",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Geschichte.md",
+    "thumbnails/2024-02-11_google-photo_161118.jpg",
     "Kunst/S4-Fotographie/Bildanalyse.md",
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
-    "Kunst/S4-Fotographie/Serie.md",
-    "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
+    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+    "Kunst/S4-Fotographie/Geschichte.md",
     "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
     "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
-    "Productivity Plan and Strategies.md",
-    "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
     "thumbnails",
+    "Daily Notes/12.02.24.md",
     "Task List.md",
-    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
-    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
-    "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png.crdownload",
-    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
-    "kunst/s4-fotographie/lernzirkel/blickwinkel 1.md",
-    "Kunst/S4-Fotographie/Lernzirkel/blickwinkel 1.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
     "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
-    "NvimNotes/10.02.24.md",
-    "NvimNotes/08.02.24.md",
     "NvimNotes/06.02.24.md",
-    "NvimNotes",
-    "GWÖ.md",
-    "Daily Notes/08.02.24.md",
-    "Deutsch/Kommunikation/Die 5 Axiome.md",
-    "Deutsch/Kommunikation/Kommunikationsanalyse.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/reflexionen_2_1.29.3.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/symmetrie_1.30.2.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.31.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
-    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
+    "NvimNotes/08.02.24.md",
+    "NvimNotes/10.02.24.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Bilder",
-    "Physik/Magnetfelder.md",
+    "Daily Notes/08.02.24.md",
+    "Physik/Aufgabe Doppelspalt.md",
+    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
+    "Kunst/S4-Fotographie/Serie.md",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md",
+    "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
+    "NvimNotes/02.08.24.md~",
+    "NvimNotes/02.06.24.md~",
+    "Daily Notes/07.02.24.md",
+    "Deutsch/S4 Sprache/Argumentationstypen.md",
+    "Untitled.md",
+    "NvimNotes/Untitled.loom",
+    "NvimNotes",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/blickwinkel_1.5.1.png",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.31.png",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/reflexionen_2_1.29.3.png",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Daily Notes/06.10.23.md",
+    "Daily Notes/20.09.23.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder",
     "Kunst/S4-Fotographie/Lernzirkel",
     "S4-Fotographie",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw",
-    "Admark-AI",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

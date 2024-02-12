@@ -25,8 +25,3 @@ tags:
 
 Die auf dieser Website angezeigten Bilder sind komprimiert. Die originalen Bilder mit hoher Auflösung sind unter folgendem Link verfügbar:
 https://photos.app.goo.gl/essG9ZBYMQvB52VP6
-
-
-```photos
-{"title":"Kunst Fotographien","query":{"albumId":"ALiOiDWAU-xZGXEo9sTffviJ4Ud_xD3fg0YB_Rs0L_PJ_GIwdOOuVt3R19N2MFzl1f2fqoMBuY9y"}}
-```
