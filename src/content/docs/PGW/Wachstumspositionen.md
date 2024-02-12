@@ -26,4 +26,8 @@ Die beiden Positionen Degrowth und Green Growth beruhen somit auf Kernannahmen, 
 - Wirtschaftswachstum ist nicht notwendig, um die Lebensqualität zu erhalten (und kann sogar sinken, obwohl die Lebensqualität steigt)
 - Wirtschaftsleistung und ökologische Belastungen stehen im Zusammenhang
 
-## Anhänge
+## Missionsorientiertes Wirtschaftspolitik
+
+## Pro und Contra Wirtschaftswachstum
+
+- 
