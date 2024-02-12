@@ -46,7 +46,7 @@ tags:
 
 - Funktioniert sehr gut
 - Trotz Reduzierung der Elemente hat das Bild eine starke Wirkung
-![](Lernzirkel/Bilder/blickwinkel_1.5.1.png)
+![](./Bilder/blickwinkel_1.5.1.png)
 
 ### Froschperspektive
 
