@@ -57,7 +57,7 @@ https://designyoutrust.com/2016/11/pawel-gulewicz-creates-anonymous-street-photo
 	- Blickführung „revealt” das Bild (von unten nach oben)
 -  Die Spitze des Dreiecks zeigt auf eine Person, die allerdings so weit weg ist, das sie unkenntlich bleibt
 - Alle Gesichter sind aufgrund leichter Tiefenunschärfe, Bewegungsunschärfe, Abscheidung oder einer Maske nicht erkennbar.
-[![](./2024-02-11_google-photo_161118.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNlWYugyFeDqJHrADu_zXPFuKXGq3DghkdEHyib?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
+[![](2024-02-11_google-photo_161118_12.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNlWYugyFeDqJHrADu_zXPFuKXGq3DghkdEHyib?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 #### Bild 2
 
@@ -65,7 +65,7 @@ https://designyoutrust.com/2016/11/pawel-gulewicz-creates-anonymous-street-photo
 - Masse an Menschen
 	- Das Individuum liegt nicht mehr im Fokus
 - Hektik im Hintergrund, Stabilität im Vordergrund durch vertikale und horizontale Linien
-[![](./2024-02-11_google-photo_162024.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNlL7BbquVbAjNMKdqa9ftwXGGCExWPi5cfS11c?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
+[![](2024-02-11_google-photo_162024_13.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipNlL7BbquVbAjNMKdqa9ftwXGGCExWPi5cfS11c?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 #### Bild 3
 
@@ -77,8 +77,7 @@ https://designyoutrust.com/2016/11/pawel-gulewicz-creates-anonymous-street-photo
 		- Geschäfte sind im Hintergrund nicht erkennbar
 	- Farben
 		- Schwarz-Weiß-Bild reduziert die Farben
-
-https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipPjnfnjC2DEZU_EXnYpxPJUXsGnAn94TooZzhtH?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR
+[![](./2024-02-05_google-photo_153853.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipPjnfnjC2DEZU_EXnYpxPJUXsGnAn94TooZzhtH?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 ## Ideenfindung
 

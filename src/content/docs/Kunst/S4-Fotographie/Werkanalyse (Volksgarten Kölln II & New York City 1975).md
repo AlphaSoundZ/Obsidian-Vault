@@ -87,7 +87,13 @@ Während ich auf das Bild schaue, entsteht vor meinen Augen eine **lebendige** S
 - Spannung durch unterschiedliche Positionen zwischen Fluchtpunkt und Treffpunkt der Dreiecke
 - Bruch zwischen der Richtung des Fluchtpunkts und dem Nebel/Rauch von rechts
 
+### Kompositionskizzen
+
+https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipPnI7AnZH5drRsMnwAa_HcvnDT6VxD2jr1XOsOV?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR
+
 ### Ausformulierte Analyse & Deutung
+
+Ich hatte am Ende mehr Lust/Ideen für dieses Bild, auch wenn es nicht das primäre Bild war, welches ich ausgeteilt bekommen habe.
 
 #### Analyse
 
