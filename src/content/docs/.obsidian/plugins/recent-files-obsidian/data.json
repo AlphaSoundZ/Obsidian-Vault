@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Ausschnittssucher",
+      "path": "Kunst/S4-Fotographie/Lernzirkel/Ausschnittssucher.md"
+    },
+    {
+      "basename": "Digitales Kunstheft",
+      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+    },
+    {
       "basename": "Werkanalyse (Volksgarten Kölln II & New York City 1975)",
       "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
     },
     {
       "basename": "Semesterarbeit",
       "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
-    },
-    {
-      "basename": "Digitales Kunstheft",
-      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
     },
     {
       "basename": "Geschichte",
@@ -195,10 +199,6 @@
     {
       "basename": "20.09.23",
       "path": "Daily Notes/20.09.23.md"
-    },
-    {
-      "basename": "Scottish independence",
-      "path": "Englisch/S1 The United Kingdom - diverse and disunited/Scottish independence.md"
     }
   ],
   "omittedPaths": [],
