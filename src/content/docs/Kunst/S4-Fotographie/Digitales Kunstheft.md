@@ -13,6 +13,7 @@ tags:
 	- [Komposition](/kunst/s4-fotographie/lernzirkel/komposition/)
 	- [Licht und Schatten](/kunst/s4-fotographie/lernzirkel/licht-und-schatten/)
 	- [Motiv Reduktion](/kunst/s4-fotographie/lernzirkel/motiv-reduktion/)
+	- [Ausschnittsucher](/kunst/s4-fotographie/lernzirkel/ausschnittsucher/)
 - Bildanalyse
 	- [Wie schreibt man eine Bildanalyse?](/kunst/s4-fotographie/bildanalyse/)
 	- [Analyse anhand zweier Fotographien](/kunst/s4-fotographie/werkanalyse-volksgarten-kölln-ii--new-york-city-1975/)

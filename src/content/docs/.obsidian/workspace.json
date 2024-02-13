@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Lernzirkel/Ausschnittssucher.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
               }
             }
           },
@@ -187,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
               }
             }
           }
@@ -205,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,11 +273,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c271b4b2f6a08bdc",
+  "active": "580c5d50fb40437d",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
-    "Kunst/S4-Fotographie/Lernzirkel/Ausschnittssucher.md",
+    "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
     "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
     "Kunst/S4-Fotographie/2024-02-11_google-photo_161118_12.jpg",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
     "Kunst/S4-Fotographie/test.md",
@@ -295,7 +294,6 @@
     "Kunst/S4-Fotographie/7_1.6.1.png.crdownload",
     "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
     "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
-    "Kunst/S4-Fotographie/new_york_1975.webp",
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
     "Philosophie/Religionsphilosophie.md",
     "Task List.md",
