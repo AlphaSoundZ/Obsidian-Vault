@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Bildanalyse",
+      "path": "Kunst/S4-Fotographie/Bildanalyse.md"
+    },
+    {
+      "basename": "Digitales Kunstheft",
+      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+    },
+    {
+      "basename": "Semesterarbeit",
+      "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
+    },
+    {
+      "basename": "a5a3771e1166d1813760504ceef3790059000ba4",
+      "path": "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png"
+    },
+    {
+      "basename": "Rekonstruktion - Dekonstruktion - Konstruktion",
+      "path": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md"
+    },
+    {
+      "basename": "Rekonstruktion_Dekonstruktion_Konstruktion",
+      "path": "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png"
+    },
+    {
+      "basename": "Religionsphilosophie",
+      "path": "Philosophie/Religionsphilosophie.md"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "Essay",
+      "path": "Seminar/Essay.md"
+    },
+    {
+      "basename": "Wachstumspositionen",
+      "path": "PGW/Wachstumspositionen.md"
+    },
+    {
       "basename": "Motiv Reduktion",
       "path": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md"
     },
@@ -53,28 +93,8 @@
       "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
     },
     {
-      "basename": "Semesterarbeit",
-      "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
-    },
-    {
-      "basename": "Bildanalyse",
-      "path": "Kunst/S4-Fotographie/Bildanalyse.md"
-    },
-    {
-      "basename": "Task List",
-      "path": "Task List.md"
-    },
-    {
-      "basename": "Wachstumspositionen",
-      "path": "PGW/Wachstumspositionen.md"
-    },
-    {
       "basename": "12.02.24",
       "path": "Daily Notes/12.02.24.md"
-    },
-    {
-      "basename": "Digitales Kunstheft",
-      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
     },
     {
       "basename": "Facetten der modernen Sozialstruktur",
@@ -87,10 +107,6 @@
     {
       "basename": "Candita_Höfer_Volksgarten_Köln_II_1974",
       "path": "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg"
-    },
-    {
-      "basename": "a5a3771e1166d1813760504ceef3790059000ba4",
-      "path": "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png"
     },
     {
       "basename": "06.02.24",
@@ -115,14 +131,6 @@
     {
       "basename": "Aufgabe Doppelspalt",
       "path": "Physik/Aufgabe Doppelspalt.md"
-    },
-    {
-      "basename": "Rekonstruktion - Dekonstruktion - Konstruktion",
-      "path": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md"
-    },
-    {
-      "basename": "Rekonstruktion_Dekonstruktion_Konstruktion",
-      "path": "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png"
     },
     {
       "basename": "Serie",
@@ -191,14 +199,6 @@
     {
       "basename": "Simulationen",
       "path": "Informatik/Simulationen.md"
-    },
-    {
-      "basename": "Pitch Deck Ausleihe",
-      "path": "Informatik/Ausleihe/Pitch Deck Ausleihe.md"
-    },
-    {
-      "basename": "Sadismus und Masochismus",
-      "path": "Deutsch/Der Untertan/Sadismus und Masochismus.md"
     }
   ],
   "omittedPaths": [],
