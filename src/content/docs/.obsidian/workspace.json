@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Bildanalyse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
               }
             }
           },
@@ -187,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
               }
             }
           }
@@ -205,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,17 +273,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "eb5fb6b9b443c509",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
-    "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
     "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
+    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
+    "Kunst/S4-Fotographie/test.md",
+    "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
+    "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
+    "Kunst/S4-Fotographie/Bildanalyse.md",
+    "Kunst/S4-Fotographie/Geschichte.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/new_york_1975.webp",
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
     "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
-    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
     "Philosophie/Religionsphilosophie.md",
     "Task List.md",
     "Philosophie/Grundzüge des Kriegsrealismus.md",
@@ -301,8 +303,6 @@
     "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_9.jpg",
     "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_8.jpg",
     "Kunst/S4-Fotographie/Lernzirkel/2024-02-11_google-photo_161010_6.jpg",
-    "Kunst/S4-Fotographie/Lernzirkel/2024-02-11_google-photo_212618_5.jpg",
-    "Kunst/S4-Fotographie/test.md",
     "NvimNotes/run.py~",
     "Daily Notes/12.02.24.md",
     "PGW/Wachstumspositionen.md",
@@ -312,7 +312,6 @@
     "NvimNotes/test.json~",
     "NvimNotes/test.json",
     "NvimNotes/bildanalyse.txt",
-    "Kunst/S4-Fotographie/Geschichte.md",
     "thumbnails",
     "NvimNotes/06.02.24.md",
     "NvimNotes/08.02.24.md",

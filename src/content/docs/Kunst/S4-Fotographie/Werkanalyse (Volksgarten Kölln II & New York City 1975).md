@@ -91,55 +91,19 @@ Während ich auf das Bild schaue, entsteht vor meinen Augen eine **lebendige** S
 
 #### Analyse
 
-Die Fotographie „New York City“ ist von Joel Meyerowitz aufgenommen  
-worden und entstand im Jahr 1975. Auf ihr ist eine New Yorker Straße 
-abgebildet. Es ist ein heller Tag, weswegen im Hintergrund ein blauer 
-Himmel zu sehen ist. Im Vordergrund sind Spaziergänger zu sehen, die 
-zwischen den Häusern entlang der Straße laufen. Im Fokus steht dabei ein 
-vermutliches Paar, dass in ähnlichen Mänteln eingekleidet ist und durch 
-eine Rauchwolke läuft. Anders als die anderen Menschen werden sie nicht 
-von den Häuserwänden beschattet, die Sonne beleuchtet sie. 
+Die Fotografie "New York City" ist ein Werk von Joel Meyerowitz, aufgenommen im Jahr 1975. In dieser eindrucksvollen Aufnahme werden verschiedene gestalterische und visuelle Elemente deutlich, die das Bild prägen und seine Wirkung auf den Betrachter beeinflussen.
 
-Im Rahmen der Komposition ist zunächst festzuhalten, dass die 
-Personenkonstellation nicht ausgeglichen ist. Durch die Entfernung des 
-Paares entsteht eine Distanz zu den restlichen Menschen auf der Straße, 
-die sich auf der rechten Seite des Bildes gruppieren. Durch diese 
-asymmetrische Aufteilung, hebt sich das abgegrenzte Paar von der Menge 
-hervor und rückt so in den Fokus des Bildes. Sie sehen ebenfalls in 
-vertikalen Achsen parallel zu den Häuserwänden und verleihen dem Bild 
-so eine gewisse Struktur. Die Rauchschwaden lassen die Fotografie da-
-gegen etwas belebter wirken, denn sie sind nicht formbegrenzt  markieren 
-so erkenntliche Bewegung im Bild, die es weniger einheitlich sondern eher
-etwas chaotischer wirken lassen und das typische Bild des Straßentreibens 
-unterstreichen.
+Der Hell-Dunkel-Kontrast spielt eine wesentliche Rolle in der Komposition des Bildes. Durch das Licht, das von hinten kommt, entstehen starke Schattenwürfe, die eine dynamische Atmosphäre schaffen und bestimmte Elemente im Vordergrund hervorheben. Dieser Kontrast verstärkt die Dramatik der Szene und zieht die Aufmerksamkeit des Betrachters auf sich. Ein weiteres prägendes Element ist der Kalt-Warm-Kontrast. Dieser zeigt sich in den unterschiedlichen Farbtemperaturen innerhalb des Bildes, wodurch eine zusätzliche Spannung und Dynamik entsteht. Die kühlen blauen und grauen Töne des Nebels und Himmels stehen im Kontrast zu den wärmeren Farben der Menschen und Gebäude. Die Farbpalette des Bildes ist insgesamt begrenzt, was dazu beiträgt, eine bestimmte Stimmung und Atmosphäre zu erzeugen. Wenige Farben werden zudem gezielt eingesetzt, um den Fokus auf bestimmte Elemente zu lenken und eine gewisse Gleichförmigkeit zu vermitteln. Die Komposition des Bildes ist sorgfältig gestaltet. Denn der Nebel bildet ein Dreieck, was eine gewisse Struktur und Dynamik in die Szene bringt. Der Fluchtpunkt hält sich an die Drittelregel, was die Komposition ausgewogen und ansprechend macht. Das Licht, das von hinter dem Betrachter kommt, trägt zur Dynamik des Bildes bei, da die Schatten in die Richtung des Fluchtpunkts fallen. Dies trägt zur Bewegung im Bild bei und verleiht dem Bild eine gewisse Lebendigkeit. Eine weitere interessante Beobachtung ist, dass es so wirkt, als wäre noch mehr los, weil auf die Rücken der Personen Schatten von anderen Personen fallen. Dies verstärkt den Eindruck von Trubel und Bewegung in der belebten Straße. Auch interessant ist das Kreuzen des Rauchs von rechts, was den Blick Richtung Fluchtpunkt stört und zusätzliche Spannung erregt. Auf der anderen Seite wirkt das Bild aufgrund der vermeintlichen Wiederholung des Paares auf der rechten Seite, auch wenn sie nicht zusammen gehen.
 
-Im Gegensatz dazu sorgt der Lichteinfall für Spannung im Bild, die zu vor 
-angesprochene 
- statische Wirkung wird durch diesen aufgebrochen. Dies entsteht 
-unterandrem durch den Helldunkel Kontrast, der durch den Tageslicht-
-einfall und das Schattenwerfen der Häuserwände hervorgerufen wird. 
-Durch die besondere Beleuchtung des Paares wirkt es für den Betrachter 
-so, als würde das Paar besonders hervorgehoben werden und die beiden 
-Personen sind so Hauptakteure des Bildes. 
-
-Die intensive und eindrucksvolle Erstwirkung wird außerdem durch die
- Farbwirkung des Bildes erklärlich. Der Hellblaue Himmel wirkt besonders 
-strahlend da er einen Komplimentär-Kontrast zu den beigen 
-Häuserwänden bildet und vom einheitlichen Farbschema des Bildes 
-abweicht. 
-
-Im Generellen kann so festgehalten werden, dass durch Komposition,
-Lichteinfall und Farbgebung das aufgenommene Straßentreiben des 
-Fotografen eindrucksvoll jedoch auch dynamisch und chaotisch wirken 
-lässt. 
+Insgesamt erzeugen die verschiedenen gestalterischen Elemente und visuellen Kontraste eine dynamische und fesselnde Atmosphäre in der Fotografie. Die Szene wird lebendig und vielschichtig trotz Reduzierung in Farbe dargestellt, wobei der Betrachter eine Vielzahl von Eindrücken und Emotionen erlebt, von Überforderung und Trubel bis hin zu Momenten der Ruhe und Eleganz.
 
 #### Bilddeutung
 
-Die dynamische und chaotische Wirkung kann auf den 
+Die dynamische, spannungsvolle und gleichzeitig ausgewogene Wirkung der Komposition kann auf den 
 form unbegrenzten Rauch und das rege Straßenleben, das 
 abgebildet ist, zurückgeführt werden, sowie die verschiedenen 
-Spannungsvollen Kontraste in Form und Farbe.
-Eindruck entsteht durch das Gesamtspiel der verschiedenen 
+spannungsvollen Kontraste in Form und Farbe.
+Der Eindruck entsteht durch das Gesamtspiel der verschiedenen 
 kompositorischen Mittel, aber besonders durch die Statischen 
 hochgebauten Häuser, die den großstädtischen Anschein betonen.
 Bezieht man jene werkimmanenten Eindrücke jetzt auf den Kontext des 
