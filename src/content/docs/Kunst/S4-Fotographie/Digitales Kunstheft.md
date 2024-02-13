@@ -15,7 +15,7 @@ tags:
 	- [Motiv Reduktion](/kunst/s4-fotographie/lernzirkel/motiv-reduktion/)
 - Bildanalyse
 	- [Wie schreibt man eine Bildanalyse?](/kunst/s4-fotographie/bildanalyse/)
-	- [Analyse anhand zweier Fotographien](/kunst/s4-fotographie/bildanalyse/)
+	- [Analyse anhand zweier Fotographien](/kunst/s4-fotographie/werkanalyse-volksgarten-kölln-ii--new-york-city-1975/)
 - [Geschichte der Fotographie](/kunst/s4-fotographie/geschichte/)
 - [Foto-Serie](/kunst/s4-fotographie/serie/)
 - [Rekontruktions-, Dekonstruktion- und Konstruktionsaufgabe](/kunst/s4-fotographie/rekonstruktion---dekonstruktion---konstruktion/)
