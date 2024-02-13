@@ -81,8 +81,8 @@ Während ich auf das Bild schaue, entsteht vor meinen Augen eine **lebendige** S
 	- Die Personen auf der rechten Seite bilden auch ein Dreieck
 	- Fluchtpunkt befindet sich auf dem Drittel (Drittelregel)
 - Licht kommt von hinter dem Betrachter
-	- traegt zur Dynamik bei (Schatten fallen in die Richtung des Fluchtpunkts)
-- Es wirkt so, als waere noch mehr los, weil auf die Ruecken der Personen Schatten von anderen Personen fallen
+	- trägt zur Dynamik bei (Schatten fallen in die Richtung des Fluchtpunkts)
+- Es wirkt so, als wäre noch mehr los, weil auf die Rücken der Personen Schatten von anderen Personen fallen
 - Dramatische Wirkung aufgrund vieler Kontraste
 - Spannung durch unterschiedliche Positionen zwischen Fluchtpunkt und Treffpunkt der Dreiecke
 - Bruch zwischen der Richtung des Fluchtpunkts und dem Nebel/Rauch von rechts
@@ -99,21 +99,9 @@ Insgesamt erzeugen die verschiedenen gestalterischen Elemente und visuellen Kont
 
 #### Bilddeutung
 
-Die dynamische, spannungsvolle und gleichzeitig ausgewogene Wirkung der Komposition kann auf den 
-form unbegrenzten Rauch und das rege Straßenleben, das 
-abgebildet ist, zurückgeführt werden, sowie die verschiedenen 
-spannungsvollen Kontraste in Form und Farbe.
-Der Eindruck entsteht durch das Gesamtspiel der verschiedenen 
-kompositorischen Mittel, aber besonders durch die Statischen 
-hochgebauten Häuser, die den großstädtischen Anschein betonen.
-Bezieht man jene werkimmanenten Eindrücke jetzt auf den Kontext des 
-Bilds, kommt man zu einer größeren Erkenntnis. Das Stadtleben wird 
-widergespiegelt und die Menschlichen Individuen innerhalb der Stadt, die 
-mit unterschiedlichen Zielen die Straße passieren und im Kontext der 
-Großstadt anonym und unerkannt bleiben. Eine Faszination für die 
-Großstadt wird deutlich. Menschen in der Großstadt sind bewegungsfrei 
-und flexibel - dynamisch.
+Das Bild vermittelt eine Atmosphäre von Trubel und Bewegung, die typisch für das pulsierende Leben in einer Großstadt wie New York ist. Die Fließbewegung der Menschen, die von der Straße aus durch den Nebel drängen, vermittelt ein Gefühl von Überforderung und Hektik, während gleichzeitig Momente der Ruhe und des Glücks durchscheinen, wie die elegant gekleideten Passanten, die inmitten des Trubels einander zu begegnen scheinen. Das Bild kann auch als Momentaufnahme einer bestimmten Zeit und eines bestimmten Ortes betrachtet werden, die die Essenz des urbanen Lebens einfängt. Es vermittelt ein Gefühl von Romantik und Faszination für die Großstadt, während es gleichzeitig die Herausforderungen und Widersprüche des städtischen Lebens aufzeigt.
 
+Zusammenfassend lässt sich sagen, dass die Fotografie zu einer vielschichtige Interpretationsmöglichkeiten zulässt, die sowohl die ästhetischen als auch die sozialen und emotionalen Dimensionen des städtischen Lebens reflektiert. Sie vermittelt ein Gefühl von Bewegung und Dynamik, während sie gleichzeitig Momente der Ruhe und des Glücks einfängt.
 ## Vergleich
 
 | Volksgarten Koelln II | New York City |
