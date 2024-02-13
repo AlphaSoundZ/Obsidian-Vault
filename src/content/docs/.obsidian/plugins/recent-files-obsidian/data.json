@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Bildanalyse",
-      "path": "Kunst/S4-Fotographie/Bildanalyse.md"
-    },
-    {
       "basename": "Digitales Kunstheft",
       "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+    },
+    {
+      "basename": "Bildanalyse",
+      "path": "Kunst/S4-Fotographie/Bildanalyse.md"
     },
     {
       "basename": "Semesterarbeit",
       "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
     },
     {
-      "basename": "a5a3771e1166d1813760504ceef3790059000ba4",
-      "path": "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png"
+      "basename": "Werkanalyse (Volksgarten Kölln II & New York City 1975)",
+      "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
     },
     {
       "basename": "Rekonstruktion - Dekonstruktion - Konstruktion",
       "path": "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md"
+    },
+    {
+      "basename": "new_york_1975",
+      "path": "Kunst/S4-Fotographie/new_york_1975.webp"
+    },
+    {
+      "basename": "a5a3771e1166d1813760504ceef3790059000ba4",
+      "path": "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png"
     },
     {
       "basename": "Rekonstruktion_Dekonstruktion_Konstruktion",
@@ -87,10 +95,6 @@
     {
       "basename": "test",
       "path": "Kunst/S4-Fotographie/test.md"
-    },
-    {
-      "basename": "Werkanalyse (Volksgarten Kölln II)",
-      "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II).md"
     },
     {
       "basename": "12.02.24",
@@ -195,10 +199,6 @@
     {
       "basename": "Scottish independence",
       "path": "Englisch/S1 The United Kingdom - diverse and disunited/Scottish independence.md"
-    },
-    {
-      "basename": "Simulationen",
-      "path": "Informatik/Simulationen.md"
     }
   ],
   "omittedPaths": [],

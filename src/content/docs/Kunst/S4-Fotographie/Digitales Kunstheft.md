@@ -13,7 +13,9 @@ tags:
 	- [Komposition](/kunst/s4-fotographie/lernzirkel/komposition/)
 	- [Licht und Schatten](/kunst/s4-fotographie/lernzirkel/licht-und-schatten/)
 	- [Motiv Reduktion](/kunst/s4-fotographie/lernzirkel/motiv-reduktion/)
-- [Bildanalyse](/kunst/s4-fotographie/bildanalyse/)
+- Bildanalyse
+	- [Wie schreibt man eine Bildanalyse?](/kunst/s4-fotographie/bildanalyse/)
+	- [Analyse anhand zweier Fotographien](/kunst/s4-fotographie/bildanalyse/)
 - [Geschichte der Fotographie](/kunst/s4-fotographie/geschichte/)
 - [Foto-Serie](/kunst/s4-fotographie/serie/)
 - [Rekontruktions-, Dekonstruktion- und Konstruktionsaufgabe](/kunst/s4-fotographie/rekonstruktion---dekonstruktion---konstruktion/)

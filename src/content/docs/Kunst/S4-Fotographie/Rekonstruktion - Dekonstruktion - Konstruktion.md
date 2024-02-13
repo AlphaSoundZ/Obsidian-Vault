@@ -29,4 +29,4 @@ William Klein: Xmas Macys December (1954)
 
 ## Ergebnis
 
-![](./Rekonstruktion_Dekonstruktion_Konstruktion.png)
+[![](./Rekonstruktion_Dekonstruktion_Konstruktion.png)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipMEOsOakeAle-ZjSs1AQKRBytpBBRVbyYumUDC-?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
