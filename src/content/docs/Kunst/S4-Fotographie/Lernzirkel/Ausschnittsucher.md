@@ -7,7 +7,7 @@ tags: []
 ### Original
 
 - Sehr touristisch
-[![](2024-02-11_google-photo_162832_11.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipMiKYQui2K5CtlqYASeiu5uSMvx8kLJ0HNrIzjS?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
+[![](./2024-02-11_google-photo_162832_11.jpg)](https://photos.google.com/share/AF1QipN0n9Kz9Cew6zH1yS065O_g4ooJ1rlWNxGhm9T-geTU7I55_8CyjcWxhDxKiwrwEg/photo/AF1QipMiKYQui2K5CtlqYASeiu5uSMvx8kLJ0HNrIzjS?key=ampJU043ZGJmMkItalFtd29FUF9UTktpTnU3S1RR)
 
 ### Cropped
 

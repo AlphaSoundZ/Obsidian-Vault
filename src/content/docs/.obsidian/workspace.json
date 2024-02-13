@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
               }
             }
           },
@@ -186,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
               }
             }
           }
@@ -204,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
+                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,15 +274,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "580c5d50fb40437d",
+  "active": "c271b4b2f6a08bdc",
   "lastOpenFiles": [
     "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
     "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
     "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
     "Kunst/S4-Fotographie/2024-02-11_google-photo_161118_12.jpg",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
     "Kunst/S4-Fotographie/test.md",
-    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
     "Kunst/S4-Fotographie/Geschichte.md",
     "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
