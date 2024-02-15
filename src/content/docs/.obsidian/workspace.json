@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3c78349ce8394ea3",
+        "id": "7665689f5dd141b1",
         "type": "tabs",
         "children": [
           {
-            "id": "c942d05d42f03f2a",
+            "id": "b00b14e8b862065c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kunst/S4-Fotographie/Digitales Kunstheft.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c271b4b2f6a08bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5010185241699
+    "width": 521.5010185241699,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
               }
             }
           },
@@ -187,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md"
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
               }
             }
           }
@@ -205,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Semesterarbeit.md",
+                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,8 +261,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c271b4b2f6a08bdc",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
+    "Task List.md",
     "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
     "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
@@ -297,7 +285,6 @@
     "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
     "Philosophie/Religionsphilosophie.md",
-    "Task List.md",
     "Philosophie/Grundzüge des Kriegsrealismus.md",
     "Seminar/Essay.md",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",

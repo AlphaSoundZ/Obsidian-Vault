@@ -109,15 +109,32 @@ Das Bild vermittelt eine Atmosphäre von Trubel und Bewegung, die typisch für d
 
 Zusammenfassend lässt sich sagen, dass die Fotografie vielschichtige Interpretationsmöglichkeiten zulässt, die sowohl die ästhetischen als auch die sozialen und emotionalen Dimensionen des städtischen Lebens reflektiert. Sie vermittelt ein Gefühl von Bewegung und Dynamik, während sie gleichzeitig Momente der Ruhe und des Glücks einfängt.
 
+#### Vergleich
+
+Die Fotographie „Volksgarten Kölln II” (2) ist durch Candida Höfer nur ein Jahr später entstanden, weist allerdings viele Unterschiede (und Gemeinsamkeiten) in den kompositorischen Mitteln auf. Es lassen sich Unterschiede unter anderem in der Farbe, Dynamik und Plastizität wiederfinden, während die Gemeinsamkeiten neben der Entstehungszeit vor allem bei dem Motiv und den Kontrasten liegen.
+
+Es fällt direkt der Unterschied in der Farbe auf. Das Bild (2) wurde in Schwarz-Weiß aufgenommen, während das erste Bild in Farbe ist, allerdings auch reduziert, indem man die Farben auf Beige, Blau und Grautöne beschränkt hat. Beide Bilder weisen Hell-Dunkel-Kontraste auf, die jedoch unterschiedliche Wirkungen erzeugen. Bild (1) ist von der Dunkelheit umrandet, und die hellen Bildteile breiten sich durch den  Rauch aus, wodurch ein Konflikt zwischen Hell und Dunkel entsteht. Die Wirkung ist eine mystische Stimmung und Dynamik. Das andere Bild ist hingegen von einem Hell-Dunkel-Kontrast geprägt, welcher die Blickführung steuert. Die vier Frauen sind die einzigen Personen im Bild, die mit dem direkten/umliegenden Hintergrund im Kontrast stehen. Das führt dazu, dass der Blick des Betrachters auf die Frauen gelenkt wird, die sich zudem genau auf dem Drittel befinden (Drittelregel). Es zeigt, dass der Hell-Dunkel-Kontrast unterschiedliche Funktionen haben kann. Im Unterschied zum Schwarz-Weiß-Bild hat (1) zudem noch einen Kalt-Warm-Kontrast bzw. in diesem Fall auch Komplementär-Kontrast zwischen Himmel und Farbe von Gebäude und Kleidung. Ein weiterer Unterschied in der Dynamik lässt sich anhand der Linien wiederfinden. Während Bild (2) vor allem vertikale und horizontale Linien aufweist und daher kein Fluchtpunkt erkennbar ist, zeigt Bild (1) einen Fluchtpunkt und viele verschiedene Diagonalen und Kurven, sei es die Diagonale durch die  Unterkante des Rauchs oder die Kurve durch die Hausecke. Daraus resultieren unterschiedliche Wirkungen. Bild (1) wirkt dynamischer und schafft mehr Aufruhe als Bild (2), welches im Gegensatz dazu Ruhe und Gelassenheit vermittelt. Bei beiden Bilder steht der Mensch im Mittelpunkt, während sich die sozialen Schichten unterscheiden. Zudem ist die Perspektive auf Höhe des Motivs bzw. des Menschen, wodurch der Betrachter leicht in die Szene eintauchen kann.
+
+- Pastizität
+	- Mehr Tiefenunschärfe bei Volksgarten; weniger allgemeine Bildtiefe, da kein Fluchtpunkt
+	- Weniger Tiefenunschärfe bei New York City; mehr allgemeine Bildtiefe, da Fluchtpunkt vorhanden
+- Bildformat
+- Perspektive
+- Schatten/Kanten
+
 ## Vergleich
 
-| Volksgarten Koelln II | New York City |
-| ---- | ---- |
-| Schwarz-Weiss | Farbe, warm und kalt, vor allem Beige und Grau/Blau |
-| Statisch, ruhig | Dynamisch, Brueche |
-| Nur Vertikalen und Horizontalen | Viele Diagonalen |
-| Weiche Schatten | Harte Schatten |
-| Wenig Tiefe | Viel Tiefe |
+|  | Volksgarten Koelln II | New York City |
+| ---- | ---- | ---- |
+| Farbe | Schwarz-Weiss | Farbe, warm und kalt, vor allem Beige und Grau/Blau |
+| Dynamik/Bewegung | Statisch, ruhig | Dynamisch, Brueche |
+| Linien/Richtungen | Nur Vertikalen und Horizontalen | Viele Diagonalen |
+| Kanten/Schatten | Weiche/keine Schatten | Harte Schatten |
+| Plastizität/Tiefe | Wenig Tiefe | Viel Tiefe |
+| Umgebung | Natur | Urban |
+| Enstehungszeit | 1975 | 1974 |
+
+Beide Bilder sind auf der gleichen Höhe/Perspektive, gleiches Motiv/Bildelement → Mensch, gleiches Bildformat, Entstehungszeit
 
 ## Anhänge
 
