@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7665689f5dd141b1",
+        "id": "292ab6b27b8870f6",
         "type": "tabs",
         "children": [
           {
-            "id": "b00b14e8b862065c",
+            "id": "e74f0d6ad71d7bb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -78,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 521.5010185241699,
-    "collapsed": true
+    "width": 432.50589752197266
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -96,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
-              }
+              "state": {}
             }
           }
         ],
@@ -192,7 +180,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,9 +248,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "e74f0d6ad71d7bb7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "NvimNotes/10.02.24.md",
+    "NvimNotes/15.02.24.md",
+    "Englisch/S1 The United Kingdom - diverse and disunited/Speech.md",
+    "NvimNotes/20.02.24.md~",
+    "NvimNotes/20.02.24.md",
+    "Seminar/Essay.md",
     "Task List.md",
+    "Daily Notes/19.02.24.md",
     "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
     "Kunst/S4-Fotographie/Semesterarbeit.md",
     "Kunst/S4-Fotographie/Digitales Kunstheft.md",
@@ -286,7 +281,6 @@
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
     "Philosophie/Religionsphilosophie.md",
     "Philosophie/Grundzüge des Kriegsrealismus.md",
-    "Seminar/Essay.md",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
     "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
@@ -296,18 +290,12 @@
     "NvimNotes/run.py~",
     "Daily Notes/12.02.24.md",
     "PGW/Wachstumspositionen.md",
-    "PGW/Facetten der modernen Sozialstruktur.md",
     "NvimNotes/run.py",
     "NvimNotes/bildanalyse.txt~",
     "NvimNotes/test.json~",
     "NvimNotes/test.json",
     "NvimNotes/bildanalyse.txt",
     "thumbnails",
-    "NvimNotes/06.02.24.md",
-    "NvimNotes/08.02.24.md",
-    "NvimNotes/10.02.24.md",
-    "Daily Notes/08.02.24.md",
-    "NvimNotes/02.08.24.md~",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
