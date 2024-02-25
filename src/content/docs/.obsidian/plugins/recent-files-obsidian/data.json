@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "Handmaids Tale",
+      "path": "Englisch/S4/Handmaids Tale/Handmaids Tale.md"
+    },
+    {
+      "basename": "Aufgabe Doppelspalt",
+      "path": "Physik/Aufgabe Doppelspalt.md"
+    },
+    {
+      "basename": "Lithium",
+      "path": "Geographie/Lithium.md"
+    },
+    {
+      "basename": "Mathe Klausur 02.06.",
+      "path": "Daily Notes/Mathe Klausur 02.06..md"
+    },
+    {
+      "basename": "15 Punkte",
+      "path": "Mathe/15 Punkte.md"
+    },
+    {
+      "basename": "Minimal Music",
+      "path": "Musik/Minimal Music.md"
+    },
+    {
+      "basename": "Semesterarbeit",
+      "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
+    },
+    {
+      "basename": "Digitales Kunstheft",
+      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
+    },
+    {
       "basename": "10.02.24",
       "path": "NvimNotes/10.02.24.md"
     },
@@ -17,10 +53,6 @@
       "path": "Seminar/Essay.md"
     },
     {
-      "basename": "Task List",
-      "path": "Task List.md"
-    },
-    {
       "basename": "19.02.24",
       "path": "Daily Notes/19.02.24.md"
     },
@@ -29,16 +61,8 @@
       "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
     },
     {
-      "basename": "Semesterarbeit",
-      "path": "Kunst/S4-Fotographie/Semesterarbeit.md"
-    },
-    {
       "basename": "Ausschnittsucher",
       "path": "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md"
-    },
-    {
-      "basename": "Digitales Kunstheft",
-      "path": "Kunst/S4-Fotographie/Digitales Kunstheft.md"
     },
     {
       "basename": "2024-02-11_google-photo_161118_12",
@@ -157,10 +181,6 @@
       "path": "Daily Notes/08.02.24.md"
     },
     {
-      "basename": "Aufgabe Doppelspalt",
-      "path": "Physik/Aufgabe Doppelspalt.md"
-    },
-    {
       "basename": "Serie",
       "path": "Kunst/S4-Fotographie/Serie.md"
     },
@@ -179,22 +199,6 @@
     {
       "basename": "kunst_photography_1_2024-02-05_15.00.24",
       "path": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.00.24.png"
-    },
-    {
-      "basename": "blickwinkel_1.5.1",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Bilder/blickwinkel_1.5.1.png"
-    },
-    {
-      "basename": "kunst_photography_1_2024-02-05_15.02.29",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.02.29.png"
-    },
-    {
-      "basename": "kunst_photography_1_2024-02-05_15.11.31",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.11.31.png"
-    },
-    {
-      "basename": "kunst_photography_1_2024-02-05_15.13.33",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Bilder/kunst_photography_1_2024-02-05_15.13.33.png"
     }
   ],
   "omittedPaths": [],

@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "292ab6b27b8870f6",
+        "id": "11aa9d3e644ca47f",
         "type": "tabs",
         "children": [
           {
-            "id": "e74f0d6ad71d7bb7",
+            "id": "ead3959d895ffbd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Task List.md"
+              }
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           },
           {
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Task List.md"
+              }
             }
           }
         ],
@@ -180,6 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,6 +240,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -248,20 +258,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e74f0d6ad71d7bb7",
+  "active": "ead3959d895ffbd7",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Englisch/S4/Handmaids Tale",
+    "Englisch/S4",
+    "Task List.md",
+    "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
+    "Geographie/sciadvadh8183-f1.jpg",
+    "Daily Notes/sciadvadh8183-f1.jpg",
+    "Geographie/Lithium.md",
+    "Daily Notes/Mathe Klausur 02.06..md",
+    "Mathe/15 Punkte.md",
+    "Mathe.md",
+    "Musik/Minimal Music.md",
+    "Kunst/S4-Fotographie/Semesterarbeit.md",
+    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
     "NvimNotes/10.02.24.md",
     "NvimNotes/15.02.24.md",
     "Englisch/S1 The United Kingdom - diverse and disunited/Speech.md",
     "NvimNotes/20.02.24.md~",
     "NvimNotes/20.02.24.md",
     "Seminar/Essay.md",
-    "Task List.md",
     "Daily Notes/19.02.24.md",
     "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
-    "Kunst/S4-Fotographie/Semesterarbeit.md",
-    "Kunst/S4-Fotographie/Digitales Kunstheft.md",
     "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
     "Kunst/S4-Fotographie/2024-02-11_google-photo_161118_12.jpg",
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
@@ -276,26 +295,17 @@
     "Kunst/S4-Fotographie/Lernzirkel/Bilder/cropped.png",
     "Kunst/S4-Fotographie/7_1.6.1.png",
     "Kunst/S4-Fotographie/7_1.6.1.png.crdownload",
-    "Kunst/S4-Fotographie/Rekonstruktion_Dekonstruktion_Konstruktion.png",
-    "Kunst/S4-Fotographie/William_Klein_Xmas_Macys_December_1954.jpg",
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
     "Philosophie/Religionsphilosophie.md",
     "Philosophie/Grundzüge des Kriegsrealismus.md",
     "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md",
     "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Komposition.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md",
-    "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md",
     "NvimNotes/run.py~",
-    "Daily Notes/12.02.24.md",
-    "PGW/Wachstumspositionen.md",
     "NvimNotes/run.py",
     "NvimNotes/bildanalyse.txt~",
     "NvimNotes/test.json~",
     "NvimNotes/test.json",
     "NvimNotes/bildanalyse.txt",
-    "thumbnails",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
