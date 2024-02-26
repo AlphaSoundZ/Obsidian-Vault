@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d783f6c3150c62f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/26.02.24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seminar/Essay.md",
+                "file": "Daily Notes/26.02.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seminar/Essay.md",
+                "file": "Daily Notes/26.02.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seminar/Essay.md"
+                "file": "Daily Notes/26.02.24.md"
               }
             }
           },
@@ -173,7 +187,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Seminar/Essay.md"
+                "file": "Daily Notes/26.02.24.md"
               }
             }
           }
@@ -191,7 +205,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Seminar/Essay.md",
+                "file": "Daily Notes/26.02.24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,12 +275,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "2d783f6c3150c62f",
   "lastOpenFiles": [
+    "Task List.md",
+    "Seminar/Essay.md",
     "Seminar/Entscheidungsverhalten.md",
     "Seminar/Chancen und Risiken von KI.md",
     "Daily Notes/26.02.24.md",
-    "Task List.md",
     "Englisch/S4/Handmaids Tale",
     "Englisch/S4",
     "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
@@ -284,7 +299,6 @@
     "Englisch/S1 The United Kingdom - diverse and disunited/Speech.md",
     "NvimNotes/20.02.24.md~",
     "NvimNotes/20.02.24.md",
-    "Seminar/Essay.md",
     "Daily Notes/19.02.24.md",
     "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
     "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
