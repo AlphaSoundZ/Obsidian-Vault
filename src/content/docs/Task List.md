@@ -7,6 +7,7 @@ kanban-plugin: basic
 
 ## To Do
 
+- [ ] Klimaschonendes Wohnen #PGW @[[26.02.24]]
 
 
 ## Done

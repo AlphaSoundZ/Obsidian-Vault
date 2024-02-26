@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "11aa9d3e644ca47f",
+        "id": "b5d4b8a5a0a75a9d",
         "type": "tabs",
         "children": [
           {
-            "id": "ead3959d895ffbd7",
+            "id": "4c7e0ffd51807727",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/26.02.24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -75,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.50589752197266
+    "width": 432.50589752197266,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/26.02.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/26.02.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/26.02.24.md"
               }
             }
           },
@@ -170,7 +174,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Task List.md"
+                "file": "Daily Notes/26.02.24.md"
               }
             }
           }
@@ -188,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Task List.md",
+                "file": "Daily Notes/26.02.24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,11 +262,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ead3959d895ffbd7",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
+    "Task List.md",
+    "Daily Notes/26.02.24.md",
     "Englisch/S4/Handmaids Tale",
     "Englisch/S4",
-    "Task List.md",
     "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
     "Geographie/sciadvadh8183-f1.jpg",
     "Daily Notes/sciadvadh8183-f1.jpg",
@@ -305,7 +310,6 @@
     "NvimNotes/bildanalyse.txt~",
     "NvimNotes/test.json~",
     "NvimNotes/test.json",
-    "NvimNotes/bildanalyse.txt",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
