@@ -5,6 +5,10 @@
       "path": "Geographie/Klausur 28.02.24.md"
     },
     {
+      "basename": "Lithium",
+      "path": "Geographie/Lithium.md"
+    },
+    {
       "basename": "Task List",
       "path": "Task List.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Aufgabe Doppelspalt",
       "path": "Physik/Aufgabe Doppelspalt.md"
-    },
-    {
-      "basename": "Lithium",
-      "path": "Geographie/Lithium.md"
     },
     {
       "basename": "Mathe Klausur 02.06.",

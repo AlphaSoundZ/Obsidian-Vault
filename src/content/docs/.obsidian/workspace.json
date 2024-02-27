@@ -19,6 +19,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d858d72f82eadcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Lithium.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6daa4242b7111b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1964aad14ce71bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Klausur 28.02.24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -261,10 +294,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6693ddeadf04532f",
+  "active": "b1964aad14ce71bb",
   "lastOpenFiles": [
-    "Task List.md",
+    "Geographie/Lithium.md",
     "Geographie/Klausur 28.02.24.md",
+    "Task List.md",
     "NvimNotes/27.02.24.md~",
     "Daily Notes/26.02.24.md",
     "Daily Notes/19.02.24.md",
@@ -278,7 +312,6 @@
     "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
     "Geographie/sciadvadh8183-f1.jpg",
     "Daily Notes/sciadvadh8183-f1.jpg",
-    "Geographie/Lithium.md",
     "Daily Notes/Mathe Klausur 02.06..md",
     "Mathe/15 Punkte.md",
     "Mathe.md",
