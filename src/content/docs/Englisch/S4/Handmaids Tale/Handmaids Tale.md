@@ -4,19 +4,39 @@ tags:
   - Englisch/HandmaidsTale
 ---
 
-## Aufgaben
+## The first two chapters
 
-1. Make a list of elements that describe your routine of getting dressed for a normal school
-day. Begin with the choice of articles of clothing, include reasons for your choice, describe
-the articles one by one as you imagine putting them on.
-2. Then re-read Offred’s account of her getting ready to go shopping (pp. 14-15) and make a similar list.
-3. Compare the two lists. Write a paragraph with the results of your comparison, concluding with a comment on Offred’s situation.
-4. Discuss what different functions clothes have in our society and compare your findings with
-what you know about the role of clothes in Gilead.
-5. You might want to illustrate your findings with the help of a collage made up from
-magazine pictures, or something you have drawn / painted yourself.
+### Protagonist
+
+- Oppressed → clothing (wings
+- Careful and calculated
+	- Dialogue
+	- Inner monologue
+- Extremely focused on details
+- Longs/years for a different life (past)
+
+### Atmosphere
+
+- Dark, subdued, depressing
+	- Communication between handmaids
+- Mysterious
+	- Lack of background
+	- Detailed descriptions
+
+### Setting
+
+- Oppressive society
+- Frightening
+==> Dystopian world
 
 ## Clothes and dressing routines
+
+### First and second chapter
+
+- Oppressive atmosphere: Created through detailed descriptions of the setting, including the former gymnasium turned sleeping quarters with its reminders of a past life and the presence of guards and strict rules.
+- Tense and suffocating environment: Offred describes feelings of loneliness, anticipation, and fear, highlighting the constant surveillance and danger she faces.
+- Protagonist portrayal: Offred is depicted as a woman yearning for connection and freedom, but constrained by the oppressive regime, leading to a sense of isolation and longing.
+- Interactions: Interactions between characters, such as Offred's exchange with Rita, reveal the power dynamics and societal norms that dictate behavior, reinforcing the restrictive nature of their society.
 
 ### 1. Routine of getting dressed for a normal school
 
@@ -66,7 +86,7 @@ The way people get dressed for school and the way Offred gets dressed is very di
 
 ###### Words
 
-- driveway (noun used attributively)
+- driveway
 - assigned
 - own
 - past
@@ -76,6 +96,10 @@ The way people get dressed for school and the way Offred gets dressed is very di
 - back
 - white
 - front
+- family house
+- rich
+- fleshtones and hints
+- gate
 
 ###### Passages
 
@@ -87,7 +111,7 @@ The way people get dressed for school and the way Offred gets dressed is very di
 
 "I open the white picket gate and continue, past the front lawn and towards the front gate."
 
-These passages provide descriptions of the house, its surroundings, and the activities happening within.
+„The carpet bends and goes down the front staircase a”
 
 ##### Further words
 

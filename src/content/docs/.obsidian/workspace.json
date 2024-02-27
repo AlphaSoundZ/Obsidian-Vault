@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b5d4b8a5a0a75a9d",
+        "id": "44f77bc2f07f7923",
         "type": "tabs",
         "children": [
           {
-            "id": "bfb95beb8794ebd2",
+            "id": "6693ddeadf04532f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seminar/Essay.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d783f6c3150c62f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/26.02.24.md",
+                "file": "Geographie/Klausur 28.02.24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hoecke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/26.02.24.md",
+                "file": "Geographie/Klausur 28.02.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/26.02.24.md",
+                "file": "Geographie/Klausur 28.02.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/26.02.24.md"
+                "file": "Geographie/Klausur 28.02.24.md"
               }
             }
           },
@@ -187,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/26.02.24.md"
+                "file": "Geographie/Klausur 28.02.24.md"
               }
             }
           }
@@ -205,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/26.02.24.md",
+                "file": "Geographie/Klausur 28.02.24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,13 +261,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d783f6c3150c62f",
+  "active": "6693ddeadf04532f",
   "lastOpenFiles": [
     "Task List.md",
+    "Geographie/Klausur 28.02.24.md",
+    "NvimNotes/27.02.24.md~",
+    "Daily Notes/26.02.24.md",
+    "Daily Notes/19.02.24.md",
+    "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
+    "Deutsch/S4 Sprache/Politische Sprache.md",
     "Seminar/Essay.md",
     "Seminar/Entscheidungsverhalten.md",
     "Seminar/Chancen und Risiken von KI.md",
-    "Daily Notes/26.02.24.md",
     "Englisch/S4/Handmaids Tale",
     "Englisch/S4",
     "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
@@ -299,7 +290,6 @@
     "Englisch/S1 The United Kingdom - diverse and disunited/Speech.md",
     "NvimNotes/20.02.24.md~",
     "NvimNotes/20.02.24.md",
-    "Daily Notes/19.02.24.md",
     "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md",
     "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
     "Kunst/S4-Fotographie/2024-02-11_google-photo_161118_12.jpg",
@@ -308,7 +298,6 @@
     "Kunst/S4-Fotographie/Geschichte.md",
     "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
-    "Kunst/S4-Fotographie/Rekonstruktion - Dekonstruktion - Konstruktion.md",
     "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
     "Kunst/S4-Fotographie/Lernzirkel/2024-02-13_google-photo_180242.jpg",
     "Kunst/S4-Fotographie/Lernzirkel/2024-02-11_google-photo_162832_11.jpg",
@@ -316,13 +305,10 @@
     "Kunst/S4-Fotographie/7_1.6.1.png",
     "Kunst/S4-Fotographie/7_1.6.1.png.crdownload",
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
-    "Philosophie/Religionsphilosophie.md",
-    "Philosophie/Grundzüge des Kriegsrealismus.md",
     "NvimNotes/run.py~",
     "NvimNotes/run.py",
     "NvimNotes/bildanalyse.txt~",
     "NvimNotes/test.json~",
-    "NvimNotes/test.json",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",
