@@ -4,49 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44f77bc2f07f7923",
+        "id": "60f858b53637ad3e",
         "type": "tabs",
         "children": [
           {
-            "id": "6693ddeadf04532f",
+            "id": "b904ea766227e862",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geographie/Klausur 28.02.24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d858d72f82eadcfc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/Lithium.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "6daa4242b7111b51",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b1964aad14ce71bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/Klausur 28.02.24.md",
+                "file": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geographie/Klausur 28.02.24.md",
+                "file": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geographie/Klausur 28.02.24.md",
+                "file": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geographie/Klausur 28.02.24.md"
+                "file": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md"
               }
             }
           },
@@ -206,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Geographie/Klausur 28.02.24.md"
+                "file": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md"
               }
             }
           }
@@ -224,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Geographie/Klausur 28.02.24.md",
+                "file": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,11 +261,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b1964aad14ce71bb",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
-    "Geographie/Lithium.md",
     "Geographie/Klausur 28.02.24.md",
     "Task List.md",
+    "Daily Notes/17.01.24.md",
+    "Geographie/Lithium.md",
     "NvimNotes/27.02.24.md~",
     "Daily Notes/26.02.24.md",
     "Daily Notes/19.02.24.md",
@@ -329,7 +297,6 @@
     "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md",
     "Kunst/S4-Fotographie/test.md",
     "Kunst/S4-Fotographie/Geschichte.md",
-    "Kunst/S4-Fotographie/Bildanalyse.md",
     "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
     "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
     "Kunst/S4-Fotographie/Lernzirkel/2024-02-13_google-photo_180242.jpg",

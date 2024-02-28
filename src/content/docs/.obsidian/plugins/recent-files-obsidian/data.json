@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Materialgestuetztes Schreiben",
+      "path": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md"
+    },
+    {
       "basename": "Klausur 28.02.24",
       "path": "Geographie/Klausur 28.02.24.md"
     },
     {
-      "basename": "Lithium",
-      "path": "Geographie/Lithium.md"
-    },
-    {
       "basename": "Task List",
       "path": "Task List.md"
+    },
+    {
+      "basename": "07.02.24",
+      "path": "Daily Notes/07.02.24.md"
+    },
+    {
+      "basename": "17.01.24",
+      "path": "Daily Notes/17.01.24.md"
+    },
+    {
+      "basename": "Lithium",
+      "path": "Geographie/Lithium.md"
     },
     {
       "basename": "Handmaids Tale",
@@ -19,10 +31,6 @@
     {
       "basename": "26.02.24",
       "path": "Daily Notes/26.02.24.md"
-    },
-    {
-      "basename": "Materialgestuetztes Schreiben",
-      "path": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md"
     },
     {
       "basename": "19.02.24",
@@ -191,14 +199,6 @@
     {
       "basename": "06.02.24",
       "path": "NvimNotes/06.02.24.md"
-    },
-    {
-      "basename": "08.02.24",
-      "path": "NvimNotes/08.02.24.md"
-    },
-    {
-      "basename": "26.01.24",
-      "path": "Daily Notes/26.01.24.md"
     }
   ],
   "omittedPaths": [],

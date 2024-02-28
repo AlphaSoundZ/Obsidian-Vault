@@ -24,6 +24,26 @@ tags:
 
 ## Resilienz im Bezug auf außenwirtschaftliche Beziehungen Deutschlands
 
+Ein anderer Begriff für Resilienz ist Krisenbewältigungsfähigkeit.
+Ziel ist es, jene Faktoren, die eine hohe negative Korrelation mit der Resilienz aufweisen, zu verringern und Faktoren, die mit der Resilienz positiv korrelieren, zu stärken.
+- Hauptimporte:
+	- Elektronische Datenverarbeitungsgeraete
+	- Chemische Erzeugnisse
+	- Kraftwagen und Kraftwagenteile
+	- Erdoel und Erdgas
+	- Maschinen
+- Hauptexporte:
+	- Kraftwagen und Kraftwagenteile
+	- Maschinen
+	- Chemische Erzeugnisse
+	- Datenverarbeitungsgeraete
+- Auswege bei einer Krise / einem Konflikt
+	- Abschottung und staerkere Binnenorientierung ist keine Erfolg versprechende Strategie
+		- Weniger Innovation
+		- Technischer Fortschritt geht zurueck, da die Eigenproduktion von essentiellen Teilen zunimmt
+		- Preise steigen, aufgrund geringerem Angebot
+	-  
+
 ## Lithium
 
 ### Eigenschaften
@@ -57,6 +77,7 @@ tags:
 
 ## Politische Perspektiven
 
-### Klimawandel
+### Klimawandelg
+- Geothermievorhaben haben in der Vergangenheit kleinere Erdbeben ausgelöst
 
 ### Energie- und Mobilitätswende
