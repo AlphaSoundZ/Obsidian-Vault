@@ -118,3 +118,13 @@ The way people get dressed for school and the way Offred gets dressed is very di
 - clean
 - fresh
 - expensive
+
+### Collages
+
+![](./collage_1.png)
+![](./collage_2.png)
+
+### Characters
+
+![](./characters.png)
+![](./characters_social_class_and_power.png)
