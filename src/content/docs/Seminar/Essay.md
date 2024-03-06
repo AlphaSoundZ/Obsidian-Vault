@@ -55,7 +55,7 @@ In diesem Essay fokussiere ich mich auf die ersten drei Aspekte im Sinne der Org
 
 1. Einleitung
 	1. Einführung in das Thema KI und Produktivitätsoptimierung
-	2. Vorstellung der Leitfrage und des Standpunkts
+		1. Vorstellung der Leitfrage und des Standpunkts
 2. KI in Unternehmen zur Produktivitätsoptimierung
 	1. Prozessautomatisierung
 		1. Bedeutung der Automatisierung von wiederholenden Aufgaben

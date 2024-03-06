@@ -1,6 +1,7 @@
 ---
 title: Permutation
 ---
+
 ## Menge (besteht Aus Elementen)
 
 {|||} (1. Element: Ordinalzahl)

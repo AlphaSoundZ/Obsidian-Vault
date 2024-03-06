@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Rassismus in Schul- und Jugendbüchern",
+      "path": "Deutsch/Rassismus in Schul- und Jugendbüchern.md"
+    },
+    {
+      "basename": "Mathe Abitur",
+      "path": "Mathe/Mathe Abitur.md"
+    },
+    {
+      "basename": "Baumdiagramm",
+      "path": "Mathe/Baumdiagramm.md"
+    },
+    {
+      "basename": "Das Zufallsexperiment",
+      "path": "Mathe/Das Zufallsexperiment.md"
+    },
+    {
+      "basename": "Permutation",
+      "path": "Mathe/Permutation.md"
+    },
+    {
+      "basename": "Stochastik",
+      "path": "Mathe/Stochastik.md"
+    },
+    {
+      "basename": "Verteilungsfunktionen",
+      "path": "Mathe/Verteilungsfunktionen.md"
+    },
+    {
+      "basename": "Kombinatorik",
+      "path": "Mathe/Kombinatorik.md"
+    },
+    {
+      "basename": "Bedingte Wahrscheinlichkeit und Unabhängigkeit",
+      "path": "Mathe/Bedingte Wahrscheinlichkeit und Unabhängigkeit.md"
+    },
+    {
+      "basename": "Task List",
+      "path": "Task List.md"
+    },
+    {
+      "basename": "05.03.24",
+      "path": "NvimNotes/05.03.24.md"
+    },
+    {
+      "basename": "27.02.24",
+      "path": "NvimNotes/27.02.24.md"
+    },
+    {
+      "basename": "28.02.24",
+      "path": "NvimNotes/28.02.24.md"
+    },
+    {
+      "basename": "Essay",
+      "path": "Seminar/Essay.md"
+    },
+    {
+      "basename": "Bild mit Fachsprache beschreiben",
+      "path": "Kunst/S4-Fotographie/Bild mit Fachsprache beschreiben.md"
+    },
+    {
+      "basename": "404",
+      "path": "404.mdx"
+    },
+    {
+      "basename": "Materialgestuetztes Schreiben",
+      "path": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md"
+    },
+    {
       "basename": "Handmaids Tale",
       "path": "Englisch/S4/Handmaids Tale/Handmaids Tale.md"
     },
@@ -13,16 +81,8 @@
       "path": "Englisch/S4/Handmaids Tale/collage_2.png"
     },
     {
-      "basename": "Task List",
-      "path": "Task List.md"
-    },
-    {
       "basename": "26.02.24",
       "path": "Daily Notes/26.02.24.md"
-    },
-    {
-      "basename": "Materialgestuetztes Schreiben",
-      "path": "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md"
     },
     {
       "basename": "Klausur 28.02.24",
@@ -47,10 +107,6 @@
     {
       "basename": "Politische Sprache",
       "path": "Deutsch/S4 Sprache/Politische Sprache.md"
-    },
-    {
-      "basename": "Essay",
-      "path": "Seminar/Essay.md"
     },
     {
       "basename": "Entscheidungsverhalten",
@@ -143,62 +199,6 @@
     {
       "basename": "new_york_1975",
       "path": "Kunst/S4-Fotographie/new_york_1975.webp"
-    },
-    {
-      "basename": "Religionsphilosophie",
-      "path": "Philosophie/Religionsphilosophie.md"
-    },
-    {
-      "basename": "Wachstumspositionen",
-      "path": "PGW/Wachstumspositionen.md"
-    },
-    {
-      "basename": "Motiv Reduktion",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Motiv Reduktion.md"
-    },
-    {
-      "basename": "Licht und Schatten",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Licht und Schatten.md"
-    },
-    {
-      "basename": "Komposition",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Komposition.md"
-    },
-    {
-      "basename": "Brennweite",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Brennweite.md"
-    },
-    {
-      "basename": "Blickwinkel",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Blickwinkel.md"
-    },
-    {
-      "basename": "Belichtung",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Belichtung.md"
-    },
-    {
-      "basename": "2024-02-05_google-photo_225417_7",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_225417_7.jpg"
-    },
-    {
-      "basename": "2024-02-05_google-photo_153853_9",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_9.jpg"
-    },
-    {
-      "basename": "2024-02-05_google-photo_153853_8",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_8.jpg"
-    },
-    {
-      "basename": "2024-02-05_google-photo_153853_1",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_1.jpg"
-    },
-    {
-      "basename": "2024-02-05_google-photo_153853_2",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/2024-02-05_google-photo_153853_2.jpg"
-    },
-    {
-      "basename": "12.02.24",
-      "path": "Daily Notes/12.02.24.md"
     }
   ],
   "omittedPaths": [],
