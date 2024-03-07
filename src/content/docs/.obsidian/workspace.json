@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "460e49bea128f0a2",
+        "id": "72ae20ede9241c1f",
         "type": "tabs",
         "children": [
           {
-            "id": "d251430c6cdf8b48",
+            "id": "ed0e294b147714ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb0b89b01bd1a2e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe/Mathe Abitur.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Task List.md"
               }
             }
           }
@@ -62,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hoecke",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.50589752197266
+    "width": 593.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "125d49f58993a3d3",
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Task List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Task List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Rassismus in Schul- und Jugendbüchern.md"
+                "file": "Task List.md"
               }
             }
           },
@@ -186,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Deutsch/Rassismus in Schul- und Jugendbüchern.md"
+                "file": "Task List.md"
               }
             }
           }
@@ -204,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Task List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +227,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 8,
+                  "scale": 0.6316046762907496,
                   "close": true
                 }
               }
@@ -252,76 +237,76 @@
       }
     ],
     "direction": "horizontal",
-    "width": 725.5
+    "width": 688.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
-      "notion-like-tables:Create loom": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "random-note:Zufällige Notiz öffnen": false,
+      "workspaces:Workspace-Layouts verwalten": false,
       "obsidian-file-cleaner:Clean files": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "homepage:Open homepage": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "notion-like-tables:Create loom": false
     }
   },
-  "active": "d251430c6cdf8b48",
+  "active": "ed0e294b147714ef",
   "lastOpenFiles": [
-    "Mathe/Mathe Abitur.md",
-    "Mathe/Baumdiagramm.md",
-    "Mathe/Das Zufallsexperiment.md",
-    "Mathe/Permutation.md",
-    "Mathe/Stochastik.md",
-    "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
+    "Mathe/Exponentialfunktionen.md",
     "Mathe/Verteilungsfunktionen.md",
+    "Mathe/Mathe Abitur.md",
+    "Mathe/Bernoulli und Binomial-Verteilung.md",
     "Mathe/Kombinatorik.md",
+    "Mathe/Hypothesentest und Fehlerarten.md",
     "Mathe/Bedingte Wahrscheinlichkeit und Unabhängigkeit.md",
     "Task List.md",
-    "NvimNotes/27.02.24.md",
-    "NvimNotes/28.02.24.md",
+    "Daily Notes/08.12.23.md",
+    "Mathe/Stochastik.md",
+    "Mathe/binominalverteilung_und_normalverteilung.png",
+    "NvimNotes/05.03.24.md",
+    "NvimNotes/02.03.24.md",
+    "Mathe/Das Zufallsexperiment.md",
+    "Mathe/Baumdiagramm.md",
     "Kunst/S4-Fotographie/Bild mit Fachsprache beschreiben.md",
-    "Seminar/Essay.md",
-    "404.mdx",
-    "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
-    "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
-    "Englisch/S4/Handmaids Tale/characters.png",
-    "Englisch/S4/Handmaids Tale/characters_social_class_and_power.png",
-    "Englisch/S4/Handmaids Tale/collage_1.png",
-    "Englisch/S4/Handmaids Tale/collage_2.png",
-    "Geographie/Klausur 28.02.24.md",
-    "Daily Notes/17.01.24.md",
+    "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
+    "Mathe/15 Punkte.md",
+    "NvimNotes/28.02.24.md",
+    "NvimNotes/27.02.24.md",
+    "Musik/Minimal Music.md",
+    "Geographie/sciadvadh8183-f1.jpg",
     "Geographie/Lithium.md",
-    "NvimNotes/27.02.24.md~",
-    "Daily Notes/26.02.24.md",
-    "Daily Notes/19.02.24.md",
-    "Deutsch/S4 Sprache/Politische Sprache.md",
-    "Seminar/Entscheidungsverhalten.md",
-    "Seminar/Chancen und Risiken von KI.md",
+    "Geographie/Klausur 28.02.24.md",
+    "Englisch/S4/Handmaids Tale/collage_2.png",
+    "Englisch/S4/Handmaids Tale/characters.png",
+    "Englisch/S4/Handmaids Tale/collage_1.png",
+    "Englisch/S4/Handmaids Tale/Handmaids Tale.md",
+    "Englisch/S4/Handmaids Tale/characters_social_class_and_power.png",
     "Englisch/S4/Handmaids Tale",
     "Englisch/S4",
-    "Geographie/sciadvadh8183-f1.jpg",
-    "Daily Notes/sciadvadh8183-f1.jpg",
-    "Daily Notes/Mathe Klausur 02.06..md",
-    "Mathe/15 Punkte.md",
-    "NvimNotes/20.02.24.md~",
-    "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
-    "Kunst/S4-Fotographie/2024-02-11_google-photo_161118_12.jpg",
-    "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
-    "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png",
-    "Kunst/S4-Fotographie/7_1.6.1.png.crdownload",
-    "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
-    "NvimNotes/run.py~",
+    "Deutsch/S4 Sprache/Materialgestuetztes Schreiben.md",
+    "Daily Notes/26.02.24.md",
+    "Seminar/Essay.md",
+    "NvimNotes/test.json",
     "NvimNotes/run.py",
-    "NvimNotes/bildanalyse.txt~",
+    "NvimNotes/bildanalyse.txt",
+    "Kunst/S4-Fotographie/new_york_1975.webp",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder/cropped.png",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-13_google-photo_180242.jpg",
+    "Kunst/S4-Fotographie/Lernzirkel/2024-02-11_google-photo_212618_5.jpg",
+    "thumbnails",
+    "Kunst/S4-Fotographie/a5a3771e1166d1813760504ceef3790059000ba4.png.crdownload",
+    "NvimNotes",
+    "Kunst/S4-Fotographie/Lernzirkel/Bilder",
+    "Kunst/S4-Fotographie/Lernzirkel",
     "Philosophie/Canvas Religionsphilosophie.canvas",
     "Task List/Unbenannt.canvas",
     "Unbenannt.canvas",

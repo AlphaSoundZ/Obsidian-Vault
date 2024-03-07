@@ -36,8 +36,12 @@ tags: []
 	- Pfadregeln
 - [[Kombinatorik]]
 - [[Bedingte Wahrscheinlichkeit und Unabhängigkeit]]
-- Bernoulli und Binomial-Verteilung
-- Hypothesentest und Fehlerarten
+- [[Bernoulli und Binomial-Verteilung]]
+- [[Hypothesentest und Fehlerarten]]
 - [[Verteilungsfunktionen]]
 	- Anwendbarkeit beim Hypothesentest
 		- Sigma-Regeln
+
+## Fragen
+- Muss man Varianz und Kovarianz können?
+- 
