@@ -294,6 +294,13 @@ Eine Ebenenschar ist eine Menge von Ebenen, die sich alle durch eine gemeinsame 
 - Ebenen liegen ineinander → all (unendlich viele) Punkte
 - Ebenen sind prallel und liegen nicht ineinander → 0 Punkte gemeinsame
 
+### Schnittgerade
+
+1. Eine Ebene in Koordinatenform und die andere Ebene in Parameterform bringen.
+2. Komponentenweise die Parameterform in die Koordinatenform einsetzen.
+3. Auf eine Unbekannte auflösen.
+4. Ergebnis in die Parameterform einsetzen und zusammenfassen  (zusammenfassen durch komponentenweises Aufschreiben und anschließendes Zurückwandeln vereinfachen)
+
 # Typische Aufgaben Der Linearen Algebra Und Lösungsverfahren
 
 1. Geradengleichung aus 2 Punkten aufstellen

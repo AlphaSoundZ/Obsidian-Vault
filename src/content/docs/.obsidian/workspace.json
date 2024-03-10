@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22f50ef7be83be58",
+        "id": "cfa2adc401bae972",
         "type": "tabs",
         "children": [
           {
-            "id": "61541b11811957e2",
+            "id": "dc813787f8bcbfae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Verteilungsfunktionen.md",
+                "file": "Mathe/Vektoren und Vektorgleichungen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Verteilungsfunktionen.md",
+                "file": "Mathe/Vektoren und Vektorgleichungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Verteilungsfunktionen.md",
+                "file": "Mathe/Vektoren und Vektorgleichungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Verteilungsfunktionen.md"
+                "file": "Mathe/Vektoren und Vektorgleichungen.md"
               }
             }
           },
@@ -173,11 +173,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mathe/Verteilungsfunktionen.md"
+                "file": "Mathe/Vektoren und Vektorgleichungen.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "179a1f74e066dc47",
@@ -190,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathe/Verteilungsfunktionen.md",
+                "file": "Mathe/Vektoren und Vektorgleichungen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,11 +261,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "61541b11811957e2",
+  "active": "dc813787f8bcbfae",
   "lastOpenFiles": [
-    "Mathe/Hypothesentest und Fehlerarten.md",
-    "Mathe/Verteilungsfunktionen.md",
     "Mathe/Mathe Abitur.md",
+    "Mathe/Differentialrechnung/image3.png",
+    "Mathe/Differentialrechnung/image2.png",
+    "Mathe/Differentialrechnung/image1.png",
+    "Mathe/Vektoren und Vektorgleichungen.md",
+    "Mathe/Verteilungsfunktionen.md",
+    "Mathe/Hypothesentest und Fehlerarten.md",
     "Task List.md",
     "Mathe/Stochastik.md",
     "Mathe/Bernoulli und Binomial-Verteilung.md",
@@ -273,7 +278,6 @@
     "Mathe/15 Punkte.md",
     "Mathe/Kurvendiskussion.md",
     "Daily Notes/15.12.23.md",
-    "Mathe/Vektoren und Vektorgleichungen.md",
     "Mathe/Bedingte Wahrscheinlichkeit und Unabhängigkeit.md",
     "Daily Notes/06.11.23.md",
     "Mathe/Das Zufallsexperiment.md",
@@ -288,7 +292,6 @@
     "NvimNotes/27.02.24.md",
     "NvimNotes/28.02.24.md",
     "Kunst/S4-Fotographie/Bild mit Fachsprache beschreiben.md",
-    "Seminar/Essay.md",
     "404.mdx",
     "Englisch/S4/Handmaids Tale/characters.png",
     "Englisch/S4/Handmaids Tale/characters_social_class_and_power.png",
@@ -300,9 +303,6 @@
     "Geographie/sciadvadh8183-f1.jpg",
     "Daily Notes/sciadvadh8183-f1.jpg",
     "NvimNotes/20.02.24.md~",
-    "Kunst/S4-Fotographie/2024-02-05_google-photo_153853.jpg",
-    "Kunst/S4-Fotographie/2024-02-11_google-photo_161118_12.jpg",
-    "Kunst/S4-Fotographie/Candita_Höfer_Volksgarten_Köln_II_1974.jpg",
     "Kunst/S4-Fotographie/7_1.6.1.png.crdownload",
     "Kunst/S4-Fotographie/edwynnhoukgallery-joel-meyerowitz-camel-coats-5th-avenue-new-york-city-1975.webp.crdownload",
     "NvimNotes/run.py~",

@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Vektoren und Vektorgleichungen",
+      "path": "Mathe/Vektoren und Vektorgleichungen.md"
+    },
+    {
+      "basename": "Mathe Abitur",
+      "path": "Mathe/Mathe Abitur.md"
+    },
+    {
+      "basename": "image3",
+      "path": "Mathe/Differentialrechnung/image3.png"
+    },
+    {
+      "basename": "image2",
+      "path": "Mathe/Differentialrechnung/image2.png"
+    },
+    {
+      "basename": "image1",
+      "path": "Mathe/Differentialrechnung/image1.png"
+    },
+    {
       "basename": "Verteilungsfunktionen",
       "path": "Mathe/Verteilungsfunktionen.md"
     },
     {
       "basename": "Hypothesentest und Fehlerarten",
       "path": "Mathe/Hypothesentest und Fehlerarten.md"
-    },
-    {
-      "basename": "Mathe Abitur",
-      "path": "Mathe/Mathe Abitur.md"
     },
     {
       "basename": "Task List",
@@ -23,10 +39,6 @@
     {
       "basename": "Stochastik",
       "path": "Mathe/Stochastik.md"
-    },
-    {
-      "basename": "Vektoren und Vektorgleichungen",
-      "path": "Mathe/Vektoren und Vektorgleichungen.md"
     },
     {
       "basename": "Ganzrationale Funktionen",
@@ -187,14 +199,6 @@
     {
       "basename": "Speech",
       "path": "Englisch/S1 The United Kingdom - diverse and disunited/Speech.md"
-    },
-    {
-      "basename": "Werkanalyse (Volksgarten Kölln II & New York City 1975)",
-      "path": "Kunst/S4-Fotographie/Werkanalyse (Volksgarten Kölln II & New York City 1975).md"
-    },
-    {
-      "basename": "Ausschnittsucher",
-      "path": "Kunst/S4-Fotographie/Lernzirkel/Ausschnittsucher.md"
     }
   ],
   "omittedPaths": [],
