@@ -10,20 +10,26 @@ tags: []
 
 ### Analysis
 
+- [[Ganzrationale Funktionen]]
 - Ganzrationale und Exponentialfunktionen
 - Integralrechnung (graphisch und analytisch)
 - Mittelwerte und Integrale
 - Steckbriefaufgaben
 - Kurvenscharen
 
-### Lineare Algebra & Analytische Geometrie
+### Vektorrechnung / Lineare Algebra / Analytische Geometrie
 
-### Vektorrechnung
-
-- Ebenen in allen Darstellungsformen, 
+[[Vektoren und Vektorgleichungen]]
+- Ebenen in allen Darstellungsformen
+	- Koordinatenform
+	- Parameterform
 - Schnittpunkte Gerade/Gerade, Gerade/Ebene
+	- Gerade/Gerade auch im R3?
+	- Gerade/Punkt auch im R3?
+	- Abstände und Schnittgeraden und Schnittpunkte
 - Ebenen und Punkte
 - Eigenschaften von Vierecken
+	- Normalenvektor eines Parallelograms beschreiben die Fläche
 - Ebenenscharen
 - und alle andere (grundlegende)
 
@@ -43,5 +49,8 @@ tags: []
 		- Sigma-Regeln
 
 ## Fragen
-- Muss man Varianz und Kovarianz können?
-- 
+
+- Warum steht bei Analysis Integralrechnung und Integrale als unterschiedliche Punkte?
+- Vektoren
+	- Gerade/Gerade (Abstand und Schnittpunkt) auch im R3?
+	- Gerade/Punkt auch im R3?

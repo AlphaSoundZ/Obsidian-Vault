@@ -20,7 +20,7 @@ viele hintereinander ausgeführte gleiche Laplace-Exvereinfachendperimente
 
 ## Binomialkoeffizient
 
-$\binom{n}{k} = \frac{n!}{(n-k)! * n!}$
+$\binom{n}{k} = \frac{n!}{(n-k)! * k!}$
 
 ## Arithmetische Mittel
 

@@ -11,6 +11,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [ ] Mini-Serie #Kunst/Fotographie @[[07.03.24]]
 
 
 ## Archiv

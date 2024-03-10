@@ -4,7 +4,7 @@ tags:
   - Mathe/Vektoren
 ---
 
-# Vektoren Und Vektorgleichungen
+# Vektoren
 
 ## Notation
 
@@ -88,7 +88,9 @@ $$
 \begin{pmatrix} P_x \\ P_y \\ P_z \end{pmatrix}
 $$
 
-Der Punkt O ist der Ursprung des Koordinatensystems und P ein beliebiger Punkt.
+Der Punkt O ist der Ursprung des Koordinatensystems, in der Regel $(0,0,0)$, und P ein beliebiger Punkt.
+
+Bei einer Geraden wird der Ortsvektor auch Aufpunkt genannt.
 
 ## Einheitsvektor
 
@@ -121,7 +123,7 @@ $$
 
 ### Normieren
 
-Beim Normieren eines Vektors, wird seine Länge auf 1 geändert, indem man ihn durch seinen Betrag teilt.
+Beim Normieren eines Vektors, wird seine Länge auf 1 geändert, indem man ihn durch seinen Betrag teilt. Das Resultat ist der Einheitsvektor.
 
 $$
 \vec{e}_{\vec{v}} = \frac{\vec{v}}{|\vec{v}|}
@@ -145,7 +147,7 @@ $$
 \theta = \arccos(\frac{\vec{v} \cdot \vec{w}}{|\vec{v}| \cdot |\vec{w}|})
 $$
 
-## Kreuzprodukt Zweier Vektoren (S. 74 Im Tafelwerk)
+## Kreuzprodukt Zweier Vektoren (T. S. 74)
 
 $$
 \vec{v} \times \vec{w} =
@@ -156,11 +158,21 @@ Die Länge / der Betrag des Kreuzproduktes $\vec{a} \times \vec{b}$  ist gleich 
 
 ## Orthogonaler Vektor
 
-Zwei Vektoren die senkrecht zueinanderstehen sind orthogonale Vektoren. Das Skalarprodukt zweier orthogonaler Vektoren ist immer 0.
+Zwei Vektoren die senkrecht zueinander stehen sind orthogonale Vektoren. Das Skalarprodukt zweier orthogonaler Vektoren ist immer 0.
+
+## Kollinieare Vektoren
+
+Kollinear bedeutet, dass zwei Vektoren in derselben Richtung verlaufen. Die Länge der Vektoren müssen dabei nicht übereinstimmen.
+
+## Richtungsvektor
+
+Der Richtungsvektor einer Geraden gibt an, in welche Richtung sie verläuft und ist immer orthogonal zur Geraden. Ein Richtungsvektor kann berechnet werden, indem man zwei Punkte, Anfangspunkt und den Endpunkt, der Geraden betrachtet und die Ortsvektoren subtrahiert.
 
 # Vektorgleichungen
 
-## Gleichung
+## Geraden
+
+### Geradengleichung
 
 $$
 \vec{g} = \overrightarrow{OP} + \lambda \vec{r}
@@ -168,34 +180,22 @@ $$
 
 Die Gleichung besteht aus dem Aufpunkt und einem mit Lambda multiplizierten Richtungvektor.
 
-## Punkte Auf Geraden
+### Punkte Auf Geraden
 
 Ein Punkt auf einer Geraden ist ein Aufpunkt. Ein Punkt liegt dann auf einer Geraden, wenn das Lambda für alle Komonenten gleich ist.
 
 Bei dem Berechnen von Lambda setzt man den Vektor $\vec{g}$ mit dem Ortsvektor $\overrightarrow{OP}$ des gegebenen Punktes gleich.
 
-## Kollinieare Vektoren
+### Beziehungen Zwischen Geraden
 
-Kollinear bedeutet, dass zwei Vektoren in derselben Richtung verlaufen. Die Länge der Vektoren müssen dabei nicht übereinstimmen.
-
-## Aufpunkt
-
-Ein Aufpunkt ist der Punkt auf einer Geraden, der als Ausgangspunkt für die Berechnungen verwendet wird.
-
-## Richtungsvektor
-
-Der Richtungsvektor einer Geraden gibt an, in welche Richtung sie verläuft und ist immer orthogonal zur Geraden. Ein Richtungsvektor kann berechnet werden, indem man zwei Punkte, Anfangspunkt und den Endpunkt, der Geraden betrachtet und die Ortsvektoren subtrahiert.
-
-## Beziehungen Zwischen Geraden
-
-### Parallel
+#### Parallel
 
 Zwei Vektorgleichungen sind parallel, wenn der Richtungsvektor der einen gleich dem Richtungsvektor der anderen ist. Wenn die Richtungsvektoren verschieden sind, können die Geraden schneiden oder windschief sein.
 
 - Richtungsvektoren normieren
 - Wenn sie gleich oder invers sind, dann sind sie parallel
 
-### Schnitt
+#### Schnitt
 
 Um herauszufinden, ob sich zwei Geraden schneiden, muss man die Parametergleichungen beider Geraden gleich setzen und nach Lambda aufgelöst werden. Wenn das Ergebnis eine eindeutige Lösung hat, schneiden sich die beiden Geraden. Wenn das Ergebnis keine eindeutige Lösung hat, sind die Geraden parallel.
 
@@ -215,11 +215,11 @@ $$
 \overrightarrow{OA} + \lambda \cdot \vec{r_1}_z = \overrightarrow{OB} + \mu \cdot \vec{r_2}_z
 $$
 
-### Windschief
+#### Windschief
 
 Geraden werden als windschief bezeichnet, wenn sie sich weder schneiden noch parallel zueinander sind. Windschiefe Geraden gibt es nur ab dem R³.
 
-## Abstand Zwischen Punkt Und Gerade Ausrechnen
+### Abstand Zwischen Punkt Und Gerade
 
 - Vektor bliden der Orthogonal ist (Skalarprodukt 0)
 - Vektorgleichung bilden (mit Punkt und orthogonalen Vektor)
@@ -228,7 +228,7 @@ Geraden werden als windschief bezeichnet, wenn sie sich weder schneiden noch par
 
 ## Ebenen
 
-## Punkt Auf Ebene
+### Punkt Auf Ebene
 
 3 Punkte (die nicht auf einer Gerade liegen) liegen immer in einer Ebene.
 
@@ -246,7 +246,39 @@ Lösungsverfahren:
 
 Prüfe, ob der Punkt zur Menge der Ebenenpunkte gehört. Setze den Ortsvektor gleich mit der Ebenengleichung → komponentenweise auflösen (LGS) → auflösen nach lambda 1 und lambda 2 → mit der nicht benutzten Gleichung überprüfen.
 
-## Lage Zwischen Ebenen Und Geraden
+### Der Normalenvektor
+
+Der Normalenvektor ist ein Vektor, der senkrecht auf etwas anderem Steht. Das kann eine **Gerade**, **Ebene** oder theoretisch auch eine **gekrümmte Linie** sein.
+
+#### Normalenvektor einer Ebene
+
+Bei einer **Ebene in Parameterform** ist der Normalenvektor das Kreuzprodukt der beiden Richtungsvektoren:
+$$
+\vec{N} = \vec{r_1} \times \vec{r_2}
+$$
+Bei einer **Ebene in Koordinatenform** bildet sich der Normalenvektor aus den Koeffizienten a, b und c:
+
+Ebene: $ax+by+cz=d$
+$\begin{pmatrix} a \\ b \\ c \end{pmatrix}$= ist der Normalenvektor der Ebene, also orthogonal zur Ebene
+
+#### Normalenvektor einer Geraden
+
+Bei einer **Geraden im R³** gibt es unendlich viele Normalenvektoren. Diese lassen sich mittels des gleich null gesetzten Skalarprodukts berechnen.
+
+Bei einer **Geraden im R²**
+
+### Koordinatenform
+
+$$
+ax+by+cz=d
+$$
+In der Koordinatenform sind a, b und c die Komponenten des Normalenvektors.
+
+### Ebenenscharen
+
+Eine Ebenenschar ist eine Menge von Ebenen, die sich alle durch eine gemeinsame Gleichung beschreiben lassen, die einen zusätzlichen freien Parameter a enthält. 
+
+## Lage Zwischen Ebene Und Gerade
 
 ### Möglichkeiten
 
@@ -254,25 +286,13 @@ Prüfe, ob der Punkt zur Menge der Ebenenpunkte gehört. Setze den Ortsvektor gl
 - Gerade liegt in der Ebene → alle (unendlich viele) Punkte
 - Gerade schneidet die Ebene nicht → 0 Punkte gemeinsam
 
-### Der Normalenvektor
+## Lage Zwischen Ebenen
 
-$$
-\vec{N} = \vec{r_1} \times \vec{r_2}
-$$
+### Möglichkeiten
 
-### Koordinatenform
-
-$$
-ax+by+cz=d
-$$
-
-$ \begin{pmatrix}
-a \\
-b \\
-c
-\end{pmatrix} $= ist der Normalenvektor der Ebene, also orthogonal zur Ebene
-
-In der Koordinatenform sind a, b und c die Komponenten des Normalenvektors.
+- Ebenen schneiden sich → gemeinsame Schnittgerade
+- Ebenen liegen ineinander → all (unendlich viele) Punkte
+- Ebenen sind prallel und liegen nicht ineinander → 0 Punkte gemeinsame
 
 # Typische Aufgaben Der Linearen Algebra Und Lösungsverfahren
 
@@ -290,8 +310,8 @@ In der Koordinatenform sind a, b und c die Komponenten des Normalenvektors.
     - Setze die Vektor-Geradengleichungen gleich
     - Schreibe die Geradengleichung komponentenweise hin → LGS mit 2 Unbekannten (ggf. aus 3 Gleichungen)
     - Löse das Gleichungssystem (du erhältst Lambda 1 und Lambda 2)
-    - Sollte das LGS nicht lösbar sein (oder unendlich viele Lösungen besitzen, dann schneiden sich die Geraden nicht
+    - Sollte das LGS nicht lösbar sein oder unendlich viele Lösungen besitzen, dann schneiden sich die Geraden nicht
+    - Nur im R³: Setze Lambda 1 / 2 in die noch nicht benutzte Gleichung ein. Nur wenn diese erfüllt ist, dann schneiden sich die Geraden
 
-    Nur im R³: Setze Lambda 1 / 2 in die noch nicht benutzte Gleichung ein. Nur wenn diese erfüllt ist, dann schneiden sich die Geraden
 
     Hinweis: in R³ gibt es die zusätzliche Lagebeziehung “windschief”.
