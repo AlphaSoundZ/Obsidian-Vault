@@ -49,4 +49,4 @@ $NS$ sind die Nullstellen
 
 ### Produktregel
 
-### 
+### Quotientenregel

@@ -24,6 +24,10 @@ Ist beispielsweise die Verteilung der Schuhgrößen in Europa gegeben, so entspr
 
 Anwendbarkeit beim Hypothesentest
 
+## Laplace-Bedingung
+
+Wenn $\sigma$ größer als 3 ist, dann ist $n$ groß genug, damit die Laplace-Bedingung erfüllt ist.
+
 ## Wahrscheinlichkeitsverteilung
 
 Die Summe der Wahrscheinlichkeiten für alle möglichen Werte $k$ ([[Bernoulli und Binomial-Verteilung#Binomial-Verteilung|Binomialverteilung]]) bzw. das Integral mit offenen Grenzen ([[Hypothesentest und Fehlerarten#Normalverteilung|Normalverteilung]]) muss 1 ergeben.

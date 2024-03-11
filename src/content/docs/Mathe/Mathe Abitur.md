@@ -16,6 +16,7 @@ tags: []
 - Mittelwerte und Integrale
 - Steckbriefaufgaben
 - Kurvenscharen
+https://docs.google.com/document/d/1vvXriZJuE3FYtlOvNwc93CRS0iZO0v_xt0HZeGGxepg/edit?usp=sharing
 
 ### Vektorrechnung / Lineare Algebra / Analytische Geometrie
 

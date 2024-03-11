@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be68c1e29cf24f33",
+        "id": "e150511289ce8324",
         "type": "tabs",
         "children": [
           {
-            "id": "185c7d3b954d03c7",
+            "id": "42ff8525a80ca2de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
+                "file": "Mathe/Ganzrationale Funktionen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sigma regel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
+                "file": "Mathe/Ganzrationale Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
+                "file": "Mathe/Ganzrationale Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Kurvendiskussion (Kurzfassung).md"
+                "file": "Mathe/Ganzrationale Funktionen.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mathe/Kurvendiskussion (Kurzfassung).md"
+                "file": "Mathe/Ganzrationale Funktionen.md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
+                "file": "Mathe/Ganzrationale Funktionen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,24 +261,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "185c7d3b954d03c7",
+  "active": "42ff8525a80ca2de",
   "lastOpenFiles": [
-    "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
+    "Mathe/Mathe Abitur.md",
+    "Mathe/Ganzrationale Funktionen.md",
+    "Mathe/Kurvendiskussion.md",
     "Task List.md",
+    "Mathe/Verteilungsfunktionen.md",
+    "Mathe/Kurvendiskussion (Kurzfassung).md",
+    "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
     "NvimNotes/19.02.24.md",
     "Mathe/Vektoren und Vektorgleichungen.md",
-    "Mathe/Mathe Abitur.md",
     "Mathe/Differentialrechnung/image3.png",
     "Mathe/Differentialrechnung/image2.png",
     "Mathe/Differentialrechnung/image1.png",
-    "Mathe/Verteilungsfunktionen.md",
     "Mathe/Hypothesentest und Fehlerarten.md",
     "Mathe/Stochastik.md",
     "Mathe/Bernoulli und Binomial-Verteilung.md",
-    "Mathe/Ganzrationale Funktionen.md",
-    "Mathe/Kurvendiskussion (Kurzfassung).md",
     "Mathe/15 Punkte.md",
-    "Mathe/Kurvendiskussion.md",
     "Daily Notes/15.12.23.md",
     "Mathe/Bedingte Wahrscheinlichkeit und Unabhängigkeit.md",
     "Daily Notes/06.11.23.md",
