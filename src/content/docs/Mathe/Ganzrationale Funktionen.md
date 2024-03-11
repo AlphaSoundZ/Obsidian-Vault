@@ -37,6 +37,7 @@ $NS$ sind die Nullstellen
 
 ### Umformungen
 
+	
 **Normalform → Scheitelpunktform**: Ableitung bilden und davon NS ausrechnen → in Normalform einsetzen, um Y-Wert von dem Scheitelpunkt auszurechnen.
 **Normalform → Nullstellen-Form**: pq-Formel
 **Nullstellen-Form → Normalform**: Ausmultiplizieren
