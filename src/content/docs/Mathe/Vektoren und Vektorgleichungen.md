@@ -286,6 +286,12 @@ Eine Ebenenschar ist eine Menge von Ebenen, die sich alle durch eine gemeinsame 
 - Gerade liegt in der Ebene → alle (unendlich viele) Punkte
 - Gerade schneidet die Ebene nicht → 0 Punkte gemeinsam
 
+### Schnittpunkt
+
+1. Ebene in Koordinatenform bringen, falls nicht bereits gegeben
+2. Gerade komponentenweise in Ebene einsetzen und auf Unbekannte auflösen.
+3. Ergebnis in die Geradengleichung einsetzen.
+
 ## Lage Zwischen Ebenen
 
 ### Möglichkeiten

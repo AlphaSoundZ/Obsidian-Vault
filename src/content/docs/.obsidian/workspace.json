@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cfa2adc401bae972",
+        "id": "be68c1e29cf24f33",
         "type": "tabs",
         "children": [
           {
-            "id": "dc813787f8bcbfae",
+            "id": "185c7d3b954d03c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md"
+                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md"
+                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Mathe/Vektoren und Vektorgleichungen.md",
+                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,16 +261,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dc813787f8bcbfae",
+  "active": "05586ceeec61fb87",
   "lastOpenFiles": [
+    "Task List.md",
+    "NvimNotes/19.02.24.md",
+    "Mathe/Vektoren und Vektorgleichungen.md",
     "Mathe/Mathe Abitur.md",
     "Mathe/Differentialrechnung/image3.png",
     "Mathe/Differentialrechnung/image2.png",
     "Mathe/Differentialrechnung/image1.png",
-    "Mathe/Vektoren und Vektorgleichungen.md",
     "Mathe/Verteilungsfunktionen.md",
     "Mathe/Hypothesentest und Fehlerarten.md",
-    "Task List.md",
     "Mathe/Stochastik.md",
     "Mathe/Bernoulli und Binomial-Verteilung.md",
     "Mathe/Ganzrationale Funktionen.md",
@@ -288,7 +289,7 @@
     "Daily Notes/07.03.24.md",
     "Kunst/S4-Fotographie/Mini-Serie.md",
     "Mathe/Permutation.md",
-    "Deutsch/Rassismus in Schul- und Jugendbüchern.md",
+    "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
     "NvimNotes/27.02.24.md",
     "NvimNotes/28.02.24.md",
     "Kunst/S4-Fotographie/Bild mit Fachsprache beschreiben.md",
