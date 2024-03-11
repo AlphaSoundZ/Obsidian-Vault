@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md"
+                "file": "Mathe/Kurvendiskussion (Kurzfassung).md"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md"
+                "file": "Mathe/Kurvendiskussion (Kurzfassung).md"
               }
             }
           }
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
+                "file": "Mathe/Kurvendiskussion (Kurzfassung).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,8 +261,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05586ceeec61fb87",
+  "active": "185c7d3b954d03c7",
   "lastOpenFiles": [
+    "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
     "Task List.md",
     "NvimNotes/19.02.24.md",
     "Mathe/Vektoren und Vektorgleichungen.md",
@@ -289,7 +290,6 @@
     "Daily Notes/07.03.24.md",
     "Kunst/S4-Fotographie/Mini-Serie.md",
     "Mathe/Permutation.md",
-    "Deutsch/S4 Sprache/Rassismus in Schul- und Jugendbüchern.md",
     "NvimNotes/27.02.24.md",
     "NvimNotes/28.02.24.md",
     "Kunst/S4-Fotographie/Bild mit Fachsprache beschreiben.md",

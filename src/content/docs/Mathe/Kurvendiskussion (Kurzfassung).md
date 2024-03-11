@@ -17,6 +17,7 @@ Extrempunkte bestimmen:
 - f’(x) = 0 → nach x auflösen → xe (extremstelle)
 - f’’(xe) < 0 → Maximum
 - f’’(xe) > 0 → Minimum
+- f’’(xe) = 0 → Sattelpunkt
 - Y-Koordinate des Extrempunkts: f’’(xe)
 
 Wendepunkte bestimmen:
